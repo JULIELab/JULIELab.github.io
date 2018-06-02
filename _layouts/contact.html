@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  <style>
+  body {
+    margin: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  input, textarea {
+    width: 100%;
+  }
+  </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
+	<img src="{{site.logo | relative_url}}" alt="Logo" />
+	<nav><big>
+	<br>
+	<a href="/index.html">About Us</a>
+	<br>
+	<a href="/news.html">Lab News</a>
+	<br>
+	<a href="/projects.html">Projects</a>
+	<br>
+	<a href="/staff.html">Staff</a>
+	<br>
+	<a href="/students.html">Students</a>
+	<br>
+	<a href="/resources.html">Resources</a>
+	<br>
+	<a href="/jobs.html">Jobs</a>
+	<br>
+	<a href="/contact.html">Contact</a>
+	<br>
+	<a href="/imprint.html">Imprint</a>
+	</big></nav>
+
+      </header>    
+
+      <section>
+      
+      <nav>
+	<ul>
+	      <li><a href="/index.html">About Us</a></li>
+	      <li><a href="/news.html">Lab News</a></li>
+	      <li><a href="/projects.html">Projects</a></li>
+	      <li><a href="/staff.html">Staff</a></li>
+	      <li><a href="/students.html">Students</a></li>
+	      <li><a href="/resources.html">Resources</a></li>
+	      <li><a href="/jobs.html">Jobs</a></li>
+	      <li><a href="/contact.html">Contact</a></li>
+	      <li><a href="/imprint.html">Imprint</a></li>
+	</ul>
+      </nav>
+	      
+      <navi>
+        &raquo; <a href="/index.html">JULIE Lab</a> &raquo; <a href="/contact.html">Contact</a>
+      </navi>
+	      
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+	<img src="{{site.fsu | relative_url}}" height="45px" width="135px" alt="fsu" />
+        <p><small>© 2018 JULIE Lab</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>

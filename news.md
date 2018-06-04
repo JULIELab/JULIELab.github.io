@@ -3,7 +3,7 @@ layout: default
 ---
 # Lab News
 
-
+<br>
 
 #### May '18 papers accepted
 Submission by Sven Buechel and Udo Hahn on mapping between different
@@ -54,7 +54,7 @@ substitute clinical corpora accepted at [LREC
 #### Nov'17: new team members, guest scientists, paper accepted, invited talks
 
 We welcome our new colleagues, [Stephanie
-Luther](/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd
+Luther](http://www.julielab.de/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd
 Kampe.
 
 We welcome our two guest scientists, [Maria
@@ -114,7 +114,7 @@ semantic, accepted at [ACL 2017](http://acl2017.org).
 
 #### Feb '17: papers accepted, alumni interview
 
-[Dr. Ekaterina Kruchinina]{.exceptionLink}, one of our alumnis, gave an
+Dr. Ekaterina Kruchinina, one of our alumnis, gave an
 [interview to the German magazine c't about computational
 linguistics](https://www.heise.de/ct/ausgabe/2017-4-Ein-Job-an-der-Schnittstelle-von-Mensch-und-Maschine-3612795.html).
 
@@ -149,7 +149,7 @@ was accepted at [DHd2017](http://www.dhd2017.ch).
 #### Oct '16: new team member, papers accepted
 
 We welcome our new colleague, [Christina
-Lohr](/Staff/Christina+Lohr.html "Christina Lohr")!
+Lohr](http://www.julielab.de/Staff/Christina+Lohr.html "Christina Lohr")!
 
 "Feelings from the Past-Adapting Affective Lexicon for Historical
 Emotion Analysis" by Sven Buechel, Johannes Hellrich and Udo Hahn was
@@ -184,7 +184,7 @@ workshop](https://sighum.wordpress.com/events/latech-2016/).
 #### Apr '16: new team member
 
 We welcome our new colleague, [Sven
-Buechel](/Staff/Sven+Buechel.html "Sven Buechel").
+Buechel](http://www.julielab.de/Staff/Sven+Buechel.html "Sven Buechel").
 
 #### Mar '16: paper accepted
 

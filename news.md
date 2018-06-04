@@ -9,137 +9,71 @@ layout: default
 
 #### April '18 open position
 
-We are looking for one digital humanities PhD student to [join the graduate school "The romanticmodel"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
+* We are looking for one digital humanities PhD student to [join the graduate school "The romanticmodel"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
 #### Mar '18 paper accepted, visiting researcher
 
 * We welcome our visiting researcher [Maria Moritz](http://www.etrap.eu/thesis-students/).
-
 * Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
 
 #### Feb '18 new team members, paper accepted
 
 * We welcome our new colleagues, Luise Modersohn and Tobias Kolditz.
-
 * Submission by Sven Buechel and Udo Hahn on predicting emotional word ratings accepted at [NAACL-HLT 2018](http://naacl2018.org/).
 
 #### Jan '18 paper published
 
-Sascha Schäuble published "[Transcriptomic alterations during ageing reflect the shift from cancer to degenerative diseases in the elderly](https://www.nature.com/articles/s41467-017-02395-2)" as shared first author in Nature Communications.
+* Sascha Schäuble published "[Transcriptomic alterations during ageing reflect the shift from cancer to degenerative diseases in the elderly](https://www.nature.com/articles/s41467-017-02395-2)" as shared first author in Nature Communications.
 
 #### Dec '17: papers accepted
 
 * Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
-
 * Submission by Christina Lohr, Sven Buechel and Udo Hahn on constructing substitute clinical corpora accepted at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
 
 #### Nov '17: new team members, guest scientists, paper accepted, invited talks
 
 * We welcome our new colleagues, [Stephanie Luther](http://www.julielab.de/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd Kampe.
-
-We welcome our two guest scientists, [Maria
-Moritz](http://www.etrap.eu/thesis-students/) and [Elisabeth
-Eder](https://www.aau.at/team/eder-elisabeth/).
-
-Submission by Johannes Hellrich, [Alexander
-Stöger](http://www.modellromantik.uni-jena.de/index.php/beteiligte/kollegiatinnen/alexander-stoger/?lang=de)
-and Udo Hahn on using word embeddings for investigating the history of
-science accepted at [DHd 2018](http://dhd2018.uni-koeln.de/).
-
-Invited talks by Johannes Hellrich and Sven Buechel at the ["Thementag
-Digital Humanities in
-Jena"](https://www.db-thueringen.de/receive/dbt_mods_00033310)
-conference organized by
-[DHnet](http://dhnet.uni-jena.de/index.php?id=124).
+* We welcome our two guest scientists, [Maria Moritz](http://www.etrap.eu/thesis-students/) and [Elisabeth Eder](https://www.aau.at/team/eder-elisabeth/).
+* Submission by Johannes Hellrich, [Alexander Stöger](http://www.modellromantik.uni-jena.de/index.php/beteiligte/kollegiatinnen/alexander-stoger/?lang=de) and Udo Hahn on using word embeddings for investigating the history of science accepted at [DHd 2018](http://dhd2018.uni-koeln.de/).
+* Invited talks by Johannes Hellrich and Sven Buechel at the ["Thementag Digital Humanities in Jena"](https://www.db-thueringen.de/receive/dbt_mods_00033310) conference organized by [DHnet](http://dhnet.uni-jena.de/index.php?id=124).
 
 #### Aug '17: best paper award
 
-Franz Matthies and Udo Hahn received a [MedInfo
-2017](http://medinfo2017.medmeeting.org/en) best paper award for
-"Scholarly Information Extraction is Going to Make a Quantum Leap with
-PubMed Central (PMC)® - But Moving from Abstracts to Full Texts Seems
-Harder than Expected".
+* Franz Matthies and Udo Hahn received a [MedInfo 2017](http://medinfo2017.medmeeting.org/en) best paper award for "Scholarly Information Extraction is Going to Make a Quantum Leap with PubMed Central (PMC)® - But Moving from Abstracts to Full Texts Seems Harder than Expected".
 
 #### Jul '17: new project
 
-The pilot project  [SMITH](http://www.smith.care/ "SMITH") **(S**mart
-**M**edical **I**nformation **T**echnology for **H**ealthcare) has been
-awarded and has received funding for the next 4 years, start in January
-2018.
+* The pilot project  [SMITH](http://www.smith.care/ "SMITH") **(S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare) has been awarded and has received funding for the next 4 years, start in January 2018.
 
 #### Jun '17: paper published
 
-Sascha Schäuble contributed bioinformatic modelling to ["Metabolic
-Adaptation Establishes Disease Tolerance to
-Sepsis"](http://www.cell.com/cell/fulltext/S0092-8674(17)30592-5)
-published in [Cell](http://www.cell.com/cell/home).
+* Sascha Schäuble contributed bioinformatic modelling to ["Metabolic Adaptation Establishes Disease Tolerance to Sepsis"](http://www.cell.com/cell/fulltext/S0092-8674(17)30592-5) published in [Cell](http://www.cell.com/cell/home).
 
 #### Apr '17: papers accepted
 
-Submission by Franz Matthies and Udo Hahn on the difficulty of
-transferring event/relation extraction systems from abstracts to full
-text, accepted at [MedInfo 2017](http://medinfo2017.medmeeting.org/en).
-
-Submission by Sven Buechel and Udo Hahn on mapping between different
-formats of emotion representation accepted for [CogSci
-2017](http://www.cognitivesciencesociety.org/conference/cogsci2017/).
-
-Submission by Erik Faessler and Udo Hahn on the biomedical semantic
-search engine [Semedico](http://semedico.org/) accepted at [ACL
-2017](http://acl2017.org).
-
-Submission by Johannes Hellrich and Udo Hahn on
-[JeSemE](http://jeseme.org/), a website for exploring shifts in word
-semantic, accepted at [ACL 2017](http://acl2017.org).
+* Submission by Franz Matthies and Udo Hahn on the difficulty of transferring event/relation extraction systems from abstracts to full text, accepted at [MedInfo 2017](http://medinfo2017.medmeeting.org/en).
+* Submission by Sven Buechel and Udo Hahn on mapping between different formats of emotion representation accepted for [CogSci 2017](http://www.cognitivesciencesociety.org/conference/cogsci2017/).
+* Submission by Erik Faessler and Udo Hahn on the biomedical semantic search engine [Semedico](http://semedico.org/) accepted at [ACL 2017](http://acl2017.org).
+* Submission by Johannes Hellrich and Udo Hahn on [JeSemE](http://jeseme.org/), a website for exploring shifts in word semantic, accepted at [ACL 2017](http://acl2017.org).
 
 #### Feb '17: papers accepted, alumni interview
 
-Dr. Ekaterina Kruchinina, one of our alumnis, gave an
-[interview to the German magazine c't about computational
-linguistics](https://www.heise.de/ct/ausgabe/2017-4-Ein-Job-an-der-Schnittstelle-von-Mensch-und-Maschine-3612795.html).
-
-Submission by Johannes Hellrich and Udo Hahn on the reliability of
-different word embedding types accepted at [Digital Humanities
-2017](https://dh2017.adho.org).
-
-Submission by Sven Buechel, Johannes Hellrich and Udo Hahn on tracking
-changes in word emotion over long stretches of time accepted at [Digital
-Humanities 2017](https://dh2017.adho.org).
-
-Submission by Sven Buechel and Udo Hahn on differences in emotion
-annotation quality relative to the targeted text understanding
-perspective accepted for the [11th Linguistic Annotation Workshop at
-EACL 2017](https://sigann.github.io/LAW-XI-2017/).
-
-Submission by Sven Buechel and Udo Hahn on the creation and application
-of a gold standard annotated for emotion accepted at [EACL
-2017](http://eacl2017.org).
+* Dr. Ekaterina Kruchinina, one of our alumnis, gave an [interview to the German magazine c't about computational linguistics](https://www.heise.de/ct/ausgabe/2017-4-Ein-Job-an-der-Schnittstelle-von-Mensch-und-Maschine-3612795.html).
+* Submission by Johannes Hellrich and Udo Hahn on the reliability of different word embedding types accepted at [Digital Humanities 2017](https://dh2017.adho.org).
+* Submission by Sven Buechel, Johannes Hellrich and Udo Hahn on tracking changes in word emotion over long stretches of time accepted at [Digital Humanities 2017](https://dh2017.adho.org).
+* Submission by Sven Buechel and Udo Hahn on differences in emotion annotation quality relative to the targeted text understanding perspective accepted for the [11th Linguistic Annotation Workshop at EACL 2017](https://sigann.github.io/LAW-XI-2017/).
+* Submission by Sven Buechel and Udo Hahn on the creation and application of a gold standard annotated for emotion accepted at [EACL 2017](http://eacl2017.org).
 
 #### Nov '16:  paper published, paper accepted
 
-Erik Faessler, Sascha Schäuble and Udo Hahn contributed text-mining
-expertise to "[A systems study reveals concurrent activation of AMPK and
-mTOR by amino acids](http://www.nature.com/articles/ncomms13254)"
-published in [Nature Communications](http://www.nature.com/ncomms/).
-
-"UIMA als Plattform für die nachhaltige Software-Entwicklung in den
-Digital Humanities" by Johannes Hellrich, Franz Matthies and Udo Hahn
-was accepted at [DHd2017](http://www.dhd2017.ch).
+* Erik Faessler, Sascha Schäuble and Udo Hahn contributed text-mining expertise to "[A systems study reveals concurrent activation of AMPK and mTOR by amino acids](http://www.nature.com/articles/ncomms13254)" published in [Nature Communications](http://www.nature.com/ncomms/).
+* "UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities" by Johannes Hellrich, Franz Matthies and Udo Hahn was accepted at [DHd2017](http://www.dhd2017.ch).
 
 #### Oct '16: new team member, papers accepted
 
-We welcome our new colleague, [Christina
-Lohr](http://www.julielab.de/Staff/Christina+Lohr.html "Christina Lohr")!
-
-"Feelings from the Past-Adapting Affective Lexicon for Historical
-Emotion Analysis" by Sven Buechel, Johannes Hellrich and Udo Hahn was
-accepted at [LT4DH COLING 2016
-workshop](https://www.clarin-d.net/en/current-issues/lt4dh).
-
-"Selecting and Tailoring Ontologies with joyce" demo from Erik Faessler,
-Udo Hahn and the [INFRA1 team of the AuqaDiva collaborative research
-center](http://www.aquadiva.uni-jena.de/Projects/INFRA1.html) was
-accepted at [EKAW 2016.](http://ekaw2016.cs.unibo.it)
+* We welcome our new colleague, [Christina Lohr](http://www.julielab.de/Staff/Christina+Lohr.html "Christina Lohr")!
+* "Feelings from the Past-Adapting Affective Lexicon for Historical Emotion Analysis" by Sven Buechel, Johannes Hellrich and Udo Hahn was accepted at [LT4DH COLING 2016 workshop](https://www.clarin-d.net/en/current-issues/lt4dh).
+* "Selecting and Tailoring Ontologies with joyce" demo from Erik Faessler, Udo Hahn and the [INFRA1 team of the AuqaDiva collaborative research center](http://www.aquadiva.uni-jena.de/Projects/INFRA1.html) was accepted at [EKAW 2016.](http://ekaw2016.cs.unibo.it)
 
 #### Sep '16: paper accepted
 

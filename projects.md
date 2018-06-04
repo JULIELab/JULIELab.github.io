@@ -137,7 +137,7 @@ be retrieved by the user in an integrated way.
 
 [Link to the StemNet project](http://www.stemnet.de/)
 
-![] (http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) 
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) 
 =======================================================================================
 
 [Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505).

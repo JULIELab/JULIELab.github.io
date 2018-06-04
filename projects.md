@@ -47,26 +47,16 @@ Former Projects
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
 
-The [European Commision] (http://ec.europa.eu/) is funding project for [Multilingual
-Annotation of Named Entities and Terminology Resources Acquisition]
-(https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research]
-(http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research
-endeavour of researchers from several academic institutions across
-Europe.
+The [European Commision](http://ec.europa.eu/) is funding project for [Multilingual Annotation of Named Entities and Terminology Resources Acquisition](https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research](http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research endeavour of researchers from several academic institutions across Europe.
 
-For the details of the project please visit the [MANTRA
-website][Multilingual Annotation of Named Entities and Terminology
-Resources Acquisition].
+For the details of the project please visit the [MANTRA website](https://sites.google.com/site/mantraeu/).
 
 ------------------------------------------------------------------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_JenAge_Logo-width-110-height-82.png)
 =====================================
 
-The [German Ministry of Education and Research] (http://www.bmbf.de/) is funding the
-new [Jena Centre of Systems Biology of Ageing] (http://www.jenage.de) from October
-2009 to September 2014. JenAge is a research endeavour of researchers
-from several academic institutions in the [city of Jena] (http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
+The [German Ministry of Education and Research](http://www.bmbf.de/) is funding the new [Jena Centre of Systems Biology of Ageing](http://www.jenage.de) from October 2009 to September 2014. JenAge is a research endeavour of researchers from several academic institutions in the [city of Jena](http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
 
 JULIE Lab\'s contributions to the project:
 ------------------------------------------
@@ -105,29 +95,18 @@ automatically harmonized with additional metadata to develop a silver
 standard corpus (no golden data will be supplied. The integrated corpus
 therefore has a broader scope than any single system available before.
 
-[Link to the CALBC project][![projects\_CALBC]]
+[Link to the CALBC project](http://www.calbc.eu)
 
-[Overview to the CALBC Challenge] and [the challenge timeline]\
+[Overview to the CALBC Challenge](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html) and [the challenge timeline](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html)
 
-[Project flyer] (418 kB, 2009-07-29)
+[Project flyer](http://julielab.de/coling_multimedia/de/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
 
 ------------------------------------------------------------------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_BOOTStrep-width-160-height-55.png)
 ========================
-
-  [projects\_CALBC]: /coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg
-    "projects_CALBC" {width="225" height="60"}
-  [![projects\_CALBC]]: http://www.calbc.eu "www.calbc.eu"
-  [Overview to the CALBC Challenge]: http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html
-  [the challenge timeline]: http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html
-  [Project flyer]: /coling_multimedia/de/downloads/CALBC_Flyer_20090729.pdf
-    "CALBC_Flyer_20090729"
-  [projects\_BOOTStrep]: /coling_multimedia/de/img/Projects/projects_BOOTStrep-width-160-height-55.png
-    "projects_BOOTStrep" {width="160" height="55"}
-  [![projects\_BOOTStrep]]: http://www.bootstrep.eu "www.bootstrep.eu"
   
-  The JULIE Lab was the coordinator of [BOOTStrep] (Bootstrapping Of
+  The JULIE Lab was the coordinator of [BOOTStrep](http://www.bootstrep.eu) (Bootstrapping Of
 Ontologies and Terminologies STrategic REsearch Project), which was
 funded in the EC´s 6th Framework Programme. The project pulled together
 already existing biological fact databases as well as various
@@ -138,14 +117,14 @@ overall budget was 3.6 million euro. Six partners from four European
 countries (Germany, U.K., Italy, France) and one Asian partner from
 Singapore were involved in the project.
 
-[Link to the BOOTStrep project]
+[Link to the BOOTStrep project](http://www.bootstrep.eu)
 
 ------------------------------------------------------------------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_StemNet-width-162-height-54.png)
 ======================
 
-The JULIE Lab played a central role in the [StemNet] project, which was
+The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) project, which was
 funded with about 1.35 Mio Euros by the German Federal Ministry of
 Education and Research (BMBF). The project goal was to build a knowledge
 management system for the domain of hematopoietic stem cell biology by
@@ -156,19 +135,12 @@ automatically and the information extracted was to be integrated,
 processed and presented in such a way that the dispersed knowledge can
 be retrieved by the user in an integrated way.
 
-[Link to the StemNet project]
+[Link to the StemNet project](http://www.stemnet.de/)
 
-  [BOOTStrep]: http://www.bootstrep.eu/
-  [Link to the BOOTStrep project]: http://www.bootstrep.org/
-  [projects\_StemNet]: /coling_multimedia/de/img/Projects/projects_StemNet-width-162-height-54.png
-    "projects_StemNet" {width="162" height="54"}
-  [![projects\_StemNet]]: http://www.stemnet.de "www.stemnet.de"
-  [StemNet]: http://www.stemnet.de/ "StemNet"
-  [Link to the StemNet project]: http://www.stemnet.de/
 ![] (http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) 
 =======================================================================================
 
-[Semantic Interoperability and Data Mining in Biomedicine] (NoE 507505).
+[Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505).
 Its goal was to establish Europe as the international scientific leader
 in medical and biomedical informatics. The long-term goal of the network
 will be the development of generic methods and tools supporting the
@@ -178,28 +150,18 @@ information retrieval in a complex and high-dimensional information
 space, and knowledge-based adaptive systems for provision of decision
 support for dissemination of evidence-based medicine.
 
-[Link to the Semantic Mining project]\
+[Link to the Semantic Mining project](https://www.semanticmining.org)
 
 ------------------------------------------------------------------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png)
 ======================================
 
-[Morphosaurus] is a unique and powerful medical language tool that the
+[Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the
 Department of Medical Informatics in Freiburg, Germany, developed in
 cooperation with the JULIE Lab and the Health Technology Master Program
 of Parana Catholic University in Curitiba, Brasil. The project was
 mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1
 and 5-2.
 
-[Link to the Morphosaurus project][Morphosaurus]\
-
-  [projects\_SemanticMining]: /coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png
-    "projects_SemanticMining" {width="31" height="35"}
-  [![projects\_SemanticMining]]: http://www.semanticmining.org
-    "www.semanticmining.org"
-  [Semantic Interoperability and Data Mining in Biomedicine]: http://www.semanticmining.org
-  [Link to the Semantic Mining project]: https://www.semanticmining.org
-  [projects\_Morphosaurus]: /coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png
-    "projects_Morphosaurus" {width="62" height="55"}
-  [Morphosaurus]: http://www.morphosaurus.de
+[Link to the Morphosaurus project](http://www.morphosaurus.de)

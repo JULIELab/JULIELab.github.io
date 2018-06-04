@@ -3,8 +3,6 @@ layout: default
 ---
 # Lab News
 
-<br>
-
 #### May '18 papers accepted
 Submission by Sven Buechel and Udo Hahn on mapping between different
 emotion formats accepted at [COLING 2018](http://coling2018.org/).

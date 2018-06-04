@@ -9,13 +9,11 @@ Current Projects
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png)
 
-[][1]
-
 The JULIE Lab is member of the project SMITH (**S**mart **M**edical
 **I**nformation **T**echnology for **H**ealthcare), founded by German
 Federal Ministry of Education and Research (BMBF). The project start is
 January 2018. For the details of the project please visit the [SMITH
-website].\
+website].
 
 ------------------------------------------------------------------------
 
@@ -32,13 +30,11 @@ Hospital of Jena], the JULIE Lab is member of the DFG founded project
 klinischer Phänotyp-Information im Healthcare Integrated Biobanking\".
 The goal of the project consists of the detection of entities and their
 information to collect compare collective for more quantitative
-biobanking.\
+biobanking.
 
 ------------------------------------------------------------------------
 
-[![projecs\_AquaDiva]][1]
-
-[][1]
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png)
 
 The JULIE Lab is member of the AquaDiva project INFRA1. For the details
 of the project please visit the [AquaDiva INFRA1 website]
@@ -67,7 +63,7 @@ of the project please visit the [AquaDiva INFRA1 website]
 Former Projects 
 ----------------
 
-[![projects\_MANTRA-Logo]] []{#MANTRA}\
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
 
 The [European Commision] (EC) is funding project for [Multilingual
 Annotation of Named Entities and Terminology Resources Acquisition]
@@ -82,7 +78,7 @@ Resources Acquisition].
 
 ------------------------------------------------------------------------
 
-[![projects\_JenAge-Logo]][]{#jenage}
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_JenAge_Logo-width-110-height-82.png)
 =====================================
 
 The [German Ministry of Education and Research] (BMBF) is funding the
@@ -127,7 +123,7 @@ website][![projects\_JenAge-Logo]]
   [Link to the press release (in German)]: http://www.imb-jena.de/upload/press/Presemitteilung__pdf_-a33vt0b6lm4pa3iarvjhqg5ma21254492273.pdf
   
   to    
-[![projects\_CALBC]] []{#calbc}
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg)
 ===============================
 
 The JULIE Lab was one of the academic collaborators in the CALBC
@@ -157,7 +153,7 @@ therefore has a broader scope than any single system available before.
 
 ------------------------------------------------------------------------
 
-[![projects\_BOOTStrep]]
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_BOOTStrep-width-160-height-55.png)
 ========================
 
   [projects\_CALBC]: /coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg
@@ -186,7 +182,7 @@ Singapore were involved in the project.
 
 ------------------------------------------------------------------------
 
-[![projects\_StemNet]]
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_StemNet-width-162-height-54.png)
 ======================
 
 The JULIE Lab played a central role in the [StemNet] project, which was
@@ -209,7 +205,7 @@ be retrieved by the user in an integrated way.
   [![projects\_StemNet]]: http://www.stemnet.de "www.stemnet.de"
   [StemNet]: http://www.stemnet.de/ "StemNet"
   [Link to the StemNet project]: http://www.stemnet.de/
-  [![projects\_SemanticMining]] Semantic Interoperability and Data Mining in Biomedicine 
+![] (http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) 
 =======================================================================================
 
 [Semantic Interoperability and Data Mining in Biomedicine] (NoE 507505).
@@ -226,7 +222,7 @@ support for dissemination of evidence-based medicine.
 
 ------------------------------------------------------------------------
 
-![projects\_Morphosaurus] Morphosaurus
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png)
 ======================================
 
 [Morphosaurus] is a unique and powerful medical language tool that the

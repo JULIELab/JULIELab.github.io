@@ -137,7 +137,7 @@ be retrieved by the user in an integrated way.
 
 [Link to the StemNet project](http://www.stemnet.de/)
 
-![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) 
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) ####Semantic Interoperability and Data Mining in Biomedicine
 =======================================================================================
 
 [Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505).
@@ -154,7 +154,7 @@ support for dissemination of evidence-based medicine.
 
 ------------------------------------------------------------------------
 
-![](http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png)
+![](http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png) ####Morphosaurus
 ======================================
 
 [Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the

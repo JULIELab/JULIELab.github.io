@@ -21,11 +21,11 @@ STAKI^2^B^2^
 =============
 
 Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik
-(IKCL) of Jena University Hospital], [Technologie- und
+(IKCL) of Jena University Hospital](http://www.ikcl.uniklinikum-jena.de/IKCL.html), [Technologie- und
 Methodenplattform\
-für die vernetzte medizinische Forschung (TMF)] and [Central service
+für die vernetzte medizinische Forschung (TMF)](http://www.tmf-ev.de/) and [Central service
 provider for information technology (IT) services to the University
-Hospital of Jena], the JULIE Lab is member of the DFG founded project
+Hospital of Jena](http://www.gbit.uniklinikum-jena.de/GB+IT.html), the JULIE Lab is member of the DFG founded project
 \"Semantische Textanalyse zur qualitätskontrollierten Extraktion
 klinischer Phänotyp-Information im Healthcare Integrated Biobanking\".
 The goal of the project consists of the detection of entities and their
@@ -37,38 +37,20 @@ biobanking.
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png)
 
 The JULIE Lab is member of the AquaDiva project INFRA1. For the details
-of the project please visit the [AquaDiva INFRA1 website]
+of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/)
 
 ------------------------------------------------------------------------
 
-  [projects\_SMITH]: /coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png
-    "projects_SMITH"
-  [![projects\_SMITH]]: http://www.smith.care "SMITH project homepage"
-  [1]: http://www.aquadiva.uni-jena.de/Projects/INFRA1.html
-    "AquaDiva website"
-  [SMITH website]: http://www.smith.care/ "SMITH website"
-  [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of
-  Jena University Hospital]: http://www.ikcl.uniklinikum-jena.de/IKCL.html
-  [Technologie- und Methodenplattform\
-  für die vernetzte medizinische Forschung (TMF)]: http://www.tmf-ev.de/
-    "TMF"
-  [Central service provider for information technology (IT) services to
-  the University Hospital of Jena]: http://www.gbit.uniklinikum-jena.de/GB+IT.html
-    "GB IT"
-  [projecs\_AquaDiva]: /coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png
-    "projects_AquaDiva" {width="360" height="70"}
-  [AquaDiva INFRA1 website]: http://www.aquadiva.uni-jena.de/
-    "AquaDiva website"
     
 Former Projects 
 ----------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
 
-The [European Commision] (EC) is funding project for [Multilingual
+The [European Commision] (http://ec.europa.eu/) is funding project for [Multilingual
 Annotation of Named Entities and Terminology Resources Acquisition]
-(MANTRA) under the [EU\'s Seventh Framework Programme for Research]
-(FP7) from July 2012 to June 2014. The MANTRA project is a research
+(https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research]
+(http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research
 endeavour of researchers from several academic institutions across
 Europe.
 
@@ -81,10 +63,10 @@ Resources Acquisition].
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_JenAge_Logo-width-110-height-82.png)
 =====================================
 
-The [German Ministry of Education and Research] (BMBF) is funding the
-new [Jena Centre of Systems Biology of Ageing] (JenAge) from October
+The [German Ministry of Education and Research] (http://www.bmbf.de/) is funding the
+new [Jena Centre of Systems Biology of Ageing] (http://www.jenage.de) from October
 2009 to September 2014. JenAge is a research endeavour of researchers
-from several academic institutions in the [city of Jena].
+from several academic institutions in the [city of Jena] (http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
 
 JULIE Lab\'s contributions to the project:
 ------------------------------------------
@@ -96,33 +78,11 @@ text analytics. This textual information will be used, together with
 data from other databases and from the JenAge Centre, to set up a new
 public database on molecular, cellular and organismic aspects of ageing.
 
-[Link to the press release (in German)]\
+[Link to the press release (in German)](http://www.imb-jena.de/upload/press/Presemitteilung__pdf_-a33vt0b6lm4pa3iarvjhqg5ma21254492273.pdf)
 
 For details of the project please visit [the JenAge
 website][![projects\_JenAge-Logo]]
 
-  [projects\_MANTRA-Logo]: /coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png
-    "projects_MANTRA-Logo" {width="354" height="57"}
-  [![projects\_MANTRA-Logo]]: https://sites.google.com/site/mantraeu/
-    "MANTRA website"
-  [European Commision]: http://ec.europa.eu/
-    "European Commision's Website"
-  [Multilingual Annotation of Named Entities and Terminology Resources
-  Acquisition]: https://sites.google.com/site/mantraeu/
-  [EU\'s Seventh Framework Programme for Research]: http://ec.europa.eu/research/fp7/index_en.cfm
-    "FP7 website"
-  [projects\_JenAge-Logo]: /coling_multimedia/de/img/Projects/projects_JenAge_Logo-width-110-height-82.png
-    "projects_JenAge-Logo" {width="110" height="82"}
-  [![projects\_JenAge-Logo]]: http://www.jenage.de "JenAge Website"
-  [German Ministry of Education and Research]: http://www.bmbf.de/
-    "BMBF website"
-  [Jena Centre of Systems Biology of Ageing]: http://www.jenage.de
-    "JenAge website"
-  [city of Jena]: http://www.jena.de/sixcms/detail.php?id=97320&_lang=en
-    "City of Jena website"
-  [Link to the press release (in German)]: http://www.imb-jena.de/upload/press/Presemitteilung__pdf_-a33vt0b6lm4pa3iarvjhqg5ma21254492273.pdf
-  
-  to    
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg)
 ===============================
 

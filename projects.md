@@ -52,6 +52,8 @@ Automatic text mining will be used to cope with the ever-increasing flood of age
 For details of the project please visit [the JenAge
 website](http://www.jenage.de/)
 
+------------------------------------------------------------------------
+
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg)
 
 The JULIE Lab was one of the academic collaborators in the CALBC project. CALBC (Collaborative Annotation of a Large Biomedical Corpus) was a European support action funded in the EC\'s 7th Framework Programme. Its focus was the automatic generation of a very large, community-wide shared text corpus annotated fully automatically with biomedical entities. We proposed to create a broadly scoped and diversely annotated corpus (150,000 immunology-related abstracts from Medilne annotated with approximately a dozen semantic types) by automatically integrating the annotations from different named entity recognition systems.
@@ -80,6 +82,8 @@ The JULIE Lab was the coordinator of [BOOTStrep](http://www.bootstrep.eu) (Boots
 The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) project, which was funded with about 1.35 Mio Euros by the German Federal Ministry of Education and Research (BMBF). The project goal was to build a knowledge management system for the domain of hematopoietic stem cell biology by integrating comprehensive, but distributed and heterogenous web-based information. By means of text and data mining methods, publications, structured databases and web-based algorithms was to be searched automatically and the information extracted was to be integrated, processed and presented in such a way that the dispersed knowledge can be retrieved by the user in an integrated way.
 
 [Link to the StemNet project](http://www.stemnet.de/)
+
+------------------------------------------------------------------------
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) <h3>Semantic Interoperability and Data Mining in Biomedicine</h3>
 

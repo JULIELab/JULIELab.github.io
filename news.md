@@ -4,56 +4,38 @@ layout: default
 # Lab News
 
 #### May '18 papers accepted
-Submission by Sven Buechel and Udo Hahn on mapping between different
-emotion formats accepted at [COLING 2018](http://coling2018.org/).
-
-Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced
-corpus of business and corporate social responsiblity reports accepted
-for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
+* Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [COLING 2018](http://coling2018.org/).
+* Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
 
 #### April '18 open position
 
-We are looking for one digital humanities PhD student to [join the
-graduate school "The romantic
-model"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
+We are looking for one digital humanities PhD student to [join the graduate school "The romanticmodel"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
 #### Mar '18 paper accepted, visiting researcher
 
-We welcome our visiting researcher [Maria
-Moritz](http://www.etrap.eu/thesis-students/).
+* We welcome our visiting researcher [Maria Moritz](http://www.etrap.eu/thesis-students/).
 
-Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on
-designing a metric for paraphrases accepted for DH 2018.
+* Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
 
 #### Feb '18 new team members, paper accepted
 
-We welcome our new colleagues, Luise Modersohn and Tobias Kolditz.
+* We welcome our new colleagues, Luise Modersohn and Tobias Kolditz.
 
-Submission by Sven Buechel and Udo Hahn on predicting emotional word
-ratings accepted at [NAACL-HLT 2018](http://naacl2018.org/).
+* Submission by Sven Buechel and Udo Hahn on predicting emotional word ratings accepted at [NAACL-HLT 2018](http://naacl2018.org/).
 
 #### Jan '18 paper published
 
-Sascha Schäuble published "[Transcriptomic alterations during ageing
-reflect the shift from cancer to degenerative diseases in the
-elderly](https://www.nature.com/articles/s41467-017-02395-2)" as shared
-first author in Nature Communications.
+Sascha Schäuble published "[Transcriptomic alterations during ageing reflect the shift from cancer to degenerative diseases in the elderly](https://www.nature.com/articles/s41467-017-02395-2)" as shared first author in Nature Communications.
 
 #### Dec '17: papers accepted
 
-Submission by Sven Buechel and Udo Hahn on mapping between different
-emotion formats accepted at [LREC
-2018](http://lrec2018.lrec-conf.org/en/).
+* Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
 
-Submission by Christina Lohr, Sven Buechel and Udo Hahn on constructing
-substitute clinical corpora accepted at [LREC
-2018](http://lrec2018.lrec-conf.org/en/).
+* Submission by Christina Lohr, Sven Buechel and Udo Hahn on constructing substitute clinical corpora accepted at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
 
 #### Nov '17: new team members, guest scientists, paper accepted, invited talks
 
-We welcome our new colleagues, [Stephanie
-Luther](http://www.julielab.de/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd
-Kampe.
+* We welcome our new colleagues, [Stephanie Luther](http://www.julielab.de/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd Kampe.
 
 We welcome our two guest scientists, [Maria
 Moritz](http://www.etrap.eu/thesis-students/) and [Elisabeth

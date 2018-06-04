@@ -13,7 +13,7 @@ The JULIE Lab is member of the project SMITH (**S**mart **M**edical
 **I**nformation **T**echnology for **H**ealthcare), founded by German
 Federal Ministry of Education and Research (BMBF). The project start is
 January 2018. For the details of the project please visit the [SMITH
-website].
+website](http://www.smith.care/).
 
 ------------------------------------------------------------------------
 

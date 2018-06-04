@@ -11,13 +11,13 @@ Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced
 corpus of business and corporate social responsiblity reports accepted
 for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
 
-#### April'18 open position
+#### April '18 open position
 
 We are looking for one digital humanities PhD student to [join the
 graduate school "The romantic
 model"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
-#### Mar'18 paper accepted, visiting researcher
+#### Mar '18 paper accepted, visiting researcher
 
 We welcome our visiting researcher [Maria
 Moritz](http://www.etrap.eu/thesis-students/).
@@ -25,21 +25,21 @@ Moritz](http://www.etrap.eu/thesis-students/).
 Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on
 designing a metric for paraphrases accepted for DH 2018.
 
-#### Feb'18 new team members, paper accepted
+#### Feb '18 new team members, paper accepted
 
 We welcome our new colleagues, Luise Modersohn and Tobias Kolditz.
 
 Submission by Sven Buechel and Udo Hahn on predicting emotional word
 ratings accepted at [NAACL-HLT 2018](http://naacl2018.org/).
 
-#### Jan'18 paper published
+#### Jan '18 paper published
 
 Sascha Schäuble published "[Transcriptomic alterations during ageing
 reflect the shift from cancer to degenerative diseases in the
 elderly](https://www.nature.com/articles/s41467-017-02395-2)" as shared
 first author in Nature Communications.
 
-#### Dec'17: papers accepted
+#### Dec '17: papers accepted
 
 Submission by Sven Buechel and Udo Hahn on mapping between different
 emotion formats accepted at [LREC
@@ -49,7 +49,7 @@ Submission by Christina Lohr, Sven Buechel and Udo Hahn on constructing
 substitute clinical corpora accepted at [LREC
 2018](http://lrec2018.lrec-conf.org/en/).
 
-#### Nov'17: new team members, guest scientists, paper accepted, invited talks
+#### Nov '17: new team members, guest scientists, paper accepted, invited talks
 
 We welcome our new colleagues, [Stephanie
 Luther](http://www.julielab.de/Staff/Stephanie+Luther.html "Stephanie Luther") and Bernd
@@ -70,7 +70,7 @@ Jena"](https://www.db-thueringen.de/receive/dbt_mods_00033310)
 conference organized by
 [DHnet](http://dhnet.uni-jena.de/index.php?id=124).
 
-#### Aug'17: best paper award
+#### Aug '17: best paper award
 
 Franz Matthies and Udo Hahn received a [MedInfo
 2017](http://medinfo2017.medmeeting.org/en) best paper award for
@@ -85,7 +85,7 @@ The pilot project  [SMITH](http://www.smith.care/ "SMITH") **(S**mart
 awarded and has received funding for the next 4 years, start in January
 2018.
 
-#### Jun'17: paper published
+#### Jun '17: paper published
 
 Sascha Schäuble contributed bioinformatic modelling to ["Metabolic
 Adaptation Establishes Disease Tolerance to

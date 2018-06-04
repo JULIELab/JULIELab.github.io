@@ -4,4 +4,246 @@ layout: default
 
 # Projects
 
-tba
+Current Projects
+----------------
+
+[![projects\_SMITH]]
+
+[][1]
+
+The JULIE Lab is member of the project SMITH (**S**mart **M**edical
+**I**nformation **T**echnology for **H**ealthcare), founded by German
+Federal Ministry of Education and Research (BMBF). The project start is
+January 2018. For the details of the project please visit the [SMITH
+website].\
+
+------------------------------------------------------------------------
+
+STAKI^2^B^2^ 
+=============
+
+Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik
+(IKCL) of Jena University Hospital], [Technologie- und
+Methodenplattform\
+für die vernetzte medizinische Forschung (TMF)] and [Central service
+provider for information technology (IT) services to the University
+Hospital of Jena], the JULIE Lab is member of the DFG founded project
+\"Semantische Textanalyse zur qualitätskontrollierten Extraktion
+klinischer Phänotyp-Information im Healthcare Integrated Biobanking\".
+The goal of the project consists of the detection of entities and their
+information to collect compare collective for more quantitative
+biobanking.\
+
+------------------------------------------------------------------------
+
+[![projecs\_AquaDiva]][1]
+
+[][1]
+
+The JULIE Lab is member of the AquaDiva project INFRA1. For the details
+of the project please visit the [AquaDiva INFRA1 website]
+
+------------------------------------------------------------------------
+
+  [projects\_SMITH]: /coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png
+    "projects_SMITH"
+  [![projects\_SMITH]]: http://www.smith.care "SMITH project homepage"
+  [1]: http://www.aquadiva.uni-jena.de/Projects/INFRA1.html
+    "AquaDiva website"
+  [SMITH website]: http://www.smith.care/ "SMITH website"
+  [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of
+  Jena University Hospital]: http://www.ikcl.uniklinikum-jena.de/IKCL.html
+  [Technologie- und Methodenplattform\
+  für die vernetzte medizinische Forschung (TMF)]: http://www.tmf-ev.de/
+    "TMF"
+  [Central service provider for information technology (IT) services to
+  the University Hospital of Jena]: http://www.gbit.uniklinikum-jena.de/GB+IT.html
+    "GB IT"
+  [projecs\_AquaDiva]: /coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png
+    "projects_AquaDiva" {width="360" height="70"}
+  [AquaDiva INFRA1 website]: http://www.aquadiva.uni-jena.de/
+    "AquaDiva website"
+    
+Former Projects 
+----------------
+
+[![projects\_MANTRA-Logo]] []{#MANTRA}\
+
+The [European Commision] (EC) is funding project for [Multilingual
+Annotation of Named Entities and Terminology Resources Acquisition]
+(MANTRA) under the [EU\'s Seventh Framework Programme for Research]
+(FP7) from July 2012 to June 2014. The MANTRA project is a research
+endeavour of researchers from several academic institutions across
+Europe.
+
+For the details of the project please visit the [MANTRA
+website][Multilingual Annotation of Named Entities and Terminology
+Resources Acquisition].
+
+------------------------------------------------------------------------
+
+[![projects\_JenAge-Logo]][]{#jenage}
+=====================================
+
+The [German Ministry of Education and Research] (BMBF) is funding the
+new [Jena Centre of Systems Biology of Ageing] (JenAge) from October
+2009 to September 2014. JenAge is a research endeavour of researchers
+from several academic institutions in the [city of Jena].
+
+JULIE Lab\'s contributions to the project:
+------------------------------------------
+
+Automatic text mining will be used to cope with the ever-increasing
+flood of age-related scientific documents in a systematic way and to
+generate plausible hypotheses on ageing and age-related diseases through
+text analytics. This textual information will be used, together with
+data from other databases and from the JenAge Centre, to set up a new
+public database on molecular, cellular and organismic aspects of ageing.
+
+[Link to the press release (in German)]\
+
+For details of the project please visit [the JenAge
+website][![projects\_JenAge-Logo]]
+
+  [projects\_MANTRA-Logo]: /coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png
+    "projects_MANTRA-Logo" {width="354" height="57"}
+  [![projects\_MANTRA-Logo]]: https://sites.google.com/site/mantraeu/
+    "MANTRA website"
+  [European Commision]: http://ec.europa.eu/
+    "European Commision's Website"
+  [Multilingual Annotation of Named Entities and Terminology Resources
+  Acquisition]: https://sites.google.com/site/mantraeu/
+  [EU\'s Seventh Framework Programme for Research]: http://ec.europa.eu/research/fp7/index_en.cfm
+    "FP7 website"
+  [projects\_JenAge-Logo]: /coling_multimedia/de/img/Projects/projects_JenAge_Logo-width-110-height-82.png
+    "projects_JenAge-Logo" {width="110" height="82"}
+  [![projects\_JenAge-Logo]]: http://www.jenage.de "JenAge Website"
+  [German Ministry of Education and Research]: http://www.bmbf.de/
+    "BMBF website"
+  [Jena Centre of Systems Biology of Ageing]: http://www.jenage.de
+    "JenAge website"
+  [city of Jena]: http://www.jena.de/sixcms/detail.php?id=97320&_lang=en
+    "City of Jena website"
+  [Link to the press release (in German)]: http://www.imb-jena.de/upload/press/Presemitteilung__pdf_-a33vt0b6lm4pa3iarvjhqg5ma21254492273.pdf
+  
+  to    
+[![projects\_CALBC]] []{#calbc}
+===============================
+
+The JULIE Lab was one of the academic collaborators in the CALBC
+project. CALBC (Collaborative Annotation of a Large Biomedical Corpus)
+was a European support action funded in the EC\'s 7th Framework
+Programme. Its focus was the automatic generation of a very large,
+community-wide shared text corpus annotated fully automatically with
+biomedical entities. We proposed to create a broadly scoped and
+diversely annotated corpus (150,000 immunology-related abstracts from
+Medilne annotated with approximately a dozen semantic types) by
+automatically integrating the annotations from different named entity
+recognition systems.
+
+A specific CALBC challenge run which consisted of building a large,
+diversely annotated corpus. Participation was open to any team that was
+willing to submit annotations obtained with their own named entity
+recognition system(s). The annotations of all participating systems was
+automatically harmonized with additional metadata to develop a silver
+standard corpus (no golden data will be supplied. The integrated corpus
+therefore has a broader scope than any single system available before.
+
+[Link to the CALBC project][![projects\_CALBC]]
+
+[Overview to the CALBC Challenge] and [the challenge timeline]\
+
+[Project flyer] (418 kB, 2009-07-29)
+
+------------------------------------------------------------------------
+
+[![projects\_BOOTStrep]]
+========================
+
+  [projects\_CALBC]: /coling_multimedia/de/img/Projects/projects_CALBC-width-225-height-60.jpg
+    "projects_CALBC" {width="225" height="60"}
+  [![projects\_CALBC]]: http://www.calbc.eu "www.calbc.eu"
+  [Overview to the CALBC Challenge]: http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html
+  [the challenge timeline]: http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html
+  [Project flyer]: /coling_multimedia/de/downloads/CALBC_Flyer_20090729.pdf
+    "CALBC_Flyer_20090729"
+  [projects\_BOOTStrep]: /coling_multimedia/de/img/Projects/projects_BOOTStrep-width-160-height-55.png
+    "projects_BOOTStrep" {width="160" height="55"}
+  [![projects\_BOOTStrep]]: http://www.bootstrep.eu "www.bootstrep.eu"
+  
+  The JULIE Lab was the coordinator of [BOOTStrep] (Bootstrapping Of
+Ontologies and Terminologies STrategic REsearch Project), which was
+funded in the EC´s 6th Framework Programme. The project pulled together
+already existing biological fact databases as well as various
+terminological repositories and implemented a text analysis system which
+continuously increases their coverage by analysing biological documents.
+The project started on April 1, 2006 and ended on March 31, 2009. The
+overall budget was 3.6 million euro. Six partners from four European
+countries (Germany, U.K., Italy, France) and one Asian partner from
+Singapore were involved in the project.
+
+[Link to the BOOTStrep project]
+
+------------------------------------------------------------------------
+
+[![projects\_StemNet]]
+======================
+
+The JULIE Lab played a central role in the [StemNet] project, which was
+funded with about 1.35 Mio Euros by the German Federal Ministry of
+Education and Research (BMBF). The project goal was to build a knowledge
+management system for the domain of hematopoietic stem cell biology by
+integrating comprehensive, but distributed and heterogenous web-based
+information. By means of text and data mining methods, publications,
+structured databases and web-based algorithms was to be searched
+automatically and the information extracted was to be integrated,
+processed and presented in such a way that the dispersed knowledge can
+be retrieved by the user in an integrated way.
+
+[Link to the StemNet project]
+
+  [BOOTStrep]: http://www.bootstrep.eu/
+  [Link to the BOOTStrep project]: http://www.bootstrep.org/
+  [projects\_StemNet]: /coling_multimedia/de/img/Projects/projects_StemNet-width-162-height-54.png
+    "projects_StemNet" {width="162" height="54"}
+  [![projects\_StemNet]]: http://www.stemnet.de "www.stemnet.de"
+  [StemNet]: http://www.stemnet.de/ "StemNet"
+  [Link to the StemNet project]: http://www.stemnet.de/
+  [![projects\_SemanticMining]] Semantic Interoperability and Data Mining in Biomedicine 
+=======================================================================================
+
+[Semantic Interoperability and Data Mining in Biomedicine] (NoE 507505).
+Its goal was to establish Europe as the international scientific leader
+in medical and biomedical informatics. The long-term goal of the network
+will be the development of generic methods and tools supporting the
+critical tasks of the field; data mining, knowledge discovery, knowledge
+representation, abstraction and indexing of information, semantic-based
+information retrieval in a complex and high-dimensional information
+space, and knowledge-based adaptive systems for provision of decision
+support for dissemination of evidence-based medicine.
+
+[Link to the Semantic Mining project]\
+
+------------------------------------------------------------------------
+
+![projects\_Morphosaurus] Morphosaurus
+======================================
+
+[Morphosaurus] is a unique and powerful medical language tool that the
+Department of Medical Informatics in Freiburg, Germany, developed in
+cooperation with the JULIE Lab and the Health Technology Master Program
+of Parana Catholic University in Curitiba, Brasil. The project was
+mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1
+and 5-2.
+
+[Link to the Morphosaurus project][Morphosaurus]\
+
+  [projects\_SemanticMining]: /coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png
+    "projects_SemanticMining" {width="31" height="35"}
+  [![projects\_SemanticMining]]: http://www.semanticmining.org
+    "www.semanticmining.org"
+  [Semantic Interoperability and Data Mining in Biomedicine]: http://www.semanticmining.org
+  [Link to the Semantic Mining project]: https://www.semanticmining.org
+  [projects\_Morphosaurus]: /coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png
+    "projects_Morphosaurus" {width="62" height="55"}
+  [Morphosaurus]: http://www.morphosaurus.de

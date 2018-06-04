@@ -7,7 +7,7 @@ layout: default
 Current Projects
 ----------------
 
-[![projects\_SMITH]]
+![projects\SMITH](/assets/img/projects_SMITH.png)
 
 [][1]
 

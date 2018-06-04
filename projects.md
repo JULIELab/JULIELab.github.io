@@ -7,7 +7,7 @@ layout: default
 Current Projects
 ----------------
 
-![projects\SMITH](/assets/img/projects_SMITH.png)
+!(http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png)
 
 [][1]
 

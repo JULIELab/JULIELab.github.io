@@ -93,7 +93,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-<div style="float: left;"><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png" style="float:left;"/></div> ### Morphosaurus
+<h3><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png" style="float:left;"/> ### Morphosaurus </h3>
 
 [Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the Department of Medical Informatics in Freiburg, Germany, developed in cooperation with the JULIE Lab and the Health Technology Master Program of Parana Catholic University in Curitiba, Brasil. The project was mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1 and 5-2.
 

@@ -85,7 +85,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png) <h3>Semantic Interoperability and Data Mining in Biomedicine</h3>
+<h3><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png" /> Semantic Interoperability and Data Mining in Biomedicine</h3>
 
 [Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505). Its goal was to establish Europe as the international scientific leader in medical and biomedical informatics. The long-term goal of the network will be the development of generic methods and tools supporting the critical tasks of the field; data mining, knowledge discovery, knowledge representation, abstraction and indexing of information, semantic-based information retrieval in a complex and high-dimensional information space, and knowledge-based adaptive systems for provision of decision support for dissemination of evidence-based medicine.
 

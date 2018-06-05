@@ -18,3 +18,5 @@ layout: default
 | Christina Lohr	| Research Assistant	| STAKI2B2, SMITH	| Christina.Lohr@uni-jena.de	| 44303 |
 | Stephanie Luther | Research Assistant | STAKI2B2	| Stephanie.Luther@uni-jena.de | 44303 |
 | Benjamin Redling	| System Administrator | |	Benjamin.Rampe@uni-jena.de	| 44323 |
+
+Fax of the group: +49 3641 9-44321

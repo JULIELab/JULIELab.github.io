@@ -77,56 +77,27 @@ layout: default
 
 #### Sep '16: paper accepted
 
-"Bad Company-Neighborhoods in Neural Embedding Spaces Considered
-Harmful" by Johannes Hellrich and Udo Hahn was accepted at [COLING
-2016](http://coling2016.anlp.jp/).
+* "Bad Company-Neighborhoods in Neural Embedding Spaces Considered Harmful" by Johannes Hellrich and Udo Hahn was accepted at [COLING 2016](http://coling2016.anlp.jp/).
 
 #### Jun '16: papers accepted
 
-"[Emotion Analysis as a Regression Problem - Dimensional Models and
-Their Implications on Emotion Representation and Metrical
-Evaluation](http://ebooks.iospress.nl/volumearticle/44864)" by Sven
-Buechel  and Udo Hahn was accepted at [ECAI
-2016](http://www.ecai2016.org/).
-
-"[An Assessment of Experimental Protocols for Tracing Changes in Word
-Semantics Relative to Accuracy and
-Reliability](http://aclweb.org/anthology/W/W16/W16-2114.pdf)" by
-Johannes Hellrich and Udo Hahn was accepted at [LaTeCH2016 ACL
-workshop](https://sighum.wordpress.com/events/latech-2016/).
+* "[Emotion Analysis as a Regression Problem - Dimensional Models and Their Implications on Emotion Representation and Metrical Evaluation](http://ebooks.iospress.nl/volumearticle/44864)" by Sven Buechel  and Udo Hahn was accepted at [ECAI 2016](http://www.ecai2016.org/).
+* "[An Assessment of Experimental Protocols for Tracing Changes in Word Semantics Relative to Accuracy and Reliability](http://aclweb.org/anthology/W/W16/W16-2114.pdf)" by Johannes Hellrich and Udo Hahn was accepted at [LaTeCH2016 ACL workshop](https://sighum.wordpress.com/events/latech-2016/).
 
 #### Apr '16: new team member
 
-We welcome our new colleague, [Sven
-Buechel](http://www.julielab.de/Staff/Sven+Buechel.html "Sven Buechel").
+* We welcome our new colleague, [Sven Buechel](http://www.julielab.de/Staff/Sven+Buechel.html "Sven Buechel").
 
 #### Mar '16: paper accepted
 
-"[Do Enterprises Have
-Emotions?](http://anthology.aclweb.org/W/W16/W16-0423.pdf)" by Sven
-Buechel, Udo Hahn and several member of our universities [School of
-Economics and Business Administration](http://www.orga.uni-jena.de/) was
-accepted at [WASSA2016 NAACL workshop.](http://optima.jrc.it/wassa2016/)
+* "[Do Enterprises Have Emotions?](http://anthology.aclweb.org/W/W16/W16-0423.pdf)" by Sven Buechel, Udo Hahn and several member of our universities [School of Economics and Business Administration](http://www.orga.uni-jena.de/) was accepted at [WASSA2016 NAACL workshop.](http://optima.jrc.it/wassa2016/)
 
 #### Feb '16: paper accepted
 
-"[Measuring the Dynamics of Lexico-Semantic Change Since the German
-Romantic Period](http://dh2016.adho.org/abstracts/144)" by Johannes
-Hellrich and Udo Hahn was accepted at
-[DH2016](http://dh2016.adho.org/).
+* "[Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period](http://dh2016.adho.org/abstracts/144)" by Johannes Hellrich and Udo Hahn was accepted at [DH2016](http://dh2016.adho.org/).
 
 #### Jan '16: papers accepted
 
-"[UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art
-Software Resource Engineering and Distribution of NLP
-Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf)"
-(describing our groups [software repository](http://julielab.github.io))
-by Udo Hahn, Franz Matthies, Erik Faessler and Johannes Hellrich was
-accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).
-
-"[CodE Alltag: A German-Language E-Mail
-Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1120_Paper.pdf)",
-a collaboration of Franz Matthies, Benjamin Redling and Udo Hahn with
-the [Alpen-Adria-Universität
-Klagenfurt](http://www.uni-klu.ac.at/germ/inhalt/1.htm) was accepted at
-[LREC2016](http://lrec2016.lrec-conf.org/en/).
+* "[UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP
+Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf)" (describing our groups [software repository](http://julielab.github.io)) by Udo Hahn, Franz Matthies, Erik Faessler and Johannes Hellrich was accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).
+* "[CodE Alltag: A German-Language E-Mail Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1120_Paper.pdf)", a collaboration of Franz Matthies, Benjamin Redling and Udo Hahn with the [Alpen-Adria-Universität Klagenfurt](http://www.uni-klu.ac.at/germ/inhalt/1.htm) was accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).

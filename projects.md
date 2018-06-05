@@ -15,7 +15,7 @@ The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformat
 
 ------------------------------------------------------------------------
 
-### STAKI^2^B^2^
+### STAKI ^2^ B ^2^
 
 Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of Jena University Hospital](http://www.ikcl.uniklinikum-jena.de/IKCL.html), [Technologie- und Methodenplattform für die vernetzte medizinische Forschung (TMF)](http://www.tmf-ev.de/) and [Central service provider for information technology (IT) services to the University Hospital of Jena](http://www.gbit.uniklinikum-jena.de/GB+IT.html), the JULIE Lab is member of the DFG founded project "Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking". The goal of the project consists of the detection of entities and their information to collect compare collective for more quantitative biobanking.
 
@@ -44,8 +44,7 @@ For the details of the project please visit the [MANTRA website](https://sites.g
 
 The [German Ministry of Education and Research](http://www.bmbf.de/) is funding the new [Jena Centre of Systems Biology of Ageing](http://www.jenage.de) from October 2009 to September 2014. JenAge is a research endeavour of researchers from several academic institutions in the [city of Jena](http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
 
-JULIE Lab\'s contributions to the project:
-------------------------------------------
+**JULIE Lab\'s contributions to the project:**
 
 Automatic text mining will be used to cope with the ever-increasing flood of age-related scientific documents in a systematic way and to generate plausible hypotheses on ageing and age-related diseases through text analytics. This textual information will be used, together with data from other databases and from the JenAge Centre, to set up a new public database on molecular, cellular and organismic aspects of ageing.
 

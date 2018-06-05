@@ -4,6 +4,8 @@ layout: default
 
 # Projects
 
+<br>
+
 Current Projects
 ----------------
 
@@ -98,3 +100,25 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 [Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the Department of Medical Informatics in Freiburg, Germany, developed in cooperation with the JULIE Lab and the Health Technology Master Program of Parana Catholic University in Curitiba, Brasil. The project was mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1 and 5-2.
 
 [Link to the Morphosaurus project](http://www.morphosaurus.de)
+
+<h3><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h3>
+
+Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:
+
+**Software**
+
+[NLP Components for UIMA](http://www.julielab.de/Resources.html)
+
+**Workshop organization and tutorials organized by JULIE Lab members**
+
+[The 2nd German UIMA Workshop at GSCL 2009](http://docs.google.com/View?id=dft23bqs_3c7qnzg6x)
+
+The **LREC 2008 UIMA Workshop**
+
+[The UIMA Tutorial hold at SMBM 2008](http://mars.cs.utu.fi/smbm2008/?q=tutorials)
+
+**UIMA Awards**
+
+[The **IBM UIMA Inovation Award 2007**](http://www-05.ibm.com/de/pressroom/presseinfos/2007/12/04_1.html)
+
+[The IBM Innovation Award 2008](http://www.ibm.com/developerworks/university/innovation/uia.html)

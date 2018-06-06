@@ -4,7 +4,7 @@ layout: default
 
 # Imprint
 
-
+<br>
 
 ![Branching](/assets/img/location.jpg)
 

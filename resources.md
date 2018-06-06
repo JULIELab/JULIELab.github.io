@@ -66,6 +66,6 @@ For a brief overview on how to use our components, please refer to the [JCoRe Ba
 
 ### Other
 
-* [Jena UMLS Filter](https://github.com/JULIELab/jufit") (JUFIT)
+* [Jena UMLS Filter](https://github.com/JULIELab/jufit) (JUFIT)
 * [Bibliography Management Tool](https://github.com/JULIELab/bibliographie)
 * [Jena Emotion Analysis System](https://github.com/JULIELab/JEmAS) (JEmAS)

@@ -140,6 +140,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header footer {
+  position:relative;
+}
+
 header ul {
   list-style:none;
   height:40px;

@@ -19,7 +19,7 @@ Germany
 
 #### E-mail
 
-Udo.Hahn@uni-jena.de(mailto:Udo.Hahn@uni-jena.de)
+[Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)
 
 #### Telephone
 

@@ -17,10 +17,6 @@ Fürstengraben 30<br/>
 07743 Jena<br/>
 Germany
 
-#### Room
-
-R004
-
 #### E-mail
 
 Udo.Hahn@uni-jena.de

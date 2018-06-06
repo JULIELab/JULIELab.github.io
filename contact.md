@@ -8,13 +8,13 @@ layout: default
 
 ### Contact details
 
-Prof. Dr. Udo Hahn
+Prof. Dr. Udo Hahn<br/>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
 
 #### Postal address
 
-Fürstengraben 30
-07743 Jena
+Fürstengraben 30<br/>
+07743 Jena<br/>
 Germany
 
 #### Room

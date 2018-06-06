@@ -11,22 +11,22 @@ For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@li
 
 ### JULIE Component Repository (JCoRe) 2.0
 
-For a brief overview on how to use our components, please refer to the [JCoRe Base Readme](https://github.com/JULIELab/jcore-base/blob/master/README.md "JCoRe Base Readme"). For a more in-depth description (still work in progress) you can consult the following manuals:
+For a brief overview on how to use our components, please refer to the [JCoRe Base Readme](https://github.com/JULIELab/jcore-base/blob/master/README.md). For a more in-depth description (still work in progress) you can consult the following manuals:
 
-* [User's Manual](https://github.com/JULIELab/jcore-base/wiki "User's Manual")
-* [Developer's Manual](https://github.com/JULIELab/jcore-parent-pom/wiki "Developer's Manual")
+* [User's Manual](https://github.com/JULIELab/jcore-base/wiki)
+* [Developer's Manual](https://github.com/JULIELab/jcore-parent-pom/wiki)
 * [Full Text](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf) (Conference Paper: LREC 2016)
 
 ### Type Systems
 
-* [JULIE Type System](https://github.com/JULIELab/jcore-base/tree/master/jcore-types "JULIE Type System")
-* [Mantra XML Types](https://github.com/JULIELab/jcore-base/tree/master/jcore-mantra-xml-types "Mantra XML Types")
+* [JULIE Type System](https://github.com/JULIELab/jcore-base/tree/master/jcore-types)
+* [Mantra XML Types](https://github.com/JULIELab/jcore-base/tree/master/jcore-mantra-xml-types)
 
 ### Collection Readers
 
 * [ACE Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-ace-reader)
-* [BioNLP ST Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-bionlp09event-reader")
-* [DTA Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-dta-reader")
+* [BioNLP ST Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-bionlp09event-reader)
+* [DTA Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-dta-reader)
 * [File Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-file-reader)
 * [IEXML/Mantra Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-iexml-reader)
 * [MUC7 Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-muc7-reader)

@@ -140,10 +140,6 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header footer {
-  position:relative;
-}
-
 header ul {
   list-style:none;
   height:40px;
@@ -238,7 +234,6 @@ hr {
 
 footer {
   width:240px;
-  float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;

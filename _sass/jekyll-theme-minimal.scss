@@ -239,6 +239,9 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+footer1 {
+  display: none;
+}
 
 @media print, screen and (max-width: 960px) {
 
@@ -289,6 +292,14 @@ footer {
     height:75px;
     position:fixed;
     width:90%;
+    display: inline;
+  }
+  
+  footer {
+    display: none;
+  }
+  
+  footer1 {
     display: inline;
   }
   

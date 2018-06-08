@@ -7,10 +7,10 @@ layout: default
 <table>
 <colgroup>
 <col style="width: 200px" />
-<col style="width: 200px />
-<col style="width: 400px />
-<col style="width: 400px />
-<col style="width: 200px />
+<col style="width: 200px" />
+<col style="width: 400px" />
+<col style="width: 400px" />
+<col style="width: 200px" />
 </colgroup>
 <thead>
 <tr class="header">

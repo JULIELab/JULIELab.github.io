@@ -10,7 +10,7 @@ In der Vorlesung werden methodische Grundlagen der Computerlinguistik mit Bezug 
 
 Darüber hinaus werden Anwendungen natürlichsprachlicher Systeme, die diese Methoden verwenden, im Rahmen der Sprachtechnologie betrachtet. Hierzu zählen etwa Systeme zur inhaltlichen Dokumentensuche (Suchmaschinen, Information Retrieval), Informationsextraktion, Fragebeantwortung, Textzusammenfassung oder maschinellen Übersetzung.
 
-Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und die Diskussion von Lösungen in der Übung zur Vorlesung vertieft, deren Besuch mit Nachdruck empfohlen wird. Zur praktischen Vertiefung des theoretischen Stoffes wird auch auf das in diesem Semester angebotene Software-Praktikum ´´"Softwaretechnologien für Natürlichsprachliche Systeme"´´ hingewiesen. Die Vorlesung ist zusammen mit der zugehörigen Übung und dem Seminar ´´"Linked Open Data - Computerlinguistische Ressourcen und Werkzeuge im WWW"´´ Teil der Veranstaltungen, die benötigt werden, um das Modul M-GSW-10 erfolgreich abzuschließen.
+Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und die Diskussion von Lösungen in der Übung zur Vorlesung vertieft, deren Besuch mit Nachdruck empfohlen wird. Zur praktischen Vertiefung des theoretischen Stoffes wird auch auf das in diesem Semester angebotene Software-Praktikum "*Softwaretechnologien für Natürlichsprachliche Systeme*" hingewiesen. Die Vorlesung ist zusammen mit der zugehörigen Übung und dem Seminar "*Linked Open Data - Computerlinguistische Ressourcen und Werkzeuge im WWW*" Teil der Veranstaltungen, die benötigt werden, um das Modul M-GSW-10 erfolgreich abzuschließen.
 
 **Erster Termin:** 12.04.2018.
 

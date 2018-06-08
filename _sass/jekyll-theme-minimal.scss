@@ -287,6 +287,10 @@ footer1, header1 {
     position:static;
   }
   
+  header1 {
+    position:fixed;
+  }
+  
   navi {
     padding-top:20px;
     height:75px;
@@ -304,7 +308,7 @@ footer1, header1 {
   }
 
   section {
-    padding-top:25px;
+    padding-top:45px;
     width:100%;
     padding-bottom:20px;
   }

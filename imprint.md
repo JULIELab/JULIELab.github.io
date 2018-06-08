@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Imprint
-
-<br>
-
+<br/>
 ![Branching](/assets/img/location.jpg)
 
 ### Institution

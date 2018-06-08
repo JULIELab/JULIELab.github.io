@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Students
-
-<br>
-
+<br/>
 ### Courses
 
 The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).

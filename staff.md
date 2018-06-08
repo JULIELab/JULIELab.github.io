@@ -1,5 +1,5 @@
 ---
-layout: staff_all
+layout: staff_tab
 ---
 
 # Staff

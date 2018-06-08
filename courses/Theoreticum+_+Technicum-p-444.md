@@ -2,6 +2,8 @@
 layout: course
 ---
 
+<br>
+
 # Theoreticum & Technicum
 
 **Ab 13.4. freitags 10:00 Uhr Computerkabinett Fürstengraben 27.**

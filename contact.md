@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Contact
-
-<br>
-
+<br/>
 ### Contact details
 
 Prof. Dr. Udo Hahn<br/>

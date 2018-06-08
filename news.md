@@ -3,13 +3,17 @@ layout: default
 ---
 # Lab News
 <br/>
+
+#### June '18 visiting researcher
+* We welcome our visiting researcher [Michel Oleynik](https://scholar.google.com/citations?user=2h4EEtIAAAAJ&hl=en).
+
 #### May '18 papers accepted
 * Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [COLING 2018](http://coling2018.org/).
 * Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
 
 #### April '18 open position
 
-* We are looking for one digital humanities PhD student to [join the graduate school "The romanticmodel"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
+* We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](http://www.julielab.de/coling_multimedia/de/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
 #### Mar '18 paper accepted, visiting researcher
 

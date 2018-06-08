@@ -6,6 +6,10 @@ layout: staff
 
 <br/>
 
+[Research] | [Publications] | [Contact]
+
+<br/>
+
 <img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
 
 ### Contact details

@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Projects
-
-<br>
-
+<br/>
 Current Projects
 ----------------
 

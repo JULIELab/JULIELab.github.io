@@ -203,7 +203,7 @@ header ul a strong {
 navi {
   position:static;
   float:right;
-  top:0;
+  top:20;
   background: #fff;
   height:50px;
   width:620px;
@@ -302,11 +302,7 @@ footer1, header1 {
   footer1, header1 {
     display: inline;
   }
-  
-  footer1 {
-    position:relative;
-  }
-  
+
   section {
     padding-top:25px;
     width:100%;

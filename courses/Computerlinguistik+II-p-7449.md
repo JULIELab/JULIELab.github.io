@@ -25,6 +25,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 ### Übung
 1. [Übungsblatt 1](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt01_cl2-p-1500.pdf) (aktualisierte Version ohne Chunking)
 2. [Übungsblatt 2](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt02_cl2-p-1499.pdf)
-3. [Übungsblatt 3](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt03_cl2-p-1506.pdf) | [Starter-Code](http://www.julielab.de/coling_multimedia/de/teaching/cl2/uebung_3.py)
+3. [Übungsblatt 3](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt03_cl2-p-1506.pdf) |
+[Starter-Code](http://www.julielab.de/coling_multimedia/de/teaching/cl2/uebung_3.py)
 4. [Übungsblatt 4](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt04_cl2-p-1510.pdf)
 5. [Übungsblatt 5](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt05_cl2-p-1512.pdf) (Abgabe bis 13.6.18)

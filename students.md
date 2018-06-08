@@ -8,7 +8,7 @@ layout: default
 
 ### Merkblätter
 
-* [Merkblatt Algorithmen](http://www.julielab.de/coling_multimedia/de/teaching/Merkbl%C3%A4tter/algorithmen-p-1310.pdf)
+* [Merkblatt Algorithmen](http://julielab.github.io/web/downloads/algorithmen-p-1310.pdf)
 * [Merkblatt Parsing](http://www.julielab.de/coling_multimedia/de/teaching/Merkbl%C3%A4tter/parsing.pdf)
 
 ### Courses

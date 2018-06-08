@@ -2,6 +2,8 @@
 layout: course
 ---
 
+<br>
+
 # Geisteswissenschaftliche Anwendungen der Computerlinguistik
 
 Im Zusammenspiel mit der dynamischen Entwicklung der Digital Humanities gewinnen computerlinguistische Ressourcen und Werkzeuge für geisteswissenschaftliches Arbeiten zunehmend an Bedeutung. Dies reicht von grundlegenden informatischen Werkzeugen (Datenbanken, Buchstabenerkennungs-Software (OCR) u.ä.) über genuine sprachliche Analysesysteme, die morphologische, syntaktische oder semantische Berechnungen durchführen, bis hin zu geisteswissenschaftlichen Anwendungssystemen (Konkordanzen, Stilanalyse-Werkzeuge u.ä.). Im Seminar werden im Rahmen von Fallstudien exemplarische geisteswissenschaftliche Anwendungen informatischer und computerlinguistischer Methoden und Systeme vorgestellt.

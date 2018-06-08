@@ -4,110 +4,20 @@ layout: default
 
 # Staff
 
-<table>
-<colgroup>
-<col style="width: 300px" />
-<col style="width: 300px" />
-<col style="width: 400px" />
-<col style="width: 400px" />
-<col style="width: 300px" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Name</th>
-<th>Position</th>
-<th>Associated Projects</th>
-<th>E-mail</th>
-<th>Telephone (prefix +49 3641 9)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://julielab.github.io/web/staff/Prof_+Dr_+Udo+Hahn.html">Prof. Dr. Udo Hahn</a></td>
-<td>Head of the Department</td>
-<td>all</td>
-<td><a href="mailto:Udo.Hahn@uni-jena.de">Udo.Hahn@uni-jena.de</a></td>
-<td>44320</td>
-</tr>
-<tr class="even">
-<td><a href="https://julielab.github.io/web/staff/Dr_+Sascha+Sch%C3%A4uble.html">Dr. Sascha Schäuble</a></td>
-<td>Postdoctoral Researcher</td>
-<td><a href="http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/">GlioPATH</a></td>
-<td><a href="mailto:Sascha.Schaeuble@uni-jena.de">Sascha.Schaeuble@uni-jena.de</a></td>
-<td>44323</td>
-</tr>
-<tr class="odd">
-<td><a href="https://julielab.github.io/web/staff/Sven+Buechel.html">Sven Buechel</a></td>
-<td>Research Assistant</td>
-<td></td>
-<td><a href="mailto:Sven.Buechel@uni-jena.de">Sven.Buechel@uni-jena.de</a></td>
-<td>44324</td>
-</tr>
-<tr class="even">
-<td><a href="https://julielab.github.io/web/staff/Erik+F%C3%A4%C3%9Fler.html">Erik Fäßler</a></td>
-<td>Research Assistant</td>
-<td></td>
-<td><a href="mailto:Erik.Faessler@uni-jena.de">Erik.Faessler@uni-jena.de</a></td>
-<td>44324</td>
-</tr>
-<tr class="odd">
-<td><a href="https://julielab.github.io/web/staff/Johannes+Hellrich.html">Johannes Hellrich</a></td>
-<td>Research Assistant</td>
-<td><a href="http://modellromantik.uni-jena.de/">Graduate School “The Romantic Model”</a></td>
-<td><a href="mailto:Johannes.Hellrich@uni-jena.de">Johannes.Hellrich@uni-jena.de</a></td>
-<td>44305</td>
-</tr>
-<tr class="even">
-<td><a href="https://julielab.github.io/web/staff/Franz+Matthies.html">Franz Matthies</a></td>
-<td>Research Assistant</td>
-<td><a href="http://www.smith.care/">SMITH</a>, <a href="https://julielab.github.io/">JCoRe</a></td>
-<td><a href="mailto:Franz.Matthies@uni-jena.de">Franz.Matthies@uni-jena.de</a></td>
-<td>44305</td>
-</tr>
-<tr class="odd">
-<td>Luise Modersohn</td>
-<td>Research Assistant</td>
-<td><a href="http://gepris.dfg.de/gepris/projekt/315098900">STAKI2B2</a></td>
-<td><a href="mailto:Luise.Modersohn@uni-jena.de">Luise.Modersohn@uni-jena.de</a></td>
-<td>44305</td>
-</tr>
-<tr class="even">
-<td>Bernd Kampe</td>
-<td>Research Assistant</td>
-<td><a href="http://www.aquadiva.uni-jena.de/">AquaDiva</a></td>
-<td><a href="mailto:Bernd.Kampe@uni-jena.de">Bernd.Kampe@uni-jena.de</a></td>
-<td>44324</td>
-</tr>
-<tr class="odd">
-<td><a href="https://julielab.github.io/web/staff/Tobias+Kolditz.html">Tobias Kolditz</a></td>
-<td>Research Assistant</td>
-<td><a href="http://www.smith.care/">SMITH</a></td>
-<td><a href="mailto:Tobias.Kolditz@uni-jena.de">Tobias.Kolditz@uni-jena.de</a></td>
-<td>44303</td>
-</tr>
-<tr class="even">
-<td><a href="https://julielab.github.io/web/staff/Christina+Lohr.html">Christina Lohr</a></td>
-<td>Research Assistant</td>
-<td><a href="http://gepris.dfg.de/gepris/projekt/315098900">STAKI2B2</a>, <a href="http://www.smith.care/">SMITH</a></td>
-<td><a href="mailto:Christina.Lohr@uni-jena.de">Christina.Lohr@uni-jena.de</a></td>
-<td>44303</td>
-</tr>
-<tr class="odd">
-<td><a href="https://julielab.github.io/web/staff/Stephanie+Luther.html">Stephanie Luther</a></td>
-<td>Research Assistant</td>
-<td><a href="http://gepris.dfg.de/gepris/projekt/315098900">STAKI2B2</a></td>
-<td><a href="mailto:Stephanie.Luther@uni-jena.de">Stephanie.Luther@uni-jena.de</a></td>
-<td>44303</td>
-</tr>
-<tr class="even">
-<td><a href="https://julielab.github.io/web/staff/Benjamin+Redling.html">Benjamin Redling</a></td>
-<td>System Administrator</td>
-<td></td>
-<td><a href="mailto:Benjamin.Rampe@uni-jena.de">Benjamin.Rampe@uni-jena.de</a></td>
-<td>44323</td>
-</tr>
-</tbody>
-</table>
+| Name        | Position           | Associated Projects | E-mail | Telephone (prefix +49 3641 9) |
+| --------------------------------------------   | --------------------------------------------   | --------------------------------------------   | --------------------------------------------   | --------------------------------------------  |
+| [Prof. Dr. Udo Hahn](https://julielab.github.io/web/staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	|  all	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
+| [Dr. Sascha Schäuble](https://julielab.github.io/web/staff/Dr_+Sascha+Sch%C3%A4uble.html) | Postdoctoral Researcher | [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/) | [Sascha.Schaeuble@uni-jena.de](mailto:Sascha.Schaeuble@uni-jena.de) | 44323 |
+| [Sven Buechel](https://julielab.github.io/web/staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
+| [Erik Fäßler](https://julielab.github.io/web/staff/Erik+F%C3%A4%C3%9Fler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
+| [Johannes Hellrich](https://julielab.github.io/web/staff/Johannes+Hellrich.html)	| Research Assistant	| [Graduate School "The Romantic Model"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
+| [Franz Matthies](https://julielab.github.io/web/staff/Franz+Matthies.html) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
+| Luise Modersohn | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
+| Bernd Kampe | Research Assistant | [AquaDiva](http://www.aquadiva.uni-jena.de/) | [Bernd.Kampe@uni-jena.de](mailto:Bernd.Kampe@uni-jena.de) | 44324 |
+| [Tobias Kolditz](https://julielab.github.io/web/staff/Tobias+Kolditz.html) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
+| [Christina Lohr](https://julielab.github.io/web/staff/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
+| [Stephanie Luther](https://julielab.github.io/web/staff/Stephanie+Luther.html) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Stephanie.Luther@uni-jena.de](mailto:Stephanie.Luther@uni-jena.de) | 44303 |
+| [Benjamin Redling](https://julielab.github.io/web/staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
 Fax of the group: +49 3641 9-44321
 

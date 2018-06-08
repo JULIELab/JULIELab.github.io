@@ -21,7 +21,9 @@ layout: default
 
 Fax of the group: +49 3641 9-44321
 
-### Alumni
+<br>
+
+## Alumni
 
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))
 

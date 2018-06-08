@@ -239,7 +239,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-footer1 {
+footer1, header1 {
   display: none;
 }
 
@@ -299,7 +299,7 @@ footer1 {
     display: none;
   }
   
-  footer1 {
+  footer1, header1 {
     display: inline;
   }
   

@@ -4,6 +4,7 @@ layout: default
 
 # Projects
 <br/>
+
 Current Projects
 ----------------
 

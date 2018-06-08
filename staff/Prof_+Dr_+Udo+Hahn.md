@@ -2,8 +2,6 @@
 layout: staff
 ---
 
-<br>
-
 # Prof. Dr. Udo Hahn
 
 ### Contact details

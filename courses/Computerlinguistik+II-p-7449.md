@@ -18,8 +18,10 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 
 ### Vorlesung
 1. [Empirical Paradigm + Resources](http://www.julielab.de/coling_multimedia/de/teaching/cl2/CL_II_10_Empirical+Paradigm_Resources_sh.pdf) (aktualisiert am 31.5.18)
+
 ### Seminar
 1. [Einführung](http://www.julielab.de/coling_multimedia/de/teaching/cl2/LinkedOpenData+%28M_GSW_10%29_sh.pdf)
+
 ### Übung
 1. [Übungsblatt 1](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt01_cl2-p-1500.pdf) (aktualisierte Version ohne Chunking)
 2. [Übungsblatt 2](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt02_cl2-p-1499.pdf)

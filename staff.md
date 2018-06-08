@@ -6,11 +6,11 @@ layout: default
 
 <table>
 <colgroup>
-<col style="width: 200px" />
-<col style="width: 200px" />
+<col style="width: 300px" />
+<col style="width: 300px" />
 <col style="width: 400px" />
 <col style="width: 400px" />
-<col style="width: 200px" />
+<col style="width: 300px" />
 </colgroup>
 <thead>
 <tr class="header">

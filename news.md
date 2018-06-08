@@ -3,7 +3,6 @@ layout: default
 ---
 # Lab News
 <br/>
-
 #### June '18 visiting researcher
 * We welcome our visiting researcher [Michel Oleynik](https://scholar.google.com/citations?user=2h4EEtIAAAAJ&hl=en).
 

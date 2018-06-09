@@ -7,10 +7,10 @@ layout: staff
 [Back to Overview](https://julielab.github.io/web/staff/Hahn/Prof_+Dr_+Udo+Hahn.html)
 
 ### Principal Investigator
-Sonderforschungsbereich AquaDiva (SFB 1076/2)
-Nationaler Förderverbund Medizininformatik
-DFG-Graduiertenkolleg "Modell Romantik" (GRK2041/1)
-STAKI2B2 (DFG): Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking
+* [Sonderforschungsbereich AquaDiva](http://www.aquadiva.uni-jena.de/) (SFB 1076/2)
+* [Nationaler Förderverbund Medizininformatik](http://www.smith.care/)
+* [DFG-Graduiertenkolleg \"Modell Romantik\"](http://www.modellromantik.uni-jena.de/) (GRK2041/1)
+* STAKI2B2 (DFG): Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking
 
 ### Research Interests
 

@@ -6,13 +6,13 @@ layout: staff
 
 [Back to Overview](https://julielab.github.io/web/staff/Hahn/Prof_+Dr_+Udo+Hahn.html)
 
-### Principal Investigator
+## Principal Investigator
 * [Sonderforschungsbereich AquaDiva](http://www.aquadiva.uni-jena.de/) (SFB 1076/2)
 * [Nationaler Förderverbund Medizininformatik](http://www.smith.care/)
 * [DFG-Graduiertenkolleg \"Modell Romantik\"](http://www.modellromantik.uni-jena.de/) (GRK2041/1)
 * STAKI2B2 (DFG): Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking
 
-### Research Interests
+## Research Interests
 
 #### Natural language processing (NLP), language technology
 
@@ -60,7 +60,7 @@ layout: staff
 * Ontology engineering by ontology alignment
 * Ontology learning (automatic ontology population)
 
-### Short CV
+## Short CV
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**since 2004** | Full Professor for computational linguistics (University Jena) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1990-2004** | Associate Professor for language informatics (University Freiburg) |
@@ -68,7 +68,7 @@ layout: staff
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987** | Doctoral Degree in information science (University Konstanz) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1980** | Master Degree in linguistics (University Mainz) |
 
-### Academic Prizes
+## Academic Prizes
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2008** | Unstructured Information Analytics Award (IBM) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2007** | UIMA Innovation Award for Faculty (IBM) |

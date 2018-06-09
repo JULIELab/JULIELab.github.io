@@ -2,11 +2,9 @@
 layout: staff
 ---
 
-# Sven Buechel
+# Sven Buechel: Full Publication List
 
 [Back to Overview](https://julielab.github.io/web/staff/Buechel/Sven+Buechel.html)
-
-## Full Publication List
 
 <br/>
 

@@ -4,9 +4,7 @@ layout: staff
 
 # Prof. Dr. Udo Hahn
 
-<div class="portrait">
-  <img class="portrait" style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
-</div>
+<img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
 
 [Research]
 | [Publications]

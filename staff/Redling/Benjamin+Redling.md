@@ -11,6 +11,7 @@ Over the years I maintained a FC-SAN, had to cope with Solaris with SAM-FS, plan
 Just recently I started to climb the rough edges of CUDA installations for Deep Learning and after a month of painful doing it "the hard way" happily recommend using the Anaconda Python distribution.
 
 ### Recent Working Experience
+
 * Installation and maintenance of the groups SLURM cluster
 * Setup and tuning of PostgreSQL installations
 * Basic Linux infrastructure (NFS4 file server, OpenLDAP, etc.)
@@ -22,8 +23,6 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 * Basic Python knowledge
 
 ### Contact
-<p {margin-left:50px;}>Benjamin Redling<br/>
-System administrator</p>
 
 &nbsp;&nbsp;Benjamin Redling<br/>
 &nbsp;&nbsp;System administrator

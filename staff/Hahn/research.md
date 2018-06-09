@@ -10,7 +10,7 @@ layout: staff
 * [Sonderforschungsbereich AquaDiva](http://www.aquadiva.uni-jena.de/) (SFB 1076/2)
 * [Nationaler Förderverbund Medizininformatik](http://www.smith.care/)
 * [DFG-Graduiertenkolleg \"Modell Romantik\"](http://www.modellromantik.uni-jena.de/) (GRK2041/1)
-* STAKI2B2 (DFG): Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking
+* STAKI2B2 (DFG): **S**emantische **T**ext**a**nalyse zur qualitätskontrollierten Extraktion **k**linischer Phänotyp-**I**nformation im Healthcare Integrated Biobanking
 
 ## Research Interests
 

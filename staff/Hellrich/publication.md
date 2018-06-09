@@ -4,7 +4,7 @@ layout: staff
 
 # Johannes Hellrich: Full Publication List
 
-[Back to Overview](https://julielab.github.io/web/staff/Hellrich/Johannes+Hellrich.html)
+[<< Back to Overview](https://julielab.github.io/web/staff/Hellrich/Johannes+Hellrich.html)
 
 #### 2018
 

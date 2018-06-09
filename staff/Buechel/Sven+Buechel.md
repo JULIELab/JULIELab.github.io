@@ -3,8 +3,9 @@ layout: staff
 ---
 
 # Sven Buechel
-
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/Sven+Bu%CC%88chel-width-162-height-202.jpg">
+<div class="portrait">
+  <img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/Sven+Bu%CC%88chel-width-162-height-202.jpg">
+</dic>
 
 I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&hl=de)'s Group in summer 2016 to follow up on the research associated with my Bachelor thesis on emotional language use by organizations. The focus of my work is both on the development of novel methodologies for measuring emotion in text as well as applying those methods in the Computational Social Sciences and the Digital Humanities. Currently, I work as a visiting scholar at the University of Pennsylvania together with [Lyle Ungar](https://scholar.google.de/citations?user=KCiDjbkAAAAJ&hl=de&oi=ao).
 

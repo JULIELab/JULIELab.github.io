@@ -62,14 +62,14 @@ STAKI2B2 (DFG): Semantische Textanalyse zur qualitätskontrollierten Extraktion 
 
 ### Short CV
 
-| **since 2004** | Full Professor for computational linguistics (University Jena) |
-| **1990-2004** | Associate Professor for language informatics (University Freiburg) |
-| **1987-1990** | Assistant Professor for computer science (University Passau) |
-| **1987** | Doctoral Degree in information science (University Konstanz) |
-| **1980** | Master Degree in linguistics (University Mainz) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**since 2004** | Full Professor for computational linguistics (University Jena) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1990-2004** | Associate Professor for language informatics (University Freiburg) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987-1990** | Assistant Professor for computer science (University Passau) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987** | Doctoral Degree in information science (University Konstanz) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1980** | Master Degree in linguistics (University Mainz) |
 
 ### Academic Prizes
 
-| **2008** | Unstructured Information Analytics Award (IBM) |
-| **2007** | UIMA Innovation Award for Faculty (IBM) |
-| **2000** | University Partnership Program Faculty Award (IBM) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2008** | Unstructured Information Analytics Award (IBM) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2007** | UIMA Innovation Award for Faculty (IBM) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2000** | University Partnership Program Faculty Award (IBM) |

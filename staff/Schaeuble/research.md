@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Dr. Sascha Schäuble: Research
+# Dr. Sascha Schäuble
 
 [[Overview]](https://julielab.github.io/web/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html) | 
 Research | 
@@ -13,7 +13,7 @@ Research |
 * constraint based modelling of metabolism
 * literature based discovery
 
-## Projects
+### Projects
 * [Jenage](http://www.jenage.de/)
 * [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/)
 

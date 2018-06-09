@@ -5,7 +5,7 @@ layout: staff
 # Prof. Dr. Udo Hahn: Research
 
 [[Overview]](https://julielab.github.io/web/staff/Hahn/Prof_+Dr_+Udo+Hahn.html) | 
-[Research] | 
+Research | 
 [[Publications]](https://julielab.github.io/web/staff/Hahn/publication.html)
 
 ## Principal Investigator

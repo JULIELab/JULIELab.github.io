@@ -6,7 +6,7 @@ layout: staff
 
 [Back to Overview](https://julielab.github.io/web/staff/Buechel/Sven+Buechel.html)
 
-### Full Publication List
+## Full Publication List
 
 <br/>
 

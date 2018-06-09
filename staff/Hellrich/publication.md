@@ -52,30 +52,30 @@ layout: staff
 
 #### 2014
 
-* **Johannes Hellrich** & Udo Hahn: Fostering Multilinguality in the UMLS: A Computational Approach to Terminology Expansion for Multiple Languages. In: AMIA Annual Symposium Proceedings 2014, 2014, pp. 655-660d.
+* **Johannes Hellrich** & Udo Hahn: [Fostering Multilinguality in the UMLS: A Computational Approach to Terminology Expansion for Multiple Languages](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419887/). In: *AMIA Annual Symposium Proceedings 2014*, 2014, pp. 655-660d.
 
-* Anne H. Schneider, **Johannes Hellrich** & Saturnino Luz: Word, Syllable and Phoneme Based Metrics Do Not Correlate with Human Performance in ASR-Mediated Tasks. In: Adam Przepiórkowski, Maciej Ogrodniczuk (Eds.): Advances in Natural Language Processing - 9th International Conference on NLP, PolTAL 2014. Warsaw, Poland, September 17-19, 2014, pp. 392-399 (Lecture Notes in Computer Science, 8686).
+* Anne H. Schneider, **Johannes Hellrich** & Saturnino Luz: [Word, Syllable and Phoneme Based Metrics Do Not Correlate with Human Performance in ASR-Mediated Tasks](http://link.springer.com/chapter/10.1007/978-3-319-10888-9_39). In: Adam Przepiórkowski, Maciej Ogrodniczuk (Eds.): *Advances in Natural Language Processing - 9th International Conference on NLP, PolTAL 2014*. Warsaw, Poland, September 17-19, 2014, pp. 392-399 (Lecture Notes in Computer Science, 8686).
 
-* **Johannes Hellrich** & Udo Hahn: Exploiting Parallel Corpora to Scale Multilingual Biomedical Terminologies. In: MIE 2014 - e-Health - For Continuity of Care . 2014, pp. 575-578 (Studies in Health Technology and Informatics, 205).
+* **Johannes Hellrich** & Udo Hahn: [Exploiting Parallel Corpora to Scale Multilingual Biomedical Terminologies](http://ebooks.iospress.nl/volumearticle/37553). In: *MIE 2014 - e-Health - For Continuity of Care*. 2014, pp. 575-578 (Studies in Health Technology and Informatics, 205).
 
-* **Johannes Hellrich** & Udo Hahn: Enriching Multilingual Biomedical Terminologies via Machine Translation from Parallel Corpora. In: NLDB 2014 - Natural Language Processing and Information Systems - 19th International Conference on Applications of Natural Language to Information Systems. Montpellier, France, June 18-20, 2014, pp. 9-20 (Lecture Notes in Computer Science, 8455).
+* **Johannes Hellrich** & Udo Hahn: [Enriching Multilingual Biomedical Terminologies via Machine Translation from Parallel Corpora](http://link.springer.com/chapter/10.1007/978-3-319-07983-7_2). In: *NLDB 2014 - Natural Language Processing and Information Systems - 19th International Conference on Applications of Natural Language to Information Systems*. Montpellier, France, June 18-20, 2014, pp. 9-20 (Lecture Notes in Computer Science, 8455).
 
-* **Johannes Hellrich**, Simon Clematide, Udo Hahn & Dietrich Rebholz-Schuhmann: Collaboratively Annotating Multilingual Parallel Corpora in the Biomedical Domain-some MANTRAs. In: LREC 2014 - Proceedings of the Ninth International Conference on Language Resources and Evaluation. 26-31 May, Reykjavik, Iceland, 2014. pp. 4033-4040.
+* **Johannes Hellrich**, Simon Clematide, Udo Hahn & Dietrich Rebholz-Schuhmann: [Collaboratively Annotating Multilingual Parallel Corpora in the Biomedical Domain-some MANTRAs](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1064_Paper.pdf). In: *LREC 2014 - Proceedings of the Ninth International Conference on Language Resources and Evaluation*. 26-31 May, Reykjavik, Iceland, 2014. pp. 4033-4040.
 
-* Erik Faessler, **Johannes Hellrich** & Udo Hahn: Disclose Models, Hide the Data-How to Make Use of Confidential Corpora without Seeing Sensitive Raw Data. In: LREC 2014 - Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14). 26-31 May, Reykjavik, Iceland, 2014. pp. 4230-4237.
+* Erik Faessler, **Johannes Hellrich** & Udo Hahn: [Disclose Models, Hide the Data-How to Make Use of Confidential Corpora without Seeing Sensitive Raw Data](http://www.lrec-conf.org/proceedings/lrec2014/pdf/936_Paper.pdf). In: *LREC 2014 - Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC\'14)*. 26-31 May, Reykjavik, Iceland, 2014. pp. 4230-4237.
 
 #### 2013
 
-* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: Entity Recognition in Parallel Multilingual Biomedical Corpora: The CLEF-ER Laboratory Overview. In: CLEF 2013 - Information Access Evaluation. Multilinguality, Multimodality, and Visualization - 4th International Conference of the CLEF Initiative. Valencia, Spain, September 23-26, 2013, pp. 353-367 (Lecture Notes in Computer Science, 8138).
+* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: [Entity Recognition in Parallel Multilingual Biomedical Corpora: The CLEF-ER Laboratory Overview](http://link.springer.com/chapter/10.1007/978-3-642-40802-1_32). In: *CLEF 2013 - Information Access Evaluation. Multilinguality, Multimodality, and Visualization - 4th International Conference of the CLEF Initiative*. Valencia, Spain, September 23-26, 2013, pp. 353-367 (Lecture Notes in Computer Science, 8138).
 
-* **Johannes Hellrich** & Udo Hahn: The JULIE LAB MANTRA System for the CLEF-ER 2013 Challenge. In: CLEF 2013 Evaluation Labs and Workshop Online Working Notes, Valencia, Spain, 2013.
+* **Johannes Hellrich** & Udo Hahn: [The JULIE LAB MANTRA System for the CLEF-ER 2013 Challenge](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_clefer_2013.pdf). In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*, Valencia, Spain, 2013.
 
-* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: Multilingual Semantic Resources and Parallel Corpora in the Biomedical Domain: the CLEF-ER Challenge. In: CLEF 2013 Evaluation Labs and Workshop Online Working Notes. Valencia, Spain, 2013.
+* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: __Multilingual Semantic Resources and Parallel Corpora in the Biomedical Domain: the CLEF-ER Challenge__. In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*. Valencia, Spain, 2013.
 
-* **Johannes Hellrich** & Udo Hahn: Biomedical Term Acquisition Based on Aligned Parallel Corpora. In: 58. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS). Lübeck, Germany, 2013.
+* **Johannes Hellrich** & Udo Hahn: [Biomedical Term Acquisition Based on Aligned Parallel Corpora](http://www.egms.de/static/en/meetings/gmds2013/13gmds098.shtml). In: *58. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS)*. Lübeck, Germany, 2013.
 
 #### 2012
 
-* **Johannes Hellrich**, Erik Faessler, Ekaterina Buyko & Udo Hahn: Visualizing Semantic Metadata from Biological Publications. In: International Workshop on Intelligent Exploration of Semantic Data (IESD 2012) at EKAW 2012. Galway City, Ireland, 2012.
+* **Johannes Hellrich**, Erik Faessler, Ekaterina Buyko & Udo Hahn: [Visualizing Semantic Metadata from Biological Publications](http://imash.leeds.ac.uk/event/pdf/Hellrich_4.pdf). In: *International Workshop on Intelligent Exploration of Semantic Data (IESD 2012) at EKAW 2012*. Galway City, Ireland, 2012.
 
-* **Johannes Hellrich**: Retrieval und Visualisierung biomedizinischer Relationen - Erweiterung einer semantischen Suchmaschine zur Arbeit mit Protein-Protein-Interaktionen. Master Thesis. Friedrich-Schiller-Universtität Jena, 2012.
+* **Johannes Hellrich**: [*Retrieval und Visualisierung biomedizinischer Relationen - Erweiterung einer semantischen Suchmaschine zur Arbeit mit Protein-Protein-Interaktionen*](http://www.julielab.de/coling_multimedia/de/downloads/Papers/masterarbeit+hellrich.pdf). Master Thesis. Friedrich-Schiller-Universtität Jena, 2012.

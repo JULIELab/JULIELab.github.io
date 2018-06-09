@@ -35,7 +35,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sven Buechel<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant
 
-| &nbsp;&nbsp;&nbsp;Email | sven.buechel@uni-jena.de |
-| &nbsp;&nbsp;&nbsp;Phone | +49 3641 9-44324 |
-| &nbsp;&nbsp;&nbsp;Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
-| &nbsp;&nbsp;&nbsp;Room | E 009 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email | sven.buechel@uni-jena.de |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone | +49 3641 9-44324 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room | E 009 |

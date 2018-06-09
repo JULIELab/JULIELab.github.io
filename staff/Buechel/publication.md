@@ -6,8 +6,6 @@ layout: staff
 
 [Back to Overview](https://julielab.github.io/web/staff/Buechel/Sven+Buechel.html)
 
-<br/>
-
 #### 2018
 
 Sebastian G.M. Händschke\*, Sven Buechel\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for ECONLP @ ACL 2018.

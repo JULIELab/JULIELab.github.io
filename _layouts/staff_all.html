@@ -30,6 +30,71 @@
   section {
     width: 880px;
   }
+	  
+@media print, screen and (max-width: 960px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+    position:relative;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+  
+  navi {
+    top:0px;
+    padding-top:20px;
+    position:fixed;
+    width:90%;
+    display: inline;
+  }
+  
+  navi1 {
+    display:none;
+  }
+  
+  footer {
+    display: none;
+  }
+  
+  footer1 {
+    display: inline;
+  }
+
+  section {
+    position:static;
+    float:left;
+    top:20px;
+    padding-top:90px;
+    width:90%;
+    padding-bottom:20px;
+  }
+  
+  div.portrait {
+    float:none;
+    margin:0 0 10px 0;
+  }
+  
+  pre, code {
+    word-wrap:normal;
+  }
+  
+  header nav, header h1, header img {
+    display: none;
+  }
+  
+  nav li {
+    display: inline;
+  }
+
+  footer1 {
+    position:static;
+  }
+}
   </style>
   </head>
   <body>

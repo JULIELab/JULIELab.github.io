@@ -11,7 +11,7 @@ layout: staff
 | [Contact]
 
 ### Contact details
-Franz Matthies
+Franz Matthies<br/>
 Research Assistent
 
 #### E-mail

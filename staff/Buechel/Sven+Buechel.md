@@ -25,7 +25,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 
 * **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016*** - *Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)]
 
-[Full Publication List]
+[Full Publication List](https://julielab.github.io/web/staff/Buechel/publication.html)
 
 ### Teaching Experience
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.

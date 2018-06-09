@@ -4,9 +4,9 @@ layout: staff
 
 # Stephanie Luther
 
-I am the parental leave substitute for [Franz Matthies](https://julielab.github.io/web/staff/Matthies/Franz+Matthies.html).
-
 <img style="float:right" src="http://www.julielab.de/coling_multimedia/de/img/staff/Stephanie+Luther-width-200-height-182.png">
+
+I am the parental leave substitute for [Franz Matthies](https://julielab.github.io/web/staff/Matthies/Franz+Matthies.html).
 
 ### Contact details
 Stephanie Luther<br/>

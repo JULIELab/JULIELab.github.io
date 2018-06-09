@@ -4,14 +4,14 @@ layout: staff
 
 # Erik Fäßler
 
+<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/erik_faessler-width-188-height-242.jpg">
+
 [Research]
 | [Publications]
 | [Contact]
 
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/erik_faessler-width-188-height-242.jpg">
-
 ### Contact details
-Erik Fäßler
+Erik Fäßler<br/>
 Research Assistent
 
 #### Postal address

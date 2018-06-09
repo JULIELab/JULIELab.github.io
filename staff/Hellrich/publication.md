@@ -28,17 +28,17 @@ layout: staff
 
 #### 2016
 
-* **Johannes Hellrich** & Udo Hahn: Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful. In: COLING 2016. Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [Poster]
+* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_coling2016.pdf)
 
-* Sven Buechel, **Johannes Hellrich** & Udo Hahn: Feelings from the Past - Adapting Affective Lexicons for Historical Emotion Analysis. In: Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @ COLING 2016. Osaka, Japan, December 11, 2016, pp. 54-61.
+* Sven Buechel, **Johannes Hellrich** & Udo Hahn: [Feelings from the Past - Adapting Affective Lexicons for Historical Emotion Analysis](https://aclweb.org/anthology/W/W16/W16-4008.pdf). In: [*Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @ COLING 2016*](https://www.clarin-d.net/en/current-issues/lt4dh). Osaka, Japan, December 11, 2016, pp. 54-61.
 
-* **Johannes Hellrich** & Udo Hahn: An Assessment of Experimental Protocols for Tracing Changes in Word Semantics Relative to Accuracy and Reliability. In: Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) @ ACL2016. Berlin, Germany, August 11, 2016, pp. 111-117. [Poster]
+* **Johannes Hellrich** & Udo Hahn: [An Assessment of Experimental Protocols for Tracing Changes in Word Semantics Relative to Accuracy and Reliability](http://aclweb.org/anthology/W/W16/W16-2114.pdf). In: *Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) @ ACL2016*. Berlin, Germany, August 11, 2016, pp. 111-117. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/LaTeCH2016_poster_hellrich.pdf)
 
-* **Johannes Hellrich** & Udo Hahn: Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period. In: Digital Humanities 2016: Conference Abstracts. Krakow, Poland, July 11-16, 2016, pp. 545-547.
+* **Johannes Hellrich** & Udo Hahn: [Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period](http://dh2016.adho.org/abstracts/144). In: *Digital Humanities 2016: Conference Abstracts*. Krakow, Poland, July 11-16, 2016, pp. 545-547.
 
-* Udo Hahn, Franz Matthies, Erik Faessler & **Johannes Hellrich**: UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP Pipelines. In: LREC 2016 - Proceedings of the Tenth International Conference on Language Resources and Evaluation. Portorož, Slovenia, 2016, pp. 2502-2509.
+* Udo Hahn, Franz Matthies, Erik Faessler & **Johannes Hellrich**: [UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf). In: *LREC 2016 - Proceedings of the Tenth International Conference on Language Resources and Evaluation*. Portorož, Slovenia, 2016, pp. 2502-2509.
 
-* **Johannes Hellrich** & Udo Hahn: Romantik im Wandel der Zeit - eine quantitative Untersuchung. In: DHd 2016, Modellierung - Vernetzung - Visualisierung, Die Digital Humanities als fächerübergreifendes Forschungsparadigma. Leipzig, Germany, March 7-12, 2016, pp. 325-326. [Poster]
+* **Johannes Hellrich** & Udo Hahn: [Romantik im Wandel der Zeit - eine quantitative Untersuchung](http://dhd2016.de/boa-large.pdf). In: *DHd 2016, Modellierung - Vernetzung - Visualisierung, Die Digital Humanities als fächerübergreifendes Forschungsparadigma*. Leipzig, Germany, March 7-12, 2016, pp. 325-326. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/dhd2016_poster_hellrich.pdf)
 
 #### 2015
 

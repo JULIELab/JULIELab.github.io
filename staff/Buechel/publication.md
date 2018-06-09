@@ -52,7 +52,7 @@ Johannes Hellrich, Stefan Schulz, Sven Buechel and Udo Hahn. 2015. JUFIT: A Conf
 
 Quantifizierung von Emotionen in historischer Sprache. Anwendungen und methodische Grundlagen ['Quantifying emotion in historical language. Applications and methodological foundations']. Invited talk at the graduate seminar of the FinkA research group (Prof. Stefan Strohschneider, Dr. Eva Schlindwein), Friedrich-Schiller-Universität Jena, January 24, 2018. [Slides]
 
-Quantifizierung von Emotionen in historischer Sprache ['Quantifying emotion in historical language']. Invited talk at Digital Humanities in Jena 2017, Jena, Germany, November 23, 2018´7.
+Quantifizierung von Emotionen in historischer Sprache ['Quantifying emotion in historical language']. Invited talk at Digital Humanities in Jena 2017, Jena, Germany, November 23, 2018 '7.
 
 On Resources for Emotion Analysis Incorporating Multiple Representation Formats and Perspectives. Invited talk at the National Research Council, Ottawa, Canada (Saif Mohammad), August 14, 2017.
 

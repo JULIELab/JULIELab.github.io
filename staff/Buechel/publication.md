@@ -10,7 +10,7 @@ layout: staff
 
 #### 2018
 
-Sebastian G.M. Händschke*, Sven Buechel*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for ECONLP @ ACL 2018.
+Sebastian G.M. Händschke\*, Sven Buechel\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for ECONLP @ ACL 2018.
 
 Sven Buechel and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for COLING 2018.
 
@@ -46,7 +46,7 @@ Sven Eric Büchel. 2016. Automatische Analyse von Emotionen in Geschäfts- und N
 
 Johannes Hellrich, Stefan Schulz, Sven Buechel and Udo Hahn. 2015. JUFIT: A Configurable Rule Engine for Filtering and Generating New Multilingual UMLS Terms. In AMIA Annual Symposium Proceedings. Volume 2015. San Francisco, California, USA, November 14-18, 2015, pages 604-610. [Paper]
 
-* Equal contribution
+\* Equal contribution
 
 #### Non-Archival Contributions
 

@@ -22,9 +22,10 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 * Basic Python knowledge
 
 ### Contact
-&nbsp;&nbsp;Benjamin Redling
-&nbsp;&nbsp;System administrator
+&nbsp;&nbsp;&nbsp;&nbsp;Benjamin Redling<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;System administrator
 
+&nbsp;&nbsp;
 &nbsp;&nbsp;| Email | benjamin.rampe@uni-jena.de |
 &nbsp;&nbsp;| Phone	| +49 3641 9-44323 |
 &nbsp;&nbsp;| Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |

@@ -22,6 +22,9 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 * Basic Python knowledge
 
 ### Contact
+<p margin-left:10px>&nbsp;&nbsp;Benjamin Redling<br/>
+&nbsp;&nbsp;System administrator</p>
+
 &nbsp;&nbsp;Benjamin Redling<br/>
 &nbsp;&nbsp;System administrator
 

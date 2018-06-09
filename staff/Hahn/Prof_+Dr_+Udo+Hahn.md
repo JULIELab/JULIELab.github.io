@@ -8,8 +8,9 @@ layout: staff
   <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
 </div>
 
-[[Research]](https://julielab.github.io/web/staff/Hahn/research.html)
-| [[Publications]](https://julielab.github.io/web/staff/Hahn/publication.html)
+[Overview] | 
+[[Research]](https://julielab.github.io/web/staff/Hahn/research.html) | 
+[[Publications]](https://julielab.github.io/web/staff/Hahn/publication.html)
 
 ### Contact details
 Prof. Dr. Udo Hahn<br/>

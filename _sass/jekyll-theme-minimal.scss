@@ -249,7 +249,7 @@ section a {
   text-decoration:underline;
 }
 
-section img {
+.portrait {
     float:right;
   }
 
@@ -353,8 +353,8 @@ footer1 {
     padding-bottom:20px;
   }
   
-  section img {
-    margin: 0 0 0 5x;
+  div.portrait {
+    float:none;
   }
   
   pre, code {
@@ -377,10 +377,6 @@ footer1 {
 @media print, screen and (max-width: 480px) {
   body {
     padding:20px;
-  }
-
-  section img {
-    float:none;
   }
 
   header ul {

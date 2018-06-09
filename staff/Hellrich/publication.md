@@ -2,9 +2,9 @@
 layout: staff
 ---
 
-# Sven Buechel: Full Publication List
+# Johannes Hellrich: Full Publication List
 
-[Back to Overview](https://julielab.github.io/web/staff/Buechel/Sven+Buechel.html)
+[Back to Overview](https://julielab.github.io/web/staff/Hellrich/Johannes+Hellrich.html)
 
 #### 2018
 

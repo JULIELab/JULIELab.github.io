@@ -42,13 +42,13 @@ layout: staff
 
 #### 2015
 
-* **Johannes Hellrich**, Stefan Schulz, Sven Buechel & Udo Hahn: JUFIT: A Configurable Rule Engine for Filtering and Generating New Multilingual UMLS Terms. In: AMIA Annual Symposium Proceedings 2015, 2015, pp. 604-610.
+* **Johannes Hellrich**, Stefan Schulz, Sven Buechel & Udo Hahn: [JUFIT: A Configurable Rule Engine for Filtering and Generating New Multilingual UMLS Terms](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765630/). In: *AMIA Annual Symposium Proceedings 2015*, 2015, pp. 604-610.
 
-* **Johannes Hellrich** & Udo Hahn: Adding Multilingual Terminological Resources to Parallel Corpora for Statistical Machine Translation Deteriorates System Performance: A Negative Result from Experiments in the Biomedical Domain. In: TSD 2015 - Text, Speech, and Dialogue, 18th International Conference. Pilsen, Czech Republic, September 14-17, 2015, pp. 506-514 (Lecture Notes in Computer Science, 9302).
+* **Johannes Hellrich** & Udo Hahn: [Adding Multilingual Terminological Resources to Parallel Corpora for Statistical Machine Translation Deteriorates System Performance: A Negative Result from Experiments in the Biomedical Domain](http://link.springer.com/chapter/10.1007%2F978-3-319-24033-6_57). In: *TSD 2015 - Text, Speech, and Dialogue, 18th International Conference*. Pilsen, Czech Republic, September 14-17, 2015, pp. 506-514 (Lecture Notes in Computer Science, 9302).
 
-* **Johannes Hellrich**, Franz Matthies, Erik Faessler & Udo Hahn: Sharing Models and Tools for Processing German Clinical Text. In: MIE 2015 - Digital Healthcare Empowering Europeans. 2015, pp. 734-738 (Studies in Health Technology and Informatics, 210).
+* **Johannes Hellrich**, Franz Matthies, Erik Faessler & Udo Hahn: [Sharing Models and Tools for Processing German Clinical Text](http://ebooks.iospress.nl/volumearticle/39444). In: *MIE 2015 - Digital Healthcare Empowering Europeans*. 2015, pp. 734-738 (Studies in Health Technology and Informatics, 210).
 
-* Jose Antonio Miñarro-Giménez, **Johannes Hellrich** & Stefan Schulz: Acquisition of Character Translation Rules for Supporting SNOMED CT Localizations. In:  MIE 2015 - Digital Healthcare Empowering Europeans. 2015, pp. 597-601 (Studies in Health Technology and Informatics, 210).
+* Jose Antonio Miñarro-Giménez, **Johannes Hellrich** & Stefan Schulz: [Acquisition of Character Translation Rules for Supporting SNOMED CT Localizations](http://ebooks.iospress.nl/volumearticle/39412). In: *MIE 2015 - Digital Healthcare Empowering Europeans*. 2015, pp. 597-601 (Studies in Health Technology and Informatics, 210).
 
 #### 2014
 

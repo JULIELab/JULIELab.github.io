@@ -15,8 +15,7 @@ Research |
 
 ### Projects Involved
 * STAKI2B2 (*Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking*)
-
-#### *finished*
+> *finished*
   * SMITH (*Smart Medical Information Technology for Healthcare*) [Pilot Phase]
 
 ### Teaching Experience

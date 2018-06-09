@@ -4,7 +4,9 @@ layout: staff
 
 # Stephanie Luther
 
-<img style="float:right" src="http://www.julielab.de/coling_multimedia/de/img/staff/Stephanie+Luther-width-200-height-182.png">
+<div class="portrait">
+  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/Stephanie+Luther-width-200-height-182.png">
+</div>
 
 I am the parental leave substitute for [Franz Matthies](https://julielab.github.io/web/staff/Matthies/Franz+Matthies.html).
 

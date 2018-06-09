@@ -4,14 +4,14 @@ layout: staff
 
 # Dr. Sascha Schäuble
 
+<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/sascha_scha%CC%88uble-width-185-height-242.jpeg">
+
 [Research]
 | [Publications]
 | [Contact]
 
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/sascha_scha%CC%88uble-width-185-height-242.jpeg">
-
 ### Contact details
-Dr. Sascha Schäuble
+Dr. Sascha Schäuble<br/>
 Postdoctoral Researcher
 
 #### Postal address

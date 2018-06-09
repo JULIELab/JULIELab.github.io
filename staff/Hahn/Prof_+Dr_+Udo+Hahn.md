@@ -4,11 +4,11 @@ layout: staff
 
 # Prof. Dr. Udo Hahn
 
+<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
+
 [Research]
 | [Publications]
 | [Contact]
-
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/udo_hahn-width-188-height-242.jpg">
 
 ### Contact details
 Prof. Dr. Udo Hahn<br/>

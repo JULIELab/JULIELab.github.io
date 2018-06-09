@@ -18,7 +18,7 @@ layout: staff
 
 * **Sven Buechel** and Udo Hahn. 2018. Representation Mapping: A Novel Approach to Generate High-Quality Multi-Lingual Emotion Lexicons. In *LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018*. Pages 184-191. [[Paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/402.pdf)] [[Code&Resources](https://github.com/JULIELab/EmoMap)]
 
-* Christina Lohr, **Sven Buechel**, and Udo Hahn. 2018. Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus. In *LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018*. Pages 1259-1266. [[Paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf)]
+* Christina Lohr, **Sven Buechel** and Udo Hahn. 2018. Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus. In *LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018*. Pages 1259-1266. [[Paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf)]
 
 #### 2017
 

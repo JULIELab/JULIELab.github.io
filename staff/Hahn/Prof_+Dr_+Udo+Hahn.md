@@ -9,7 +9,7 @@ layout: staff
 </div>
 
 [[Research]](https://julielab.github.io/web/staff/Hahn/research.html)
-| [[Publications]](https://julielab.github.io/web/staff/Hahn/research.html)
+| [[Publications]](https://julielab.github.io/web/staff/Hahn/publication.html)
 
 ### Contact details
 Prof. Dr. Udo Hahn<br/>

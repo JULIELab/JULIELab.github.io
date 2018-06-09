@@ -101,6 +101,14 @@ th, td {
   border-bottom:0px solid #e5e5e5;
 }
 
+td {
+  vertical-align: top;
+}
+
+th {
+  vertical-align: bottom;
+}
+
 dt {
   color:#444;
   font-weight:700;

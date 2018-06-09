@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: staff_tab
 ---
 
-# Staff_tab
+# Staff
 
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |

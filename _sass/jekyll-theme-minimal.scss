@@ -251,7 +251,7 @@ section a {
 
 .portrait {
     float:right;
-    margin:10px 10px 10px 10px;
+    margin:0 0 0 10px;
   }
 
 small {
@@ -356,6 +356,7 @@ footer1 {
   
   div.portrait {
     float:none;
+    margin:0 0 0 0;
   }
   
   pre, code {

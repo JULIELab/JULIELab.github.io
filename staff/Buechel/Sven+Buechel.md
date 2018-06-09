@@ -11,7 +11,8 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 [[Google Scholar](https://scholar.google.de/citations?user=Nwru9iwAAAAJ&hl=de)] |
 [[Researchgate](https://www.researchgate.net/profile/Sven_Buechel?ev=hdr_xprf&_sg=4upFSfeSCN9Idsn1cwroLK5_7bD0IiCpcAl3-Z25Xr164MVfOG6aYTsw0crE-OF8s0_fUCVQ96HJKwmkt65aguxZ)] |
 [[LinkedIn](https://www.linkedin.com/in/sven-buechel-28b8b0127/)]
-<br/>
+
+<br>
 
 ### Selected Publications
 * **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.

@@ -19,7 +19,6 @@ layout: default
 | [Stephanie Luther](https://julielab.github.io/web/staff/Luther/Stephanie+Luther.html) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Stephanie.Luther@uni-jena.de](mailto:Stephanie.Luther@uni-jena.de) | 44303 |
 | [Benjamin Redling](https://julielab.github.io/web/staff/Redling/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
-<br/>
 Fax of the group: +49 3641 9-44321
 
 <br>

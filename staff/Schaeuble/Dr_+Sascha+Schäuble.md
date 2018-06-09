@@ -4,7 +4,9 @@ layout: staff
 
 # Dr. Sascha Schäuble
 
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/sascha_scha%CC%88uble-width-185-height-242.jpeg">
+<div class="portrait">
+  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/sascha_scha%CC%88uble-width-185-height-242.jpeg">
+</div>
 
 [Research]
 | [Publications]

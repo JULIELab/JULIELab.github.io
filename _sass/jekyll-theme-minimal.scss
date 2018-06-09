@@ -71,10 +71,6 @@ a:hover small {
   margin:0 auto;
 }
 
-.portrait {
-  margin:0 0 0 5px;
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -253,6 +249,10 @@ section a {
   text-decoration:underline;
 }
 
+section img {
+    float:right;
+  }
+
 small {
   font-size:11px;
 }
@@ -353,6 +353,10 @@ footer1 {
     padding-bottom:20px;
   }
   
+  section img {
+    margin: 0 0 0 5x;
+  }
+  
   pre, code {
     word-wrap:normal;
   }
@@ -375,10 +379,10 @@ footer1 {
     padding:20px;
   }
 
-  div.portrait {
-    display:none;
+  section img {
+    float:none;
   }
-  
+
   header ul {
     width:99%;
   }

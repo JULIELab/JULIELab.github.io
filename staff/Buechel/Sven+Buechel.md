@@ -32,10 +32,10 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.
 
 ### Contact
-  Sven Buechel<br/>
-  Research Assistant
+Sven Buechel<br/>
+Research Assistant
 
-  | Email | sven.buechel@uni-jena.de |
-  | Phone | +49 3641 9-44324 |
-  | Postal Address | Fürstengraben 27<br/> 07743<br/> Jena<br/> Germany |
-  | Room | E 009 |
+| Email | sven.buechel@uni-jena.de |
+| Phone | +49 3641 9-44324 |
+| Postal Address | Fürstengraben 27<br/> 07743<br/> Jena<br/> Germany |
+| Room | E 009 |

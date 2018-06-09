@@ -18,13 +18,13 @@ layout: staff
 
 #### 2017
 
-* **Johannes Hellrich** & Udo Hahn: Don\'t Get Fooled by Word Embeddings-Better Watch their Neighborhood. In: Digital Humanities 2017. Montreal, Canada, August 8-11, 2017. pp. 250-252. [Slides]
+* **Johannes Hellrich** & Udo Hahn: [Don\'t Get Fooled by Word Embeddings-Better Watch their Neighborhood](https://dh2017.adho.org/abstracts/487/487.pdf). In: [*Digital Humanities 2017*](https://dh2017.adho.org/). Montreal, Canada, August 8-11, 2017. pp. 250-252. [[Slides]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_dh_2017_slides.pdf)
 
-* Sven Buechel, **Johannes Hellrich** & Udo Hahn: The Course of Emotion in Three Centuries of German Text-A Methodical Framework. In: Digital Humanities 2017. Montreal, Canada, August 8-11, 2017. pp. 176-179.
+* Sven Buechel, **Johannes Hellrich** & Udo Hahn: [The Course of Emotion in Three Centuries of German Text - A Methodical Framework](https://dh2017.adho.org/abstracts/491/491.pdf). In: [*Digital Humanities 2017*](https://dh2017.adho.org/). Montreal, Canada, August 8-11, 2017. pp. 176-179.
 
-* **Johannes Hellrich** & Udo Hahn: Exploring Diachronic Lexical Semantics with JeSemE. In: ACL 2017, System Demonstrations. Vancouver, Canada, July 30 - August 4, 2017, pp. 31-36. [Link to system]
+* **Johannes Hellrich** & Udo Hahn: [Exploring Diachronic Lexical Semantics with JeSemE](http://aclweb.org/anthology/P/P17/P17-4006.pdf). In: [*ACL 2017*](http://acl2017.org/), System Demonstrations. Vancouver, Canada, July 30 - August 4, 2017, pp. 31-36. [[Link to system]](http://jeseme.org/)
 
-* **Johannes Hellrich**, Franz Matthies & Udo Hahn: UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities. In: DHd 2017, Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281. [Poster]
+* **Johannes Hellrich**, Franz Matthies & Udo Hahn: [UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities](http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf). In: [*DHd 2017*](http://www.dhd2017.ch/), Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/dhd2017_poster_hellrich.pdf)
 
 #### 2016
 

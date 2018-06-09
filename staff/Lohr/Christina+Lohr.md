@@ -4,6 +4,8 @@ layout: staff
 
 # Christina Lohr
 
+<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/christina_lohr-width-156-height-202.jpg">
+
 ### Research Interests
 
 * Natural Language Processing with clinical contents

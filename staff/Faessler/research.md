@@ -18,7 +18,7 @@ Research |
 * JenAge BMBF Project ([http://www.jenage.de/](http://www.jenage.de/))
 
 ### Challenges
-* second rank at the "Shared Task for Event Extraction @BioNLP 2009",  JULIELab team
+* second rank at the \"Shared Task for Event Extraction @BioNLP 2009\",  JULIELab team
 
 ### Teaching Experience
 * Java Programming

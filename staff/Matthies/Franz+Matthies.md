@@ -4,7 +4,9 @@ layout: staff
 
 # Franz Matthies
 
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/franz_matthies-width-188-height-242.jpg">
+<div class="portrait">
+  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/franz_matthies-width-188-height-242.jpg">
+</div>
 
 [Research]
 | [Publications]

@@ -12,7 +12,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 [Researchgate](https://www.researchgate.net/profile/Sven_Buechel?ev=hdr_xprf&_sg=4upFSfeSCN9Idsn1cwroLK5_7bD0IiCpcAl3-Z25Xr164MVfOG6aYTsw0crE-OF8s0_fUCVQ96HJKwmkt65aguxZ) |
 [LinkedIn](https://www.linkedin.com/in/sven-buechel-28b8b0127/)
 
-### Selected Publications
+#### Selected Publications
 **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.
 
 **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018***.
@@ -25,7 +25,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 
 [Full Publication List]
 
-### Teaching Experience
+#### Teaching Experience
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
 * Computational Linguistics I, Fall 2016, Fall 2017.
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.

@@ -4,7 +4,9 @@ layout: staff
 
 # Johannes Hellrich
 
-<img style="float: right;" src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/johannes_hellrich-width-162-height-208-p-1279.jpeg">
+<div class="portrait">
+  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/johannes_hellrich-width-162-height-208-p-1279.jpeg">
+</div>
 
 My research is focussed on lexical semantics in diachronic and multilingual settings, transferring state-of-the-art computational linguistics methods into the Digital Humanities. I became a member of the DFG funded graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) in 2015, after working in the EU-funded [MANTRA](https://sites.google.com/site/mantraeu/) project.
 

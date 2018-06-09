@@ -42,7 +42,7 @@ Christina Lohr: [Sprachmodelladaption von CMU Sphinx für den Einsatz in der Med
 
 ### Contact
 
-| &nbsp;&nbsp;&nbsp;Email | [christina.lohr@uni-jena.de](mailto:christina.lohr@uni-jena.de) |
-| &nbsp;&nbsp;&nbsp;Phone	| +49 3641 9-44303 |
-| &nbsp;&nbsp;&nbsp;Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
-| &nbsp;&nbsp;&nbsp;Room	| Fürstengraben 27 E 007 |
+| &nbsp;Email | [christina.lohr@uni-jena.de](mailto:christina.lohr@uni-jena.de) |
+| &nbsp;Phone	| +49 3641 9-44303 |
+| &nbsp;Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
+| &nbsp;Room	| Fürstengraben 27 E 007 |

@@ -22,7 +22,7 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 * Basic Python knowledge
 
 ### Contact
-<p margin-left:50px>Benjamin Redling<br/>
+<p {margin-left:50px;}>Benjamin Redling<br/>
 System administrator</p>
 
 &nbsp;&nbsp;Benjamin Redling<br/>

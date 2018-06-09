@@ -20,7 +20,7 @@ layout: staff
 
 ### Publications
 
-####2018
+#### 2018
 
 Christina Lohr, Sven Buechel, and Udo Hahn. 2018. [Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf). In: LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7 - 12, 2018. Pages 1259 -1266. [[Code](https://github.com/julielab/jsyncc)] [[Poster](http://www.julielab.de/coling_multimedia/de/downloads/posters/Poster_LREC_JSYNCC_pdf.pdf)]
 

@@ -23,32 +23,18 @@ Fax of the group: +49 3641 9-44321
 
 ## Alumni
 
-Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))
-
-Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))
-
-Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))
-
-Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))
-
-Dr. Katja Markert ([Natural Language Group, School of Computing, University of Leeds](http://www.comp.leeds.ac.uk/markert/))
-
-Dr. Kornél Markó ([Averbis](http://www.averbis.de/))
-
-Dr. Peter Neuhaus ([General Electric (GE) Energy](http://www.ge.com/de/home/))
-
-Dr. Martin Romacker ([Novartis Pharma AG, NITAS, Text Mining Services, Basel](http://www.novartis.ch/))
-
-Dr. Susanne Schacht (-)
-
-Dr. Holger Schauer ([TF Sprachtechnologie BDNM GmbH, Mannheim](http://www.bi-media.de/))
-
-Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/index.php?id=schnattinger))
-
-Prof. Dr. Steffen Staab ([Direktor des Web Science and Technologies (WeST) Instituts, Institut für Informatik, Universität Koblenz-Landau](http://www.uni-koblenz.de/~staab/))
-
-Dr. Michael Strube ([Heidelberg Institute for Theoretical Studies [HITS]](http://www.h-its.org/english/homes/strube/index.php))
-
-Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)
-
+Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
+Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
+Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
+Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))<br/>
+Dr. Katja Markert ([Natural Language Group, School of Computing, University of Leeds](http://www.comp.leeds.ac.uk/markert/))<br/>
+Dr. Kornél Markó ([Averbis](http://www.averbis.de/))<br/>
+Dr. Peter Neuhaus ([General Electric (GE) Energy](http://www.ge.com/de/home/))<br/>
+Dr. Martin Romacker ([Novartis Pharma AG, NITAS, Text Mining Services, Basel](http://www.novartis.ch/))<br/>
+Dr. Susanne Schacht (-)<br/>
+Dr. Holger Schauer ([TF Sprachtechnologie BDNM GmbH, Mannheim](http://www.bi-media.de/))<br/>
+Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/index.php?id=schnattinger))<br/>
+Prof. Dr. Steffen Staab ([Direktor des Web Science and Technologies (WeST) Instituts, Institut für Informatik, Universität Koblenz-Landau](http://www.uni-koblenz.de/~staab/))<br/>
+Dr. Michael Strube ([Heidelberg Institute for Theoretical Studies [HITS]](http://www.h-its.org/english/homes/strube/index.php))<br/>
+Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
 Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))

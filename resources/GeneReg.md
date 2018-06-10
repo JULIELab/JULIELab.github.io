@@ -4,63 +4,12 @@ layout: default
 
 [<< Back to all resources](index.html)
 
-# JULIE Component Repository (JCoRe) 2.0
+# GeneReg
 
-For a brief overview on how to use our components, please refer to the [JCoRe Base Readme](https://github.com/JULIELab/jcore-base/blob/master/README.md). For a more in-depth description (still work in progress) you can consult the following manuals:
+The GeneReg corpus consists of 314 Medline abstracts dealing with the regulation of gene expression in the model organism E. coli. The regulation of gene expression can be described as the process that modulates the frequency, rate or extent of gene expression. During gene expression, the coding sequence of a gene is converted into a mature gene product or products, namely proteins or RNA (taken from the definition of the Gene Ontology class Regulation of Gene Expression, GO:0010468). GeneReg provides three types of semantic annotations: named entities involved in gene regulatory processes, such as transcription factors and genes, pairwise relations between regulators and regulated genes, and event triggers (clue verbs) essential for the description of, e.g., gene expression and gene regulation events. For all three annotation levels, the annotation vocabulary was taken from the Gene Regulation Ontology ([GRO](http://www.obofoundry.org/cgi-bin/detail.cgi?id=gene_regulation)).
 
-* [User's Manual](https://github.com/JULIELab/jcore-base/wiki)
-* [Developer's Manual](https://github.com/JULIELab/jcore-parent-pom/wiki)
-* [Full Text](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf) (Conference Paper: LREC 2016)
+Download the [GeneReg corpus](http://www.julielab.de/coling_multimedia/de/downloads/corpora/GeneReg_tar.gz) (.tar.gz, 290K)
 
-### Type Systems
-
-* [JULIE Type System](https://github.com/JULIELab/jcore-base/tree/master/jcore-types)
-* [Mantra XML Types](https://github.com/JULIELab/jcore-base/tree/master/jcore-mantra-xml-types)
-
-### Collection Readers
-
-* [ACE Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-ace-reader)
-* [BioNLP ST Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-bionlp09event-reader)
-* [DTA Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-dta-reader)
-* [File Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-file-reader)
-* [IEXML/Mantra Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-iexml-reader)
-* [MUC7 Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-muc7-reader)
-* [XML Reader](https://github.com/JULIELab/jcore-base/tree/master/jcore-xml-reader)
-
-### Analysis Engines
-
-* [JULIE Sentence Segmenter](https://github.com/JULIELab/jcore-base/tree/master/jcore-jsbd-ae) (JSBD)
-* [OpenNLP Sentence Segmenter](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-sentence-ae)
-* [JULIE Token Segmenter](https://github.com/JULIELab/jcore-base/tree/master/jcore-jtbd-ae) (JTBD)
-* [OpenNLP Token Segmenter](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-token-ae)
-* [Acronym Resolution](https://github.com/JULIELab/jcore-base/tree/master/jcore-acronym-ae)
-* [Gazetteer](https://github.com/JULIELab/jcore-base/tree/master/jcore-lingpipegazetteer-ae) (Lingpipe)
-* [Stanford Lemmatizer](https://github.com/JULIELab/jcore-base/tree/master/jcore-stanford-lemmatizer)
-* [JULIE POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jpos-ae) (JPOS)
-* [OpenNLP POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-postag-ae)
-* [OpenNLP Chunker](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-chunk-ae)
-* [MST Dependency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-mstparser-ae)
-* [OpenNLP Constituency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-parser-ae)
-* [JULIE Named Entity Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jnet-ae) (JNET)
-* [JULIE Coordination Baseline](https://github.com/JULIELab/jcore-base/tree/master/jcore-coordination-baseline-ae)
-* [Relation Extractor](https://github.com/JULIELab/jcore-base/tree/master/jcore-biosem-ae)
-
-### CAS Consumers
-
-* [BioNLP ST Consumer](https://github.com/JULIELab/jcore-base/tree/master/jcore-bionlp09event-consumer)
-* [CAS2IOB Consumer](https://github.com/JULIELab/jcore-base/tree/master/jcore-cas2iob-consumer)
-* [IEXML/Mantra Consumer](https://github.com/JULIELab/jcore-base/tree/master/jcore-iexml-consumer)
-* [XMI Writer](https://github.com/JULIELab/jcore-base/tree/master/jcore-xmi-writer)
-
-### Pipelines
-
-* [BioSEM Event Annotation](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-relation-extraction-pipeline) (ST11 Model)
-* [Named Entity Recognition](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-named-entity-pipeline) (BioMedical)
-* [Part-of-Speech Tagger](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-medical-pos-pipeline) (Medical)
-
-
-### Other
-
-* [Jena UMLS Filter](https://github.com/JULIELab/jufit) (JUFIT)
-* [Bibliography Management Tool](https://github.com/JULIELab/bibliographie)
-* [Jena Emotion Analysis System](https://github.com/JULIELab/JEmAS) (JEmAS)
+#### Publications:
+* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. __The GeneReg Corpus for Gene Expression Regulation Events - An Overview of the Corpus and its In-Domain and Out-of-Domain Interoperability__. In *Proceedings of the 7thInternational Conference on Language Resources and Evaluation (LREC 2010)*, May 2010.
+* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. __Testing Different ACE-Style Feature Sets for the Extraction of Gene Regulation Relations from Medline Abstracts__. In *Proceedings of the Third International Symposium on Semantic Mining in Biomedicine (SMBM 2008)*, September 2008.

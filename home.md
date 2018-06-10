@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - http://google.com
+  - news.md
 ---

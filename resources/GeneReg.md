@@ -13,5 +13,5 @@ The GeneReg corpus consists of 314 Medline abstracts dealing with the regulation
 Download the [GeneReg corpus](http://www.julielab.de/coling_multimedia/de/downloads/corpora/GeneReg_tar.gz) (.tar.gz, 290K)
 
 #### Publications:
-* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. __The GeneReg Corpus for Gene Expression Regulation Events - An Overview of the Corpus and its In-Domain and Out-of-Domain Interoperability__. In *Proceedings of the 7thInternational Conference on Language Resources and Evaluation (LREC 2010)*, May 2010.
-* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. __Testing Different ACE-Style Feature Sets for the Extraction of Gene Regulation Relations from Medline Abstracts__. In *Proceedings of the Third International Symposium on Semantic Mining in Biomedicine (SMBM 2008)*, September 2008.
+* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. <u>The GeneReg Corpus for Gene Expression Regulation Events - An Overview of the Corpus and its In-Domain and Out-of-Domain Interoperability</u>. In *Proceedings of the 7thInternational Conference on Language Resources and Evaluation (LREC 2010)*, May 2010.
+* Ekaterina Buyko, Elena Beisswanger and Udo Hahn. <u>Testing Different ACE-Style Feature Sets for the Extraction of Gene Regulation Relations from Medline Abstracts</u>. In *Proceedings of the Third International Symposium on Semantic Mining in Biomedicine (SMBM 2008)*, September 2008.

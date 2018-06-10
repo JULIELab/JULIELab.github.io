@@ -8,7 +8,6 @@ layout: default
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
 Former | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
-
 <br/>
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)

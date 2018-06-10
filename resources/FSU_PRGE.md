@@ -6,6 +6,8 @@ layout: default
 
 [<< Back to all resources](index.html)
 
+<br>
+
 The **FSU** **PR**otein **GE**ne corpus was developed at the JULIE Lab Jena under supervision of Prof. Udo Hahn.<br/>
 The executing scientist was Dr. Joachim Wermter.<br/>
 The main annotator was Dr. Rico Pusch who is an expert in biology.<br/>

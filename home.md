@@ -1,3 +1,4 @@
 ---
-Redirect: http://google.com
+redirect_to:
+  - http://google.com
 ---

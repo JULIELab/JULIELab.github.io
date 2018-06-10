@@ -1,1 +1,1 @@
-{redirect target="news.md"}
+{redirect target="http://gooogle.com"}

@@ -6,6 +6,8 @@ layout: default
 
 [<< Back to all resources](index.html)
 
+<br>
+
 For a brief overview on how to use our components, please refer to the [JCoRe Base Readme](https://github.com/JULIELab/jcore-base/blob/master/README.md). For a more in-depth description (still work in progress) you can consult the following manuals:
 
 * [User's Manual](https://github.com/JULIELab/jcore-base/wiki)

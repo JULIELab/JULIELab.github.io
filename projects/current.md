@@ -9,7 +9,7 @@ Current |
 [[Former]](https://julielab.github.io/web/projects/former.html) | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
 
-<img style="margin-top:10px" src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png" />
+<img style="margin-top:15px" src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png" />
 
 The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare), founded by German Federal Ministry of Education and Research (BMBF). The project start is January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
 

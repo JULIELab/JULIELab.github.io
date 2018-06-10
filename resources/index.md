@@ -12,6 +12,8 @@ For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@li
 
 [GeneReg](GeneReg.html) - abstracts dealing with the regulation of gene expression in the model organism E. coli
 
+[FSU-PRGE](FSU_PRGE.html) - The FSU PRotein GEne corpus
+
 ### Software
 
 [JCoRe NLP tool suite](JCoRe.html) - for the application purposes of semantic search, information extraction and text mining

@@ -8,8 +8,8 @@ layout: default
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
 Former | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
-<br/>
 
+<br/>
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
 
 The [European Commision](http://ec.europa.eu/) is funding project for [Multilingual Annotation of Named Entities and Terminology Resources Acquisition](https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research](http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research endeavour of researchers from several academic institutions across Europe.

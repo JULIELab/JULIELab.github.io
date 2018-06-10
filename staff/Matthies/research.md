@@ -14,13 +14,13 @@ Research |
 * Eye Tracking
 
 ### Projects Involved
-* STAKI2B2 (*Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking*)
+* STAKI<sup>2</sup>B<sup>2 (*Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking*)
 * ***finished***
   * SMITH (*Smart Medical Information Technology for Healthcare*) [Pilot Phase]
 
 ### Teaching Experience
 * Introduction to Computational Linguistics
 * Advanced Topics of Computational Linguistics
-* Introduction to "Digital Humanities"
+* Introduction to \"Digital Humanities\"
 * Text Analysis with Python
 * Tutoring Basic Programming for NLP

@@ -35,7 +35,7 @@ layout: default
 
 #### Nov '17: new team members, guest scientists, paper accepted, invited talks
 
-* We welcome our new colleagues, [Stephanie Luther](/staff/Luther/index.md) and Bernd Kampe.
+* We welcome our new colleagues, [Stephanie Luther](/staff/Luther/) and Bernd Kampe.
 * We welcome our two guest scientists, [Maria Moritz](http://www.etrap.eu/thesis-students/) and [Elisabeth Eder](https://www.aau.at/team/eder-elisabeth/).
 * Submission by Johannes Hellrich, [Alexander Stöger](http://www.modellromantik.uni-jena.de/index.php/beteiligte/kollegiatinnen/alexander-stoger/?lang=de) and Udo Hahn on using word embeddings for investigating the history of science accepted at [DHd 2018](http://dhd2018.uni-koeln.de/).
 * Invited talks by Johannes Hellrich and Sven Buechel at the ["Thementag Digital Humanities in Jena"](https://www.db-thueringen.de/receive/dbt_mods_00033310) conference organized by [DHnet](http://dhnet.uni-jena.de/index.php?id=124).
@@ -74,7 +74,7 @@ layout: default
 
 #### Oct '16: new team member, papers accepted
 
-* We welcome our new colleague, [Christina Lohr](/staff/ChristinaLohr/index.md)!
+* We welcome our new colleague, [Christina Lohr](/staff/ChristinaLohr/)!
 * "Feelings from the Past-Adapting Affective Lexicon for Historical Emotion Analysis" by Sven Buechel, Johannes Hellrich and Udo Hahn was accepted at [LT4DH COLING 2016 workshop](https://www.clarin-d.net/en/current-issues/lt4dh).
 * "Selecting and Tailoring Ontologies with joyce" demo from Erik Faessler, Udo Hahn and the [INFRA1 team of the AuqaDiva collaborative research center](http://www.aquadiva.uni-jena.de/Projects/INFRA1.html) was accepted at [EKAW 2016.](http://ekaw2016.cs.unibo.it)
 
@@ -89,7 +89,7 @@ layout: default
 
 #### Apr '16: new team member
 
-* We welcome our new colleague, [Sven Buechel](/staff/Buechel/index.md).
+* We welcome our new colleague, [Sven Buechel](/staff/Buechel/).
 
 #### Mar '16: paper accepted
 

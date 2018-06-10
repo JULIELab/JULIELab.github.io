@@ -9,7 +9,7 @@ layout: default
 [[Former]](https://julielab.github.io/web/projects/former.html) | 
 UIMA
 
-<h2><img style="margin-top:50" src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
+<h2><img style="margin-top:50px" src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
 
 Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:
 

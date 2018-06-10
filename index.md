@@ -1,7 +1,7 @@
 ---
 layout: default
 redirect_from:
-  - index.md
+  - home.md
 ---
 
 # About Us

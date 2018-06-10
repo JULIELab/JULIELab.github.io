@@ -9,9 +9,9 @@ layout: staff
 Publications
 
 #### 2017
-* **Franz Matthies** & Udo Hahn: _Scholarly Information Extraction is Going to Make a Quantum Leap with PubMed Central (PMC)® - But Moving from Abstracts to Full Texts Seems Harder than Expected_. In: [MedInfo 2017](http://medinfo2017.medmeeting.org/en) [Best Paper!].
+* **Franz Matthies** & Udo Hahn: <u>Scholarly Information Extraction is Going to Make a Quantum Leap with PubMed Central (PMC)® - But Moving from Abstracts to Full Texts Seems Harder than Expected</u>. In: [MedInfo 2017](http://medinfo2017.medmeeting.org/en) [Best Paper!].
 
-* Johannes Hellrich, **Franz Matthies** & Udo Hahn: _UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities_. In: [Dhd2017](http://www.dhd2017.ch/), Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281.
+* Johannes Hellrich, **Franz Matthies** & Udo Hahn: <u>UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities</u>. In: [Dhd2017](http://www.dhd2017.ch/), Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281.
 
 #### 2016
 * Udo Hahn, **Franz Matthies**, Erik Faessler and Johannes Hellrich: [UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf). In: Nicoletta Calzolari (Conference Chair), Khalid Choukri, Thierry Declerck, Marko Grobelnik, Bente Maegaard, Joseph Mariani, Asuncion Moreno, Jan Odijk, Stelios Piperidis (Eds.): Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, 2016, pp. 2502-2509.

@@ -127,6 +127,8 @@ The **LREC 2008 UIMA Workshop**
 
 [The IBM Innovation Award 2008](http://www.ibm.com/developerworks/university/innovation/uia.html)
 
+------------------------------------------------------------------------
+
 All | 
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
 [[Former]](https://julielab.github.io/web/projects/former.html) | 

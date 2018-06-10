@@ -4,7 +4,7 @@ layout: staff
 
 # Sven Buechel: Full Publication List
 
-[<< Back to Overview](https://julielab.github.io/web/staff/Buechel/Sven+Buechel.html)
+[<< Back to Overview](index.html)
 
 #### 2018
 

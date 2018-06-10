@@ -26,10 +26,3 @@ Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL)
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png)
 
 The JULIE Lab is member of the AquaDiva project INFRA1. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).
-
-------------------------------------------------------------------------
-
-[[All]](https://julielab.github.io/web/projects/) | 
-Current | 
-[[Former]](https://julielab.github.io/web/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/web/projects/UIMA.html)

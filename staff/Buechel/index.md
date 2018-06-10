@@ -1,3 +1,3 @@
 ---
-redirect_to: "Sven+Buechel.html"
+redirect_to: "/staff/Buechel/Sven+Buechel.html"
 ---

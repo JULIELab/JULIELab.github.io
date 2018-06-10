@@ -11,7 +11,7 @@ UIMA
 
 <h2 style="margin-top:40px; margin-bottom:30px"><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
 
-Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:
+Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:<br/>
 
 **Software**
 

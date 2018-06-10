@@ -38,7 +38,7 @@ In February 2009, Fredrik Olsson (SICS, Schweden) and Katrin Tomanek arranged a 
 
 The results of the survey were presented at the Workshop on Active Learning for NLP at NAACL, June 2009 and are published in the workshop proceedings:
 
-Katrin Tomanek and Fredrik Olsson. [A Web Survey on the Use of Active Learning to support Annotation of Text Data](). *Proc. Workshop on Active Learning for NLP at NAACL 2009*, 2009. [[bib](http://aclweb.org/anthology-new/W/W09/W09-1906.bib)] [[pdf](http://aclweb.org/anthology-new/W/W09/W09-1906.pdf)]
+Katrin Tomanek and Fredrik Olsson. _A Web Survey on the Use of Active Learning to support Annotation of Text Data_. *Proc. Workshop on Active Learning for NLP at NAACL 2009*, 2009. [[bib](http://aclweb.org/anthology-new/W/W09/W09-1906.bib)] [[pdf](http://aclweb.org/anthology-new/W/W09/W09-1906.pdf)]
 
 The survey data can be downloaded here:
 * plain survey as presented to the participants [PDF](http://www.julielab.de/coling_multimedia/de/downloads/AL+Survey/survey_plain.pdf)

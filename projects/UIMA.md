@@ -13,8 +13,6 @@ UIMA
 
 Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:
 
-<br/>
-
 **Software**
 
 [NLP Components for UIMA](http://www.julielab.de/resources.html)

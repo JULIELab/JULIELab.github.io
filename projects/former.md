@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 
-[[All]](https://julielab.github.io/web/projects/) | 
+[[All]](https://julielab.github.io/web/projects/all.html) | 
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
 Former | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
@@ -79,7 +79,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-[[All]](https://julielab.github.io/web/projects/) | 
+[[All]](https://julielab.github.io/web/projects/all.html) | 
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
 Former | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)

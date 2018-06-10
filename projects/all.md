@@ -9,7 +9,7 @@ All |
 [[Former]](https://julielab.github.io/web/projects/former.html) | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
 
-<h2 style="margin-top=20px">Current Projects</h2>
+<h2 style="margin-top=40px">Current Projects</h2>
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png)
 

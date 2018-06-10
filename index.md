@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: "home.html"
 ---
 
 # About Us

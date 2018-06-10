@@ -1,1 +1,3 @@
-redirect target="http://gooogle.com"
+---
+Redirect: http://google.com
+---

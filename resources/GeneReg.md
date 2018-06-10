@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[<< Back to all resources](index.html)
+[<< Back to all resources](index.html)<br/>
 
 # GeneReg
 

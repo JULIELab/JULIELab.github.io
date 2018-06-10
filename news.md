@@ -35,7 +35,7 @@ layout: default
 
 #### Nov '17: new team members, guest scientists, paper accepted, invited talks
 
-* We welcome our new colleagues, [Stephanie Luther](staff/Luther/Stephanie+Luther.html) and Bernd Kampe.
+* We welcome our new colleagues, [Stephanie Luther](/staff/Luther/Stephanie+Luther.html) and Bernd Kampe.
 * We welcome our two guest scientists, [Maria Moritz](http://www.etrap.eu/thesis-students/) and [Elisabeth Eder](https://www.aau.at/team/eder-elisabeth/).
 * Submission by Johannes Hellrich, [Alexander Stöger](http://www.modellromantik.uni-jena.de/index.php/beteiligte/kollegiatinnen/alexander-stoger/?lang=de) and Udo Hahn on using word embeddings for investigating the history of science accepted at [DHd 2018](http://dhd2018.uni-koeln.de/).
 * Invited talks by Johannes Hellrich and Sven Buechel at the ["Thementag Digital Humanities in Jena"](https://www.db-thueringen.de/receive/dbt_mods_00033310) conference organized by [DHnet](http://dhnet.uni-jena.de/index.php?id=124).

@@ -9,8 +9,7 @@ All |
 [[Former]](https://julielab.github.io/web/projects/former.html) | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
 
-Current Projects
-----------------
+## Current Projects
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png)
 
@@ -18,7 +17,7 @@ The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformat
 
 ------------------------------------------------------------------------
 
-## STAKI<sup>2</sup>B<sup>2</sup>
+### STAKI<sup>2</sup>B<sup>2</sup>
 
 Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of Jena University Hospital](http://www.ikcl.uniklinikum-jena.de/IKCL.html), [Technologie- und Methodenplattform für die vernetzte medizinische Forschung (TMF)](http://www.tmf-ev.de/) and [Central service provider for information technology (IT) services to the University Hospital of Jena](http://www.gbit.uniklinikum-jena.de/GB+IT.html), the JULIE Lab is member of the DFG founded project "Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking". The goal of the project consists of the detection of entities and their information to collect compare collective for more quantitative biobanking.
 
@@ -32,9 +31,9 @@ The JULIE Lab is member of the AquaDiva project INFRA1. For the details of the p
 
 <br>
 
-Former Projects 
-----------------
+## Former Projects 
 
+<br/>
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
 
 The [European Commision](http://ec.europa.eu/) is funding project for [Multilingual Annotation of Named Entities and Terminology Resources Acquisition](https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research](http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research endeavour of researchers from several academic institutions across Europe.
@@ -89,7 +88,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-<h2><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png" /> Semantic Interoperability and Data Mining in Biomedicine</h2>
+<h3><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SemanticMining-width-31-height-35.png" /> Semantic Interoperability and Data Mining in Biomedicine</h2>
 
 [Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505). Its goal was to establish Europe as the international scientific leader in medical and biomedical informatics. The long-term goal of the network will be the development of generic methods and tools supporting the critical tasks of the field; data mining, knowledge discovery, knowledge representation, abstraction and indexing of information, semantic-based information retrieval in a complex and high-dimensional information space, and knowledge-based adaptive systems for provision of decision support for dissemination of evidence-based medicine.
 
@@ -97,7 +96,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-<h2><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png" /> Morphosaurus </h2>
+<h3><img src="http://julielab.de/coling_multimedia/de/img/Projects/projects_Morphosaurus-width-62-height-55.png" /> Morphosaurus </h2>
 
 [Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the Department of Medical Informatics in Freiburg, Germany, developed in cooperation with the JULIE Lab and the Health Technology Master Program of Parana Catholic University in Curitiba, Brasil. The project was mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1 and 5-2.
 
@@ -105,7 +104,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-<h2><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
+<h3><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
 
 Since 2006, the JULIE Lab employs UIMA. For more information about our work in context of UIMA check these links:
 

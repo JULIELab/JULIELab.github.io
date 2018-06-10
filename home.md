@@ -1,1 +1,1 @@
-{redirect target="news.html"}
+{redirect target="news.md"}

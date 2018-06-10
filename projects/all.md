@@ -9,8 +9,7 @@ All |
 [[Former]](https://julielab.github.io/web/projects/former.html) | 
 [[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
 
-<br/>
-## Current Projects
+<h2 style="margin-top=20px">Current Projects</h2>
 
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png)
 
@@ -30,7 +29,6 @@ The JULIE Lab is member of the AquaDiva project INFRA1. For the details of the p
 
 ------------------------------------------------------------------------
 
-<br>
 
 ## Former Projects 
 

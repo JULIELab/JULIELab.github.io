@@ -1,3 +1,3 @@
 ---
-redirect_to: "/index.html"
+alias: "/index.html"
 ---

@@ -6,10 +6,10 @@ layout: default
 
 [[All]](https://julielab.github.io/web/projects/all.html) | 
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
-[[Former]](https://julielab.github.io/web/projects/former.html) |
-
+[[Former]](https://julielab.github.io/web/projects/former.html) | 
 UIMA
-----------------
+
+<br/>
 
 <h2><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>
 

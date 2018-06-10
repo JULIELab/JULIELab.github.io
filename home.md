@@ -1,4 +1,3 @@
 ---
-redirect_to:
-  - index.md
+redirect_to: index.html
 ---

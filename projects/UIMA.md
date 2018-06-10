@@ -6,7 +6,8 @@ layout: default
 
 [[All]](https://julielab.github.io/web/projects/all.html) | 
 [[Current]](https://julielab.github.io/web/projects/current.html) | 
-[[Former]](https://julielab.github.io/web/projects/former.html) | 
+[[Former]](https://julielab.github.io/web/projects/former.html) |
+
 UIMA
 ----------------
 

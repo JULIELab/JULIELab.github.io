@@ -1,3 +1,3 @@
 ---
-redirect_to: "Erik+Fäßler.html"
+redirect_to: "/staff/Faessler/Erik+Fäßler.html"
 ---

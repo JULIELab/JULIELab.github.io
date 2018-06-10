@@ -24,6 +24,6 @@ GeNo - system for gene name normalization
 
 All models that we provide are integrated in our JCoRe tool set. However, some of them might be usable outside of JCoRe.
 
-Please find the respective JCoRe repository on our GitHub page.
+Please find the respective JCoRe repository on our [GitHub page](https://github.com/JULIELab/jcore-projects).
 
 The appropriate models are then stored under **src/main/resources/de/julielab/jcore/ae/.../model/** if you want to download them separately.

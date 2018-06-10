@@ -1,1 +1,1 @@
-{redirect target="http://gooogle.com"}
+redirect target="http://gooogle.com"

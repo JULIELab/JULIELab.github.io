@@ -1,7 +1,6 @@
 ---
 layout: default
-redirect_from:
-  - home.md
+redirect_from: home.html
 ---
 
 # About Us

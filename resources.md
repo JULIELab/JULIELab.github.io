@@ -44,7 +44,6 @@ For a brief overview on how to use our components, please refer to the [JCoRe Ba
 * [JULIE POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jpos-ae) (JPOS)
 * [OpenNLP POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-postag-ae)
 * [OpenNLP Chunker](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-chunk-ae)
-* [MST Dependency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-mstparser-ae)
 * [OpenNLP Constituency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-parser-ae)
 * [JULIE Named Entity Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jnet-ae) (JNET)
 * [JULIE Coordination Baseline](https://github.com/JULIELab/jcore-base/tree/master/jcore-coordination-baseline-ae)

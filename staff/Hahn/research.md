@@ -67,8 +67,8 @@ Research |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**since 2004** | Full Professor for computational linguistics (University Jena) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1990-2004** | Associate Professor for language informatics (University Freiburg) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987-1990** | Assistant Professor for computer science (University Passau) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987** | Doctoral Degree in information science (University Konstanz) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1980** | Master Degree in linguistics (University Mainz) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1987**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Doctoral Degree in information science (University Konstanz) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1980**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Master Degree in linguistics (University Mainz) |
 
 ## Academic Prizes
 

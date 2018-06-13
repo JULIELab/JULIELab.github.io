@@ -3,19 +3,19 @@ layout: default
 ---
 
 # Imprint
-
+<br/>
 ![Branching](/assets/img/location.jpg)
 
 ### Institution
-Friedrich - Schiller - Universtität Jena
-Philosophische Fakultät
-Institut für Germanistische Sprachwissenschaft
+Friedrich - Schiller - Universtität Jena<br/>
+Philosophische Fakultät<br/>
+Institut für Germanistische Sprachwissenschaft<br/>
 Lehrstuhl für Angewandte Sprachwissenschaft / Computerlinguistik
 
 ### Anschrift
-Lehrstuhl für Angewandte Sprachwissenschaft / Computerlinguistik
-Friedrich - Schiller - Universität Jena
-Fürstengraben 30
+Lehrstuhl für Angewandte Sprachwissenschaft / Computerlinguistik<br/>
+Friedrich - Schiller - Universität Jena<br/>
+Fürstengraben 30<br/>
 D-07743 Jena
 
 ### Lehrstuhlinhaber

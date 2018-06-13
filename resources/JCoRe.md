@@ -2,14 +2,11 @@
 layout: default
 ---
 
-# Resources
+# JULIE Component Repository (JCoRe) 2.0
+
+[<< Back to all resources](index.html)
 
 <br>
-
-Here you find the resources which we offer for download.
-For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@listserv.uni-jena.de)
-
-### JULIE Component Repository (JCoRe) 2.0
 
 For a brief overview on how to use our components, please refer to the [JCoRe Base Readme](https://github.com/JULIELab/jcore-base/blob/master/README.md). For a more in-depth description (still work in progress) you can consult the following manuals:
 
@@ -44,6 +41,7 @@ For a brief overview on how to use our components, please refer to the [JCoRe Ba
 * [JULIE POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jpos-ae) (JPOS)
 * [OpenNLP POS Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-postag-ae)
 * [OpenNLP Chunker](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-chunk-ae)
+* [MST Dependency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-mstparser-ae)
 * [OpenNLP Constituency Parser](https://github.com/JULIELab/jcore-base/tree/master/jcore-opennlp-parser-ae)
 * [JULIE Named Entity Tagger](https://github.com/JULIELab/jcore-base/tree/master/jcore-jnet-ae) (JNET)
 * [JULIE Coordination Baseline](https://github.com/JULIELab/jcore-base/tree/master/jcore-coordination-baseline-ae)

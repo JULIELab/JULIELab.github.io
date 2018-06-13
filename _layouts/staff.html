@@ -22,52 +22,66 @@
   input, textarea {
     width: 100%;
   }
+	  
+  footer {
+    top:305px;
+  }	  
   </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
-	<img src="{{site.logo | relative_url}}" alt="Logo" />
-	<nav><big>
+	<!--<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>-->
+	      <a href="/web/index.html"><img src="{{site.logo | relative_url}}" alt="http://www.julielab.de" /></a>
+	<nav>
 	<br>
-	<a href="/index.html">About Us</a>
+	<a href="/web/staff/Hahn/Prof_+Dr_+Udo+Hahn.html">Prof. Dr. Udo Hahn</a>
 	<br>
-	<a href="/news.html">Lab News</a>
+	<a href="/web/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html">Dr. Sascha Schäuble</a>
 	<br>
-	<a href="/projects.html">Projects</a>
+	<a href="/web/staff/Buechel/Sven+Buechel.html">Sven Buechel</a>
 	<br>
-	<a href="/staff.html">Staff</a>
+	<a href="/web/staff/Faessler/Erik+F%C3%A4%C3%9Fler.html">Erik Fäßler</a>
 	<br>
-	<a href="/students.html">Students</a>
+	<a href="/web/staff/Hellrich/Johannes+Hellrich.html">Johannes Hellrich</a>
 	<br>
-	<a href="/resources.html">Resources</a>
+	<a href="/web/staff/Matthies/Franz+Matthies.html">Franz Matthies</a>
 	<br>
-	<a href="/jobs.html">Jobs</a>
+	<a href="/web/staff/Modersohn/Luise+Modersohn.html">Luise Modersohn</a>
 	<br>
-	<a href="/contact.html">Contact</a>
+	<a href="/web/staff/Kampe/Bernd+Kampe.html">Bernd Kampe</a>
 	<br>
-	<a href="/imprint.html">Imprint</a>
-	</big></nav>
-
-      </header>    
-
-      <section>
-      
-      <navi>
-        &raquo; <a href="/index.html">JULIE Lab</a> &raquo; <a href="/staff.html">Staff</a>
-      </navi>
-	      
-      {{ content }}
-
-      </section>
+	<a href="/web/staff/Kolditz/Tobias+Kolditz.html">Tobias Kolditz</a>
+	<br>
+	<a href="/web/staff/ChristinaLohr/">Christina Lohr</a>
+	<br>
+	<a href="/web/staff/Luther/Stephanie+Luther.html">Stephanie Luther</a>
+	<br>
+	<a href="/web/staff/Redling/Benjamin+Redling.html">Benjamin Redling</a>
+	</nav>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-	<img src="{{site.fsu | relative_url}}" height="45px" width="135px" alt="fsu" />
+        <p>Visit us on <a href="{{ site.github.owner_url }}">GitHub</a></p>
+	<a href="http://www.uni-jena.de"><img src="{{site.fsu | relative_url}}" height="45px" width="135px" alt="http://www.uni-jena.de" /></a>
         <p><small>© 2018 JULIE Lab</small></p>
       </footer>
+      </header>    
+      <navi>
+	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <a href="/web/index.html">About</a> | <a href="/web/news.html">News</a> | <a href="/web/projects/current.html">Projects</a> | <a href="/web/staff.html">Staff</a> | <a href="/web/students.html">Students</a> | <a href="/web/resources/">Resources</a> | <a href="/web/jobs.html">Jobs</a> | <a href="/web/contact.html">Contact</a> | <a href="/web/imprint.html">Imprint</a>
+      </navi>
+      <navi1>
+        <a href="/web/index.html">About</a> | <a href="/web/news.html">News</a> | <a href="/web/projects/current.html">Projects</a> | <a href="/web/staff.html">Staff</a> | <a href="/web/students.html">Students</a> | <a href="/web/resources/">Resources</a> | <a href="/web/jobs.html">Jobs</a> | <a href="/web/contact.html">Contact</a> | <a href="/web/imprint.html">Imprint</a>
+      </navi1>
+      <section>
+	{{ content }}
+
+      <footer1>
+	<br>
+        <p>Visit us on <a href="{{ site.github.owner_url }}">GitHub</a></p>
+	<a href="http://www.uni-jena.de"><img src="{{site.fsu | relative_url}}" height="45px" width="135px" alt="http://www.uni-jena.de" /></a>
+        <p><small>© 2018 JULIE Lab</small></p>
+      </footer1>
+      </section>      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

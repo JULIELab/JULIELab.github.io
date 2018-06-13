@@ -17,7 +17,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 ### Selected Publications
 * **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.
 
-* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018.
+* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)
 
 * **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017*** - *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics,* volume 2, short papers, pages 578-585, Valencia, Spain, April 3-7, 2017. [[Paper](http://aclweb.org/anthology/E17-2092)] [[Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/poster_eacl_2017_v4_final.pdf)]
 

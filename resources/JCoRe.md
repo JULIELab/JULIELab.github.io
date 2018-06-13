@@ -59,10 +59,3 @@ For a brief overview on how to use our components, please refer to the [JCoRe Ba
 * [BioSEM Event Annotation](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-relation-extraction-pipeline) (ST11 Model)
 * [Named Entity Recognition](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-named-entity-pipeline) (BioMedical)
 * [Part-of-Speech Tagger](https://github.com/JULIELab/jcore-pipelines/tree/master/jcore-medical-pos-pipeline) (Medical)
-
-
-### Other
-
-* [Jena UMLS Filter](https://github.com/JULIELab/jufit) (JUFIT)
-* [Bibliography Management Tool](https://github.com/JULIELab/bibliographie)
-* [Jena Emotion Analysis System](https://github.com/JULIELab/JEmAS) (JEmAS)

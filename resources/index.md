@@ -44,3 +44,9 @@ The survey data can be downloaded here:
 * answers part II: free form answers of participants completing the survey (due to anomymization issues, answers to last question removed) [PDF](http://www.julielab.de/coling_multimedia/de/downloads/AL+Survey/survey_report_answers2_anonymous.pdf)
 
 If you are interested in the raw survey data (which is in some kind of XLS format), please send a mail to [Katrin Tomanek](mailto:katrin.tomanek@uni-jena.de).
+
+### Other
+
+* [Jena UMLS Filter](https://github.com/JULIELab/jufit) (JUFIT)
+* [Bibliography Management Tool](https://github.com/JULIELab/bibliographie)
+* [Jena Emotion Analysis System](https://github.com/JULIELab/JEmAS) (JEmAS)

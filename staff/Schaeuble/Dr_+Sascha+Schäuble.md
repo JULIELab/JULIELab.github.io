@@ -9,8 +9,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](https://julielab.github.io/web/staff/Schaeuble/research.html) | 
-[[Publications]](https://julielab.github.io/web/staff/Schaeuble/publication.html)
+[[Research]](https://julielab.github.io/staff/Schaeuble/research.html) | 
+[[Publications]](https://julielab.github.io/staff/Schaeuble/publication.html)
 
 ### Contact details
 Dr. Sascha Schäuble<br/>

@@ -8,15 +8,15 @@ layout: default
 
 The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).
 
-* [Theoreticum & Technicum](https://julielab.github.io/web/courses/Theoreticum+_+Technicum-p-444.html)
-* [Computerlinguistik II](https://julielab.github.io/web/courses/Computerlinguistik+II-p-7449.html)
-* [Digital Humanities](https://julielab.github.io/web/courses/Digital+Humanities-p-12429.html)
-* [Geisteswissenschaftliche Anwendungen der Computerlinguistik](https://julielab.github.io/web/courses/Geisteswissenschaftliche+Anwendungen+der+Computerlinguistik.html)
+* [Theoreticum & Technicum](https://julielab.github.io/courses/Theoreticum+_+Technicum-p-444.html)
+* [Computerlinguistik II](https://julielab.github.io/courses/Computerlinguistik+II-p-7449.html)
+* [Digital Humanities](https://julielab.github.io/courses/Digital+Humanities-p-12429.html)
+* [Geisteswissenschaftliche Anwendungen der Computerlinguistik](https://julielab.github.io/courses/Geisteswissenschaftliche+Anwendungen+der+Computerlinguistik.html)
 
 ## Merkblätter
 
-* [Merkblatt Algorithmen](https://julielab.github.io/web/downloads/algorithmen-p-1310.pdf)
-* [Merkblatt Parsing](https://julielab.github.io/web/downloads/parsing.pdf)
+* [Merkblatt Algorithmen](https://julielab.github.io/downloads/algorithmen-p-1310.pdf)
+* [Merkblatt Parsing](https://julielab.github.io/downloads/parsing.pdf)
 
 ## Open Theses
 

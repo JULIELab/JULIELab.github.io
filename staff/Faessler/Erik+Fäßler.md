@@ -8,8 +8,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](https://julielab.github.io/web/staff/Faessler/research.html) | 
-[[Publications]](https://julielab.github.io/web/staff/Faessler/publication.html)
+[[Research]](https://julielab.github.io/staff/Faessler/research.html) | 
+[[Publications]](https://julielab.github.io/staff/Faessler/publication.html)
 
 ### Contact details
 Erik Fäßler<br/>

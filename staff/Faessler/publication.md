@@ -1,11 +1,11 @@
----
+
 layout: staff
----
+
 
 # Erik Fäßler
 
-[[Overview]](https://julielab.github.io/web/staff/Faessler/Erik+F%C3%A4%C3%9Fler.html) | 
-[[Research]](https://julielab.github.io/web/staff/Faessler/research.html) | 
+[[Overview]](https://julielab.github.io/staff/Faessler/Erik+F%C3%A4%C3%9Fler.html) | 
+[[Research]](https://julielab.github.io/staff/Faessler/research.html) | 
 Publications
 
 #### 2017
@@ -23,7 +23,7 @@ Publications
 * **Erik Faessler**, Johannes Hellrich and Udo Hahn. [Disclose Models, Hide the Data-How to Make Use of Confidential Corpora without Seeing Sensitive Raw Data]. In: Calzolari N., Choukri K., Declerck T., Loftsson H., Maegaard B., Mariani J., Moreno A., Odijk J. and Piperidis S (Eds.): *Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)*, 26-31 May, Reykjavik, Iceland, 2014. pp. 4230-4237.
 
 #### 2010
-* Udo Hahn, Katrin Tomanek, Elena Beisswanger and **Erik Faessler**. <u>A Proposal for a Configurable Silver Standard</u>. In *The LAW at ACL'10 --- Proceedings of the Fourth Linguistic Annotation Workshop*, 2010.
+* Udo Hahn, Katrin Tomanek, Elena Beisswanger and **Erik Faessler**. <u>A Proposal for a Configurable Silver Standard</u>. In *The LAW at ACL'10  Proceedings of the Fourth Linguistic Annotation Workshop*, 2010.
 
 * Ekaterina Buyko, **Erik Faessler**, Joachim Wermter and Udo Hahn. <u>Syntactic Simplification and Semantic Enrichment - Trimming Dependency Graphs for Event Extraction</u>. *Computational Intelligence*.
 

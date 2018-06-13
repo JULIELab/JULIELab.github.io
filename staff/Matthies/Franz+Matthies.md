@@ -9,8 +9,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](https://julielab.github.io/web/staff/Matthies/research.html) | 
-[[Publications]](https://julielab.github.io/web/staff/Matthies/publication.html)
+[[Research]](https://julielab.github.io/staff/Matthies/research.html) | 
+[[Publications]](https://julielab.github.io/staff/Matthies/publication.html)
 
 ### Contact details
 Franz Matthies<br/>

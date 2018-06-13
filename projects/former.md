@@ -4,10 +4,10 @@ layout: default
 
 # Projects
 
-[[All]](https://julielab.github.io/web/projects/all.html) | 
-[[Current]](https://julielab.github.io/web/projects/current.html) | 
+[[All]](https://julielab.github.io/projects/all.html) | 
+[[Current]](https://julielab.github.io/projects/current.html) | 
 Former | 
-[[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
+[[UIMA]](https://julielab.github.io/projects/UIMA.html)
 
 <br/>
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)
@@ -80,7 +80,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-[[All]](https://julielab.github.io/web/projects/all.html) | 
-[[Current]](https://julielab.github.io/web/projects/current.html) | 
+[[All]](https://julielab.github.io/projects/all.html) | 
+[[Current]](https://julielab.github.io/projects/current.html) | 
 Former | 
-[[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
+[[UIMA]](https://julielab.github.io/projects/UIMA.html)

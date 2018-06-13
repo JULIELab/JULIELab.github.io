@@ -4,9 +4,9 @@ layout: staff
 
 # Prof. Dr. Udo Hahn
 
-[[Overview]](https://julielab.github.io/web/staff/Hahn/Prof_+Dr_+Udo+Hahn.html) | 
+[[Overview]](https://julielab.github.io/staff/Hahn/Prof_+Dr_+Udo+Hahn.html) | 
 Research | 
-[[Publications]](https://julielab.github.io/web/staff/Hahn/publication.html)
+[[Publications]](https://julielab.github.io/staff/Hahn/publication.html)
 
 ## Principal Investigator
 * [Sonderforschungsbereich AquaDiva](http://www.aquadiva.uni-jena.de/) (SFB 1076/2)

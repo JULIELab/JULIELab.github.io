@@ -4,9 +4,9 @@ layout: staff
 
 # Dr. Sascha Schäuble
 
-[[Overview]](https://julielab.github.io/web/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html) | 
+[[Overview]](https://julielab.github.io/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html) | 
 Research | 
-[[Publications]](https://julielab.github.io/web/staff/Schaeuble/publication.html)
+[[Publications]](https://julielab.github.io/staff/Schaeuble/publication.html)
 
 ### Research Focus
 * dynamic modelling of complex cellular systems

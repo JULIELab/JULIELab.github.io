@@ -4,8 +4,8 @@ layout: staff
 
 # Dr. Sascha Schäuble
 
-[[Overview]](https://julielab.github.io/web/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html) | 
-[[Research]](https://julielab.github.io/web/staff/Schaeuble/research.html) | 
+[[Overview]](https://julielab.github.io/staff/Schaeuble/Dr_+Sascha+Sch%C3%A4uble.html) | 
+[[Research]](https://julielab.github.io/staff/Schaeuble/research.html) | 
 Publications
 
 ### Journals

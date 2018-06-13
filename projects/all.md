@@ -5,9 +5,9 @@ layout: default
 # Projects
 
 All | 
-[[Current]](https://julielab.github.io/web/projects/current.html) | 
-[[Former]](https://julielab.github.io/web/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
+[[Current]](https://julielab.github.io/projects/current.html) | 
+[[Former]](https://julielab.github.io/projects/former.html) | 
+[[UIMA]](https://julielab.github.io/projects/UIMA.html)
 
 ## Current Projects
 
@@ -126,6 +126,6 @@ The **LREC 2008 UIMA Workshop**
 ------------------------------------------------------------------------
 
 All | 
-[[Current]](https://julielab.github.io/web/projects/current.html) | 
-[[Former]](https://julielab.github.io/web/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/web/projects/UIMA.html)
+[[Current]](https://julielab.github.io/projects/current.html) | 
+[[Former]](https://julielab.github.io/projects/former.html) | 
+[[UIMA]](https://julielab.github.io/projects/UIMA.html)

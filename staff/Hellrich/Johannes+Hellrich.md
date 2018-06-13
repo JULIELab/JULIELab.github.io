@@ -16,7 +16,7 @@ My research is focussed on lexical semantics in diachronic and multilingual sett
 * **Johannes Hellrich** & Udo Hahn: [Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period](http://dh2016.adho.org/abstracts/144). In: *Digital Humanities 2016: Conference Abstracts*. Krakow, Poland, July 11-16, 2016, pp. 545-547.
 * **Johannes Hellrich**, Simon Clematide, Udo Hahn & Dietrich Rebholz-Schuhmann: [Collaboratively Annotating Multilingual Parallel Corpora in the Biomedical Domain-some MANTRAs](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1064_Paper.pdf). In: *Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC\'14)*. 26-31 May, Reykjavik, Iceland, 2014. pp. 4033-4040.
 
-[Full Publication List](https://julielab.github.io/web/staff/Hellrich/publication.html)
+[Full Publication List](https://julielab.github.io/staff/Hellrich/publication.html)
 
 ### Teaching Experience
 * Introduction to Digital Humanities

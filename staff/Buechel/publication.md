@@ -8,13 +8,13 @@ layout: staff
 
 #### 2018
 
-* Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for ECONLP @ ACL 2018.
+* Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for *ECONLP @ ACL 2018*.
 
-* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for COLING 2018.
+* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.
 
-* Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. Towards a Metric for Paraphrastic Modification. Accepted for DH 2018.
+* Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. Towards a Metric for Paraphrastic Modification. Accepted for *DH 2018*.
 
-* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for NAACL 2018.
+* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)
 
 * **Sven Buechel** and Udo Hahn. 2018. Representation Mapping: A Novel Approach to Generate High-Quality Multi-Lingual Emotion Lexicons. In *LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018*. Pages 184-191. [[Paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/402.pdf)] [[Code&Resources](https://github.com/JULIELab/EmoMap)]
 
@@ -24,9 +24,9 @@ layout: staff
 
 * **Sven Buechel**, Johannes Hellrich and Udo Hahn: The Course of Emotion in Three Centuries of German Text: A Methodological Framework. In *Digital Humanities 2017. Montreal, Canada, August 8-11, 2017*, pages 176-179. [[Paper](http://www.julielab.de/coling_multimedia/de/downloads/Papers/Buechel_DH_2017.pdf)] [[Slides](http://www.julielab.de/coling_multimedia/de/downloads/Papers/Buechel_DH_2017_Slides.pdf)]
 
-* **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In *CogSci 2017 - Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
+* **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017** - Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
 
-* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In *EACL 2017 - Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Valencia, Spain, April 3-7, 2017*. Volume 2, Short Papers, pages 578-585. [[Paper](http://aclweb.org/anthology/E17-2092)] [Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/poster_eacl_2017_v4_final.pdf)]
+* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017** - Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Valencia, Spain, April 3-7, 2017*. Volume 2, Short Papers, pages 578-585. [[Paper](http://aclweb.org/anthology/E17-2092)] [Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/poster_eacl_2017_v4_final.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2017. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In *LAW 2017 - Proceedings of the 11th Linguistic Annotation Workshop @ EACL 2017. Valencia, Spain, April 3, 2017*, pages 1-12. [[Paper](http://aclweb.org/anthology/W17-0801)]
 
@@ -34,7 +34,7 @@ layout: staff
 
 * **Sven Buechel**, Johannes Hellrich and Udo Hahn. 2016. Feelings from the Past-Adapting Affective Lexicons for Historical Emotion Analysis. In *LT4DH - Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities @ COLING 2016. December 11, 2016, Osaka, Japan*, pages 54-61. [[Paper](https://aclweb.org/anthology/W/W16/W16-4008.pdf)]
 
-* **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In *ECAI 2016 - Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)] 
+* **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016** - Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)] 
 
 * **Sven Buechel**, Udo Hahn, Jan Goldenstein, Sebastian G. M. Händschke, and Peter Walgenbach. 2016. Do enterprises have emotions? In *WASSA 2016 - Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ NAACL-HLT 2016. San Diego, California, USA, June 16, 2016*, pages 9-15. [[Paper](http://anthology.aclweb.org/W/W16/W16-0423.pdf)] [[Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/Poster_Wassa_final.pdf)] 
 

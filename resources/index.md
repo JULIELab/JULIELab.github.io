@@ -4,19 +4,17 @@ layout: default
 
 # Resources
 
-<br>
-
 Here you find the resources which we offer for download.
 
 For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@listserv.uni-jena.de)
 
-### Corpora
+## Corpora
 
 [GeneReg](GeneReg.html) - abstracts dealing with the regulation of gene expression in the model organism E. coli
 
 [FSU-PRGE](FSU_PRGE.html) - The FSU PRotein GEne corpus
 
-### Software
+## Software
 
 [JCoRe NLP tool suite](JCoRe.html) - for the application purposes of semantic search, information extraction and text mining
 
@@ -24,7 +22,7 @@ For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@li
 
 GeNo - system for gene name normalization
 
-### Models
+## Models
 
 All models that we provide are integrated in our JCoRe tool set. However, some of them might be usable outside of JCoRe.
 
@@ -32,7 +30,7 @@ Please find the respective JCoRe repository on our [GitHub page](https://github.
 
 The appropriate models are then stored under **src/main/resources/de/julielab/jcore/ae/.../model/** if you want to download them separately.
 
-### Survey on Use of Active Learning
+## Survey on Use of Active Learning
 
 In February 2009, Fredrik Olsson (SICS, Schweden) and Katrin Tomanek arranged a web survey to analyze and understand the extend to which Active Learning has been used to support the annotation of textual data in context of natural language processing. Moreover, we aimed at finding out about the reasons to why or why not AL has been found applicable to a specific task.
 

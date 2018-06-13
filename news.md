@@ -102,5 +102,5 @@ layout: default
 ## Jan '16: papers accepted
 
 * "[UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP
-Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf)" (describing our groups [software repository](http://julielab.github.io)) by Udo Hahn, Franz Matthies, Erik Faessler and Johannes Hellrich was accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).
+Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf)" (describing our groups [software repository](http://julielab.github.io/resources/JCoRe.html)) by Udo Hahn, Franz Matthies, Erik Faessler and Johannes Hellrich was accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).
 * "[CodE Alltag: A German-Language E-Mail Corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1120_Paper.pdf)", a collaboration of Franz Matthies, Benjamin Redling and Udo Hahn with the [Alpen-Adria-Universität Klagenfurt](http://www.uni-klu.ac.at/germ/inhalt/1.htm) was accepted at [LREC2016](http://lrec2016.lrec-conf.org/en/).

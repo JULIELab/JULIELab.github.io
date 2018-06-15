@@ -7,6 +7,7 @@ layout: staff
 [<< Back to Overview](https://julielab.github.io/staff/Hellrich/Johannes+Hellrich.html)
 
 #### 2018
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. In: *COLING 2018.* [accepted]
 
 * **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
 

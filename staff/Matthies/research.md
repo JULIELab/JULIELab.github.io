@@ -14,7 +14,7 @@ Research |
 * Eye Tracking
 
 ### Projects Involved
-* STAKI<sup>2</sup>B<sup>2 (*Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking*)
+* STAKI<sup>2</sup>B<sup>2</sup>(*Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking*)
 * ***finished***
   * SMITH (*Smart Medical Information Technology for Healthcare*) [Pilot Phase]
 

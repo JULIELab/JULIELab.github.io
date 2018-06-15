@@ -3,7 +3,8 @@ layout: default
 ---
 # Lab News
 
-## June '18 visiting researcher
+## June '18 visiting researcher, paper accepted
+* Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).
 * We welcome our visiting researcher [Michel Oleynik](https://scholar.google.com/citations?user=2h4EEtIAAAAJ&hl=en).
 
 ## May '18 papers accepted

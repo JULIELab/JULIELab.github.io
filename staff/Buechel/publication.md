@@ -8,6 +8,8 @@ layout: staff
 
 #### 2018
 
+* Johannes Hellrich, **Sven Buechel** and Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. Accepted for *COLING 2018 System Demonstrations*.
+
 * Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for *ECONLP @ ACL 2018*.
 
 * **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.

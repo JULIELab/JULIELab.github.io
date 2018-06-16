@@ -9,8 +9,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](Hahn/research.html) | 
-[[Publications]](Hahn/publication.html)
+[[Research]](research.html) | 
+[[Publications]](publication.html)
 
 ## Contact details
 Prof. Dr. Udo Hahn<br/>

@@ -5,9 +5,9 @@ layout: default
 # Projects
 
 All | 
-[[Current]](https://julielab.github.io/projects/current.html) | 
-[[Former]](https://julielab.github.io/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/projects/UIMA.html)
+[[Current]](current.html) | 
+[[Former]](former.html) | 
+[[UIMA]](UIMA.html)
 
 ## Current Projects
 

@@ -1,3 +1,3 @@
 ---
-redirect_to: Hahn/Prof_+Dr_+Udo+Hahn.html
+redirect_to: https://julielab.github.io/Staff/Hahn/Prof_+Dr_+Udo+Hahn.html
 ---

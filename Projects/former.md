@@ -4,10 +4,10 @@ layout: default
 
 # Projects
 
-[[All]](https://julielab.github.io/projects/all.html) | 
-[[Current]](https://julielab.github.io/projects/current.html) | 
+[[All]](all.html) | 
+[[Current]](current.html) | 
 Former | 
-[[UIMA]](https://julielab.github.io/projects/UIMA.html)
+[[UIMA]](UIMA.html)
 
 <br/>
 ![](http://julielab.de/coling_multimedia/de/img/Projects/projects_MANTRA_Logo-width-354-height-57.png)

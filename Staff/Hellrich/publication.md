@@ -4,7 +4,7 @@ layout: staff
 
 # Johannes Hellrich: Full Publication List
 
-[<< Back to Overview](index.html)
+[<< Back to Overview](Johannes+Hellrich.html)
 
 #### 2018
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. In: *COLING 2018.* [accepted]

@@ -14,7 +14,7 @@ layout: staff_tab
 | [Franz Matthies](/Staff/Matthies/Franz+Matthies.html) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
 | [Luise Modersohn](/Staff/Modersohn/) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
 | [Bernd Kampe](/Staff/Kampe/) | Research Assistant | [AquaDiva](http://www.aquadiva.uni-jena.de/) | [Bernd.Kampe@uni-jena.de](mailto:Bernd.Kampe@uni-jena.de) | 44324 |
-| [Tobias Kolditz](/Staff/Kolditz/) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
+| [Tobias Kolditz](/Staff/Kolditz/Tobias+Kolditz.html) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
 | [Christina Lohr](/Staff/Lohr/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
 | [Stephanie Luther](/Staff/Luther/Stephanie+Luther.html) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Stephanie.Luther@uni-jena.de](mailto:Stephanie.Luther@uni-jena.de) | 44303 |
 | [Benjamin Redling](/Staff/Redling/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |

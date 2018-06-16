@@ -4,10 +4,10 @@ layout: default
 
 # Projects
 
-[[All]](https://julielab.github.io/projects/all.html) | 
+[[All]](all.html) | 
 Current | 
-[[Former]](https://julielab.github.io/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/projects/UIMA.html)
+[[Former]](former.html) | 
+[[UIMA]](UIMA.html)
 
 <img style="margin-top:15px" src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png" />
 

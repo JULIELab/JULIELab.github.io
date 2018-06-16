@@ -43,7 +43,7 @@ A specific CALBC challenge run which consisted of building a large, diversely an
 
 [Overview to the CALBC Challenge](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html) and [the challenge timeline](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html)
 
-[Project flyer](http://julielab.de/coling_multimedia/de/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
+[Project flyer](/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-[[All]](https://julielab.github.io/projects/all.html) | 
-[[Current]](https://julielab.github.io/projects/current.html) | 
+[[All]](all.html) | 
+[[Current]](current.html) | 
 Former | 
-[[UIMA]](https://julielab.github.io/projects/UIMA.html)
+[[UIMA]](UIMA.html)

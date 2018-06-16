@@ -4,8 +4,8 @@ layout: staff
 
 # Prof. Dr. Udo Hahn
 
-[[Overview]](https://julielab.github.io/staff/Hahn/Prof_+Dr_+Udo+Hahn.html) | 
-[[Research]](https://julielab.github.io/staff/Hahn/research.html) | 
+[[Overview]](Prof_+Dr_+Udo+Hahn.html) | 
+[[Research]](research.html) | 
 Publications
 
 ### Journals

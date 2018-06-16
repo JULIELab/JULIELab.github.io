@@ -18,5 +18,5 @@ layout: course
 * 15.6.: LM + CL: Werkzeuge für Mach. Learning
 * 22.6.: BK: Probe Retreat
 * 29.6.: EF: DocEng
-* 6.7.: n.n.
+* 6.7.: TK: Coding & Testing Best Practices
 * 13.7.: BK: Statistik

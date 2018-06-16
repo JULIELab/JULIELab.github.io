@@ -1,3 +1,3 @@
 ---
-redirect_to: "/Staff/Sven/index.html"
+redirect_to: "julielab.github.io/Staff/Buechel/Sven+Buechel.html"
 ---

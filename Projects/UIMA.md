@@ -4,9 +4,9 @@ layout: default
 
 # Projects
 
-[[All]](https://julielab.github.io/projects/all.html) | 
-[[Current]](https://julielab.github.io/projects/current.html) | 
-[[Former]](https://julielab.github.io/projects/former.html) | 
+[[All]](all.html) | 
+[[Current]](current.html) | 
+[[Former]](former.html) | 
 UIMA
 
 <h2 style="margin-top:40px; margin-bottom:30px"><img src="http://www.julielab.de/coling_multimedia/de/img/Projects/projects_UIMA_Logo2-width-228-height-60.png" /> (UIMA)</h2>

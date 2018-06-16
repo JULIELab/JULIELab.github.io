@@ -1,3 +1,3 @@
 ---
-redirect_to: "Schaeuble/index.html"
+redirect_to: "/Staff/Schaeuble/index.html"
 ---

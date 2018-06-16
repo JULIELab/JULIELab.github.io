@@ -4,9 +4,9 @@ layout: staff
 
 # Erik Fäßler
 
-[[Overview]](https://julielab.github.io/staff/Faessler/Erik+F%C3%A4%C3%9Fler.html) | 
+[[Overview]](index.html) | 
 Research | 
-[[Publications]](https://julielab.github.io/staff/Faessler/publication.html)
+[[Publications]](publication.html)
 
 ### Research Interests
 * Text Mining in Biomedicine

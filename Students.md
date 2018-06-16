@@ -8,10 +8,10 @@ layout: default
 
 The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).
 
-* [Theoreticum & Technicum](/courses/Theoreticum+_+Technicum-p-444.html)
-* [Computerlinguistik II](/courses/Computerlinguistik+II-p-7449.html)
-* [Digital Humanities](/courses/Digital+Humanities-p-12429.html)
-* [Geisteswissenschaftliche Anwendungen der Computerlinguistik](/courses/Geisteswissenschaftliche+Anwendungen+der+Computerlinguistik.html)
+* [Theoreticum & Technicum](/Courses/Theoreticum+_+Technicum-p-444.html)
+* [Computerlinguistik II](/Courses/Computerlinguistik+II-p-7449.html)
+* [Digital Humanities](/Courses/Digital+Humanities-p-12429.html)
+* [Geisteswissenschaftliche Anwendungen der Computerlinguistik](/Courses/Geisteswissenschaftliche+Anwendungen+der+Computerlinguistik.html)
 
 ## Merkblätter
 

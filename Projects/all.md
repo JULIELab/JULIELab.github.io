@@ -64,7 +64,7 @@ A specific CALBC challenge run which consisted of building a large, diversely an
 
 [Overview to the CALBC Challenge](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html) and [the challenge timeline](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html)
 
-[Project flyer](http://julielab.de/coling_multimedia/de/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
+[Project flyer](/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
 
 ------------------------------------------------------------------------
 
@@ -126,6 +126,6 @@ The **LREC 2008 UIMA Workshop**
 ------------------------------------------------------------------------
 
 All | 
-[[Current]](https://julielab.github.io/projects/current.html) | 
-[[Former]](https://julielab.github.io/projects/former.html) | 
-[[UIMA]](https://julielab.github.io/projects/UIMA.html)
+[[Current]](current.html) | 
+[[Former]](former.html) | 
+[[UIMA]](UIMA.html)

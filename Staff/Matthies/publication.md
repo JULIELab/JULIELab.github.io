@@ -4,7 +4,7 @@ layout: staff
 
 # Franz Matthies
 
-[[Overview]](index.html) | 
+[[Overview]](Franz+Matthies.html) | 
 [[Research]](research.html) | 
 Publications
 

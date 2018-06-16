@@ -5,7 +5,7 @@ layout: staff
 # Christina Lohr
 
 <div class="portrait">
-  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/christina_lohr-width-156-height-202.jpg">
+  <img src="christina_lohr-width-156-height-202.jpg">
 </div>
 
 ### Research Interests

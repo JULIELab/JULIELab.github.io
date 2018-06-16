@@ -10,7 +10,7 @@ layout: staff_tab
 | [Dr. Sascha Schäuble](/Staff/Schaeuble/Dr_+Sascha+Schäuble.html) | Postdoctoral Researcher | [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/) | [Sascha.Schaeuble@uni-jena.de](mailto:Sascha.Schaeuble@uni-jena.de) | 44323 |
 | [Sven Buechel](/Staff/Buechel/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Erik Fäßler](/Staff/Faessler/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
-| [Johannes Hellrich](/Staff/Hellrich/)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
+| [Johannes Hellrich](/Staff/Hellrich/Johannes+Hellrich.html)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
 | [Franz Matthies](/Staff/Matthies/) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
 | [Luise Modersohn](/Staff/Modersohn/) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
 | [Bernd Kampe](/Staff/Kampe/) | Research Assistant | [AquaDiva](http://www.aquadiva.uni-jena.de/) | [Bernd.Kampe@uni-jena.de](mailto:Bernd.Kampe@uni-jena.de) | 44324 |

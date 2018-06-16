@@ -4,8 +4,8 @@ layout: staff
 
 # Franz Matthies
 
-[[Overview]](https://julielab.github.io/staff/Matthies/Franz+Matthies.html) | 
-[[Research]](https://julielab.github.io/staff/Matthies/research.html) | 
+[[Overview]](index.html) | 
+[[Research]](research.html) | 
 Publications
 
 #### 2017

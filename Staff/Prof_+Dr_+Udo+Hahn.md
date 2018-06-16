@@ -1,3 +1,3 @@
 ---
-redirect_to: "Staff/Hahn/index.html"
+redirect_to: "/Staff/Hahn/index.html"
 ---

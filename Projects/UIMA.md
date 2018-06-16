@@ -15,7 +15,7 @@ Since 2006, the JULIE Lab employs UIMA. For more information about our work in c
 
 **Software**
 
-[NLP Components for UIMA](/Resources.md)
+[NLP Components for UIMA](/Resources/all.html)
 
 **Workshop organization and tutorials organized by JULIE Lab members**
 

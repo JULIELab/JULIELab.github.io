@@ -5,12 +5,12 @@ layout: staff
 # Franz Matthies
 
 <div class="portrait">
-  <img src="http://www.julielab.de/coling_multimedia/de/img/staff/2016/franz_matthies-width-188-height-242.jpg">
+  <img src="franz_matthies-width-188-height-242.jpg">
 </div>
 
 Overview | 
-[[Research]](https://julielab.github.io/staff/Matthies/research.html) | 
-[[Publications]](https://julielab.github.io/staff/Matthies/publication.html)
+[[Research]](research.html) | 
+[[Publications]](publication.html)
 
 ### Contact details
 Franz Matthies<br/>

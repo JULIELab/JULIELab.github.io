@@ -8,7 +8,7 @@ layout: staff
   <img src="Stephanie+Luther-width-200-height-182.png">
 </div>
 
-I am the parental leave substitute for [Franz Matthies](/staff/Matthies/).
+I am the parental leave substitute for [Franz Matthies](/Staff/Matthies/).
 
 ### Contact details
 Stephanie Luther<br/>

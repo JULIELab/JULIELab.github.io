@@ -4,8 +4,8 @@ layout: staff
 
 # Erik Fäßler
 
-[[Overview]](https://julielab.github.io/staff/Faessler/Erik+F%C3%A4%C3%9Fler.html) | 
-[[Research]](https://julielab.github.io/staff/Faessler/research.html) | 
+[[Overview]](index.html) | 
+[[Research]](research.html) | 
 Publications
 
 #### 2017

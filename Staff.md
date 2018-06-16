@@ -8,7 +8,7 @@ layout: staff_tab
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Hahn/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](https://julielab.github.io/projects.html)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
 | [Dr. Sascha Schäuble](/Staff/Schaeuble/Dr_+Sascha+Schäuble.html) | Postdoctoral Researcher | [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/) | [Sascha.Schaeuble@uni-jena.de](mailto:Sascha.Schaeuble@uni-jena.de) | 44323 |
-| [Sven Buechel](/Staff/Buechel/)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
+| [Sven Buechel](/Staff/Buechel/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Erik Fäßler](/Staff/Faessler/)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
 | [Johannes Hellrich](/Staff/Hellrich/)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
 | [Franz Matthies](/Staff/Matthies/) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |

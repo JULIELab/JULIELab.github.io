@@ -17,10 +17,10 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 **Termin- und Raumänderung** für die **Übung**: ab 18.04. immer mittwochs, 8-10 Uhr, Computerkabinett in den Rosensälen (Fürstengraben 27)
 
 ### Vorlesung
-1. [Empirical Paradigm + Resources](http://www.julielab.de/coling_multimedia/de/teaching/cl2/CL_II_10_Empirical+Paradigm_Resources_sh.pdf) (aktualisiert am 31.5.18)
+1. [Empirical Paradigm + Resources](http://www.julielab.de/coling_multimedia/de/teaching/cl2/CL_II_10_Empirical+Paradigm_Resources_sh.pdf) (aktualisiert am 8.6.18)
 
 ### Seminar
-1. [Einführung](http://www.julielab.de/coling_multimedia/de/teaching/cl2/LinkedOpenData+%28M_GSW_10%29_sh.pdf)
+1. [Einführung](http://www.julielab.de/coling_multimedia/de/teaching/cl2/LinkedOpenData+%28M_GSW_10%29_sh.pdf) (aktualisiert am 8.6.18)
 
 ### Übung
 1. [Übungsblatt 1](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt01_cl2-p-1500.pdf) (aktualisierte Version ohne Chunking)
@@ -28,4 +28,5 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 3. [Übungsblatt 3](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt03_cl2-p-1506.pdf) |
 [Starter-Code](http://www.julielab.de/coling_multimedia/de/teaching/cl2/uebung_3.py)
 4. [Übungsblatt 4](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt04_cl2-p-1510.pdf)
-5. [Übungsblatt 5](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt05_cl2-p-1512.pdf) (Abgabe bis 13.6.18)
+5. [Übungsblatt 5](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt05_cl2-p-1512.pdf)
+6. [Übungsblatt 6](http://www.julielab.de/coling_multimedia/de/teaching/cl2/blatt06_cl2-p-1517.pdf) (Abgabe bis 20.06.18)

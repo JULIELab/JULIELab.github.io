@@ -1,3 +1,3 @@
 ---
-redirect_to: "/Staff/Hahn/index.md"
+redirect_to: "Hahn/Prof_+Dr_+Udo+Hahn.html"
 ---

@@ -4,9 +4,9 @@ layout: staff
 
 # Franz Matthies
 
-[[Overview]](https://julielab.github.io/staff/Matthies/Franz+Matthies.html) | 
+[[Overview]](index.html) | 
 Research | 
-[[Publications]](https://julielab.github.io/staff/Matthies/publication.html)
+[[Publications]](publication.html)
 
 ### Research Interests
 * Streamlining Work Processes & Pipelines for NLP

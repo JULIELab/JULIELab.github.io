@@ -75,7 +75,7 @@ layout: default
 
 ## Oct '16: new team member, papers accepted
 
-* We welcome our new colleague, [Christina Lohr](/staff/Lohr/Christina+Lohr.md)!
+* We welcome our new colleague, [Christina Lohr](/Staff/Lohr/Christina+Lohr.md)!
 * "Feelings from the Past-Adapting Affective Lexicon for Historical Emotion Analysis" by Sven Buechel, Johannes Hellrich and Udo Hahn was accepted at [LT4DH COLING 2016 workshop](https://www.clarin-d.net/en/current-issues/lt4dh).
 * "Selecting and Tailoring Ontologies with joyce" demo from Erik Faessler, Udo Hahn and the [INFRA1 team of the AuqaDiva collaborative research center](http://www.aquadiva.uni-jena.de/Projects/INFRA1.html) was accepted at [EKAW 2016.](http://ekaw2016.cs.unibo.it)
 

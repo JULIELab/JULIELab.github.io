@@ -1,3 +1,3 @@
 ---
-redirect_to: "julielab.github.io/Staff/Faessler/Erik+Fäßler.html"
+redirect_to: "Staff/Faessler/Erik+Fäßler.html"
 ---

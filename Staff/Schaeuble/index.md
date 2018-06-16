@@ -5,7 +5,7 @@ layout: staff
 # Dr. Sascha Schäuble
 
 <div class="portrait">
-  <img src="sascha_scha%CC%88uble-width-185-height-242.jpeg">
+  <img src="sascha_schäuble-width-185-height-242.jpeg">
 </div>
 
 Overview | 

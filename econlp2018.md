@@ -2,10 +2,12 @@
 
 # Organizers:
 
+|------------------+----------------------------------------------+---------------------------------|
+|:-----------------|:---------------------------------------------|:--------------------------------|
 | Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | mailto:udo.hahn@uni-jena.de
-| Ming-Feng Tsai | National Chengchi University, Taiwan | mailto:mftsai@nccu.edu.tw
-| Véronique Hoste | Ghent University, Belgium | mailto:veronique.hoste@ugent.be
- 
+| Ming-Feng Tsai   | National Chengchi University, Taiwan         | mailto:mftsai@nccu.edu.tw
+| Véronique Hoste  | Ghent University, Belgium                    | mailto:veronique.hoste@ugent.be
+|------------------+----------------------------------------------+---------------------------------| 
  # Program Committee
  
   <table cellspacing="0" cellpadding="0" align="left" border="0">

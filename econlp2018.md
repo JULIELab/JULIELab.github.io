@@ -1,43 +1,10 @@
-@ ACL 2018, Melbourne, Australia, July 20, 2018 [ECONLP 2018 - Workshop Description V06]
+@ ACL 2018, Melbourne, Australia, July 20, 2018 [ECONLP 2018 - Workshop Description V06, PDF 388KB](/coling_muldimedia/ECONLP_2018_Workshop_Description_V06.pdf)
 
 # Organizers:
-<table cellspacing="0" cellpadding="0" align="left" border="0">
-    <tbody>
-      <tr>
-        <td>
-          Udo Hahn (chair)
-        </td>
-        <td>
-          Friedrich-Schiller-Universität Jena, Germany
-        </td>
-        <td>
-          <a href="mailto:udo.hahn@uni-jena.de">udo.hahn@uni-jena.de</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Ming-Feng Tsai
-        </td>
-        <td>
-          National Chengchi University, Taiwan
-        </td>
-        <td>
-          <a href="mailto:mftsai@nccu.edu.tw">mftsai@nccu.edu.tw</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Véronique Hoste
-        </td>
-        <td>
-          Ghent University, Belgium
-        </td>
-        <td>
-          <a href="mailto:veronique.hoste@ugent.be" target="_self" title="veronique.hoste@ugent.be">veronique.hoste@ugent.be</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
+| Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | mailto:udo.hahn@uni-jena.de
+| Ming-Feng Tsai | National Chengchi University, Taiwan | mailto:mftsai@nccu.edu.tw
+| Véronique Hoste | Ghent University, Belgium | mailto:veronique.hoste@ugent.be
  
  # Program Committee
  

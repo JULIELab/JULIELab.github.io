@@ -23,7 +23,6 @@
   .wrapper1 {
     width:900px;
     margin:0 auto;
-    padding:50px 50px 50px 0;
   }
   footer {
     top:305px;
@@ -31,6 +30,7 @@
   navi {
     top:0px;
     padding-top:20px;
+    padding-left:0px;
     position:fixed;
     width:100%;
     display: inline;
@@ -70,8 +70,8 @@
   <body>
     <div class="wrapper1">
       <navi>
-	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <big><a href="/index.html">About</a> | <a href="/Lab+News.html">News</a> | <a href="/Projects/current.html">Projects</a> | <a href="/Staff.html">Staff</a> | <a href="/Students.html">Students</a> | <a href="/Resources/">Resources</a> | <a href="/Jobs.html">Jobs</a> | <a href="/Contact.html">Contact</a> | <a href="/Imprint.html">Imprint</a></big>
+	<h1 style="padding-left:0px"><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <big style="padding-left:0px"><a href="/index.html">About</a> | <a href="/Lab+News.html">News</a> | <a href="/Projects/current.html">Projects</a> | <a href="/Staff.html">Staff</a> | <a href="/Students.html">Students</a> | <a href="/Resources/">Resources</a> | <a href="/Jobs.html">Jobs</a> | <a href="/Contact.html">Contact</a> | <a href="/Imprint.html">Imprint</a></big>
       </navi>
       <section>
 	{{ content }}

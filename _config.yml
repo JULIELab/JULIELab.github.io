@@ -1,6 +1,6 @@
 title: JULIE Lab
 author: JULIE Lab
-email: tinghui.duan@gmail.com
+email: julielab@listserv.uni-jena.de
 description: > # this means to ignore newlines until "twitter_username:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -9,8 +9,7 @@ logo: /assets/img/logo.png
 fsu: /assets/img/fsu.png
 show_downloads: false
 # social links
-twitter_username: julielab
-github_username:  eric24629
+github_username:  julielab
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll

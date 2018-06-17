@@ -52,7 +52,7 @@ Papers submitted to this workshop should address (not excluding other topic area
  
 # Submission information 
 
-Two types of papers are solicited: <strong>Long papers</strong> (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, <strong>short papers</strong> (4 pages) should describe work in progress where preliminary results have already been worked out. Accepted papers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments. All submissions should be in PDF format (using ACL 2018 style sheets for the main conference; 
+Two types of papers are solicited: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. Accepted papers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments. All submissions should be in PDF format (using ACL 2018 style sheets for the main conference; 
 see [ACL 2018 style sheets at current CfP](http://acl2018.org/call-for-papers/) and made through the Softconf website set up for this workshop ([softconf ACL2018 ECONLP](https://www.softconf.com/acl2018/ECONLP/)).
 
 # Key Dates (several extensions)
@@ -64,29 +64,29 @@ Workshop: 20 July 2018
 
 # List of accepted papers
  
-A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING (short paper)
- :  Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
+*A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING* (short paper)\
+Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
 
-A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION (short paper)
- :  Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
+*A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION* (short paper)\
+Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
 
-CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS (long paper)
- :  Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
+*CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS* (long paper)\
+Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
 
-ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT (long paper)
- :  Gilles Jacobs, Els Lefever and Véronique Hoste
+*ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT* (long paper)\
+Gilles Jacobs, Els Lefever and Véronique Hoste
 
-IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS (short paper)
- :  Thomas Gaillat, Bernardo Stearn, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
+*IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS* (short paper)\
+Thomas Gaillat, Bernardo Stearn, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
 
-LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN (short paper)
- :  Tobias Daudert, Paul Buitelaar and Sapna Negi
+*LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN* (short paper)\
+Tobias Daudert, Paul Buitelaar and Sapna Negi
 
-SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION (short paper)
- :  Youness Mansar and Sira Ferradans
+*SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION* (short paper)\
+Youness Mansar and Sira Ferradans
 
-STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS (short paper)
- :  Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
+*STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS* (short paper)\
+Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
 
-WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS (short paper)
- :  Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt
+*WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS* (short paper)\
+Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt

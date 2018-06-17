@@ -67,9 +67,10 @@
       <navi>
 	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
         <big><a href="/index.html">About</a> | <a href="/Lab+News.html">News</a> | <a href="/Projects/current.html">Projects</a> | <a href="/Staff.html">Staff</a> | <a href="/Students.html">Students</a> | <a href="/Resources/">Resources</a> | <a href="/Jobs.html">Jobs</a> | <a href="/Contact.html">Contact</a> | <a href="/Imprint.html">Imprint</a></big>
+        {{ content }}
       </navi>
       <section>
-	{{ content }}
+	
       <footer1>
 	<br>
         <p>Visit us on <a href="{{ site.github.owner_url }}">GitHub</a></p>

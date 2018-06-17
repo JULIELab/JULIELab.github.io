@@ -10,77 +10,77 @@ Publications
 
 ### Journals
 
-* P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, **U. Hahn**, P. Horvatovich, D. P. Shanley, K.Thedieck (2016). A Systems Study Reveals Concurrent Activation of AMPK and mTOR by Amino Acids. Nature Communications, 7:13254
+* P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, **U. Hahn**, P. Horvatovich, D. P. Shanley, K.Thedieck (2016). A Systems Study Reveals Concurrent Activation of AMPK and mTOR by Amino Acids. *Nature Communications*, 7:13254
 
-* **U. Hahn**, K.B. Cohen, Y. Garten & N. Shah, Mining the Pharmacogenomics Literature: A Survey of the State of the Art, In: Briefings in Bioinformatics, Vol. 13, 2012, No.4, pp. 460-494.
+* **U. Hahn**, K.B. Cohen, Y. Garten & N. Shah, <u>Mining the Pharmacogenomics Literature: A Survey of the State of the Art</u>, In: *Briefings in Bioinformatics*, Vol. 13, 2012, No.4, pp. 460-494.
 
-* R. Altwasser, J. Linde, E. Buyko, **U. Hahn**, R. Guthke, Genome-wide Scale-free Network Inference for Candida albicans, In: Frontiers in Microbiology, Vol. 3, 2012, No. 51.
+* R. Altwasser, J. Linde, E. Buyko, **U. Hahn**, R. Guthke, <u>Genome-wide Scale-free Network Inference for Candida albicans</u>, In: *Frontiers in Microbiology*, Vol. 3, 2012, No. 51.
 
-* E. Beisswanger & **U. Hahn**, Towards Valid and Reusable Reference Alignments: Ten Basic Quality Checks for Ontology Alignments and Their Application to Three Different Reference Data Sets, In: Journal of Biomedical Semantics, Vol. 3, 2012, Supplement 1: S4.
+* E. Beisswanger & **U. Hahn**, <u>Towards Valid and Reusable Reference Alignments: Ten Basic Quality Checks for Ontology Alignments and Their Application to Three Different Reference Data Sets</u>, In: *Journal of Biomedical Semantics*, Vol. 3, 2012, Supplement 1: S4.
 
-* Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, **U. Hahn**, K.B. Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S. van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M. Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre, H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii, U-Compare Bio-event Meta-service: Compatible BioNLP Event Extraction Services, In: BMC Bioinformatics, Vol. 12, 2011: 481
+* Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, **U. Hahn**, K.B. Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S. van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M. Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre, H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii, <u>U-Compare Bio-event Meta-service: Compatible BioNLP Event Extraction Services</u>, In: *BMC Bioinformatics*, Vol. 12, 2011: 481
 
-* E. Buyko, E. Faessler, J. Wermter & **U. Hahn**, Syntactic Simplification and Semantic Enrichment - Trimming Dependency Graphs for Event Extraction, In: Computational Intelligence, Vol. 27, 2011, No.4 (Nov), pp. 610-644.
+* E. Buyko, E. Faessler, J. Wermter & **U. Hahn**, <u>Syntactic Simplification and Semantic Enrichment - Trimming Dependency Graphs for Event Extraction</u>, In: *Computational Intelligence*, Vol. 27, 2011, No.4 (Nov), pp. 610-644.
 
-* D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & **U. Hahn**, The CALBC Silver Standard Corpus: Harmonizing Multiple Semantic Annotations in a Large Biomedical Corpus, In: Journal of Bioinformatics and Computational Biology, Vol. 8, 2010, No.1, pp.163-179.
+* D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & **U. Hahn**, <u>The CALBC Silver Standard Corpus: Harmonizing Multiple Semantic Annotations in a Large Biomedical Corpus</u>, In: *Journal of Bioinformatics and Computational Biology*, Vol. 8, 2010, No.1, pp.163-179.
 
-* D. DeLuca, E. Beisswanger, J. Wermter, P. Horn, **U. Hahn** & R. Blasczyk, MaHCO: An Ontology of the Major Histocompatibility Complex for Immunoinformatic Applications and Text Mining, In: Bioinformatics, Vol. 25, 2009, No. 16, pp.2064-2070
+* D. DeLuca, E. Beisswanger, J. Wermter, P. Horn, **U. Hahn** & R. Blasczyk, <u>MaHCO: An Ontology of the Major Histocompatibility Complex for Immunoinformatic Applications and Text Mining</u>, In: *Bioinformatics*, Vol. 25, 2009, No. 16, pp.2064-2070
 
-* J. Wermter, K. Tomanek & **U. Hahn**, High-Performance Gene Name Normalization with GeNo, In: Bioinformatics, Vol. 25, 2009, No. 6, pp. 815-821.
+* J. Wermter, K. Tomanek & **U. Hahn**, <u>High-Performance Gene Name Normalization with GeNo</u>, In: *Bioinformatics*, Vol. 25, 2009, No. 6, pp. 815-821.
 
-* E. Beisswanger, S. Schulz, H. Stenzhorn & **U. Hahn**, BioTop: An Upper Domain Ontology for the Life Sciences - A Description of Its Current Structure, Contents, and Interfaces to OBO Ontologies, In: Applied Ontology, Vol. 3, 2008, No. 4, pp.205-212.
+* E. Beisswanger, S. Schulz, H. Stenzhorn & **U. Hahn**, <u>BioTop: An Upper Domain Ontology for the Life Sciences - A Description of Its Current Structure, Contents, and Interfaces to OBO Ontologies</u>, In: *Applied Ontology*, Vol. 3, 2008, No. 4, pp.205-212.
 
-* R. Altman, C. Bergman, J. Blake, C. Blaschke, A. Cohen, F. Gannon, L. Grivell, **U. Hahn**, W. Hersh, L. Hirschman, L.J. Jensen, M. Krallinger, B. Mons, S.I. O'Donoghue, M. Peitsch, D. Rebholz-Schumann, H. Shatkay, A. Valencia, Text Mining for Biology: The Way Forward. Opinions from Leading Scientists, In: Genome Biology, Vol. 9, 2008, S7
+* R. Altman, C. Bergman, J. Blake, C. Blaschke, A. Cohen, F. Gannon, L. Grivell, **U. Hahn**, W. Hersh, L. Hirschman, L.J. Jensen, M. Krallinger, B. Mons, S.I. O'Donoghue, M. Peitsch, D. Rebholz-Schumann, H. Shatkay, A. Valencia, <u>Text Mining for Biology: The Way Forward. Opinions from Leading Scientists</u>, In: *Genome Biology*, Vol. 9, 2008, S7
 
-* **U. Hahn**, J. Wermter, R. Blasczyk & P. Horn, Text Mining: Powering the Database Revolution, In: Nature, Vol. 448, 2007, No. 7150 (July 12, 2007), p.130.
+* **U. Hahn**, J. Wermter, R. Blasczyk & P. Horn, <u>Text Mining: Powering the Database Revolution</u>, In: *Nature*, Vol. 448, 2007, No. 7150 (July 12, 2007), p.130.
 
-* S. Schulz, K. Marko & **U. Hahn**, Spatial Location and its Relevance for Terminological Inferences in Bio-Ontologies, In: BMC Bioinformatics, Vol. 8, 2007, No. 134
+* S. Schulz, K. Marko & **U. Hahn**, <u>Spatial Location and its Relevance for Terminological Inferences in Bio-Ontologies</u>, In: *BMC Bioinformatics*, Vol. 8, 2007, No. 134
 
-* S. Schulz & **U. Hahn**, Towards the Ontological Foundations of Symbolic Biological Theories, In: Artificial Intelligence in Medicine, Vol. 39, 2007, No. 3, pp.237-250.
+* S. Schulz & **U. Hahn**, <u>Towards the Ontological Foundations of Symbolic Biological Theories</u>, In: *Artificial Intelligence in Medicine*, Vol. 39, 2007, No. 3, pp.237-250.
 
-* S. Schulz, S. Hanser, **U. Hahn** & J. Rogers, The Semantics of Procedures and Diseases in SNOMED® CT, In: Methods of Information in Medicine, Vol. 45, 2006, No.4, pp.354-358.
+* S. Schulz, S. Hanser, **U. Hahn** & J. Rogers, <u>The Semantics of Procedures and Diseases in SNOMED® CT</u>, In: *Methods of Information in Medicine*, Vol. 45, 2006, No.4, pp.354-358.
 
-* K. Markó, S. Schulz & **U. Hahn**, Automatic Lexeme Acquisition for a Multilingual Medical Subword Thesaurus, In: International Journal of Medical Informatics, Vol. 76, 2006, Nos.2-3 (Feb/Mar), pp.184-189.
+* K. Markó, S. Schulz & **U. Hahn**, <u>Automatic Lexeme Acquisition for a Multilingual Medical Subword Thesaurus</u>, In: *International Journal of Medical Informatics*, Vol. 76, 2006, Nos.2-3 (Feb/Mar), pp.184-189.
 
-* C. Fellbaum, **U. Hahn** & B. Smith, Towards New Information Resources for Public Health - From WordNet to Medical WordNet, In: Journal of Biomedical Informatics, Vol. 39, 2006, No.3, pp.321-332.
+* C. Fellbaum, **U. Hahn** & B. Smith, <u>Towards New Information Resources for Public Health - From WordNet to Medical WordNet</u>, In: *Journal of Biomedical Informatics*, Vol. 39, 2006, No.3, pp.321-332.
 
-* S. Schulz & **U. Hahn**, Part-Whole Representation and Reasoning in Formal Biomedical Ontologies, In: Artificial Intelligence in Medicine, Vol. 34, 2005, No.3, pp.179-200.
+* S. Schulz & **U. Hahn**, <u>Part-Whole Representation and Reasoning in Formal Biomedical Ontologies</u>, In: *Artificial Intelligence in Medicine*, Vol. 34, 2005, No.3, pp.179-200.
 
-* K. Markó, S. Schulz & **U. Hahn**, MorphoSaurus - Design and Evaluation of an Interlingua-Based, Cross-Language Document Retrieval Engine for the Medical Domain, In: Methods of Information in Medicine, Vol. 44, 2005, No.4, pp.537-545.
+* K. Markó, S. Schulz & **U. Hahn**, <u>MorphoSaurus - Design and Evaluation of an Interlingua-Based, Cross-Language Document Retrieval Engine for the Medical Domain</u>, In: *Methods of Information in Medicine*, Vol. 44, 2005, No.4, pp.537-545.
 
-* **U. Hahn**, Turning Informal Thesauri into Formal Ontologies: A Feasibility Study on Biomedical Knowledge Re-use, In: Comparative and Functional Genomics, Vol. 4, 2003, No.1, pp.94-97.
+* **U. Hahn**, <u>Turning Informal Thesauri into Formal Ontologies: A Feasibility Study on Biomedical Knowledge Re-use</u>, In: *Comparative and Functional Genomics*, Vol. 4, 2003, No.1, pp.94-97.
 
-* **U. Hahn**, M. Romacker & S. Schulz, medSynDiKATe: A Natural Language System for the Extraction of Medical Information from Findings Reports, In: International Journal of Medical Informatics, Vol. 67, 2002, Nos.1-3, pp.63-74.
+* **U. Hahn**, M. Romacker & S. Schulz, <u>medSynDiKATe: A Natural Language System for the Extraction of Medical Information from Findings Reports</u>, In: *International Journal of Medical Informatics*, Vol. 67, 2002, Nos.1-3, pp.63-74.
 
-* **U. Hahn** & K. Markó, An Integrated, Dual Learner for Grammars and Ontologies, In: Data and Knowledge Engineering, Vol. 42, 2002, No.3, pp.273-291.
+* **U. Hahn** & K. Markó, <u>An Integrated, Dual Learner for Grammars and Ontologies</u>, In: *Data and Knowledge Engineering*, Vol. 42, 2002, No.3, pp.273-291.
 
-* K. Markert & **U. Hahn**, Understanding Metonymies in Discourse, In: Artificial Intelligence, Vol. 135, 2002, Nos. 1-2, pp.145-198.
+* K. Markert & **U. Hahn**, <u>Understanding Metonymies in Discourse</u>, In: *Artificial Intelligence*, Vol. 135, 2002, Nos. 1-2, pp.145-198.
 
-* S. Schulz & **U. Hahn**, Medical Knowledge Reengineering: Converting Major Portions of the UMLS into a Terminological Knowledge Base, In: International Journal of Medical Informatics, Vol. 64, 2001, Nos. 2-3, pp.207-221.
+* S. Schulz & **U. Hahn**, <u>Medical Knowledge Reengineering: Converting Major Portions of the UMLS into a Terminological Knowledge Base</u>, In: *International Journal of Medical Informatics*, Vol. 64, 2001, Nos. 2-3, pp.207-221.
 
-* **U. Hahn** & I. Mani, The Challenges of Automatic Summarization, In: IEEE Computer, Vol. 33, 2000, No. 11, pp.29-36.
+* **U. Hahn** & I. Mani, <u>The Challenges of Automatic Summarization</u>, In: *IEEE Computer*, Vol. 33, 2000, No. 11, pp.29-36.
 
-* S. Schulz & **U. Hahn**, Morpheme-Based, Cross-Lingual Indexing for Medical Document Retrieval, In: International Journal of Medical Informatics, Vol. 59, 2000, No. 3, pp.87-99.
+* S. Schulz & **U. Hahn**, <u>Morpheme-Based, Cross-Lingual Indexing for Medical Document Retrieval</u>, In: *International Journal of Medical Informatics*, Vol. 59, 2000, No. 3, pp.87-99.
 
-* **U. Hahn**, M. Romacker & S. Schulz, Content Management in the SynDiKATe System: How Technical Documents are Automatically Transformed to Text Knowledge Bases, In: Data and Knowledge Engineering, Vol. 35, 2000, No. 2, pp.137-159.
+* **U. Hahn**, M. Romacker & S. Schulz, <u>Content Management in the SynDiKATe System: How Technical Documents are Automatically Transformed to Text Knowledge Bases</u>, In: *Data and Knowledge Engineering*, Vol. 35, 2000, No. 2, pp.137-159.
 
-* M. Strube & **U. Hahn**, Functional Centering: Grounding Referential Coherence in Information Structure, In: Computational Linguistics, Vol. 25, 1999, No. 3, pp.309-344.
+* M. Strube & **U. Hahn**, <u>Functional Centering: Grounding Referential Coherence in Information Structure</u>, In: *Computational Linguistics*, Vol. 25, 1999, No. 3, pp.309-344.
 
-* **U. Hahn**, S. Schulz & M. Romacker, Part-Whole Reasoning: A Case Study in Medical Ontology Engineering, In: IEEE Intelligent Systems & their Applications, Vol. 14, 1999, No. 5, pp. 59-67.
+* **U. Hahn**, S. Schulz & M. Romacker, <u>Part-Whole Reasoning: A Case Study in Medical Ontology Engineering</u>, In: *IEEE Intelligent Systems & their Applications*, Vol. 14, 1999, No. 5, pp. 59-67.
 
-* **U. Hahn**, M. Romacker & S. Schulz, How Knowledge Drives Understanding: Matching Medical Ontologies with the Needs of Medical Language Processing, In: Artificial Intelligence in Medicine, Vol. 15, 1999, No. 1, pp.25-51.
+* **U. Hahn**, M. Romacker & S. Schulz, <u>How Knowledge Drives Understanding: Matching Medical Ontologies with the Needs of Medical Language Processing</u>, In: *Artificial Intelligence in Medicine*, Vol. 15, 1999, No. 1, pp.25-51.
 
-* **U. Hahn**, M. Romacker & S. Schulz, Discourse Structures in Medical Reports - Watch out! The Generation of Referentially Coherent and Valid Text Knowledge Bases in the medSynDiKATe System, In: International Journal of Medical Informatics, Vol. 53, 1999, No.1, pp.1-28.
+* **U. Hahn**, M. Romacker & S. Schulz, <u>Discourse Structures in Medical Reports - Watch out! The Generation of Referentially Coherent and Valid Text Knowledge Bases in the medSynDiKATe System</u>, In: *International Journal of Medical Informatics*, Vol. 53, 1999, No.1, pp.1-28.
 
-* **U. Hahn**, S. Schacht & N. Bröker, Concurrent, Object-Oriented Natural Language Parsing: The ParseTalk Model, In: International Journal of Human-Computer Studies, Vol. 41, 1994, Nos. 1/2, pp.179-222.
+* **U. Hahn**, S. Schacht & N. Bröker, <u>Concurrent, Object-Oriented Natural Language Parsing: The ParseTalk Model</u>, In: *International Journal of Human-Computer Studies*, Vol. 41, 1994, Nos. 1/2, pp.179-222.
 
-* **U. Hahn**, M. Jarke & Th. Rose, Teamwork Support in a Knowledge-Based Information Systems Environment, In: IEEE Transactions on Software Engineering, SE-17, 1991, No. 5, pp.467-482.
+* **U. Hahn**, M. Jarke & Th. Rose, <u>Teamwork Support in a Knowledge-Based Information Systems Environment</u>, In: *IEEE Transactions on Software Engineering*, SE-17, 1991, No. 5, pp.467-482.
 
-* **U. Hahn**, Topic Parsing: Accounting for Text Macro Structures in Full-Text Analysis, In: Information Processing & Management, Vol. 26, 1990, No. 1, pp.135-170.
+* **U. Hahn**, <u>Topic Parsing: Accounting for Text Macro Structures in Full-Text Analysis</u>, In: *Information Processing & Management*, Vol. 26, 1990, No. 1, pp.135-170.
 
-* **U. Hahn**, Making Understanders out of Parsers: Semantically Driven Parsing as a Key Concept for Realistic Text Understanding Applications, In: International Journal of Intelligent Systems, Vol. 4, 1989, No. 3, pp.345-393.
+* **U. Hahn**, <u>Making Understanders out of Parsers: Semantically Driven Parsing as a Key Concept for Realistic Text Understanding Applications</u>, In: *International Journal of Intelligent Systems*, Vol. 4, 1989, No. 3, pp.345-393.
 
-* U. Reimer & **U. Hahn**, On Formal Semantic Properties of a Frame Data Model, In: Computers and Artificial Intelligence, Vol. 4, 1985, No. 4, pp.335-351.
+* U. Reimer & **U. Hahn**, <u>On Formal Semantic Properties of a Frame Data Model</u>, In: *Computers and Artificial Intelligence*, Vol. 4, 1985, No. 4, pp.335-351.
 
 ### Collected Volumes
 

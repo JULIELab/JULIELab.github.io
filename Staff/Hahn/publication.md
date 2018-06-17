@@ -10,7 +10,7 @@ Publications
 
 ### Journals
 
-* P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, **U. Hahn**, P. Horvatovich, D. P. Shanley, K.Thedieck (2016). A Systems Study Reveals Concurrent Activation of AMPK and mTOR by Amino Acids. *Nature Communications*, 7:13254
+* P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, **U. Hahn**, P. Horvatovich, D. P. Shanley, K.Thedieck (2016). <u>A Systems Study Reveals Concurrent Activation of AMPK and mTOR by Amino Acids</u>. *Nature Communications*, 7:13254
 
 * **U. Hahn**, K.B. Cohen, Y. Garten & N. Shah, <u>Mining the Pharmacogenomics Literature: A Survey of the State of the Art</u>, In: *Briefings in Bioinformatics*, Vol. 13, 2012, No.4, pp. 460-494.
 
@@ -84,33 +84,33 @@ Publications
 
 ### Collected Volumes
 
-* **U. Hahn** & J. Wermter, Levels of Natural Language Processing for Text Mining, In: S. Ananiadou & J. McNaught (Eds.), Text Mining for Biology and Biomedicine. Boston, London: Artech House Books, 2006, pp.13-41.
+* **U. Hahn** & J. Wermter, <u>Levels of Natural Language Processing for Text Mining</u>, In: S. *Ananiadou & J. McNaught (Eds.), Text Mining for Biology and Biomedicine*. Boston, London: Artech House Books, 2006, pp.13-41.
 
-* **U. Hahn** & S. Schulz, Building a Very Large Ontology from Medical Thesauri, In: S. Staab & R. Studer (Eds.), Handbook on Ontologies. Berlin, Heidelberg: Springer, 2004, pp.133-150
+* **U. Hahn** & S. Schulz, <u>Building a Very Large Ontology from Medical Thesauri</u>, In: *S. Staab & R. Studer (Eds.), Handbook on Ontologies*. Berlin, Heidelberg: Springer, 2004, pp.133-150
 
-* **U. Hahn**, Die Verdichtung textuellen Wissens zu Information: Vom Wandel methodischer Paradigmen beim automatischen Abstracting [Condensating textual knowledge to information: the change of methodological paradigms in automatic abstracting], In: R. Hammwöhner, M. Rittberger & W. Semar (Eds.), Wissen in Aktion. Der Primat der Pragmatik als Motto der Konstanzer Informationswissenschaft. Festschrift für Rainer Kuhlen. Universitätsverlag Konstanz, 2004, pp.51-68 (Schriften zur Informationswissenschaft, 41).
+* **U. Hahn**, <u>Die Verdichtung textuellen Wissens zu Information: Vom Wandel methodischer Paradigmen beim automatischen Abstracting [Condensating textual knowledge to information: the change of methodological paradigms in automatic abstracting]</u>, In: *R. Hammwöhner, M. Rittberger & W. Semar (Eds.), Wissen in Aktion. Der Primat der Pragmatik als Motto der Konstanzer Informationswissenschaft. Festschrift für Rainer Kuhlen*. Universitätsverlag Konstanz, 2004, pp.51-68 (Schriften zur Informationswissenschaft, 41).
 
-* **U. Hahn**, Was war? - Erste explorative Daten zum Ranking der deutschen Computerlinguistik im internationalen und nationalen Wettbewerb [Preliminary explorative data on the ranking of computational linguistics in Germany within the context of international and national competition], In: G. Willée, B. Schröder & H.-C. Schmitz (Eds.), Computerlinguistik - Was geht, was kommt? Computational Linguistics - Achievements and Perspectives. Festschrift für Winfried Lenders. Gardez!, 2002, pp.100-108 (Sprachwissenschaft, Computerlinguistik und Neue Medien, 4).
+* **U. Hahn**, <u>Was war? - Erste explorative Daten zum Ranking der deutschen Computerlinguistik im internationalen und nationalen Wettbewerb [Preliminary explorative data on the ranking of computational linguistics in Germany within the context of international and national competition]</u>, In: *G. Willée, B. Schröder & H.-C. Schmitz (Eds.), Computerlinguistik - Was geht, was kommt? Computational Linguistics - Achievements and Perspectives. Festschrift für Winfried Lenders*. Gardez!, 2002, pp.100-108 (Sprachwissenschaft, Computerlinguistik und Neue Medien, 4).
 
-* **U. Hahn**, N. Bröker & P. Neuhaus, Let's ParseTalk: Message-Passing Protocols for Object-Oriented Parsing, In: H. Bunt & A. Nijholt (Eds.), Advances in Probabilistic and Other Parsing Technologies. Kluwer, 2000, pp.177-201 (Text, Speech and Language Technology Series, 16).
+* **U. Hahn**, N. Bröker & P. Neuhaus, <u>Let's ParseTalk: Message-Passing Protocols for Object-Oriented Parsing</u>, In: *H. Bunt & A. Nijholt (Eds.), Advances in Probabilistic and Other Parsing Technologies*. Kluwer, 2000, pp.177-201 (Text, Speech and Language Technology Series, 16).
 
-* **U. Hahn** & U. Reimer, Knowledge-Based Text Summarization: Salience and Generalization Operators for Knowledge Base Abstraction, In: I. Mani & M. T. Maybury (Eds.), Advances in Automatic Text Summarization. MIT Press, 1999, pp.215-232.
+* **U. Hahn** & U. Reimer, <u>Knowledge-Based Text Summarization: Salience and Generalization Operators for Knowledge Base Abstraction</u>, In: *I. Mani & M. T. Maybury (Eds.), Advances in Automatic Text Summarization*. MIT Press, 1999, pp.215-232.
 
-* N. Bröker, M. Strube, S. Schacht & **U. Hahn**, Coarse-Grained Parallelism in Natural Language Understanding: Parsing as Message Passing, In: D. B. Jones & H. L. Somers (Eds.), New Methods in Language Processing. UCL Press, 1997, pp.301-317.
+* N. Bröker, M. Strube, S. Schacht & **U. Hahn**, <u>Coarse-Grained Parallelism in Natural Language Understanding: Parsing as Message Passing</u>, In: *D. B. Jones & H. L. Somers (Eds.), New Methods in Language Processing*. UCL Press, 1997, pp.301-317.
 
-* N. Bröker, S. Schacht, P.Neuhaus & **U. Hahn**, Performanzorientiertes Parsing und Grammatik-Design: das ParseTalk-System [Performance-oriented parsing and grammar design: the ParseTalk system], In: C. Habel, S. Kanngießer & G. Rickheit (Eds.), Perspektiven der Kognitiven Linguistik. Modelle und Methoden. Westdeutscher Verlag, 1996, pp.79-125.
+* N. Bröker, S. Schacht, P.Neuhaus & **U. Hahn**, <u>Performanzorientiertes Parsing und Grammatik-Design: das ParseTalk-System [Performance-oriented parsing and grammar design: the ParseTalk system]</u>, In: *C. Habel, S. Kanngießer & G. Rickheit (Eds.), Perspektiven der Kognitiven Linguistik. Modelle und Methoden*. Westdeutscher Verlag, 1996, pp.79-125.
 
-* **U. Hahn**, Distributed Text Structure Parsing: Computing Thematic Progressions in Expository Texts, In: G. Rickheit & C. Habel (Eds.), Focus and Coherence in Discourse Processing. W. de Gruyter, 1995, pp.214-250 (Research in Text Theory, 22).
+* **U. Hahn**, <u>Distributed Text Structure Parsing: Computing Thematic Progressions in Expository Texts</u>, In: *G. Rickheit & C. Habel (Eds.), Focus and Coherence in Discourse Processing*. W. de Gruyter, 1995, pp.214-250 (Research in Text Theory, 22).
 
-* **U. Hahn**, An Actor Model of Distributed Natural Language Parsing, In: G. Adriaens & **U. Hahn** (Eds.), Parallel Natural Language Processing. Ablex, 1994, pp.307-349.
+* **U. Hahn**, <u>An Actor Model of Distributed Natural Language Parsing</u>, In: *G. Adriaens & **U. Hahn** (Eds.), Parallel Natural Language Processing*. Ablex, 1994, pp.307-349.
 
-* **U. Hahn** & G. Adriaens, Parallel Natural Language Processing: Background and Overview, In: G. Adriaens & **U. Hahn** (Eds.), Parallel Natural Language Processing. Ablex, 1994, pp.1-134.
+* **U. Hahn** & G. Adriaens, <u>Parallel Natural Language Processing: Background and Overview</u>, In: *G. Adriaens & **U. Hahn** (Eds.), Parallel Natural Language Processing*. Ablex, 1994, pp.1-134.
 
-* **U. Hahn**, S. Schacht & N. Bröker, Verteiltes Parsing natürlicher Sprache [Distributed Parsing of Natural Language], In: J. Müller (Ed.), Verteilte Künstliche Intelligenz. Methoden und Anwendungen. B.I. Wissenschaftsverlag, 1993, pp.298-310.
+* **U. Hahn**, S. Schacht & N. Bröker, <u>Verteiltes Parsing natürlicher Sprache [Distributed Parsing of Natural Language]</u>, In: *J. Müller (Ed.), Verteilte Künstliche Intelligenz. Methoden und Anwendungen*. B.I. Wissenschaftsverlag, 1993, pp.298-310.
 
-* **U. Hahn**, M. Jarke, S. Eherer & K. Kreplin, CoAUTHOR: A Hypermedia Group Authoring Environment, In: J.M. Bowers & S.D. Benford (Eds.), Studies in Computer Supported Cooperative Work: Theory, Practice and Design. North-Holland, 1991, pp.79-100 (Human Factors in Information Technology, 8).
+* **U. Hahn**, M. Jarke, S. Eherer & K. Kreplin, <u>CoAUTHOR: A Hypermedia Group Authoring Environment</u>, In: *J.M. Bowers & S.D. Benford (Eds.), Studies in Computer Supported Cooperative Work: Theory, Practice and Design*. North-Holland, 1991, pp.79-100 (Human Factors in Information Technology, 8).
 
-* **U. Hahn** & U. Reimer, Semantic Parsing and Summarizing of Technical Texts in the TOPIC System, In: R. Kuhlen (Ed.), Informationslinguistik. Theoretische, experimentelle, curriculare und pro-gnostische Aspekte einer informationswissenschaftlichen Teildisziplin. M. Niemeyer, 1986, pp.153-193 (Sprache und Information, 15).
+* **U. Hahn** & U. Reimer, <u>Semantic Parsing and Summarizing of Technical Texts in the TOPIC System</u>, In: *R. Kuhlen (Ed.), Informationslinguistik. Theoretische, experimentelle, curriculare und pro-gnostische Aspekte einer informationswissenschaftlichen Teildisziplin*. M. Niemeyer, 1986, pp.153-193 (Sprache und Information, 15).
 
 ### Proceedings
 

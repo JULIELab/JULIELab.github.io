@@ -4,28 +4,28 @@
 
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|-------------------------------|
-| Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | udo.hahn@uni-jena.de
-| Ming-Feng Tsai   | National Chengchi University, Taiwan         | mftsai@nccu.edu.tw
-| Véronique Hoste  | Ghent University, Belgium                    | veronique.hoste@ugent.be
+| Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | [udo.hahn@uni-jena.de](mailto:udo.hahn@uni-jena.de)
+| Ming-Feng Tsai   | National Chengchi University, Taiwan         | [mftsai@nccu.edu.tw](mailto:mftsai@nccu.edu.tw)
+| Véronique Hoste  | Ghent University, Belgium                    | [veronique.hoste@ugent.be](mailto:veronique.hoste@ugent.be)
  
 | Program Comittee   | Institition                           | E-Mail
 |--------------------|---------------------------------------|---------------------------------------------------------|
-| Sven Buechel       | FSU Jena, Germany                     | sven.buechel@uni-jena.de
-| Erik Cambria       | Nanyang Technological U, Singapore    | cambria@ntu.edu.sg
-| Philipp Cimiano    | U Bielefeld, Germany                  | cimiano@cit-ec.uni-bielefeld.de
-| Xiao Ding          | Harbin Institute of Technology, China | xding@ir.hit.edu.cn
-| Junwen Duan        | Harbin Institute of Technology, China | jwduan@ir.hit.edu.cn
-| Flavius Frasincar  | Erasmus U Rotterdam,The Netherlands   | frasincar@ese.eur.nl
-| Petr Hájek         | U Pardubice, Czech Republic           | Petr.Hajek@upce.cz
-| Allan Hanbury      | TU Wien, Austria                                                  | Hanbury@ifs.tuwien.ac.at
-| Pekka Malo         | Aalto U, Finland                                                  | pekka.malo@aalto.fi
-| Viktor Pekar       | U Birmingham, UK                                                  | v.pekar@bham.ac.uk
-| Paul Rayson        | Lancaster U, UK                                                   | p.rayson@lancaster.ac.uk
-| Samuel Rönnqvist   | Åbo Akademi U, Turku, Finland                                     | sronnqvi@abo.fi
-| Kiyoaki Shirai     | Japan Advanced Institute of Science and Technology (JAIST), Japan | kshirai@jaist.ac.jp
-| Padmini Srinivasan | U of Iowa, Iowa City, IA, USA                                     | padmini-srinivasan@uiowa.edu    
-| Chuan-Ju Wang      | Academia Sinica, Taiwan                                           | cjwang@citi.sinica.edu.tw    
-| Yue Zhang          | Singapore U of Technology and Design, Singapore                   | yue_zhang@sutd.edu.sg
+| Sven Buechel       | FSU Jena, Germany                     | [sven.buechel@uni-jena.de](mailto:sven.buechel@uni-jena.de)
+| Erik Cambria       | Nanyang Technological U, Singapore    | [cambria@ntu.edu.sg](mailto:cambria@ntu.edu.sg)
+| Philipp Cimiano    | U Bielefeld, Germany                  | [cimiano@cit-ec.uni-bielefeld.de](mailto:cimiano@cit-ec.uni-bielefeld.de)
+| Xiao Ding          | Harbin Institute of Technology, China | [xding@ir.hit.edu.cn](mailto:xding@ir.hit.edu.cn)
+| Junwen Duan        | Harbin Institute of Technology, China | [jwduan@ir.hit.edu.cn](mailto:jwduan@ir.hit.edu.cn)
+| Flavius Frasincar  | Erasmus U Rotterdam,The Netherlands   | [frasincar@ese.eur.nl](mailto:frasincar@ese.eur.nl)
+| Petr Hájek         | U Pardubice, Czech Republic           | [Petr.Hajek@upce.cz](mailto:Petr.Hajek@upce.cz)
+| Allan Hanbury      | TU Wien, Austria                                                  | [Hanbury@ifs.tuwien.ac.at](mailto:Hanbury@ifs.tuwien.ac.at)
+| Pekka Malo         | Aalto U, Finland                                                  | [pekka.malo@aalto.fi](mailto:pekka.malo@aalto.fi)
+| Viktor Pekar       | U Birmingham, UK                                                  | [v.pekar@bham.ac.uk](mailto:v.pekar@bham.ac.uk)
+| Paul Rayson        | Lancaster U, UK                                                   | [p.rayson@lancaster.ac.uk](mailto:p.rayson@lancaster.ac.uk)
+| Samuel Rönnqvist   | Åbo Akademi U, Turku, Finland                                     | [sronnqvi@abo.fi](mailto:sronnqvi@abo.fi)
+| Kiyoaki Shirai     | Japan Advanced Institute of Science and Technology (JAIST), Japan | [kshirai@jaist.ac.jp](mailto:kshirai@jaist.ac.jp)
+| Padmini Srinivasan | U of Iowa, Iowa City, IA, USA                                     | [padmini-srinivasan@uiowa.edu](mailto:padmini-srinivasan@uiowa.edu)    
+| Chuan-Ju Wang      | Academia Sinica, Taiwan                                           | [cjwang@citi.sinica.edu.tw](mailto:cjwang@citi.sinica.edu.tw)    
+| Yue Zhang          | Singapore U of Technology and Design, Singapore                   | [yue_zhang@sutd.edu.sg](mailto:yue_zhang@sutd.edu.sg)
      
  
 ## Description

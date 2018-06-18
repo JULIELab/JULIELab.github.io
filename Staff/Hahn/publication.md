@@ -114,7 +114,7 @@ Publications
 
 ### Proceedings
 
-* F. Matthies & **U. Hahn** (2017).  Scholarly information extraction is going to make a quantum leap with PMC: But moving from abstracts to full texts seems harder than expected  <font color="red">**[best paper award]**</font> In: *MedInfo 2017 - Proceedings of the 16th World Congress on Medical and Health Informatics.* Hangzhou, China, 21-25 August 2017 (Eds). Amsterdam etc.: IOS Press, 2017, (Studies in Health Technology and Informatics)
+* F. Matthies & **U. Hahn** (2017).  Scholarly information extraction is going to make a quantum leap with PMC: But moving from abstracts to full texts seems harder than expected  **<font color="red">[best paper award]</font>** In: *MedInfo 2017 - Proceedings of the 16th World Congress on Medical and Health Informatics.* Hangzhou, China, 21-25 August 2017 (Eds). Amsterdam etc.: IOS Press, 2017, (Studies in Health Technology and Informatics)
 
 * E. Faessler & **U. Hahn** (2017). SEMEDICO: A comprehensive semantic search engine for the life sciences. In: *ACL 2017 - Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics: System Demonstrations.* Vancouver, Canada, August 1, 2017. H. Ji & M. Bansal (Eds.), pp. 91-96.
 

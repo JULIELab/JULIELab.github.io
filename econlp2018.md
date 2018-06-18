@@ -1,4 +1,6 @@
-@ ACL 2018, Melbourne, Australia, July 20, 2018 [ECONLP 2018 - Workshop Description V06, PDF 388KB](/coling_muldimedia/ECONLP_2018_Workshop_Description_V06.pdf)
+# ECONLP 2018 – 1st Workshop on Economics and Natural Language Processing
+
+@ **ACL 2018, Melbourne, Australia, July 20, 2018** [ECONLP 2018 - Workshop Description V06, PDF 388KB](/coling_muldimedia/ECONLP_2018_Workshop_Description_V06.pdf)
 
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|-------------------------------|
@@ -26,7 +28,7 @@
 | Yue Zhang          | Singapore U of Technology and Design, Singapore                   | yue_zhang@sutd.edu.sg
      
  
-# Description
+## Description
  
 The workshop addresses the increasing relevance of natural language processing (NLP) for regional, national and international economy, both in terms of already launched language technology products and systems, as well as new methodologies and techniques emerging in interaction with the paradigm of Computational Social Science. The focus of the workshop is on the many ways, how NLP alters business relations and procedures, economic transactions, and the roles of human and computational actors involved in commercial activities.
 
@@ -50,11 +52,11 @@ Papers submitted to this workshop should address (not excluding other topic area
 * Economy-specific text genres (business reports, sustainability reports, auditing documents, product reviews, economic newswire, business letters, law documents, etc.) and their implications for NLP
 * Dedicated language resources for economic NLP (e.g., lNER taggers, sublanguage parsers, pipelines for processing economic discourse)
  
-# Submission information 
+## Submission information 
 
 Two types of papers are solicited: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. Accepted papers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments. All submissions should be in PDF format (using ACL 2018 style sheets for the main conference; see [ACL 2018 style sheets at current CfP](http://acl2018.org/call-for-papers/) and made through the Softconf website set up for this workshop ([softconf ACL2018 ECONLP](https://www.softconf.com/acl2018/ECONLP/)).
 
-# Key Dates (several extensions)
+## Key Dates (several extensions)
 
 Deadline for paper submission: 24 April 2018 (at 11:59 p.m., anywhere on Earth (UTC -12))
 
@@ -62,9 +64,9 @@ Notification of acceptance: 20 May 2018
 
 Camera-ready version due: 3 June 2018
 
-<font color="green">Workshop: 20 July 2018<font>
+<font color="green">Workshop: 20 July 2018</font>
 
-# List of accepted papers
+## List of accepted papers
  
 * A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING* (short paper)<br/>
 Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn

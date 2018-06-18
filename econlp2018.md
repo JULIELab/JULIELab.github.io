@@ -52,41 +52,43 @@ Papers submitted to this workshop should address (not excluding other topic area
  
 # Submission information 
 
-Two types of papers are solicited: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. Accepted papers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments. All submissions should be in PDF format (using ACL 2018 style sheets for the main conference; 
-see [ACL 2018 style sheets at current CfP](http://acl2018.org/call-for-papers/) and made through the Softconf website set up for this workshop ([softconf ACL2018 ECONLP](https://www.softconf.com/acl2018/ECONLP/)).
+Two types of papers are solicited: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. Accepted papers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments. All submissions should be in PDF format (using ACL 2018 style sheets for the main conference; see [ACL 2018 style sheets at current CfP](http://acl2018.org/call-for-papers/) and made through the Softconf website set up for this workshop ([softconf ACL2018 ECONLP](https://www.softconf.com/acl2018/ECONLP/)).
 
 # Key Dates (several extensions)
 
 Deadline for paper submission: 24 April 2018 (at 11:59 p.m., anywhere on Earth (UTC -12))
+
 Notification of acceptance: 20 May 2018
+
 Camera-ready version due: 3 June 2018
-Workshop: 20 July 2018
+
+<font color="green">Workshop: 20 July 2018<font>
 
 # List of accepted papers
  
-*A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING* (short paper)\
+* A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING* (short paper)<br/>
 Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
 
-*A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION* (short paper)\
+* A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION* (short paper)<br/>
 Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
 
-*CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS* (long paper)\
+* CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS* (long paper)<br/>
 Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
 
-*ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT* (long paper)\
+* ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT* (long paper)<br/>
 Gilles Jacobs, Els Lefever and Véronique Hoste
 
-*IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS* (short paper)\
+* IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS* (short paper)<br/>
 Thomas Gaillat, Bernardo Stearn, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
 
-*LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN* (short paper)\
+* LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN* (short paper)<br/>
 Tobias Daudert, Paul Buitelaar and Sapna Negi
 
-*SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION* (short paper)\
+* SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION* (short paper)<br/>
 Youness Mansar and Sira Ferradans
 
-*STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS* (short paper)\
+* STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS* (short paper)<br/>
 Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
 
-*WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS* (short paper)\
+* WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS* (short paper)<br/>
 Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt

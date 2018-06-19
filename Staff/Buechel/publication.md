@@ -24,11 +24,11 @@ layout: staff
 
 #### 2017
 
-* **Sven Buechel**, Johannes Hellrich and Udo Hahn: The Course of Emotion in Three Centuries of German Text: A Methodological Framework. In *Digital Humanities 2017. Montreal, Canada, August 8-11, 2017*, pages 176-179. [[Paper](http://www.julielab.de/coling_multimedia/de/downloads/Papers/Buechel_DH_2017.pdf)] [[Slides](http://www.julielab.de/coling_multimedia/de/downloads/Papers/Buechel_DH_2017_Slides.pdf)]
+* **Sven Buechel**, Johannes Hellrich and Udo Hahn: The Course of Emotion in Three Centuries of German Text: A Methodological Framework. In *Digital Humanities 2017. Montreal, Canada, August 8-11, 2017*, pages 176-179. [[Paper](/coling_multimedia/Buechel_DH_2017.pdf)] [[Slides](/coling_multimedia/Buechel_DH_2017_Slides.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017** - Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
 
-* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017** - Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Valencia, Spain, April 3-7, 2017*. Volume 2, Short Papers, pages 578-585. [[Paper](http://aclweb.org/anthology/E17-2092)] [Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/poster_eacl_2017_v4_final.pdf)]
+* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017** - Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Valencia, Spain, April 3-7, 2017*. Volume 2, Short Papers, pages 578-585. [[Paper](http://aclweb.org/anthology/E17-2092)] [Poster](/coling_multimedia/poster_eacl_2017_v4_final.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2017. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In *LAW 2017 - Proceedings of the 11th Linguistic Annotation Workshop @ EACL 2017. Valencia, Spain, April 3, 2017*, pages 1-12. [[Paper](http://aclweb.org/anthology/W17-0801)]
 
@@ -38,9 +38,9 @@ layout: staff
 
 * **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016** - Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)] 
 
-* **Sven Buechel**, Udo Hahn, Jan Goldenstein, Sebastian G. M. Händschke, and Peter Walgenbach. 2016. Do enterprises have emotions? In *WASSA 2016 - Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ NAACL-HLT 2016. San Diego, California, USA, June 16, 2016*, pages 9-15. [[Paper](http://anthology.aclweb.org/W/W16/W16-0423.pdf)] [[Poster](http://www.julielab.de/coling_multimedia/de/_users/Buechel/Poster_Wassa_final.pdf)] 
+* **Sven Buechel**, Udo Hahn, Jan Goldenstein, Sebastian G. M. Händschke, and Peter Walgenbach. 2016. Do enterprises have emotions? In *WASSA 2016 - Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ NAACL-HLT 2016. San Diego, California, USA, June 16, 2016*, pages 9-15. [[Paper](http://anthology.aclweb.org/W/W16/W16-0423.pdf)] [[Poster](coling_multimedia/Buechel/Poster_Wassa_final.pdf)] 
 
-* **Sven Eric Büchel**. 2016. *Automatische Analyse von Emotionen in Geschäfts- und Nachhaltigkeitsberichten* [\"Automatic Analysis of Emotion in Annual Reports and Corporate Social Responsibility Reports\"]. Bachelor Thesis. Friedrich Schiller University Jena. [[Thesis](http://www.julielab.de/coling_multimedia/de/downloads/Papers/BA_Bu%CC%88chel_Emotionsanalyse_2016_02_04.pdf)]
+* **Sven Eric Büchel**. 2016. *Automatische Analyse von Emotionen in Geschäfts- und Nachhaltigkeitsberichten* [\"Automatic Analysis of Emotion in Annual Reports and Corporate Social Responsibility Reports\"]. Bachelor Thesis. Friedrich Schiller University Jena. [[Thesis](/coling_multimedia/BA_Bu%CC%88chel_Emotionsanalyse_2016_02_04.pdf)]
 
 #### 2015
 
@@ -52,7 +52,7 @@ layout: staff
 
 #### Non-Archival Contributions
 
-* Quantifizierung von Emotionen in historischer Sprache. Anwendungen und methodische Grundlagen [\'Quantifying emotion in historical language. Applications and methodological foundations\']. Invited talk at the graduate seminar of the FinkA research group (Prof. Stefan Strohschneider, Dr. Eva Schlindwein), Friedrich-Schiller-Universität Jena, January 24, 2018. [[Slides](http://www.julielab.de/coling_multimedia/de/_users/Buechel/slides_iwk_gastvortrag_2018.pdf)]
+* Quantifizierung von Emotionen in historischer Sprache. Anwendungen und methodische Grundlagen [\'Quantifying emotion in historical language. Applications and methodological foundations\']. Invited talk at the graduate seminar of the FinkA research group (Prof. Stefan Strohschneider, Dr. Eva Schlindwein), Friedrich-Schiller-Universität Jena, January 24, 2018. [[Slides](/coling_multimedia/slides_iwk_gastvortrag_2018.pdf)]
 
 * Quantifizierung von Emotionen in historischer Sprache [\'Quantifying emotion in historical language\']. Invited talk at Digital Humanities in Jena 2017, Jena, Germany, November 23, 2018 '7.
 

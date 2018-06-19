@@ -29,8 +29,10 @@ System administrator
 
 Email: benjamin.rampe@uni-jena.de\
 Phone:	+49 3641 9-44323\
-Postal Address\
-> Fürstengraben 27
-> 07743 Jena
-> Germany
+
 Room: E 011
+
+### Postal Address
+Fürstengraben 27
+07743 Jena
+Germany

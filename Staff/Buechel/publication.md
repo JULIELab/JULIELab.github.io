@@ -38,7 +38,7 @@ layout: staff
 
 * **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016** - Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)] 
 
-* **Sven Buechel**, Udo Hahn, Jan Goldenstein, Sebastian G. M. Händschke, and Peter Walgenbach. 2016. Do enterprises have emotions? In *WASSA 2016 - Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ NAACL-HLT 2016. San Diego, California, USA, June 16, 2016*, pages 9-15. [[Paper](http://anthology.aclweb.org/W/W16/W16-0423.pdf)] [[Poster](coling_multimedia/Buechel/Poster_Wassa_final.pdf)] 
+* **Sven Buechel**, Udo Hahn, Jan Goldenstein, Sebastian G. M. Händschke, and Peter Walgenbach. 2016. Do enterprises have emotions? In *WASSA 2016 - Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ NAACL-HLT 2016. San Diego, California, USA, June 16, 2016*, pages 9-15. [[Paper](http://anthology.aclweb.org/W/W16/W16-0423.pdf)] [[Poster](/coling_multimedia/Buechel/Poster_Wassa_final.pdf)] 
 
 * **Sven Eric Büchel**. 2016. *Automatische Analyse von Emotionen in Geschäfts- und Nachhaltigkeitsberichten* [\"Automatic Analysis of Emotion in Annual Reports and Corporate Social Responsibility Reports\"]. Bachelor Thesis. Friedrich Schiller University Jena. [[Thesis](/coling_multimedia/BA_Bu%CC%88chel_Emotionsanalyse_2016-02-04.pdf)]
 

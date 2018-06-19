@@ -10,7 +10,7 @@ layout: default
 
 ## May '18 papers accepted
 * Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [COLING 2018](http://coling2018.org/).
-* Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
+* Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](/econlp2018.html) @ ACL 2018.
 
 ## April '18 open position
 

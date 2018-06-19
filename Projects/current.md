@@ -9,7 +9,7 @@ Current |
 [[Former]](former.html) | 
 [[UIMA]](UIMA.html)
 
-<img style="margin-top:15px" src="http://julielab.de/coling_multimedia/de/img/Projects/projects_SMITH-width-250-height-158.png" />
+<img style="margin-top:15px" src="/coling_multimedia/projects_SMITH-width-250-height-158.png" />
 
 The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare), founded by German Federal Ministry of Education and Research (BMBF). The project start is January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
 
@@ -21,6 +21,6 @@ Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL)
 
 ------------------------------------------------------------------------
 
-![](http://julielab.de/coling_multimedia/de/img/Projects/projects_AquaDiva-width-360-height-70.png)
+![](/coling_multimedia/projects_AquaDiva-width-360-height-70.png)
 
 The JULIE Lab is member of the AquaDiva project INFRA1. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).

@@ -28,7 +28,7 @@ Benjamin Redling\
 System administrator
 
 Email: benjamin.rampe@uni-jena.de\
-Phone:	+49 3641 9-44323\
+Phone:	+49 3641 9-44323
 
 Room: E 011
 

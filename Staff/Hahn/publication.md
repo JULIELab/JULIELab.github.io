@@ -158,7 +158,7 @@ Publications
 
 * E. Buyko, E. Beisswanger & **U. Hahn**, <u>Extraction of Pharmacogenetic and Pharmacogenomic Relations - A Case Study Using PharmGKB</u>, In: R.B. Altman, A.K. Dunker, L. Hunter, T.A. Jung & T.E. Klein (Eds.), *PSB 2012 - Proceed-ings of the Pacific Symposium on Biocomputing 2012. Big Island, Hawaii, USA, January 3-7, 2012.* New Jersey etc: World Scientific, 2012, pp. 376-387.
 
-* E. Buyko, J. Linde, S. Priebe & **U. Hahn**, <u>Towards Automatic Pathway Generation from Biological Full-Text Publications</u>, In: J Gama, E. Bradley & J. Hollmen (Eds.), </u>Advances in Intelligent Data Analysis X. IDA 2011 - Proceedings of the 10th International Conference on Intelligent Data Analysis: Analyzing and Understanding Complex Systems.</u> Porto, Portugal, October 29-31, 2011. Berlin etc.: Springer, 2011, pp. 67-79 (Lecture Notes in Computer Science, 7014)
+* E. Buyko, J. Linde, S. Priebe & **U. Hahn**, <u>Towards Automatic Pathway Generation from Biological Full-Text Publications</u>, In: *J Gama, E. Bradley & J. Hollmen (Eds.), Advances in Intelligent Data Analysis X. IDA 2011 - Proceedings of the 10th International Conference on Intelligent Data Analysis: Analyzing and Understanding Complex Systems.* Porto, Portugal, October 29-31, 2011. Berlin etc.: Springer, 2011, pp. 67-79 (Lecture Notes in Computer Science, 7014)
 
 * E. Buyko & **U. Hahn**, <u>Generating Semantics for the Life Sciences via Text Analytics</u>, In: *ICSC 2011 - Proceedings of the 5th IEEE International Conference on Semantic Computing.* Stanford University, CA, USA, September 18-21, 2011. IEEE Computer Society Press, 2011, pp. 193-196.
 

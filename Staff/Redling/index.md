@@ -33,6 +33,7 @@ Phone:	+49 3641 9-44323\
 Room: E 011
 
 ### Postal Address
-Fürstengraben 27
-07743 Jena
-Germany
+
+Fürstengraben 27\
+07743 Jena\
+Germany\

@@ -10,7 +10,7 @@ Over the years I maintained a FC-SAN, had to cope with Solaris with SAM-FS, plan
 
 Just recently I started to climb the rough edges of CUDA installations for Deep Learning and after a month of painful doing it "the hard way" happily recommend using the Anaconda Python distribution.
 
-### Recent Working Experience
+## Recent Working Experience
 
 * Installation and maintenance of the groups SLURM cluster
 * Setup and tuning of PostgreSQL installations
@@ -22,12 +22,15 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 * Configuration management and orchestration via Ansible and basic shell scripting
 * Basic Python knowledge
 
-### Contact
+## Contact
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benjamin Redling<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System administrator
+Benjamin Redling\
+System administrator
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email | benjamin.rampe@uni-jena.de |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone	| +49 3641 9-44323 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room	| E 011 |
+Email: benjamin.rampe@uni-jena.de\
+Phone:	+49 3641 9-44323\
+Postal Address\
+> Fürstengraben 27
+> 07743 Jena
+> Germany
+Room: E 011

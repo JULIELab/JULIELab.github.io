@@ -12,23 +12,23 @@ Overview |
 [[Research]](research.html) | 
 [[Publications]](publication.html)
 
-### Contact details
+## Contact details
 Dr. Sascha Schäuble<br/>
 Postdoctoral Researcher
 
-#### Postal address
+### Postal address
 Fürstengraben 27<br/>
 07743 Jena<br/>
 Germany
 
-#### Room
+### Room
 R004
 
-#### E-mail
+### E-mail
 [sascha.schaeuble@uni-jena.de](mailto:sascha.schaeuble@uni-jena.de)
 
-#### Telephone
+### Telephone
 +49 3641 9-44324
 
-#### Fax
+### Fax
 +49 3641 9-44321

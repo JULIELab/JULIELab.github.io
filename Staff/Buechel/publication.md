@@ -8,7 +8,9 @@ layout: staff
 
 #### 2018
 
-* Johannes Hellrich, **Sven Buechel** and Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. Accepted for *COLING 2018 System Demonstrations*.
+* Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. A human-interpretable method to predict paraphrasticality. Accepted for *LaTeCH-CLfL @ COLING 2018*.
+
+* Johannes Hellrich, **Sven Buechel** and Udo Hahn. 2018. JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. Accepted for *COLING 2018 System Demonstrations*.
 
 * Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Business and Corporate Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing. Accepted for *ECONLP @ ACL 2018*.
 

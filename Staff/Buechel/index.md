@@ -14,7 +14,7 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 [[LinkedIn](https://www.linkedin.com/in/sven-buechel-28b8b0127/)]
 <br/>
 
-### Selected Publications
+## Selected Publications
 * **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***.
 
 * **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)
@@ -27,16 +27,16 @@ I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&
 
 **[— Full Publication List —](publication.html)**
 
-### Teaching Experience
+## Teaching Experience
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
 * Computational Linguistics I, Fall 2016, Fall 2017.
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.
 
-### Contact
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sven Buechel<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant
+## Contact
+Sven Buechel<br/>
+Research Assistant
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email | sven.buechel@uni-jena.de |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone | +49 3641 9-44324 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room | E 009 |
+| Email | sven.buechel@uni-jena.de |
+| Phone | +49 3641 9-44324 |
+| Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
+| Room | E 009 |

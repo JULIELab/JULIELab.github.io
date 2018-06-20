@@ -34,6 +34,6 @@ Room: E 011
 
 ### Postal Address
 
-Fürstengraben 27\
-07743 Jena\
+Fürstengraben 27
+07743 Jena
 Germany

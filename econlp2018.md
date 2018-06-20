@@ -94,5 +94,5 @@ Youness Mansar and Sira Ferradans
 * STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS (short paper)<br/>
 Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
 
-* WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS (short paper)<br/>
+* WORD EMBEDDINGS-BASED UNCERTAINTY DETECTION IN FINANCIAL DISCLOSURES (short paper)<br/>
 Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt

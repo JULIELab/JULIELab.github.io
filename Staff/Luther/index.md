@@ -10,7 +10,7 @@ layout: staff
 
 I am the parental leave substitute for [Franz Matthies](/Staff/Matthies/Franz+Matthies.html).
 
-### Contact details
+## Contact details
 Stephanie Luther<br/>
 Research Assistent
 

@@ -1,3 +1,3 @@
 ---
-redirect_to: "/Peojects/current.html"
+redirect_to: "/Projects/current.html"
 ---

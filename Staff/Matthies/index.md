@@ -12,15 +12,15 @@ Overview |
 [[Research]](research.html) | 
 [[Publications]](publication.html)
 
-### Contact details
+## Contact details
 Franz Matthies<br/>
 Research Assistent
 
-#### E-mail
+### E-mail
 [franz.matthies@uni-jena.de](mailto:franz.matthies@uni-jena.de)
 
-#### Telephone
+### Telephone
 +49 3641 9-44305
 
-#### Fax
+### Fax
 +49 3641 9-44321

@@ -11,20 +11,20 @@ Overview |
 [[Research]](research.html) | 
 [[Publications]](publication.html)
 
-### Contact details
+## Contact details
 Erik Fäßler<br/>
 Research Assistent
 
-#### Postal address
+### Postal address
 Fürstengraben 27<br/>
 07743 Jena<br/>
 Germany
 
-#### E-mail
+### E-mail
 [Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)
 
-#### Telephone
+### Telephone
 +49 3641 9-44324
 
-#### Fax
+### Fax
 +49 3641 9-44321

@@ -8,6 +8,8 @@ layout: staff
 
 #### 2018
 
+* Johannes Hellrich\*, **Sven Buechel\*** and Udo Hahn. 2018.  Inducing affective lexical semantics in historical language. In [arXiv:1806.08115](https://arxiv.org/abs/1806.08115).
+
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. A human-interpretable method to predict paraphrasticality. Accepted for *LaTeCH-CLfL @ COLING 2018*.
 
 * Johannes Hellrich, **Sven Buechel** and Udo Hahn. 2018. JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. Accepted for *COLING 2018 System Demonstrations*.

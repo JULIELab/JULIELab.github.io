@@ -18,7 +18,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 
 ### Vorlesung
 1. [Empirical Paradigm + Resources](/coling_multimedia/CL-II-10.Empirical_Paradigm+Resources-sh.pdf) (aktualisiert am 18.6.18)
-2. [Lexicons, Terminologies, Ontologies](/coling_multimedia/CL-II-11.Resources-Lexicons-sh.pdf)
+2. [Lexicons, Terminologies, Ontologies](/coling_multimedia/CL-II-11.Resources-Lexicons-sh.pdf) (aktualisiert am 22.6.18)
 
 ### Seminar
 1. [Einführung](/coling_multimedia/LinkedOpenData+%28M_GSW_10%29_sh.pdf) (aktualisiert am 8.6.18)

@@ -2,12 +2,13 @@
 layout: staff
 ---
 
-# Sven Buechel
+# Sven Buechel, B.A.
 <div class="portrait">
   <img src="Sven+Büchel-width-162-height-202.jpg">
 </div>
 
-I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&hl=de)'s Group in summer 2016 to follow up on the research associated with my Bachelor thesis on emotional language use by organizations. The focus of my work is both on the development of novel methodologies for measuring emotion in text as well as applying those methods in the Computational Social Sciences and the Digital Humanities. Currently, I work as a visiting scholar at the University of Pennsylvania together with [Lyle Ungar](https://scholar.google.de/citations?user=KCiDjbkAAAAJ&hl=de&oi=ao).
+After studying physics, sociology and German philology at Jena University, I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&hl=de)'s Group in summer 2016. Since then my work focuses on modeling emotional reactions to language on different linguistic levels (words, sentences, and texts). A distinguishing feature of our research is the close connection to psychology in terms of data sets and, in particular, formal representations of affective states. As such, my long-term goal is to push sentiment analysis away from its narrow focus on positive vs. negative feelings but instead introducing more expressive models of emotion from psychological theory. I am also interested in applying our resulting methodologies to questions asked within the humanities and social sciences.
+Currently, I am a visiting scholar at the University of Pennsylvania working together with [Lyle Ungar](https://scholar.google.de/citations?user=KCiDjbkAAAAJ&hl=de&oi=ao).
 
 [[Google Scholar](https://scholar.google.de/citations?user=Nwru9iwAAAAJ&hl=de)] |
 [[Researchgate](https://www.researchgate.net/profile/Sven_Buechel?ev=hdr_xprf&_sg=4upFSfeSCN9Idsn1cwroLK5_7bD0IiCpcAl3-Z25Xr164MVfOG6aYTsw0crE-OF8s0_fUCVQ96HJKwmkt65aguxZ)] |

@@ -15,7 +15,7 @@ layout: staff
 
 * **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
 
-* Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: [*DH 2018*](https://dh2018.adho.org/en/). pp. 457-460.
+* Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: [*Digital Humanities 2018*](https://dh2018.adho.org/en/). Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
 
 * **Johannes Hellrich**, Alexander Stöger & Udo Hahn: [Wenn der Funke überspringt - Word Embeddings im Dienst der Wissenschaftsgeschichte](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf). In: [*DHd 2018, Kritik der digitalen Vernunft*](https://dh2018.adho.org/en/). Köln, Germany, Februar 26 - March 2, 2018. pp. 331-335. [[Slides]](/coling_multimedia/dhd2018slides.pdf)
 

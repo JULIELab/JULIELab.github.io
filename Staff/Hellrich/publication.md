@@ -7,13 +7,15 @@ layout: staff
 [<< Back to Overview](Johannes+Hellrich.html)
 
 #### 2018
-* **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. In: *COLING 2018.* [accepted]
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115).* [to appear]
+
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion. In: *[COLING 2018](https://coling2018.org).* [to appear]
 
 * **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
 
 * **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
 
-* Maria Moritz, **Johannes Hellrich** & Sven Buechel: Towards a Metric for Paraphrastic Modification. In: [*DH 2018*](https://dh2018.adho.org/en/). [accepted]
+* Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: [*DH 2018*](https://dh2018.adho.org/en/). pp. 457-460.
 
 * **Johannes Hellrich**, Alexander Stöger & Udo Hahn: [Wenn der Funke überspringt - Word Embeddings im Dienst der Wissenschaftsgeschichte](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf). In: [*DHd 2018, Kritik der digitalen Vernunft*](https://dh2018.adho.org/en/). Köln, Germany, Februar 26 - March 2, 2018. pp. 331-335. [[Slides]](/coling_multimedia/dhd2018slides.pdf)
 

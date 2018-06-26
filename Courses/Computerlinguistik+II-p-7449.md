@@ -31,4 +31,5 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 4. [Übungsblatt 4](/coling_multimedia/blatt04_cl2-p-1510.pdf)
 5. [Übungsblatt 5](/coling_multimedia/blatt05_cl2-p-1512.pdf)
 6. [Übungsblatt 6](/coling_multimedia/blatt06_cl2-p-1517.pdf) 
-7. [Übungsblatt 7](/coling_multimedia/blatt07_cl2.pdf) (Abgabe am 27.6.18)
+7. [Übungsblatt 7](/coling_multimedia/blatt07_cl2.pdf) 
+7. [Übungsblatt 8](/coling_multimedia/blatt08_cl2.pdf) (Abgabe am 4.7.18)

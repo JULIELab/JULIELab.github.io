@@ -4,7 +4,7 @@ layout: staff
 
 # Johannes Hellrich: Full Publication List
 
-[<< Back to Overview](Johannes+Hellrich.html)
+[<< Back to Overview](../Johannes+Hellrich.html)
 
 #### 2018
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.

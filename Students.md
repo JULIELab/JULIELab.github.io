@@ -20,7 +20,7 @@ The descriptions of the courses are available in German only. For the official a
 
 ## Open Theses
 
-If you are interested in writing a thesis feel free to [contact](mailto:listserv@uni-jena.de) us.
+If you are interested in writing a thesis feel free to [contact](mailto:julielab@listserv.uni-jena.de) us.
 
 ## Accomplished Theses
 

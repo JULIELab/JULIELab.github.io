@@ -36,4 +36,4 @@ All document are delivered as MMAX2 ([http://mmax2.net/](http://mmax2.net/)) ann
 | &nbsp;&nbsp;&nbsp;sentences | 36223 |
 | &nbsp;&nbsp;&nbsp;tokens | 960757 |
 
-Download the corpus [here](/coling_multimedia/fsu_prge_release_v1_0.tgz) (10MB).
+Download the corpus [here](/downloads/resources/fsu_prge_release_v1_0.tgz) (10MB).

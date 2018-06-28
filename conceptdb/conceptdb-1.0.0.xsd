@@ -146,12 +146,6 @@
     <!-- Data export -->
 
 
-    <xs:complexType name="boltexportertype">
-        <xs:sequence>
-            <xs:element name="configuration" type="exportcypherquerytype"/>
-        </xs:sequence>
-    </xs:complexType>
-
     <xs:element name="exports">
         <xs:complexType>
             <xs:sequence>

@@ -11,9 +11,9 @@ layout: staff
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion. In: *[COLING 2018](https://coling2018.org)*. [to appear]
 
-* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
+* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
-* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
+* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
 * Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: [*Digital Humanities 2018*](https://dh2018.adho.org/en/). Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
 

@@ -15,7 +15,7 @@ layout: default
 
 ## April '18 open position
 
-* We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
+* We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](/downloads/jobs/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
 ## Mar '18 paper accepted, visiting researcher
 

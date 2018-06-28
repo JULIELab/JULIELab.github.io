@@ -6,7 +6,7 @@
 
     <xs:complexType name="boltexportertype">
         <xs:sequence>
-            <xs:element name="name">
+            <xs:element name="exporter">
                 <xs:simpleType>
                     <xs:restriction base="xs:string">
                         <xs:enumeration value="de.julielab.concepts.db.core.BoltExporter"/>
@@ -17,5 +17,5 @@
         </xs:sequence>
     </xs:complexType>
 
-    <xs:element name="exporter" type="boltexportertype"/>
+    <xs:element name="export" type="boltexportertype"/>
 </xs:schema>

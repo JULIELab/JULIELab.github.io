@@ -147,12 +147,8 @@
     <xs:element name="exports">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="export" maxOccurs="unbounded">
-                    <xs:complexType>
-                        <!-- Extension point for individual exporters -->
-                        <xs:any/>
-                    </xs:complexType>
-                </xs:element>
+                <!-- Extension point for individual exporters -->
+                <xs:any maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

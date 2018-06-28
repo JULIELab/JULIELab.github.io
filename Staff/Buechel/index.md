@@ -16,11 +16,11 @@ Currently, I am a visiting scholar at the University of Pennsylvania working tog
 <br/>
 
 ## Selected Publications
-* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***. [[Paper]](../../coling_multimedia/buechel-2018-coling.pdf)
+* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. Accepted for ***COLING 2018***. [[Paper]](/downloads/publications/papers/buechel-2018-coling.pdf)
 
 * **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. Accepted for ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)
 
-* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017*** - *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics,* volume 2, short papers, pages 578-585, Valencia, Spain, April 3-7, 2017. [[Paper](http://aclweb.org/anthology/E17-2092)] [[Poster](/coling_multimedia/poster_eacl_2017_v4_final.pdf)]
+* **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017*** - *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics,* volume 2, short papers, pages 578-585, Valencia, Spain, April 3-7, 2017. [[Paper](http://aclweb.org/anthology/E17-2092)] [[Poster](/downloads/publications/posters/poster_eacl_2017_v4_final.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017*** - *Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
 

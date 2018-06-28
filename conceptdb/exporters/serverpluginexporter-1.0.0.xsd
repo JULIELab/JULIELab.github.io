@@ -8,6 +8,13 @@
         <xs:complexContent>
             <xs:extension base="exportertype">
                 <xs:sequence>
+                    <xs:element name="name">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:enumeration value="de.julielab.concepts.db.core.ServerPluginExporter"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
                     <xs:element ref="pluginname"/>
                     <xs:element ref="pluginendpoint"/>
                 </xs:sequence>

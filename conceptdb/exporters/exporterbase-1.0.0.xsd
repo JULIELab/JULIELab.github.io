@@ -83,7 +83,6 @@
 
     <xs:complexType name="exportertype">
         <xs:sequence>
-            <xs:element name="name" type="xs:string"/>
             <xs:element name="configuration" type="exportconfigurationtype"/>
         </xs:sequence>
         <xs:attribute name="type" type="xs:string"/>

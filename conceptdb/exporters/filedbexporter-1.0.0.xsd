@@ -20,5 +20,5 @@
         </xs:complexContent>
     </xs:complexType>
 
-    <xs:element name="filedbexporter" type="filedbexportertype"/>
+    <xs:element name="exporter" type="filedbexportertype"/>
 </xs:schema>

@@ -17,5 +17,5 @@
         </xs:sequence>
     </xs:complexType>
 
-    <xs:element name="boltexporter" type="boltexportertype"/>
+    <xs:element name="exporter" type="boltexportertype"/>
 </xs:schema>

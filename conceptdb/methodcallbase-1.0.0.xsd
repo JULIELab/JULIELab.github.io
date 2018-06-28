@@ -3,6 +3,9 @@
            targetNamespace="http://www.julielab.de/conceptdb/methodcall"
            elementFormDefault="qualified">
 
+    <xs:element name="pluginname" type="xs:string"/>
+    <xs:element name="pluginendpoint" type="xs:string"/>
+
     <xs:element name="parameter">
         <xs:annotation>
             <xs:documentation xml:lang="en">

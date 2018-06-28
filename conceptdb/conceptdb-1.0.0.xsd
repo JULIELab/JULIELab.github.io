@@ -11,8 +11,6 @@
     <xs:element name="uri" type="xs:string"/>
     <xs:element name="user" type="xs:string"/>
     <xs:element name="password" type="xs:string"/>
-    <xs:element name="pluginname" type="xs:string"/>
-    <xs:element name="pluginendpoint" type="xs:string"/>
 
     <xs:element name="versioning">
         <xs:complexType>

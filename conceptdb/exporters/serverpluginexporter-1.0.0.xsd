@@ -22,5 +22,5 @@
         </xs:complexContent>
     </xs:complexType>
 
-    <xs:element name="serverpluginexporter" type="serverpluginexportertype"/>
+    <xs:element name="exporter" type="serverpluginexportertype"/>
 </xs:schema>

@@ -303,8 +303,8 @@
             <xs:sequence>
                 <xs:element ref="versioning"/>
                 <xs:element ref="connection"/>
-                <xs:element ref="imports"/>
-                <xs:element ref="exports"/>
+                <xs:element ref="imports" minOccurs="0"/>
+                <xs:element ref="exports" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

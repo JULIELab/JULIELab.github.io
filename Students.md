@@ -15,8 +15,8 @@ The descriptions of the courses are available in German only. For the official a
 
 ## Merkblätter
 
-* [Merkblatt Algorithmen](/downloads/algorithmen-p-1310.pdf)
-* [Merkblatt Parsing](/downloads/parsing.pdf)
+* [Merkblatt Algorithmen](/downloads/teaching/algorithmen-p-1310.pdf)
+* [Merkblatt Parsing](/downloads/teaching/parsing.pdf)
 
 ## Open Theses
 

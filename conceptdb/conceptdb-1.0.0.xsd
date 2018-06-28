@@ -249,6 +249,21 @@
         </xs:sequence>
     </xs:complexType>
 
+    <!-- The type for cypher queries -->
+    <xs:complexType name="cypherquerytype">
+        <xs:sequence>
+            <xs:element name="cypherquery" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="exportcypherquerytype">
+        <xs:extension base="cypherquerytype">
+            <xs:sequence>
+                <xs:element ref="outputfile"/>
+            </xs:sequence>
+        </xs:extension>
+    </xs:complexType>
+
     <!-- This extends the methodcallconfigtype with decoding of retrieved data and a file to write the output to -->
     <xs:complexType name="exportconfigurationtype">
         <xs:extension base="methodcallconfigtype">
@@ -278,11 +293,20 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:element name="boltexporter">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="configuration" type="exportcypherquerytype"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="export">
         <xs:complexType>
             <xs:choice>
                 <xs:element ref="serverpluginexporter"/>
                 <xs:element ref="filedbexporter"/>
+                <xs:element ref="boltexporter"/>
             </xs:choice>
         </xs:complexType>
     </xs:element>

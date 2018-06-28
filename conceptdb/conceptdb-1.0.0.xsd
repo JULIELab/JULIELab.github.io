@@ -207,13 +207,22 @@
                     Optional. Required when working directly with the file database and when the parameter is multi-valued. For calling the desired method correctly, we need to know of what type the arrays must be to represent the given values.
                 </xs:documentation>
             </xs:attribute>
+            <xs:sequence>
+                <xs:element name="arrayitem">
+                    <xs:annotation>
+                        <xs:documentation xml:lang="en">
+                            For array-valued parameters, this element may be used to specify the array elements. This is only for convenience purposes, the actual element name is not used internally.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:element>
             <xs:any/>
+            </xs:sequence>
         </xs:complexType>
     </xs:element>
 
     <xs:element name="parameters">
         <xs:annotation>
-            <xs:documentation>
+            <xs:documentation xml:lang="en">
                 This element defines parameters for method calls of Java classes or Neo4j server plugins.
             </xs:documentation>
         </xs:annotation>

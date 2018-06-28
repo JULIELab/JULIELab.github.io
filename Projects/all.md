@@ -63,7 +63,7 @@ A specific CALBC challenge run which consisted of building a large, diversely an
 
 [Overview to the CALBC Challenge](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html) and [the challenge timeline](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html)
 
-[Project flyer](/downloads/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
+[Project flyer](/downloads/projects/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
 
 ------------------------------------------------------------------------
 

@@ -32,4 +32,4 @@ Publications
 
 * **Erik Faessler**, Rico Landefeld, Katrin Tomanek and Udo Hahn. <u>LuCas - A Lucene CAS Indexer</u>. *Proceedings of the Biennial GSCL Conference*, 2009.
 
-* Erik Fäßler. <u>Automatische Extraktion von Protein-Protein-Interaktionen in biomedizinischen Texten unter Verwendung von Supportvektormaschinen</u>. *Master Thesis, Friedrich-Schiller-Universtität Jena*, 2009. [[Download](http://www.julielab.de/coling_multimedia/de/downloads/Papers/diploma_thesis_faessler.pdf) PDF, 1.3 MB]
+* Erik Fäßler. <u>Automatische Extraktion von Protein-Protein-Interaktionen in biomedizinischen Texten unter Verwendung von Supportvektormaschinen</u>. *Master Thesis, Friedrich-Schiller-Universtität Jena*, 2009. [[Download](/downloads/publications/thesis/diploma_thesis_faessler.pdf) PDF, 1.3 MB]

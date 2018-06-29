@@ -56,6 +56,8 @@ layout: staff
 
 #### Non-Archival Contributions
 
+* Emotional enterprises? Measuring affective language in companies' external communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
+
 * Quantifizierung von Emotionen in historischer Sprache. Anwendungen und methodische Grundlagen [\'Quantifying emotion in historical language. Applications and methodological foundations\']. Invited talk at the graduate seminar of the FinkA research group (Prof. Stefan Strohschneider, Dr. Eva Schlindwein), Friedrich-Schiller-Universität Jena, January 24, 2018. [[Slides](/downloads/publications/slides/slides_iwk_gastvortrag_2018.pdf)]
 
 * Quantifizierung von Emotionen in historischer Sprache [\'Quantifying emotion in historical language\']. Invited talk at Digital Humanities in Jena 2017, Jena, Germany, November 23, 2018 '7.

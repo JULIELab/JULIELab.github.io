@@ -7,6 +7,9 @@
            elementFormDefault="qualified"
            vc:minVersion="1.1">
 
+    <xs:element name="pluginname" type="xs:string"/>
+    <xs:element name="pluginendpoint" type="xs:string"/>
+
     <xs:element name="version" type="xs:string"/>
     <xs:element name="uri" type="xs:string"/>
     <xs:element name="user" type="xs:string"/>
@@ -102,38 +105,11 @@
 
     <!-- In-database operations -->
 
-    <xs:element name="serverpluginoperator">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element ref="pluginname"/>
-                <xs:element ref="pluginendpoint"/>
-                <xs:element name="configuration" type="methodcallconfigtype"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-
-
-    <xs:element name="filedboperator">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="configuration" type="methodcallconfigtype"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-
-    <xs:element name="operation">
-        <xs:complexType>
-            <xs:choice>
-                <xs:element ref="serverpluginoperator"/>
-                <xs:element ref="filedboperator"/>
-            </xs:choice>
-        </xs:complexType>
-    </xs:element>
-
     <xs:element name="operations">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="operation" maxOccurs="unbounded"/>
+                <!-- Extension point for individual exporters -->
+                <xs:any maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -171,6 +147,7 @@
                 <xs:element ref="versioning"/>
                 <xs:element ref="connection"/>
                 <xs:element ref="imports" minOccurs="0"/>
+                <xs:element ref="operations" minOccurs="0"/>
                 <xs:element ref="exports" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>

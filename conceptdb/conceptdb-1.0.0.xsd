@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
            version="1.0.0"
-           xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning"
            targetNamespace="http://www.julielab.de/conceptdb"
            xmlns="http://www.julielab.de/conceptdb"
-           elementFormDefault="qualified"
-           vc:minVersion="1.1">
+           elementFormDefault="qualified">
+
+
+    <xs:annotation>
+        <xs:documentation xml:lang="en">
+            <p>This is the core XML Schema to create a valid configuration for the JULIE Lab Concept Database Manager.
+            It defines elements for versioning a database (<em>versioning</em>), creating a connection to it
+            (<em>connection</em>em>), importing data (nodes, edges, <em>imports</em>), executing database-internal
+            operations (<em>operations</em>) on the data and exporting portions of the database
+            to files (<em>exports</em>).
+            </p>
+        </xs:documentation>
+    </xs:annotation>
 
     <xs:element name="pluginname" type="xs:string"/>
     <xs:element name="pluginendpoint" type="xs:string"/>

@@ -1,7 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="http://www.julielab.de/conceptdb/operators/serverpluginoperator"
+           xmlns="http://www.julielab.de/conceptdb/operators/serverplugin"
            version="1.0.0"
-           targetNamespace="http://www.julielab.de/conceptdb/operators/serverpluginoperator"
+           targetNamespace="http://www.julielab.de/conceptdb/operators/serverplugin"
            elementFormDefault="qualified">
 
     <xs:include schemaLocation="http://www.julielab.de/conceptdb/methodcallbase-1.0.0.xsd"/>

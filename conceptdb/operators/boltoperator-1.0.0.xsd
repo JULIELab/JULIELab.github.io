@@ -1,7 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="http://www.julielab.de/conceptdb/operators/boltoperator"
+           xmlns="http://www.julielab.de/conceptdb/operators/bolt"
            version="1.0.0"
-           targetNamespace="http://www.julielab.de/conceptdb/operators/boltoperator"
+           targetNamespace="http://www.julielab.de/conceptdb/operators/bolt"
            elementFormDefault="qualified">
 
     <xs:include schemaLocation="http://www.julielab.de/conceptdb/methodcallbase-1.0.0.xsd"/>

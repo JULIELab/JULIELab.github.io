@@ -3,6 +3,9 @@ layout: default
 ---
 # Lab News
 
+## July '18 paper accepted
+* Submisson by Erik Faessler and Udo Hahn on [JeDIS](https://github.com/JULIELab/jedis) accepted at [DocEng 2018](https://doceng.org/doceng2018/index). 
+
 ## June '18 visiting researcher, papers accepted
 * Submission by Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018
 * Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).

@@ -6,6 +6,13 @@
 
     <xs:element name="pluginname" type="xs:string"/>
     <xs:element name="pluginendpoint" type="xs:string"/>
+    <xs:attribute name="name" type="xs:string">
+        <xs:annotation>
+            <xs:documentation xml:lang="en">
+                The optional name element can be given
+            </xs:documentation>
+        </xs:annotation>
+    </xs:attribute>
 
     <xs:element name="parameter">
         <xs:annotation>

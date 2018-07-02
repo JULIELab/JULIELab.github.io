@@ -3,9 +3,6 @@ layout: default
 ---
 # Lab News
 
-## July '18 paper accepted
-* Submisson by Erik Faessler and Udo Hahn on [JeDIS](https://github.com/JULIELab/jedis) accepted at [DocEng 2018](https://doceng.org/doceng2018/index). 
-
 ## June '18 visiting researcher, papers accepted
 * Submission by Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018
 * Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).
@@ -15,6 +12,7 @@ layout: default
 ## May '18 papers accepted
 * Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [COLING 2018](http://coling2018.org/).
 * Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](/econlp2018.html) @ ACL 2018.
+* Submisson by Erik Faessler and Udo Hahn on [JeDIS](https://github.com/JULIELab/jedis) accepted at [DocEng 2018](https://doceng.org/doceng2018/index).
 
 ## April '18 open position
 
@@ -23,7 +21,7 @@ layout: default
 ## Mar '18 paper accepted, visiting researcher
 
 * We welcome our visiting researcher [Maria Moritz](http://www.etrap.eu/thesis-students/).
-* Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
+* Submission by Maria Moritz, Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
 
 ## Feb '18 new team members, paper accepted
 

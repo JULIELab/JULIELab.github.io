@@ -12,8 +12,7 @@
                 <xs:element name="operator">
                     <xs:simpleType>
                         <xs:restriction base="xs:string">
-                            <xs:enumeration value="de.julielab.concepts.db.core.BoltOperator"/>
-                            <xs:enumeration value="de.julielab.concepts.db.core.CypherFileDBOperator"/>
+                            <xs:enumeration value="de.julielab.concepts.db.core.CypherOperator"/>
                         </xs:restriction>
                     </xs:simpleType>
                 </xs:element>

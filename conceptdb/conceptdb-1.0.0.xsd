@@ -86,7 +86,7 @@
     <xs:element name="import">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="serverplugininserter"/>
+                <xs:element ref="serverplugininserter" minOccurs="0"/>
                 <xs:element ref="concepts" minOccurs="0"/>
                 <xs:element ref="facet" minOccurs="0"/>
                 <xs:element ref="mappings" minOccurs="0"/>

@@ -5,14 +5,14 @@
            elementFormDefault="qualified">
     <xs:include schemaLocation="http://www.julielab.de/conceptdb/exporters/exporterbase-1.0.0.xsd"/>
 
-    <xs:complexType name="javaclassexportertype">
+    <xs:complexType name="javaclassfiledbexportertype">
         <xs:complexContent>
             <xs:extension base="exportertype">
                 <xs:sequence>
                     <xs:element name="exporter">
                         <xs:simpleType>
                             <xs:restriction base="xs:string">
-                                <xs:enumeration value="de.julielab.concepts.db.core.JavaClassExporter"/>
+                                <xs:enumeration value="de.julielab.concepts.db.core.JavaClassFileDBExporter"/>
                             </xs:restriction>
                         </xs:simpleType>
                     </xs:element>
@@ -21,5 +21,5 @@
         </xs:complexContent>
     </xs:complexType>
 
-    <xs:element name="export" type="javaclassexportertype"/>
+    <xs:element name="export" type="javaclassfiledbexportertype"/>
 </xs:schema>

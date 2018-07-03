@@ -12,7 +12,7 @@
                 <xs:element name="operator">
                     <xs:simpleType>
                         <xs:restriction base="xs:string">
-                            <xs:enumeration value="de.julielab.concepts.db.core.JavaClassOperator"/>
+                            <xs:enumeration value="de.julielab.concepts.db.core.JavaClassFileDBOperator"/>
                         </xs:restriction>
                     </xs:simpleType>
                 </xs:element>

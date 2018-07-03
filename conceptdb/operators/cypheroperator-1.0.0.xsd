@@ -1,7 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="http://www.julielab.de/conceptdb/operators/javaclass"
+           xmlns="http://www.julielab.de/conceptdb/operators/bolt"
            version="1.0.0"
-           targetNamespace="http://www.julielab.de/conceptdb/operators/javaclass"
+           targetNamespace="http://www.julielab.de/conceptdb/operators/bolt"
            elementFormDefault="qualified">
 
     <xs:include schemaLocation="http://www.julielab.de/conceptdb/methodcallbase-1.0.0.xsd"/>
@@ -12,11 +12,12 @@
                 <xs:element name="operator">
                     <xs:simpleType>
                         <xs:restriction base="xs:string">
-                            <xs:enumeration value="de.julielab.concepts.db.core.JavaClassFileDBOperator"/>
+                            <xs:enumeration value="de.julielab.concepts.db.core.BoltOperator"/>
+                            <xs:enumeration value="de.julielab.concepts.db.core.CypherFileDBOperator"/>
                         </xs:restriction>
                     </xs:simpleType>
                 </xs:element>
-                <xs:element name="configuration" type="methodcallconfigtype"/>
+                <xs:element name="configuration" type="cypherquerytype"/>
             </xs:sequence>
             <xs:attribute name="name" type="xs:string">
                 <xs:annotation>

@@ -40,7 +40,7 @@
                 This is an extension point for concept creation providers. Those define their own XML Schema. For each
                 provider, its configuration schema must be included in the configuration XML document. The provider root
                 element - most commonly <em>creator</em> - then needs to have set the namespace to the respective XML
-                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&lt;.
+                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&gt;.
             </xs:documentation>
         </xs:annotation>
         <xs:complexType>
@@ -56,7 +56,7 @@
                 This is an extension point for facet creation providers. Those define their own XML Schema. For each
                 provider, its configuration schema must be included in the configuration XML document. The provider root
                 element - most commonly <em>creator</em> - then needs to have set the namespace to the respective XML
-                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&lt;.
+                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&gt;.
             </xs:documentation>
         </xs:annotation>
         <xs:complexType>
@@ -72,7 +72,7 @@
                 This is an extension point for mapping creation providers. Those define their own XML Schema. For each
                 provider, its configuration schema must be included in the configuration XML document. The provider root
                 element - most commonly <em>creator</em> - then needs to have set the namespace to the respective XML
-                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&lt;. A commonly used mapping provider
+                Schema, e.g. &lt;creator xmlns="http://www.mydomain.de/myschema"&gt;. A commonly used mapping provider
                 is contained in the <em>julielab-concept-creation-bioportal</em> project.
             </xs:documentation>
         </xs:annotation>
@@ -145,8 +145,8 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="uri"/>
-                <xs:element ref="user"/>
-                <xs:element ref="password"/>
+                <xs:element ref="user" minOccurs="0"/>
+                <xs:element ref="password" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

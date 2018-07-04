@@ -8,6 +8,10 @@ layout: staff
 [[Research]](research.html) | 
 Publications
 
+### [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de)
+
+### [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
+
 ### Journals
 
 * P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, **U. Hahn**, P. Horvatovich, D. P. Shanley, K.Thedieck (2016). <u>A Systems Study Reveals Concurrent Activation of AMPK and mTOR by Amino Acids</u>. *Nature Communications*, 7:13254

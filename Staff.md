@@ -7,7 +7,6 @@ layout: staff_tab
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Dr. Sascha Schäuble](/Staff/Dr_+Sascha+Schäuble.html) | Postdoctoral Researcher | [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/) | [Sascha.Schaeuble@uni-jena.de](mailto:Sascha.Schaeuble@uni-jena.de) | 44323 |
 | [Sven Buechel](/Staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	| |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
 | [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |

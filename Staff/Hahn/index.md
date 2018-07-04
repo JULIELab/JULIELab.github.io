@@ -9,15 +9,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](research.html)
-
-## Publication
-
-### [Full Publication List](publication.html)
-
-### [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de)
-
-### [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
+[[Research]](research.html) | 
+[[Publication]](publication.html)
 
 ## Contact details
 Prof. Dr. Udo Hahn<br/>

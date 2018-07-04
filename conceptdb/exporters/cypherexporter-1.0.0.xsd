@@ -1,7 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="http://www.julielab.de/conceptdb/exporters/bolt"
+           xmlns="http://www.julielab.de/conceptdb/exporters/cypher"
            version="1.0.0"
-           targetNamespace="http://www.julielab.de/conceptdb/exporters/bolt"
+           targetNamespace="http://www.julielab.de/conceptdb/exporters/cypher"
            elementFormDefault="qualified">
     <xs:include schemaLocation="http://www.julielab.de/conceptdb/exporters/exporterbase-1.0.0.xsd"/>
 

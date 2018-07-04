@@ -9,7 +9,8 @@ layout: staff
 </div>
 
 Overview | 
-[[Research]](research.html)
+[[Research]](research.html) |
+[[Publication]](publication.html)
 
 ## Publications
 

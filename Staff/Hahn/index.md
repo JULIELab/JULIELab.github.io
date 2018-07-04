@@ -13,7 +13,7 @@ Overview |
 
 ## Publication
 
-### [Publications](publication.html)
+### [Full Publication List](publication.html)
 
 ### [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de)
 

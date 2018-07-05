@@ -4,6 +4,26 @@
 
 [**PDF**: ECONLP 2018 - Workshop Description V06](/downloads/ECONLP%202018%20-%20Workshop%20Description%20V06.pdf)
 
+## Workshop Programme
+
+09:00–09:30 | Introduction to the ECONLP Workshop | Udo Hahn
+09:30–10:00 | Economic Event Detection in Company-Specific News Text | Gilles Jacobs, Els Lefever and Véronique Hoste
+10:00–10:30 | Causality Analysis of Twitter Sentiments and Stock Market Returns |Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
+10:30–11:00 | Morning Coffee Break | |
+11:00–11:20 | A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing | Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
+11:20–11:40 | Word Embeddings-Based Uncertainty Detection in Financial Disclosures | Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt
+11:40–12:00 | A Simple End-to-End Question Answering Model for Product Information | Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
+12:00–14:00 | Lunch Break | |
+14:00–14:20 | Sentence Classification for Investment Rules Detection | Youness Mansar and Sira Ferradans
+14:20–14:40 | Leveraging News Sentiment to Improve Microblog Sentiment Classification in the Financial Domain | Tobias Daudert, Paul Buitelaar and Sapna Negi
+14:40–15:00 | Implicit and Explicit Aspect Extraction in Financial Microblogs | Thomas Gaillat, Bernardo Stearns, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
+15:00–15:20 | Unsupervised Word Influencer Networks from News Streams | Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
+15:30–16:00 | Afternoon Coffee Break | |
+16:00–16:30 | Discussion and Wrap-up | |
+16:30–17:30 | Poster Session - All of the Papers Presented at the Workshop | |
+
+## Comitees
+
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|-------------------------------|
 | Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | [udo.hahn@uni-jena.de](mailto:udo.hahn@uni-jena.de)

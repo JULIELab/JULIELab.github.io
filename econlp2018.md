@@ -112,32 +112,3 @@ Notification of acceptance: 20 May 2018
 Camera-ready version due: 3 June 2018
 
 <font color="green">Workshop: 20 July 2018</font>
-
-## List of accepted papers
- 
-* A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING (short paper)<br/>
-Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
-
-* A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION (short paper)<br/>
-Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
-
-* CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS (long paper)<br/>
-Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
-
-* ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT (long paper)<br/>
-Gilles Jacobs, Els Lefever and Véronique Hoste
-
-* IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS (short paper)<br/>
-Thomas Gaillat, Bernardo Stearn, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
-
-* LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN (short paper)<br/>
-Tobias Daudert, Paul Buitelaar and Sapna Negi
-
-* SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION (short paper)<br/>
-Youness Mansar and Sira Ferradans
-
-* STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS (short paper)<br/>
-Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
-
-* WORD EMBEDDINGS-BASED UNCERTAINTY DETECTION IN FINANCIAL DISCLOSURES (short paper)<br/>
-Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt

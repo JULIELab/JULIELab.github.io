@@ -3,7 +3,7 @@ layout: default
 ---
 # Lab News
 
-## Juli '18 alumuns
+## Juli '18 alumnus
 * We say goodbye to Dr. Sascha Schäuble and wish him good luck at his new position at the [HKI](https://www.leibniz-hki.de/de/home.html)
 
 ## June '18 visiting researcher, papers accepted

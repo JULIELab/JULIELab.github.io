@@ -4,9 +4,11 @@ layout: staff
 
 # Prof. Dr. Udo Hahn
 
-[[Overview]](Prof_+Dr_+Udo+Hahn.html) | 
+[[Overview]](../Prof_+Dr_+Udo+Hahn.html) | 
 [[Research]](research.html) | 
 Publications
+
+### [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de) | [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
 
 ### Journals
 

@@ -39,9 +39,9 @@ The results of the survey were presented at the Workshop on Active Learning for 
 Katrin Tomanek and Fredrik Olsson. <u>A Web Survey on the Use of Active Learning to support Annotation of Text Data</u>. *Proc. Workshop on Active Learning for NLP at NAACL 2009*, 2009. [[bib](http://aclweb.org/anthology-new/W/W09/W09-1906.bib)] [[pdf](http://aclweb.org/anthology-new/W/W09/W09-1906.pdf)]
 
 The survey data can be downloaded here:
-* plain survey as presented to the participants [PDF](http://www.julielab.de/coling_multimedia/de/downloads/AL+Survey/survey_plain.pdf)
-* answers part I: answers of participants completed the survey [PDF](http://www.julielab.de/coling_multimedia/de/downloads/AL+Survey/survey_report_answers1.pdf)
-* answers part II: free form answers of participants completing the survey (due to anomymization issues, answers to last question removed) [PDF](http://www.julielab.de/coling_multimedia/de/downloads/AL+Survey/survey_report_answers2_anonymous.pdf)
+* plain survey as presented to the participants [PDF](/downloads/resources/survey_plain.pdf)
+* answers part I: answers of participants completed the survey [PDF](/downloads/resources/survey_report_answers1.pdf)
+* answers part II: free form answers of participants completing the survey (due to anomymization issues, answers to last question removed) [PDF](/downloads/resources/survey_report_answers2_anonymous.pdf)
 
 If you are interested in the raw survey data (which is in some kind of XLS format), please send a mail to [Katrin Tomanek](mailto:katrin.tomanek@uni-jena.de).
 

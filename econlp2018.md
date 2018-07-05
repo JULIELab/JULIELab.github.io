@@ -2,6 +2,52 @@
 
 @ **ACL 2018, Melbourne, Australia, July 20, 2018** [ECONLP 2018 - Workshop Description V07, PDF 388KB](/coling_muldimedia/ECONLP_2018_Workshop_Description_V07.pdf)
 
+## Workshop Programme
+
+### 09:00–09:30
+**Introduction to the ECONLP Workshop**<br/>
+Udo Hahn
+### 09:30–10:00
+**Economic Event Detection in Company-Specific News Text**<br/>
+Gilles Jacobs, Els Lefever and Véronique Hoste
+### 10:00–10:30
+**Causality Analysis of Twitter Sentiments and Stock Market Returns**<br/>
+Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
+### 10:30–11:00
+Morning Coffee Break
+### 11:00–11:20
+**A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing** <br/>
+Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
+### 11:20–11:40
+**Word Embeddings-Based Uncertainty Detection in Financial Disclosures**<br/>
+Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt
+### 11:40–12:00
+**A Simple End-to-End Question Answering Model for Product Information**<br/>
+Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
+### 12:00–14:00
+Lunch Break
+### 14:00–14:20
+**Sentence Classification for Investment Rules Detection**<br/>
+Youness Mansar and Sira Ferradans
+### 14:20–14:40
+**Leveraging News Sentiment to Improve Microblog Sentiment Classification in the Financial Domain** <br/>
+Tobias Daudert, Paul Buitelaar and Sapna Negi
+### 14:40–15:00
+**Implicit and Explicit Aspect Extraction in Financial Microblogs**<br/>
+Thomas Gaillat, Bernardo Stearns, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
+### 15:00–15:20
+**Unsupervised Word Influencer Networks from News Streams**<br/>
+Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
+### 15:30–16:00
+Afternoon Coffee Break
+### 16:00–16:30
+Discussion and Wrap-up
+### 16:30–17:30
+Poster Session - All of the Papers Presented at the Workshop
+
+## Comitees
+>>>>>>> origin
+
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|-------------------------------|
 | Udo Hahn (chair) | Friedrich-Schiller-Universität Jena, Germany | [udo.hahn@uni-jena.de](mailto:udo.hahn@uni-jena.de)
@@ -65,32 +111,3 @@ Notification of acceptance: 20 May 2018
 Camera-ready version due: 3 June 2018
 
 <font color="green">Workshop: 20 July 2018</font>
-
-## List of accepted papers
- 
-* A CORPUS OF BUSINESS AND CORPORATE SOCIAL RESPONSIBILITY REPORTS: 280 MILLION TOKENS OF BALANCED ORGANIZATIONAL WRITING (short paper)<br/>
-Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
-
-* A SIMPLE END-TO-END QUESTION ANSWERING MODEL FOR PRODUCT INFORMATION (short paper)<br/>
-Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
-
-* CAUSALITY ANALYSIS OF TWITTER SENTIMENTS AND STOCK MARKET RETURNS (long paper)<br/>
-Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
-
-* ECONOMIC EVENT DETECTION IN COMPANY-SPECIFIC NEWS TEXT (long paper)<br/>
-Gilles Jacobs, Els Lefever and Véronique Hoste
-
-* IMPLICIT AND EXPLICIT ASPECT EXTRACTION IN FINANCIAL MICROBLOGS (short paper)<br/>
-Thomas Gaillat, Bernardo Stearn, Gopal Sridhar, Ross McDermott, Manel Zarrouk and Brian Davis
-
-* LEVERAGING NEWS SENTIMENT TO IMPROVE MICROBLOG SENTIMENT CLASSIFICATION IN THE FINANCIAL DOMAIN (short paper)<br/>
-Tobias Daudert, Paul Buitelaar and Sapna Negi
-
-* SENTENCE CLASSIFICATION FOR INVESTMENT RULES DETECTION (short paper)<br/>
-Youness Mansar and Sira Ferradans
-
-* STOCK PRICE PREDICTION USING UNSUPERVISED WORD INFLUENCER NETWORKS FROM NEWS STREAMS (short paper)<br/>
-Ananth Balashankar, Sunandan Chakraborty and Lakshminarayanan Subramanian
-
-* WORD EMBEDDINGS FOR FINANCIAL DICTIONARY EXPANSIONS (short paper)<br/>
-Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt

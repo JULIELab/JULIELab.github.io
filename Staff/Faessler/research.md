@@ -4,7 +4,7 @@ layout: staff
 
 # Erik Fäßler
 
-[[Overview]](Erik+Fäßler.html) | 
+[[Overview]](../Erik+Fäßler.html) | 
 Research | 
 [[Publications]](publication.html)
 

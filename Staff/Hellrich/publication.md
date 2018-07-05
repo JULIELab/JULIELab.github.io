@@ -4,42 +4,44 @@ layout: staff
 
 # Johannes Hellrich: Full Publication List
 
-[<< Back to Overview](Johannes+Hellrich.html)
+[<< Back to Overview](../Johannes+Hellrich.html)
 
 #### 2018
-* **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. In: *COLING 2018.* [accepted]
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.
 
-* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion. In: *[COLING 2018](https://coling2018.org)*. [to appear]
 
-* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald (Metal Music and Culture). [to appear]
+* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
-* Maria Moritz, **Johannes Hellrich** & Sven Buechel: Towards a Metric for Paraphrastic Modification. In: [*DH 2018*](https://dh2018.adho.org/en/). [accepted]
+* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
-* **Johannes Hellrich**, Alexander Stöger & Udo Hahn: [Wenn der Funke überspringt - Word Embeddings im Dienst der Wissenschaftsgeschichte](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf). In: [*DHd 2018, Kritik der digitalen Vernunft*](https://dh2018.adho.org/en/). Köln, Germany, Februar 26 - March 2, 2018. pp. 331-335. [[Slides]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/dhd2018slides.pdf)
+* Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: [*Digital Humanities 2018*](https://dh2018.adho.org/en/). Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
+
+* **Johannes Hellrich**, Alexander Stöger & Udo Hahn: [Wenn der Funke überspringt - Word Embeddings im Dienst der Wissenschaftsgeschichte](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf). In: [*DHd 2018, Kritik der digitalen Vernunft*](https://dh2018.adho.org/en/). Köln, Germany, Februar 26 - March 2, 2018. pp. 331-335. [[Slides]](/downloads/publications/slides/dhd2018slides.pdf)
 
 #### 2017
 
-* **Johannes Hellrich** & Udo Hahn: [Don\'t Get Fooled by Word Embeddings-Better Watch their Neighborhood](https://dh2017.adho.org/abstracts/487/487.pdf). In: [*Digital Humanities 2017*](https://dh2017.adho.org/). Montreal, Canada, August 8-11, 2017. pp. 250-252. [[Slides]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_dh_2017_slides.pdf)
+* **Johannes Hellrich** & Udo Hahn: [Don\'t Get Fooled by Word Embeddings-Better Watch their Neighborhood](https://dh2017.adho.org/abstracts/487/487.pdf). In: [*Digital Humanities 2017*](https://dh2017.adho.org/). Montreal, Canada, August 8-11, 2017. pp. 250-252. [[Slides]](/downloads/publications/slides/hellrich_dh_2017_slides.pdf)
 
 * Sven Buechel, **Johannes Hellrich** & Udo Hahn: [The Course of Emotion in Three Centuries of German Text - A Methodical Framework](https://dh2017.adho.org/abstracts/491/491.pdf). In: [*Digital Humanities 2017*](https://dh2017.adho.org/). Montreal, Canada, August 8-11, 2017. pp. 176-179.
 
 * **Johannes Hellrich** & Udo Hahn: [Exploring Diachronic Lexical Semantics with JeSemE](http://aclweb.org/anthology/P/P17/P17-4006.pdf). In: [*ACL 2017*](http://acl2017.org/), System Demonstrations. Vancouver, Canada, July 30 - August 4, 2017, pp. 31-36. [[Link to system]](http://jeseme.org/)
 
-* **Johannes Hellrich**, Franz Matthies & Udo Hahn: [UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities](http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf). In: [*DHd 2017*](http://www.dhd2017.ch/), Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/dhd2017_poster_hellrich.pdf)
+* **Johannes Hellrich**, Franz Matthies & Udo Hahn: [UIMA als Plattform für die nachhaltige Software-Entwicklung in den Digital Humanities](http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf). In: [*DHd 2017*](http://www.dhd2017.ch/), Digitale Nachhaltigkeit, Konferenzabstracts. Bern, Switzerland, February 13-18, 2017, pp. 279-281. [[Poster]](/downloads/publications/posters/dhd2017_poster_hellrich.pdf)
 
 #### 2016
 
-* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_coling2016.pdf)
+* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster]](/downloads/publications/posters/hellrich_coling2016.pdf)
 
 * Sven Buechel, **Johannes Hellrich** & Udo Hahn: [Feelings from the Past - Adapting Affective Lexicons for Historical Emotion Analysis](https://aclweb.org/anthology/W/W16/W16-4008.pdf). In: [*Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @ COLING 2016*](https://www.clarin-d.net/en/current-issues/lt4dh). Osaka, Japan, December 11, 2016, pp. 54-61.
 
-* **Johannes Hellrich** & Udo Hahn: [An Assessment of Experimental Protocols for Tracing Changes in Word Semantics Relative to Accuracy and Reliability](http://aclweb.org/anthology/W/W16/W16-2114.pdf). In: *Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) @ ACL2016*. Berlin, Germany, August 11, 2016, pp. 111-117. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/LaTeCH2016_poster_hellrich.pdf)
+* **Johannes Hellrich** & Udo Hahn: [An Assessment of Experimental Protocols for Tracing Changes in Word Semantics Relative to Accuracy and Reliability](http://aclweb.org/anthology/W/W16/W16-2114.pdf). In: *Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) @ ACL2016*. Berlin, Germany, August 11, 2016, pp. 111-117. [[Poster]](/downloads/publications/posters/LaTeCH2016_poster_hellrich.pdf)
 
 * **Johannes Hellrich** & Udo Hahn: [Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period](http://dh2016.adho.org/abstracts/144). In: *Digital Humanities 2016: Conference Abstracts*. Krakow, Poland, July 11-16, 2016, pp. 545-547.
 
 * Udo Hahn, Franz Matthies, Erik Faessler & **Johannes Hellrich**: [UIMA-Based JCoRe 2.0 Goes GitHub and Maven Central ― State-of-the-Art Software Resource Engineering and Distribution of NLP Pipelines](http://www.lrec-conf.org/proceedings/lrec2016/pdf/774_Paper.pdf). In: *LREC 2016 - Proceedings of the Tenth International Conference on Language Resources and Evaluation*. Portorož, Slovenia, 2016, pp. 2502-2509.
 
-* **Johannes Hellrich** & Udo Hahn: [Romantik im Wandel der Zeit - eine quantitative Untersuchung](http://dhd2016.de/boa-large.pdf). In: *DHd 2016, Modellierung - Vernetzung - Visualisierung, Die Digital Humanities als fächerübergreifendes Forschungsparadigma*. Leipzig, Germany, March 7-12, 2016, pp. 325-326. [[Poster]](http://www.julielab.de/coling_multimedia/de/downloads/Papers/dhd2016_poster_hellrich.pdf)
+* **Johannes Hellrich** & Udo Hahn: [Romantik im Wandel der Zeit - eine quantitative Untersuchung](http://dhd2016.de/boa-large.pdf). In: *DHd 2016, Modellierung - Vernetzung - Visualisierung, Die Digital Humanities als fächerübergreifendes Forschungsparadigma*. Leipzig, Germany, March 7-12, 2016, pp. 325-326. [[Poster]](/downloads/publications/posters/dhd2016_poster_hellrich.pdf)
 
 #### 2015
 
@@ -69,7 +71,7 @@ layout: staff
 
 * Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: [Entity Recognition in Parallel Multilingual Biomedical Corpora: The CLEF-ER Laboratory Overview](http://link.springer.com/chapter/10.1007/978-3-642-40802-1_32). In: *CLEF 2013 - Information Access Evaluation. Multilinguality, Multimodality, and Visualization - 4th International Conference of the CLEF Initiative*. Valencia, Spain, September 23-26, 2013, pp. 353-367 (Lecture Notes in Computer Science, 8138).
 
-* **Johannes Hellrich** & Udo Hahn: [The JULIE LAB MANTRA System for the CLEF-ER 2013 Challenge](http://www.julielab.de/coling_multimedia/de/downloads/Papers/hellrich_clefer_2013.pdf). In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*, Valencia, Spain, 2013.
+* **Johannes Hellrich** & Udo Hahn: [The JULIE LAB MANTRA System for the CLEF-ER 2013 Challenge](/downloads/publications/papers/hellrich_clefer_2013.pdf). In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*, Valencia, Spain, 2013.
 
 * Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: __Multilingual Semantic Resources and Parallel Corpora in the Biomedical Domain: the CLEF-ER Challenge__. In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*. Valencia, Spain, 2013.
 
@@ -79,4 +81,4 @@ layout: staff
 
 * **Johannes Hellrich**, Erik Faessler, Ekaterina Buyko & Udo Hahn: [Visualizing Semantic Metadata from Biological Publications](http://imash.leeds.ac.uk/event/pdf/Hellrich_4.pdf). In: *International Workshop on Intelligent Exploration of Semantic Data (IESD 2012) at EKAW 2012*. Galway City, Ireland, 2012.
 
-* **Johannes Hellrich**: [*Retrieval und Visualisierung biomedizinischer Relationen - Erweiterung einer semantischen Suchmaschine zur Arbeit mit Protein-Protein-Interaktionen*](http://www.julielab.de/coling_multimedia/de/downloads/Papers/masterarbeit+hellrich.pdf). Master Thesis. Friedrich-Schiller-Universtität Jena, 2012.
+* **Johannes Hellrich**: [*Retrieval und Visualisierung biomedizinischer Relationen - Erweiterung einer semantischen Suchmaschine zur Arbeit mit Protein-Protein-Interaktionen*](/downloads/publications/thesis/masterarbeit+hellrich.pdf). Master Thesis. Friedrich-Schiller-Universtität Jena, 2012.

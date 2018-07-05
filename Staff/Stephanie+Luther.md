@@ -1,3 +1,3 @@
 ---
-redirect_to: "Staff/Luther/Stephanie+Luther.html"
+redirect_to: "Staff/Luther/"
 ---

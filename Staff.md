@@ -6,18 +6,17 @@ layout: staff_tab
 
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| [Prof. Dr. Udo Hahn](/Staff/Hahn/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Dr. Sascha Schäuble](/Staff/Schaeuble/Dr_+Sascha+Schäuble.html) | Postdoctoral Researcher | [GlioPATH](http://www.sys-med.de/en/young-investigators/junior-research-alliances/gliopath/) | [Sascha.Schaeuble@uni-jena.de](mailto:Sascha.Schaeuble@uni-jena.de) | 44323 |
-| [Sven Buechel](/Staff/Buechel/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
-| [Erik Fäßler](/Staff/Faessler/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
-| [Johannes Hellrich](/Staff/Hellrich/Johannes+Hellrich.html)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
-| [Franz Matthies](/Staff/Matthies/Franz+Matthies.html) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
-| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
+| [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
+| [Sven Buechel](/Staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
+| [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	| |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
+| [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
+| [Johannes Hellrich](/Staff/Johannes+Hellrich.html)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
 | [Bernd Kampe](/Staff/Kampe/) | Research Assistant | [AquaDiva](http://www.aquadiva.uni-jena.de/) | [Bernd.Kampe@uni-jena.de](mailto:Bernd.Kampe@uni-jena.de) | 44324 |
-| [Tobias Kolditz](/Staff/Kolditz/Tobias+Kolditz.html) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
-| [Christina Lohr](/Staff/Lohr/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
-| [Stephanie Luther](/Staff/Luther/Stephanie+Luther.html) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Stephanie.Luther@uni-jena.de](mailto:Stephanie.Luther@uni-jena.de) | 44303 |
-| [Benjamin Redling](/Staff/Redling/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
+| [Tobias Kolditz](/Staff/Tobias+Kolditz.html) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
+| [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
+| [Franz Matthies](/Staff/Franz+Matthies.html) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
+| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
+| [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
 Fax of the group: +49 3641 9-44321
 

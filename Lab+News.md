@@ -3,22 +3,28 @@ layout: default
 ---
 # Lab News
 
-## June '18 visiting researcher, paper accepted
+## Juli '18 alumuns
+* We say goodbye to Dr. Sascha Schäuble and wish him good luck at his new position at the [HKI](https://www.leibniz-hki.de/de/home.html)
+
+## June '18 visiting researcher, papers accepted
+* Submission by Maria Moritz, Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018
 * Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).
+* Submission by Christina Lohr, Stephanie Luther, Franz Matthies and Udo Hahn accepted at [AMIA 2018](https://www.amia.org/amia2018).
 * We welcome our visiting researcher [Michel Oleynik](https://scholar.google.com/citations?user=2h4EEtIAAAAJ&hl=en).
 
 ## May '18 papers accepted
 * Submission by Sven Buechel and Udo Hahn on mapping between different emotion formats accepted at [COLING 2018](http://coling2018.org/).
-* Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](http://julielab.de/econlp2018.html) @ ACL 2018.
+* Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](/econlp2018.html) @ ACL 2018.
+* Submisson by Erik Faessler and Udo Hahn on [JeDIS](https://github.com/JULIELab/jedis) accepted at [DocEng 2018](https://doceng.org/doceng2018/index).
 
 ## April '18 open position
 
-* We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](/downloads/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
+* We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](/downloads/jobs/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 
 ## Mar '18 paper accepted, visiting researcher
 
 * We welcome our visiting researcher [Maria Moritz](http://www.etrap.eu/thesis-students/).
-* Submission by Maria Moritz,  Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
+* Submission by Maria Moritz, Johannes Hellrich and Sven Buechel on designing a metric for paraphrases accepted for DH 2018.
 
 ## Feb '18 new team members, paper accepted
 

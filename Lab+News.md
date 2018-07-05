@@ -3,8 +3,11 @@ layout: default
 ---
 # Lab News
 
+## Juli '18 alumuns
+* We say goodbye to Dr. Sascha Schäuble and wish him good luck at his new position at the [HKI](https://www.leibniz-hki.de/de/home.html)
+
 ## June '18 visiting researcher, papers accepted
-* Submission by Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018
+* Submission by Maria Moritz, Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018
 * Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).
 * Submission by Christina Lohr, Stephanie Luther, Franz Matthies and Udo Hahn accepted at [AMIA 2018](https://www.amia.org/amia2018).
 * We welcome our visiting researcher [Michel Oleynik](https://scholar.google.com/citations?user=2h4EEtIAAAAJ&hl=en).

@@ -17,6 +17,7 @@ My research is focussed on lexical semantics in diachronic and multilingual sett
 * **Johannes Hellrich**, Simon Clematide, Udo Hahn & Dietrich Rebholz-Schuhmann: [Collaboratively Annotating Multilingual Parallel Corpora in the Biomedical Domain-some MANTRAs](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1064_Paper.pdf). In: *Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC\'14)*. 26-31 May, Reykjavik, Iceland, 2014. pp. 4033-4040.
 
 [Full Publication List](publication.html)
+
 [Google Scholar](https://scholar.google.de/citations?user=y89Vn00AAAAJ)
 
 ## Teaching Experience

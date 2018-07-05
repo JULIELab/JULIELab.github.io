@@ -10,7 +10,7 @@
 09:30–10:00 | Economic Event Detection in Company-Specific News Text | Gilles Jacobs, Els Lefever and Véronique Hoste
 10:00–10:30 | Causality Analysis of Twitter Sentiments and Stock Market Returns |Narges Tabari, Piyusha Biswas, Bhanu Praneeth, Armin Seyeditabari, Mirsad Hadzikadic and Wlodek Zadrozny
 10:30–11:00 | Morning Coffee Break | |
-11:00–11:20 | A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing | Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
+11:00–11:20 | A Corpus of Corporate Annual and Social Responsibility Reports:<br/> 280 Million Tokens of Balanced Organizational Writing | Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn
 11:20–11:40 | Word Embeddings-Based Uncertainty Detection in Financial Disclosures | Christoph Kilian Theil, Sanja Štajner and Heiner Stuckenschmidt
 11:40–12:00 | A Simple End-to-End Question Answering Model for Product Information | Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka
 12:00–14:00 | Lunch Break | |

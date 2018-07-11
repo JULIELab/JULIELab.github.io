@@ -19,5 +19,5 @@ layout: course
 * 22.6.: Stephan Schulz Diskussion
 * 29.6.: EF: DocEng
 * 6.7.: TK: Coding & Testing Best Practices
-Am 13.3. findet kein Oberseminar statt, die Veranstaltung ist auf den 27.7. verschoben!
+* <font color="red">Am 13.7. findet kein Oberseminar statt, die Veranstaltung ist auf den 27.7. verschoben!</font>
 * 27.7.: BK: Statistik

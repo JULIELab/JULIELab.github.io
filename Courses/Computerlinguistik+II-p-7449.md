@@ -16,6 +16,8 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 
 **Termin- und Raumänderung** für die **Übung**: ab 18.04. immer mittwochs, 8-10 Uhr, Computerkabinett in den Rosensälen (Fürstengraben 27)
 
+**Klausurtermin:** 20.07.2018, 10-12 Uhr, Computerkabinett in den Rosensälen (Fürstengraben 27)
+
 ### Vorlesung
 1. [Empirical Paradigm + Resources](/downloads/teaching/ss2018/cl2/CL-II-10.Empirical_Paradigm+Resources-sh.pdf) (aktualisiert am 9.7.18)
 2. [Lexicons, Terminologies, Ontologies](/downloads/teaching/ss2018/cl2/CL-II-11.Resources-Lexicons-sh.pdf) (aktualisiert am 9.7.18)

@@ -21,6 +21,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 ### Vorlesung
 1. [Empirical Paradigm + Resources](/downloads/teaching/ss2018/cl2/CL-II-10.Empirical_Paradigm+Resources-sh.pdf) (aktualisiert am 9.7.18)
 2. [Lexicons, Terminologies, Ontologies](/downloads/teaching/ss2018/cl2/CL-II-11.Resources-Lexicons-sh.pdf) (aktualisiert am 9.7.18)
+3. [Indexing Classification](/downloads/teaching/ss2018/cl2/CL-II-14.IndexingClassification-sh.pdf)
 
 ### Seminar
 1. [Einführung](/downloads/teaching/ss2018/cl2/LinkedOpenData+%28M_GSW_10%29_sh.pdf) (aktualisiert am 8.6.18)

@@ -8,6 +8,8 @@ layout: staff
 
 #### 2018
 
+* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. Accepted for ***EMNLP 2018***.
+
 * Johannes Hellrich\*, **Sven Buechel\*** and Udo Hahn. 2018.  Inducing affective lexical semantics in historical language. In [arXiv:1806.08115](https://arxiv.org/abs/1806.08115).
 
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. A human-interpretable method to predict paraphrasticality. Accepted for *LaTeCH-CLfL @ COLING 2018*.

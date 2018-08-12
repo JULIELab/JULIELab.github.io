@@ -3,6 +3,9 @@ layout: default
 ---
 # Lab News
 
+## August '18 paper accepted
+* Publication by Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on modeling empathy in user generated text accepted for [EMNLP 2018](http://emnlp2018.org/).
+
 ## Juli '18 alumnus
 * We say goodbye to Dr. Sascha Schäuble and wish him good luck at his new position at the [HKI](https://www.leibniz-hki.de/de/home.html).
 

@@ -19,7 +19,7 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 * **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. Accepted for ***EMNLP 2018***.
 
-* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](https://arxiv.org/pdf/1806.08890.pdf)]
+* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](https://arxiv.org/pdf/1806.08890.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)
 

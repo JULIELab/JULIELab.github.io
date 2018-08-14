@@ -18,7 +18,7 @@ layout: staff
 
 * Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of balanced Organizational Writing. In *ECONLP 2018 — Proceedings of the First Workshop on Economics and Natural Language Processing* @ ACL 2018. Melbourne, Australia, July 20, 2018. Pages 20–31. [[Paper](http://aclweb.org/anthology/W18-3103)]
 
-* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](https://arxiv.org/pdf/1806.08890.pdf)]
+* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](http://aclweb.org/anthology/C18-1245)]
 
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. Towards a Metric for Paraphrastic Modification. In *Digital Humanities 2018. Book of Abstracts*. Mexico City, Mexico, June 26–29, 2018.  Pages 457–460. [[Paper](https://dh2018.adho.org/en/towards-a-metric-for-paraphrastic-modification/)]
 

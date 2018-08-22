@@ -7,6 +7,8 @@ layout: staff
 [<< Back to Overview](../Johannes+Hellrich.html)
 
 #### 2018
+* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: Downsampling Strategies are Crucial for Word Embedding Reliability. In: *[arXiv](https://arxiv.org/abs/1808.06810)*.
+
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](https://arxiv.org/abs/1807.04148). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.

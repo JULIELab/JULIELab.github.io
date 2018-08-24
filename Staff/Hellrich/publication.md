@@ -75,7 +75,7 @@ layout: staff
 
 * **Johannes Hellrich** & Udo Hahn: [The JULIE LAB MANTRA System for the CLEF-ER 2013 Challenge](/downloads/publications/papers/hellrich_clefer_2013.pdf). In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*, Valencia, Spain, 2013.
 
-* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: __Multilingual Semantic Resources and Parallel Corpora in the Biomedical Domain: the CLEF-ER Challenge__. In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*. Valencia, Spain, 2013.
+* Dietrich Rebholz-Schuhmann, Simon Clematide, Fabio Rinaldi, Senay Kafkas, Erik M. van Mulligen, Chinh Bui, **Johannes Hellrich**, Ian Lewin, David Milward, Michael Poprat, Antonio Jimeno-Yepes, Udo Hahn & Jan A. Kors: Multilingual Semantic Resources and Parallel Corpora in the Biomedical Domain: the CLEF-ER Challenge. In: *CLEF 2013 Evaluation Labs and Workshop Online Working Notes*. Valencia, Spain, 2013.
 
 * **Johannes Hellrich** & Udo Hahn: [Biomedical Term Acquisition Based on Aligned Parallel Corpora](http://www.egms.de/static/en/meetings/gmds2013/13gmds098.shtml). In: *58. Jahrestagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e.V. (GMDS)*. Lübeck, Germany, 2013.
 

@@ -25,8 +25,6 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 * **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017*** - *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics,* volume 2, short papers, pages 578-585, Valencia, Spain, April 3-7, 2017. [[Paper](http://aclweb.org/anthology/E17-2092)] [[Poster](/downloads/publications/posters/poster_eacl_2017_v4_final.pdf)]
 
-* **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017*** - *Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
-
 * **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016*** - *Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](http://ebooks.iospress.nl/volumearticle/44864)]
 
 **[— Full Publication List —](publication.html)**

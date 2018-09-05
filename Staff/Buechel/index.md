@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Sven Buechel, B.A.
+# Sven Buechel
 <div class="portrait">
   <img src="Sven+Büchel-width-162-height-202.jpg">
 </div>

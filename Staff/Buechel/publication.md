@@ -8,7 +8,7 @@ layout: staff
 
 #### 2018
 
-* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. Accepted for ***EMNLP 2018***. [[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
+* **Sven Buechel***, Anneke Buffone*, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. Accepted for ***EMNLP 2018***. [[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
 
 * Johannes Hellrich\*, **Sven Buechel\*** and Udo Hahn. 2018.  Inducing affective lexical semantics in historical language. In [arXiv:1806.08115](https://arxiv.org/abs/1806.08115).
 

@@ -14,7 +14,7 @@ layout: staff
 
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. A human-interpretable method to predict paraphrasticality. In *LaTeCH-CLfL 2018 — Proceedings of the 2nd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature* @ COLING 2018. Santa Fe, New Mexico, USA, August 25, 2018. Pages 113–118.  [[Paper](http://aclweb.org/anthology/W18-4513)]
 
-* Johannes Hellrich, **Sven Buechel** and Udo Hahn. 2018. JeSemE: Interleaving Semantics and Emotions in a Web Service for the Exploration of Language Change Phenomena. In *COLING 2018 — Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations*. Santa Fe, New Mexico, USA, August 20–26, 2018. Pages 10–14. [[Paper](http://aclweb.org/anthology/C18-2003 )][[Website](http://jeseme.org/)]
+* Johannes Hellrich, **Sven Buechel** and Udo Hahn. 2018. JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion. In *COLING 2018 — Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations*. Santa Fe, New Mexico, USA, August 20–26, 2018. Pages 10–14. [[Paper](http://aclweb.org/anthology/C18-2003 )][[Website](http://jeseme.org/)]
 
 * Sebastian G.M. Händschke\*, **Sven Buechel**\*, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of balanced Organizational Writing. In *ECONLP 2018 — Proceedings of the First Workshop on Economics and Natural Language Processing* @ ACL 2018. Melbourne, Australia, July 20, 2018. Pages 20–31. [[Paper](http://aclweb.org/anthology/W18-3103)]
 

@@ -4,7 +4,7 @@ layout: default
 
 # About Us
 <br/>
-The Jena University Language & Information Engineering Lab (JULIE Lab) focusses on automatic text analysis and its applications. We work in multiple domains, languages and genres, including biomedical clinical, ecological and economical texts as well as the digital humanities. While our emphasis is on building real-world natural language systems, we also value a methodologically sound basis in terms of language technology tools and resources. Our members are heavily engaged in developing syntactic, semantic and discourse processors, as well as domain-specific knowledge resources (ontologies).
+The Jena University Language & Information Engineering Lab (JULIE Lab) focusses on automatic text analysis and its applications. We work in multiple domains, languages and genres, including biomedical, clinical, ecological and economical texts as well as the digital humanities. While our emphasis is on building real-world natural language systems, we also value a methodologically sound basis in terms of language technology tools and resources. Our members are heavily engaged in developing syntactic, semantic and discourse processors, as well as domain-specific knowledge resources (ontologies).
 
 ![Branching](/assets/img/gruppe.jpg)
 

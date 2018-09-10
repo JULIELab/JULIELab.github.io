@@ -15,12 +15,12 @@ layout: course
 
 *Beginn der Vorlesungszeit*
 
-* 19.10.Christina Lohr. Probevortrag AMIA: Abschnitte in klinischen Dokumenten
+* 19.10. Christina Lohr. Probevortrag AMIA: Abschnitte in klinischen Dokumenten
 * 26.10. Sven Buechel. Probevortrag EMNLP: Annotation und Modellierung Empathie 
 * 02.11. (UH abwesend?)
 * 09.11. (UH abwesend?)
 * 16.11. (UH abwesend?)
-* 23.11. Sven Buechel. Probevortag Stuttgart. 
+* 23.11. Sven Buechel. Probevortag Stuttgart. Challenges of fine-grained emotion analysis.
 * 30.11. 
 * 7.12.
 * 14.12.

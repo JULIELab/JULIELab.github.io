@@ -10,17 +10,17 @@ layout: course
 
 ### Terminplan:
 
-* 5.10. Christoph Rzymski. Korpuslinguistik.
+* 5.10. Christoph Rzymski: Korpuslinguistik.
 * 12.10.
 
 *Beginn der Vorlesungszeit*
 
-* 19.10. Christina Lohr. Probevortrag AMIA: Abschnitte in klinischen Dokumenten
-* 26.10. Sven Buechel. Probevortrag EMNLP: Annotation und Modellierung Empathie 
+* 19.10. Christina Lohr: Annotation von Abschnitten in klinischen Dokumenten (Probevortrag AMIA)
+* 26.10. Tinghui Duan: Vorstellung des Promotionsprojekt (Probevortrag Kollegskolloquium); Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
 * 02.11. (UH abwesend?)
 * 09.11. (UH abwesend?)
 * 16.11. (UH abwesend?)
-* 23.11. Sven Buechel. Probevortag Stuttgart. Challenges of fine-grained emotion analysis.
+* 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
 * 30.11. 
 * 7.12.
 * 14.12.

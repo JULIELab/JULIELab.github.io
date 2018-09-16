@@ -83,7 +83,7 @@
         </xs:complexType>
     </xs:element>
 
-    <xs:element name="source" type="xs:string">
+    <xs:element name="source">
         <xs:annotation>
             <xs:documentation xml:lang="en">
                 The original source given to concepts that match the regular expression specified by the 'idregex'

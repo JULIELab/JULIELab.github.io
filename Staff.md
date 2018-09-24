@@ -22,9 +22,15 @@ Fax of the group: +49 3641 9-44321
 
 # Alumni
 
+## promotion during residence in Jena (since 2006; in anti-chronological order)
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
-Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
+Dr. Elena Beisswanger ([Bundesinstitut für Risikobewertung](https://www.bfr.bund.de/de/start.html))<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
+Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
+Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))
+
+## during residence in Freiburg im Breisgau (until 2005; in alphabetical order)
+Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
 Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))<br/>
 Dr. Katja Markert ([Natural Language Group, School of Computing, University of Leeds](http://www.comp.leeds.ac.uk/markert/))<br/>
 Dr. Kornél Markó ([Averbis](http://www.averbis.de/))<br/>
@@ -35,5 +41,3 @@ Dr. Holger Schauer ([TF Sprachtechnologie BDNM GmbH, Mannheim](http://www.bi-med
 Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/index.php?id=schnattinger))<br/>
 Prof. Dr. Steffen Staab ([Direktor des Web Science and Technologies (WeST) Instituts, Institut für Informatik, Universität Koblenz-Landau](http://www.uni-koblenz.de/~staab/))<br/>
 Dr. Michael Strube ([Heidelberg Institute for Theoretical Studies [HITS]](http://www.h-its.org/english/homes/strube/index.php))<br/>
-Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
-Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))

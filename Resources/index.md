@@ -43,9 +43,9 @@ The survey data can be downloaded here:
 * answers part I: answers of participants completed the survey [PDF](/downloads/resources/survey_report_answers1.pdf)
 * answers part II: free form answers of participants completing the survey (due to anomymization issues, answers to last question removed) [PDF](/downloads/resources/survey_report_answers2_anonymous.pdf)
 
-If you are interested in the raw survey data (which is in some kind of XLS format), please send a mail to [Katrin Tomanek](mailto:katrin.tomanek@uni-jena.de).
+If you are interested in the raw survey data (which is in some kind of XLS format), please send a mail to the [JULIE Lab staff](mailto:julielab@listserv.uni-jena.de).
 
-### Other
+## Other
 
 * [Jena UMLS Filter](https://github.com/JULIELab/jufit) (JUFIT)
 * [Bibliography Management Tool](https://github.com/JULIELab/bibliographie)

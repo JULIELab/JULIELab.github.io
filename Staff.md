@@ -23,7 +23,7 @@ Fax of the group: +49 3641 9-44321
 # Alumni
 
 ## promotion during residence in Jena (since 2006; in anti-chronological order)
-Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
+[Dr. Sascha Schäuble](/Staff/Schaeuble) ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
 Dr. Elena Beisswanger ([Bundesinstitut für Risikobewertung](https://www.bfr.bund.de/de/start.html))<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
 Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>

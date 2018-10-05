@@ -12,9 +12,7 @@ The descriptions of the courses are available in German only. For the official a
 * [Comuterlinguistik I (Master)](/Courses/Computerlinguistik+1.html)
 * [Digital Humanities (ASQ)](/Courses/Digital+Humanities-p-12429.html)
 * [Theoreticum & Technicum (Master)](/Courses/Theoreticum+_+Technicum-p-444.html)
-<!---
-* [Computerlinguistik II](/Courses/Computerlinguistik+II-p-7449.html)
---->
+<!--- * [Computerlinguistik II](/Courses/Computerlinguistik+II-p-7449.html) --->
 
 
 ## Merkblätter

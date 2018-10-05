@@ -8,7 +8,7 @@ layout: staff_tab
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
 | [Sven Buechel](/Staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
-| [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	| |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
+| [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
 | [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
 | [Johannes Hellrich](/Staff/Johannes+Hellrich.html)	| Research Assistant	| [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
 | [Bernd Kampe](/Staff/Kampe/) | Research Assistant | [AquaDiva](http://www.aquadiva.uni-jena.de/) | [Bernd.Kampe@uni-jena.de](mailto:Bernd.Kampe@uni-jena.de) | 44324 |

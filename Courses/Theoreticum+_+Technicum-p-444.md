@@ -10,7 +10,7 @@ layout: course
 
 ### Terminplan:
 
-* 5.10. Christoph Rzymski: Korpuslinguistik.
+* 5.10. Christoph Rzymski: Korpuslinguistik. (ausgefallen wegen Krankheit)
 * 12.10.
 
 *Beginn der Vorlesungszeit*

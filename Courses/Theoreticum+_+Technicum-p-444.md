@@ -16,7 +16,8 @@ layout: course
 *Beginn der Vorlesungszeit*
 
 * 19.10. Christina Lohr: Annotation von Abschnitten in klinischen Dokumenten (Probevortrag AMIA)
-* 26.10. Tinghui Duan: Vorstellung des Promotionsprojekt (Probevortrag Kollegskolloquium); Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
+* 24.10., 15:00 (Sondertermin) Tinghui Duan: Vorstellung des Promotionsprojekt (Probevortrag Kollegskolloquium)
+* 26.10. Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
 * 02.11. (UH abwesend?)
 * 09.11. (UH abwesend?)
 * 16.11. (UH abwesend?)

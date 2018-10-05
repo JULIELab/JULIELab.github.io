@@ -5,7 +5,7 @@ layout: course
 <br>
 
 # Computerlinguistik und Sprachtechnologie
-
+In der Vorlesung werden einerseits methodische Grundlagen der Computerlinguistik vermittelt mit Schwerpunkten im Bereich der lexikalisch-morphologischen, syntaktischen und semantischen Analytik. Darüber hinaus werden sprachtechnologische Anwendungen natürlichsprachlicher Systeme, die auf diesen Methoden aufbauen, betrachtet. Hierzu zählen Systeme zur inhaltlichen Dokumentensuche (Information Retrieval), Informationsextraktion, Fragebeantwortung, Textzusammenfassung oder maschinellen Übersetzung. Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und die Diskussion von Lösungen in der Übung zur Vorlesung vertieft, deren Besuch verpflichtend ist.
 
 ### Vorlesung
 

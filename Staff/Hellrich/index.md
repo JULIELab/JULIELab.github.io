@@ -8,7 +8,7 @@ layout: staff
   <img src="johannes_hellrich-width-162-height-208-p-1279.jpeg">
 </div>
 
-My research is focussed on lexical semantics in diachronic and multilingual settings, transferring state-of-the-art computational linguistics methods into the Digital Humanities. I became a member of the DFG funded graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) in 2015, after working in the EU-funded [MANTRA](https://sites.google.com/site/mantraeu/) project.
+My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [SMITH](http://www.smith.care/) project on processing clinical language. I previously finished my doctoral thesis as a member of the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.
 
 ## Selected Publications
 * **Johannes Hellrich** & Udo Hahn: [Exploring Diachronic Lexical Semantics with JeSemE](http://aclweb.org/anthology/P/P17/P17-4006.pdf). In: [*ACL 2017*](http://acl2017.org/), System Demonstrations. Vancouver, Canada, July 30 - August 4, 2017, pp. 31-36. [[Link to system](http://jeseme.org/)]
@@ -30,6 +30,6 @@ Johannes Hellrich<br/>
 Research Assistant
 
 | Email | [johannes.hellrich@uni-jena.de](mailto:johannes.hellrich@uni-jena.de) |
-| Phone | +49 3641 9-44305 / +49 3641 9-44199 |
+| Phone | +49 3641 9-44305 |
 | Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
 | Room | E 008 |

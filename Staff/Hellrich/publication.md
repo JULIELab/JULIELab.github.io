@@ -11,7 +11,7 @@ layout: staff
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.
 
-* **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](https://arxiv.org/abs/1807.04148). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
 
 * **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 

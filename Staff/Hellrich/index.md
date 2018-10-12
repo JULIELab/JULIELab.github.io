@@ -8,10 +8,10 @@ layout: staff
   <img src="johannes_hellrich-width-162-height-208-p-1279.jpeg">
 </div>
 
-My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [SMITH](http://www.smith.care/) project on processing clinical language. I previously finished my doctoral thesis as a member of the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.
+My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [SMITH](http://www.smith.care/) project on processing clinical language. I previously finished my doctoral thesis on language change in the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.
 
 ## Selected Publications
-* **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](https://arxiv.org/abs/1807.04148). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
 * **Johannes Hellrich** & Udo Hahn: [Exploring Diachronic Lexical Semantics with JeSemE](http://aclweb.org/anthology/P/P17/P17-4006.pdf). In: [*ACL 2017*](http://acl2017.org/), System Demonstrations. Vancouver, Canada, July 30 - August 4, 2017, pp. 31-36. [[Link to system](http://jeseme.org/)]
 * **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster](/downloads/publications/posters/hellrich_coling2016.pdf)].
 * **Johannes Hellrich**, Stefan Schulz, Sven Buechel & Udo Hahn: [JUFIT: A Configurable Rule Engine for Filtering and Generating New Multilingual UMLS Terms](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765630/). In: *AMIA Annual Symposium Proceedings 2015*, 2015, pp. 604-610.

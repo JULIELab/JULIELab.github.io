@@ -15,7 +15,7 @@ layout: staff_tab
 | [Tobias Kolditz](/Staff/Tobias+Kolditz.html) | Research Assistant | [SMITH](http://www.smith.care/)	| [Tobias.Kolditz@uni-jena.de](mailto:Tobias.Kolditz@uni-jena.de) | 44303 |
 | [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
 | [Franz Matthies](/Staff/Franz+Matthies.html) | Research Assistant	| [SMITH](http://www.smith.care/), [JCoRe](https://julielab.github.io/) | [Franz.Matthies@uni-jena.de](mailto:Franz.Matthies@uni-jena.de)	| 44305 |
-| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant | [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
+| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
 | [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
 Fax of the group: +49 3641 9-44321

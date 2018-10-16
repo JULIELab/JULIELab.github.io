@@ -4,6 +4,14 @@ layout: staff
 
 # Luise Modersohn
 
+## Curriculum vitae
+* since 2018: Research Associate at the JULIE Lab of Friedrich Schiller University Jena
+* 2014 - 2018:  Research Associate at the Computer Vision Group of Friedrich Schiller University Jena
+* 2014: Master Thesis "Parallelisierung und Erweiterung einer Bibliothek für die Untersuchung optimaler Regulationsvorgänge in Stoffwechselwegen"
+* 2012: Bachelor Thesis "Homological Search of the hok/sok Toxin-Antitoxin System in Bacteria"
+* 2009 - 2014: Studies of Bioinformatics and Computational Biology at the Friedrich Schiller University Jena
+
+
 ## Research Interests
 
 * Natural Language Processing with clinical contents

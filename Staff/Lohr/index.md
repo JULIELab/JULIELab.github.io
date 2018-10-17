@@ -8,6 +8,12 @@ layout: staff
   <img src="ChristinaLohr.jpg">
 </div>
 
+## Curriculum vitae
+* since 2016: Research Associate at the JULIE Lab of Friedrich Schiller University Jena
+* 2015 - 2016: Research Associate at the Chemnitz University of Technology, Chair Media Informatics and Chair Practical Computer Science
+* 2012 - 2015: Studies of Computer Science at the Chemnitz University of Technology (Master)
+* 2007 - 2012: Studies of Applied Computer Science at the Chemnitz University of Technology (Bachelor)
+
 ## Research Interests
 
 * Natural Language Processing with clinical contents

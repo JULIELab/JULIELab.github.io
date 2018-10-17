@@ -25,9 +25,9 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 09.11. (UH abwesend?)
 * 16.11. (UH abwesend?)
 * 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
-* 30.11. 
+* 30.11. Dissertations-Tag
 * 7.12.
-* 14.12.
+* 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung
 * 21.12.
 
 *Weihnachten/Neujahr*
@@ -41,4 +41,3 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 ### Themen-Pool
 * Bernd Kampe. Statistik II.
 * Konferenzreports (COLING, ACL, EMNLP, AMIA,...)
-* Dissertationstag

@@ -5,7 +5,7 @@ layout: staff
 # Christina Lohr
 
 <div class="portrait">
-  <img src="christina_lohr-width-156-height-202.jpg">
+  <img src="ChristinaLohr.jpg">
 </div>
 
 ## Research Interests

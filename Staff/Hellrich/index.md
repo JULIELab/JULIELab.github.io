@@ -5,7 +5,7 @@ layout: staff
 # Johannes Hellrich
 
 <div class="portrait">
-  <img src="hellrich-small.jpeg">
+  <img src="hellrich-small.jpg">
 </div>
 
 My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [SMITH](http://www.smith.care/) project on processing clinical language. I previously finished my doctoral thesis on language change in the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.

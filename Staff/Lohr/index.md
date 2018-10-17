@@ -13,6 +13,7 @@ layout: staff
 * 2015 - 2016: Research Associate at the Chemnitz University of Technology, Chair Media Informatics and Chair Practical Computer Science
 * 2012 - 2015: Studies of Computer Science at the Chemnitz University of Technology (Master)
 * 2007 - 2012: Studies of Applied Computer Science at the Chemnitz University of Technology (Bachelor)
+* 2007 - 2015: Student Assistant at Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)
 
 ## Research Interests
 

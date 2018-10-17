@@ -3,10 +3,10 @@ layout: default
 ---
 # Lab News
 
-## October '18 new colleague
-* We welcome our new colleague [Tinghui Duan](/Staff/Duan/index.html).
+## Oct '18 new team member
+* We welcome our new team member [Tinghui Duan](/Staff/Duan/index.html).
 
-## August '18 paper accepted
+## Aug '18 paper accepted
 * Submission by Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on modeling empathy in user generated text accepted for [EMNLP 2018](http://emnlp2018.org/).
 
 ## Juli '18 alumnus

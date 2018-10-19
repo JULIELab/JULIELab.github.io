@@ -4,6 +4,10 @@ layout: staff
 
 # Tinghui Duan
 
+<div class="portrait">
+  <img src="duan.jpg">
+</div>
+
 ## Contact
 Tinghui Duan<br/>
 Research Assistant

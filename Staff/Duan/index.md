@@ -4,7 +4,7 @@ layout: staff
 
 # Tinghui Duan
 
-## Curriculum vitae
+## Curriculum Vitae
 
 <div class="portrait">
   <img src="duan.jpg" height="224" width="168">

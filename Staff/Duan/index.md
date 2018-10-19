@@ -14,6 +14,7 @@ layout: staff
 * since 07.2018: Research Associate at the JULIE Lab of Friedrich Schiller University Jena
 * 11.2015 - 06.2018: Research on _German Prepositions_ at the Institute of German as a Foreign Language and Intercultural Studies of Friedrich Schiller University Jena
 * 2015: Master Thesis on _Demonstratives in German Scientific Writing_ at the Friedrich Schiller University Jena
+* 10.2012 - 09.2013: Erasmus Exchange at the University of Vienna
 * 2010: Bachelor Thesis on _Reception of Novalis in China from 1918 to 2009_ at the Renmin University of China
 
 ## Research Interests

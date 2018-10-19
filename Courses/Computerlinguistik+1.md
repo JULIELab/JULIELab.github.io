@@ -11,7 +11,7 @@ Die Vorlesung führt in zentrale methodische Grundlagen der Computerlinguistik e
 * [Einführung](/downloads/teaching/ws201819/cl1/cl1_vl_ws18_part1_01.pdf) (aktualisiert am 19.10.18)
 
 ### Seminar
-* [Einführung](/downloads/teaching/ws201819/cl1/cl1_s_ws18_part1_01.pdf) (aktualisiert am 19.19.18)
+* [Einführung](/downloads/teaching/ws201819/cl1/cl1_s_ws18_part1_01.pdf) (aktualisiert am 19.10.18)
 
 ### Übung
 

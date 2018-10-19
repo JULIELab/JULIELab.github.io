@@ -7,7 +7,7 @@ layout: staff
 ## Curriculum vitae
 
 <div class="portrait">
-  <img src="duan.jpg" height="220" width="165">
+  <img src="duan.jpg" height="224" width="168">
 </div>
 
 * since 10.2018: PhD Student at the Research Training Group [Romanticism as a Model](http://modellromantik.uni-jena.de/english/)

@@ -23,14 +23,13 @@ layout: staff
 
 ## Publications
 * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, **Tinghui Duan**, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of balanced Organizational Writing. In *ECONLP 2018 — Proceedings of the First Workshop on Economics and Natural Language Processing* @ ACL 2018. Melbourne, Australia, July 20, 2018. Pages 20–31. [[Paper](http://aclweb.org/anthology/W18-3103)]
+
 * Jessica Neumann, **Tinghui Duan**. 2018. Lesbarkeitsformeln zur Messung sprachlicher Komplexität in Schulbuchtexten. In Britta Hövelbrinks, Isabel Fuchs, Diana Maak, Tinghui Duan, Beate Lütke (Eds.), *Der-Die-DaZ – Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache*, Berlin, Boston 2018: De Gruyter, Pages 269-284. https://doi.org/10.1515/9783110582819-279
 
 ## Contact
-Tinghui Duan<br/>
-Research Assistant
 
 |Email | [tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) |
 |PGP Fingerprint | 97E9 3024 E859 2C37 9B38 4616 82B9 6139 DACE F572 |
 |Phone | +49 3641 9-44305 |
-|Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
-|Room | E 008 |
+|Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
+|Room | Fürstengraben 27, E 008 |

@@ -4,11 +4,12 @@ layout: staff
 
 # Tinghui Duan
 
+## Curriculum vitae
+
 <div class="portrait">
   <img src="duan.jpg" height="240" width="180">
 </div>
 
-## Curriculum vitae
 * since 10.2018: PhD Student at the Research Training Group [Romanticism as a Model](http://modellromantik.uni-jena.de/english/)
 * since 07.2018: Research Associate at the JULIE Lab of Friedrich Schiller University Jena
 * 11.2015 - 06.2018: Research on _German Prepositions_ at the Institute of German as a Foreign Language and Intercultural Studies of Friedrich Schiller University Jena

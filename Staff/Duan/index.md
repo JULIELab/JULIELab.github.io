@@ -8,6 +8,8 @@ layout: staff
   <img src="duan.jpg" align="left" height="280" width="210">
 </p>
 
+<br/>
+
 ## Contact
 Tinghui Duan<br/>
 Research Assistant

@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Tinghui Duan
+# Tinghui Duan (段庭辉)
 
 ## Curriculum Vitae
 

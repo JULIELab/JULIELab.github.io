@@ -11,7 +11,7 @@ layout: staff
 ## Curriculum vitae
 * since 10.2018: PhD Student at the Research Training Group [Romanticism as a Model](http://modellromantik.uni-jena.de/english/)
 * since 07.2018: Research Associate at the JULIE Lab of Friedrich Schiller University Jena
-* 11.2015 - 06.2018: Research on _German Prepositions_ at the Institute of German as a Foreign Language and Intercultural Studies of University of Friedrich Schiller University Jena
+* 11.2015 - 06.2018: Research on _German Prepositions_ at the Institute of German as a Foreign Language and Intercultural Studies of Friedrich Schiller University Jena
 * 2015: Master Thesis on _Demonstratives in German Scientific Writing_ at the Friedrich Schiller University Jena
 * 2010: Bachelor Thesis on _Reception of Novalis in China from 1918 to 2009_ at the Renmin University of China
 

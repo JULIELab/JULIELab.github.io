@@ -5,7 +5,7 @@ layout: staff
 # Tinghui Duan
 
 <p>
-  <img src="duan.jpg" align="left" height="280" width="210">
+  <img src="duan.jpg" align="left" height="200" width="150">
 </p>
 
 <br/>

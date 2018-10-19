@@ -28,7 +28,7 @@ layout: staff
 
 * Jessica Neumann, **Tinghui Duan**. 2018. Lesbarkeitsformeln zur Messung sprachlicher Komplexität in Schulbuchtexten. In Britta Hövelbrinks, Isabel Fuchs, Diana Maak, **Tinghui Duan**, Beate Lütke (Eds.), *Der-Die-DaZ – Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache*, Berlin, Boston 2018: De Gruyter. Pages 269-284. [[DOI]](https://doi.org/10.1515/9783110582819-279)
 
-* Review of: Meiling Jin (2013): Suprasegmentalia und Fokussierung im Deutschen Und Chinesischen – Ein Vergleich im Hinblick auf ihre Fremdsprachendidaktische Relevanz. In *Informationen Deutsch als Fremdsprache 42.2* (2015). Pages 246-247. [[DOI]](https://doi.org/10.1515/infodaf-2015-2-336)
+* Review of: Meiling Jin (2013): Suprasegmentalia und Fokussierung im Deutschen und Chinesischen – Ein Vergleich im Hinblick auf ihre Fremdsprachendidaktische Relevanz. In *Informationen Deutsch als Fremdsprache 42.2* (2015). Pages 246-247. [[DOI]](https://doi.org/10.1515/infodaf-2015-2-336)
 
 ## Contact
 

@@ -4,9 +4,7 @@ layout: staff
 
 # Tinghui Duan
 
-<div class="portrait">
-  <img src="duan.jpg" align="left" height="280" width="210">
-</div>
+<img src="duan.jpg" align="left" height="280" width="210">
 
 ## Contact
 Tinghui Duan<br/>

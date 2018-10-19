@@ -4,7 +4,7 @@ layout: staff
 
 # Tinghui Duan
 
-<div>
+<div class="portrait">
   <img src="duan.jpg" align="left" height="240" width="180">
 </div>
 

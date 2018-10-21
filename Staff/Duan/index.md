@@ -10,7 +10,7 @@ layout: staff
   <img src="duan.jpg" height="240" width="180">
 </div>
 
-* since 10.2018: PhD Student at the Research Training Group [Romanticism as a Model](http://modellromantik.uni-jena.de/english/)
+* since 10.2018: PhD Student at Graduate School [Romanticism as a Model](http://modellromantik.uni-jena.de/english/) under supervision of [Prof. Dr. Udo Hahn](https://julielab.de/Staff/Hahn/)
 * since 07.2018: Research Assistant at JULIE Lab of Friedrich Schiller University Jena
 * 11.2015 - 06.2018: Research on _German Prepositions_ at Institute of German as a Foreign Language and Intercultural Studies of Friedrich Schiller University Jena
 * 2015: Master Thesis on _Demonstratives in German Scientific Writing_ at Friedrich Schiller University Jena

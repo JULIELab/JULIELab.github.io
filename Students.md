@@ -27,7 +27,7 @@ If you are interested in writing a thesis feel free to [contact](mailto:julielab
 ## Accomplished Theses
 
 * Julia Barthel - Wie emotional sind Zeitungstexte? Eine computerlinguistische Analyse (Bachelor-Thesis).
-* [Sven Buechel](/Staff/Sven+Buechel.html) - [Automatische Analyse von Emotionen in Geschäfts- und Nachhaltigkeitsberichten](/downloads/publications/thesis/BA_Bu%CC%88chel_Emotionsanalyse_2016-02-04.pdf) (Bachelor-Thesis).
+* [Sven Buechel](/Staff/Sven+Buechel.html) - [Automatische Analyse von Emotionen in Geschäfts- und Nachhaltigkeitsberichten](/downloads/publications/thesis/BA_Buechel_Emotionsanalyse_2016-02-04.pdf) (Bachelor-Thesis).
 * Christine Engelmann - [Die Skalierung epistemisch modaler Ausdrücke. Eine empirische Untersuchung mit Fokus auf biomedizinischen Texten](/downloads/publications/thesis/masterarbeit+engelmann.pdf) (Master-Thesis).
 * Philipp Lukas - Erstellung eines Wartungssystems für die Knowledge Base der semantischen Suchmaschine Semedico (Study-Thesis).
 * David Pulzer - PDF-Konverter für Volltexte und ihre Integration in eine Textanalytik-Pipeline (Diploma-Thesis).

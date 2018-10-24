@@ -40,4 +40,5 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 ### Themen-Pool
 * Bernd Kampe. Statistik II.
+* Speicherung und Reproduzierbarkeit von Forschungsdaten
 * Konferenzreports (COLING, ACL, EMNLP, AMIA,...)

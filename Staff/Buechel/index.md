@@ -17,7 +17,7 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 ## Selected Publications
 
-* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. Accepted for ***EMNLP 2018***. [[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
+* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. In ***EMNLP 2018** — Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*. Brussels, Belgium, October 31 – November 4, 2018. Pages 4758–4765. [[Paper](http://aclweb.org/anthology/D18-1507)][[Code & Data](https://github.com/wwbp/empathic_reactions)][[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
 
 * **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](http://aclweb.org/anthology/C18-1245)]
 

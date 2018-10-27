@@ -9,7 +9,7 @@ layout: default
 The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).
 
 * [Computerlinguistik und Sprachtechnologie (Bachelor)](/Courses/Computerlinguistik+Sprachtechnologie.html)
-* [Comuterlinguistik I (Master)](/Courses/Computerlinguistik+1.html)
+* [Computerlinguistik I (Master)](/Courses/Computerlinguistik+1.html)
 * [Digital Humanities (ASQ)](/Courses/Digital+Humanities-p-12429.html)
 * [Theoreticum & Technicum (Master)](/Courses/Theoreticum+_+Technicum-p-444.html)
 <!--- * [Computerlinguistik II](/Courses/Computerlinguistik+II-p-7449.html) --->

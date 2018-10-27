@@ -4,7 +4,7 @@ layout: default
 # Lab News
 
 ## Oct '18 new team member, preprint available
-* Preprint by  Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on neural emotion on very small datasets [available](https://arxiv.org/abs/1810.10949).
+* Preprint by  Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on neural emotion analysis on very small datasets [available](https://arxiv.org/abs/1810.10949).
 * We welcome our new team member [Tinghui Duan](/Staff/Duan/index.html).
 
 ## Aug '18 paper accepted

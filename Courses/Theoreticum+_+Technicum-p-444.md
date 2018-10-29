@@ -13,9 +13,6 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 ### Terminplan:
 
-* 5.10. Christoph Rzymski: Korpuslinguistik. (ausgefallen wegen Krankheit)
-* 12.10.
-
 *Beginn der Vorlesungszeit*
 
 * 19.10. Christina Lohr: Annotation von Abschnitten in klinischen Dokumenten (Probevortrag AMIA)

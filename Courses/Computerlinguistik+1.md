@@ -15,6 +15,7 @@ Die Vorlesung führt in zentrale methodische Grundlagen der Computerlinguistik e
 
 ### Übung
 * Sitzung vom 22. Oktober 2018 [[Folien](/downloads/teaching/ws201819/cl1/cl1_ue_ws18_2018-10-22.pdf)]
-* Sitzung vom 29. Oktober 2018 [[Blatt1](/downloads/teaching/ws201819/cl1/cl1_blatt1_aufgabe.ipynb)]
+* Sitzung vom 29. Oktober 2018 [[Folien](/downloads/teaching/ws201819/cl1/cl1_ue_ws18_2018-10-29.pdf)]
+* Sitzung vom 12. November 2018 \[Folien\][[Blatt1](/downloads/teaching/ws201819/cl1/cl1_blatt1_aufgabe.ipynb)]
 
 

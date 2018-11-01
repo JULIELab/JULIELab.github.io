@@ -18,9 +18,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 19.10. Christina Lohr: Annotation von Abschnitten in klinischen Dokumenten (Probevortrag AMIA)
 * 24.10., 15:00 (Sondertermin) Tinghui Duan: Vorstellung des Promotionsprojekt (Probevortrag Kollegskolloquium)
 * 26.10. Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
-* 02.11. (UH abwesend?)
-* 09.11. (UH abwesend?)
-* 16.11. (UH abwesend?)
+* 09.11. Udo Hahn: Konferenzbericht
 * 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
 * 30.11. Dissertations-Tag
 * 7.12.

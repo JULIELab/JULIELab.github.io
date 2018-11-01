@@ -31,7 +31,7 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 ## Teaching Experience
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
-* Computational Linguistics I, Fall 2016, Fall 2017.
+* Computational Linguistics I, Fall 2016, Fall 2017, Fall 2018.
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.
 
 ## Contact

@@ -29,6 +29,16 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 **[— Full Publication List —](publication.html)**
 
+## Invited Talks
+
+* Emotional Enterprises? Measuring Affective Language in Companies' External Communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
+
+* On Resources for Emotion Analysis Incorporating Multiple Representation Formats and Perspectives. Invited talk at the National Research Council, Ottawa, Canada (Saif Mohammad), August 14, 2017.
+
+## Professional Activities
+
+* Programm commitee member for the First Workshop on Economics and Natural Language Processing (ECONLP @ ACL 2018)
+
 ## Teaching Experience
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
 * Computational Linguistics I, Fall 2016, Fall 2017, Fall 2018.

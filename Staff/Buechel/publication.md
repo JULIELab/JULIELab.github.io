@@ -24,7 +24,7 @@ layout: staff
 
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. Towards a Metric for Paraphrastic Modification. In *Digital Humanities 2018. Book of Abstracts*. Mexico City, Mexico, June 26–29, 2018.  Pages 457–460. [[Paper](https://dh2018.adho.org/en/towards-a-metric-for-paraphrastic-modification/)]
 
-* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper](http://aclweb.org/anthology/N18-1173)]
+* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper]](http://aclweb.org/anthology/N18-1173)[[Video](https://vimeo.com/277671439)]
 
 * **Sven Buechel** and Udo Hahn. 2018. Representation Mapping: A Novel Approach to Generate High-Quality Multi-Lingual Emotion Lexicons. In *LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018*. Pages 184-191. [[Paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/402.pdf)] [[Code&Resources](https://github.com/JULIELab/EmoMap)]
 

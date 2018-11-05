@@ -39,10 +39,6 @@ The JULIE Lab was one of the academic collaborators in the **CALBC** project. CA
 
 A specific CALBC challenge run which consisted of building a large, diversely annotated corpus. Participation was open to any team that was willing to submit annotations obtained with their own named entity recognition system(s). The annotations of all participating systems was automatically harmonized with additional metadata to develop a silver standard corpus (no golden data will be supplied. The integrated corpus therefore has a broader scope than any single system available before.
 
-[Link to the CALBC project](http://www.calbc.eu)
-
-[Overview to the CALBC Challenge](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge.html) and [the challenge timeline](http://www.ebi.ac.uk/Rebholz-srv/CALBC/challenge_rollout.html)
-
 [Project flyer](/downloads/projects/CALBC_Flyer_20090729.pdf) (418 kB, 2009-07-29)
 
 ------------------------------------------------------------------------

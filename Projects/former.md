@@ -35,7 +35,7 @@ website](http://www.jenage.de/)
 
 ![](/assets/img/projects_CALBC-width-225-height-60.jpg)
 
-The JULIE Lab was one of the academic collaborators in the CALBC project. CALBC (Collaborative Annotation of a Large Biomedical Corpus) was a European support action funded in the EC\'s 7th Framework Programme. Its focus was the automatic generation of a very large, community-wide shared text corpus annotated fully automatically with biomedical entities. We proposed to create a broadly scoped and diversely annotated corpus (150,000 immunology-related abstracts from Medilne annotated with approximately a dozen semantic types) by automatically integrating the annotations from different named entity recognition systems.
+The JULIE Lab was one of the academic collaborators in the **CALBC** project. CALBC (Collaborative Annotation of a Large Biomedical Corpus) was a European support action funded in the EC\'s 7th Framework Programme. Its focus was the automatic generation of a very large, community-wide shared text corpus annotated fully automatically with biomedical entities. We proposed to create a broadly scoped and diversely annotated corpus (150,000 immunology-related abstracts from MEDLINE annotated with approximately a dozen semantic types) by automatically integrating the annotations from different named entity recognition systems.
 
 A specific CALBC challenge run which consisted of building a large, diversely annotated corpus. Participation was open to any team that was willing to submit annotations obtained with their own named entity recognition system(s). The annotations of all participating systems was automatically harmonized with additional metadata to develop a silver standard corpus (no golden data will be supplied. The integrated corpus therefore has a broader scope than any single system available before.
 
@@ -64,19 +64,15 @@ The JULIE Lab played a central role in the [StemNet](http://www.stemnet.de/) pro
 
 ------------------------------------------------------------------------
 
-<h2><img src="/assets/img/projects_SemanticMining-width-31-height-35.png" /> Semantic Interoperability and Data Mining in Biomedicine</h2>
+![](/assets/img/projects_SemanticMining-width-31-height-35.png)
 
-[Semantic Interoperability and Data Mining in Biomedicine](http://www.semanticmining.org) (NoE 507505). Its goal was to establish Europe as the international scientific leader in medical and biomedical informatics. The long-term goal of the network will be the development of generic methods and tools supporting the critical tasks of the field; data mining, knowledge discovery, knowledge representation, abstraction and indexing of information, semantic-based information retrieval in a complex and high-dimensional information space, and knowledge-based adaptive systems for provision of decision support for dissemination of evidence-based medicine.
-
-[Link to the Semantic Mining project](https://www.semanticmining.org)
+**Semantic** Interoperability and Data **Mining** in Biomedicine (NoE 507505), its goal was to establish Europe as the international scientific leader in medical and biomedical informatics. The long-term goal of the network was the development of generic methods and tools supporting the critical tasks of the field; data mining, knowledge discovery, knowledge representation, abstraction and indexing of information, semantic-based information retrieval in a complex and high-dimensional information space, and knowledge-based adaptive systems for provision of decision support for dissemination of evidence-based medicine.
 
 ------------------------------------------------------------------------
 
-<h2><img src="/assets/img/projects_Morphosaurus-width-62-height-55.png" /> Morphosaurus </h2>
+![](/assets/img/projects_Morphosaurus-width-62-height-55.png)
 
-[Morphosaurus](http://www.morphosaurus.de) is a unique and powerful medical language tool that the Department of Medical Informatics in Freiburg, Germany, developed in cooperation with the JULIE Lab and the Health Technology Master Program of Parana Catholic University in Curitiba, Brasil. The project was mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1 and 5-2.
-
-[Link to the Morphosaurus project](http://www.morphosaurus.de)
+**Morphosaurus** is a unique and powerful medical language tool that the Department of Medical Informatics in Freiburg im Breisgau, Germany, developed in cooperation with the JULIE Lab and the Health Technology Master Program of Parana Catholic University in Curitiba, Brasil. The project was mainly funded by Deutsche Forschungsgemeinschaft (DFG), grant KL 640/5-1 and 5-2.
 
 ------------------------------------------------------------------------
 

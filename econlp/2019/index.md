@@ -67,7 +67,7 @@ Zhu Zhang is currently a Kingland Faculty Fellow in Business Analytics and an as
 | Allan Hanbury		                        | TU Wien, Wien, Austria				              | Hanbury@ifs.tuwien.ac.at 
 | Qing Li			                            | Southwestern U of Finance and Economics (SWUFE), Sichuan, Chengdu, China | liq_t@swufe.edu.cn 
 | Pekka Malo		                          | Aalto U, Aalto , Finland				            |pekka.malo@aalto.fi 
-| Julian J.	 McAuley 	U of California San Diego (UCSD), San Diego, CA, USA	jmcauley@ucsd.edu
+| Julian J. McAuley                       |	U of California San Diego (UCSD), San Diego, CA, USA | jmcauley@ucsd.edu
 | Igor Mozetič		                        | Jožef Stefan Institute, Ljubljana, Slovenia |	Igor.Mozetic@ijs.si 
 | Viktor Pekar 	 	                        | Aston U, Birmingham, UK			                | v.pekar@aston.ac.uk 
 | Nicolas Pröllochs (pending)	            | U of Oxford, Oxford, UK			                | nicolas.prollochs@eng.ox.ac.uk 

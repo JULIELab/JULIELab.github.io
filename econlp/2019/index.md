@@ -107,6 +107,7 @@ Shared Task: planned for ECONLP 2020 (negotiations will be made @ ECONLP 2019 wi
 Technical equipment needed: WLAN, projection device
 
 Preferred venue:
+
 (1) ACL 2019
 
 (2) EMNLP-IJCNLP 2019

@@ -37,20 +37,23 @@ Papers submitted to this workshop should address (not excluding other topic area
 
 ### Organizers’ Research Interests, Areas of Expertise, and Experience in Organizing Workshops
 
-**Udo Hahn** – Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Germany (chair)
-https://julielab.de/Staff/Hahn 
+* **Udo Hahn** – Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Germany (chair)
+ 
+  https://julielab.de/Staff/Hahn 
 
-Udo Hahn is a full professor for Computational Linguistics at FSU Jena (Germany) where he heads the Jena University Language & Information Engineering (JULIE) Lab (www.julielab.de). He holds a PhD from the Information Science Department at the University of Konstanz (Germany). His research interests focus on NLP applications for the life and natural sciences, mainly information extraction and text mining, organizational emotion analysis, knowledge integration and aggregation from structured and unstructured data (incl. text summarization), annotation science (active learning), ontology and multilingual terminology engineering, as well as software engineering for NLP. He has been co-organizing 11 workshops in total. Among them four workshops for ACL (the 1st ECONLP workshop @ ACL 2018, as well as workshops on Automatic Summarization @ ANLP-NAACL 2000 and ACL 2002, and the BioNLP 2002 workshop @ ACL 2002), the KR-MED 2004 workshop @ KR 2004 (for AMIA), the SMBM 2005 and 2010 workshops on Semantic Mining in Biomedicine, the “UIMA for NLP” workshops @ LREC 2008 and LREC 2010.
+  Udo Hahn is a full professor for Computational Linguistics at FSU Jena (Germany) where he heads the Jena University Language & Information Engineering (JULIE) Lab (www.julielab.de). He holds a PhD from the Information Science Department at the University of Konstanz (Germany). His research interests focus on NLP applications for the life and natural sciences, mainly information extraction and text mining, organizational emotion analysis, knowledge integration and aggregation from structured and unstructured data (incl. text summarization), annotation science (active learning), ontology and multilingual terminology engineering, as well as software engineering for NLP. He has been co-organizing 11 workshops in total. Among them four workshops for ACL (the 1st ECONLP workshop @ ACL 2018, as well as workshops on Automatic Summarization @ ANLP-NAACL 2000 and ACL 2002, and the BioNLP 2002 workshop @ ACL 2002), the KR-MED 2004 workshop @ KR 2004 (for AMIA), the SMBM 2005 and 2010 workshops on Semantic Mining in Biomedicine, the “UIMA for NLP” workshops @ LREC 2008 and LREC 2010.
 
-**Véronique Hoste** – LT3 Language and Translation Technology Group, Ghent University, Belgium 
-https://research.flw.ugent.be/en/veronique.hoste 
+* **Véronique Hoste** – LT3 Language and Translation Technology Group, Ghent University, Belgium 
+ 
+  https://research.flw.ugent.be/en/veronique.hoste 
 
-Prof. Veronique Hoste is Full Professor of Computational Linguistics and director of the LT3 Language and Translation Technology Team at Ghent University (www.lt3.ugent.be). She holds a PhD in computational linguistics from the University of Antwerp on optimization issues in machine learning of coreference resolution (2005). She has a strong expertise in machine learning of natural language, and more specifically in coreference resolution, word sense disambiguation, terminology extraction, text classification, classifier optimization, readability prediction, sentiment mining, economic event extraction and (implicit) sentiment analysis, etc. Veronique co-organized different workshops, including the 1st ECONLP workshop @ ACL 2018, as well as shared tasks on coreference resolution (2010), cross-lingual word sense disambiguation (2010 and 2013), L2 writing (2014), and multilingual aspect-based sentiment analysis (2016) on which she also published several articles.
+  Prof. Veronique Hoste is Full Professor of Computational Linguistics and director of the LT3 Language and Translation Technology Team at Ghent University (www.lt3.ugent.be). She holds a PhD in computational linguistics from the University of Antwerp on optimization issues in machine learning of coreference resolution (2005). She has a strong expertise in machine learning of natural language, and more specifically in coreference resolution, word sense disambiguation, terminology extraction, text classification, classifier optimization, readability prediction, sentiment mining, economic event extraction and (implicit) sentiment analysis, etc. Veronique co-organized different workshops, including the 1st ECONLP workshop @ ACL 2018, as well as shared tasks on coreference resolution (2010), cross-lingual word sense disambiguation (2010 and 2013), L2 writing (2014), and multilingual aspect-based sentiment analysis (2016) on which she also published several articles.
 
-**Zhu (Drew) Zhang** – Iowa State University, USA
-https://www.business.iastate.edu/directory/zhuzhang/
+* **Zhu (Drew) Zhang** – Iowa State University, USA
 
-Zhu Zhang is currently a Kingland Faculty Fellow in Business Analytics and an associate professor of Information Systems and Computer Science at Iowa State University (USA), where he heads the ISU NLP group. He holds a Ph.D. in Information and Computer Science from the University of Michigan (USA). His research interests focus on the intersection of NLP and machine learning, as well as various business applications of AI.
+  https://www.business.iastate.edu/directory/zhuzhang/
+
+  Zhu Zhang is currently a Kingland Faculty Fellow in Business Analytics and an associate professor of Information Systems and Computer Science at Iowa State University (USA), where he heads the ISU NLP group. He holds a Ph.D. in Information and Computer Science from the University of Michigan (USA). His research interests focus on the intersection of NLP and machine learning, as well as various business applications of AI.
 
 | Program Committee [invited: 30, accepted: 26 (87%), pending: 4 (13%)] | Institution | E-Mail
 |--------------------------------------------------------------------------------------|-------------|------------------------|
@@ -103,13 +106,19 @@ Shared Task: planned for ECONLP 2020 (negotiations will be made @ ECONLP 2019 wi
 
 Technical equipment needed: WLAN, projection device
 
-Preferred venue: (1) ACL 2019
+Preferred venue:
+(1) ACL 2019
+
 (2) EMNLP-IJCNLP 2019
+
 (3) NAACL-HLT 2019
 
 
 Previous ECONLP workshops:
 1st ECONLP 2018 Workshop @ ACL 2018, Melbourne, Australia (http://aclweb.org/anthology/W18-31)
+
 a. Submissions received: 	16
+
 b. Papers accepted:	8 [2 (long), 6 (short)]
+
 c. Number of attendees:	25-30

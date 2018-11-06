@@ -29,9 +29,10 @@ Papers submitted to this workshop should address (not excluding other topic area
 
 
 ## Organizers
-| Organizer        | Institution                                   | E-Mail
-|------------------|-----------------------------------------------|---------------------------|
-| Udo Hahn	       |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 
+
+| Organizer        | Institution                                  | E-Mail
+|------------------|----------------------------------------------|---------------------------|
+| Udo Hahn	        |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 
 | Véronique Hoste  |	Ghent University, Belgium	                   |	veronique.hoste@ugent.be
 | Zhu (Drew) Zhang |	Iowa State University, USA                   |	zhuzhang@iastate.edu 
 

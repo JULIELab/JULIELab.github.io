@@ -48,7 +48,6 @@ Discussion and Wrap-up
 Poster Session - All of the Papers Presented at the Workshop
 
 ## Comitees
->>>>>>> origin
 
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|-------------------------------|

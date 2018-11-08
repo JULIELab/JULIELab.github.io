@@ -11,5 +11,7 @@ In der Vorlesung werden einerseits methodische Grundlagen der Computerlinguistik
 1. [Einführung](/downloads/teaching/ws201819/clst/01_Intro.pdf) (aktualisiert am 07.11.2018)
 
 ### Seminar
+[Merkblatt Algorithmik](/downloads/teaching/ws201819/clst/algorithmen_LM.pdf)
 
 ### Übung
+1. [Übung](/downloads/teaching/ws201819/clst/blatt01_clst.pdf)

@@ -31,11 +31,11 @@ layout: staff
 
 ### 2018
 
-* **Christina Lohr**, Stephanie Luther, Franz Matthies, Luise Modersohn, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf, and Udo Hahn: [CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification.](/downloads/publications/papers/lohr-2018-amia-sections.pdf) In: AMIA Annual Symposium Proceedings 2018. [[Slides](/downloads/slides/lohr-2018-amia-sections-slides.pdf)]
+* **Christina Lohr**, Stephanie Luther, Franz Matthies, Luise Modersohn, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf, and Udo Hahn: [CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification.](/downloads/publications/papers/lohr-2018-amia-sections.pdf) In: AMIA Annual Symposium Proceedings 2018, San Francisco, USA, Nov 3-7. [[Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf)]
 
 * **Christina Lohr**, Sven Buechel, and Udo Hahn. 2018. [Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf). In: LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7 - 12, 2018. Pages 1259 -1266. [[Code](https://github.com/julielab/jsyncc)] [[Poster](/downloads/publications/posters/Poster_LREC_JSYNCC.pdf)]
 
-* Udo Hahn, Franz Matthies, **Christina Lohr**, Markus Löffler. [3000PA-Towards a National Reference Corpus of German Clinical Language](http://ebooks.iospress.nl/ISBN/978-1-61499-852-5). In: Building Continents of Knowledge in Oceans of Data: The Future of Co-Created eHealth - Proceedings of MIE 2018, Gothenburg, Sweden, April 24-26 2018
+* Udo Hahn, Franz Matthies, **Christina Lohr**, Markus Löffler. [3000PA-Towards a National Reference Corpus of German Clinical Language](http://ebooks.iospress.nl/volumearticle/48747). In: Building Continents of Knowledge in Oceans of Data: The Future of Co-Created eHealth - Proceedings of MIE 2018, Gothenburg, Sweden, April 24-26 2018. [[Slides](/downloads/publications/slides/lohr2018-mie-3000PA-slides.pdf)]
 
 ### 2016
 

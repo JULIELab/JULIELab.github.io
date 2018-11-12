@@ -28,7 +28,7 @@ layout: staff
 ### 2018
 * Gerd Fabian Volk, Anika Steinerstauch, Annegret Lorenz, Luise Modersohn, Oliver Mothes, Joachim Denzler, Carsten M. Klingner, Farsin Hamzei and Orlando Guntinas-Lichius: Facial motor and non-motor disabilities in patients with central facial paresis: a prospective cohort study. In: Journal of Neurology (accepted)
 
-* Christina Lohr, Stephanie Luther, Franz Matthies and Udo Hahn: CDA-compliant section annotation of German-language discharge summaries: Guideline development, annotation campaign, section classification. In: AMIA Annual Symposium Proceedings 2018. (accepted)
+* Christina Lohr, Stephanie Luther, Franz Matthies, Luise Modersohn, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf, and Udo Hahn: [CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification.](/downloads/publications/papers/lohr-2018-amia-sections.pdf) In: AMIA Annual Symposium Proceedings 2018, San Francisco, USA, Nov 3-7. [[Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf)]
 
 ### 2017
 * Rebecca Anna Schaede, Gerd Fabian Volk, Luise Modersohn, Jodie Marion Barth, Joachim Denzler and Orlando Guntinas-Lichius: Video Instruction for Synchronous Video Recording of Mimic Movement of Patients with Facial Palsy. In: Laryngo-Rhino-Otologie 2017.

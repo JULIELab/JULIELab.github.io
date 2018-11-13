@@ -12,35 +12,35 @@ Publications
 
 ## All-time Favorites (Top 10)
 
-### Natural Language Processing: Systems & Applications
+## Natural Language Processing: Systems & Applications
 
-####  Information Extraction & Text Mining
-#### Text Summarization
-####  Knowledge Base Population
-####  (Multilingual) Information Retrieval
+###  Information Extraction & Text Mining
+### Text Summarization
+###  Knowledge Base Population
+###  (Multilingual) Information Retrieval
 
 
-### Natural Language Processing: Language Resources – Corpora & Software Tools, Annotation
+## Natural Language Processing: Language Resources – Corpora & Software Tools, Annotation
 
-#### Language Resources – Corpora
-#### Language Resources – Software, incl. Unstructured Information Management Architecture (UIMA)
-#### Corpus Annotation
+### Language Resources – Corpora
+### Language Resources – Software, incl. Unstructured Information Management Architecture (UIMA)
+### Corpus Annotation
 
-### Natural Language Processing: Methods
+## Natural Language Processing: Methods
 
-####  Text Parsing & Semantic Interpretation
-####  Anaphora Resolution & Discourse Structure Analysis
-####  Emotion and Sentiment Analysis
+###  Text Parsing & Semantic Interpretation
+###  Anaphora Resolution & Discourse Structure Analysis
+###  Emotion and Sentiment Analysis
 
-### Biomedical NLP
+## Biomedical NLP
 
-#### Term Extraction
-#### Bioinformatics Applications
+### Term Extraction
+### Bioinformatics Applications
 
-### Biomedical Ontology Engineering
+## Biomedical Ontology Engineering
 
-### Knowledge Representation & Spatio-Temporal Reasoning
+## Knowledge Representation & Spatio-Temporal Reasoning
 
-### Machine Learning
+## Machine Learning
 
-### Digital Humanities
+## Digital Humanities

@@ -23,7 +23,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 30.11. Dissertations-Tag
 * 7.12. Dissertations-Tag
 * 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung
-* 21.12.
+* 21.12. Udo Hahn, Sven Buechel: Konferenzberichte (NAACL, ACL, COLING, EMNLP)
 
 *Weihnachten/Neujahr*
 

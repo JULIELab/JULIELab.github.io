@@ -10,35 +10,30 @@ Publications
 
 ## [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de) | [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
 
-## All-time Favorites (Top 10)
+Inhaltsverzeichnis:
 
-## Natural Language Processing: Systems & Applications
-###  Information Extraction & Text Mining
-### Text Summarization
-###  Knowledge Base Population
-###  (Multilingual) Information Retrieval
+1. All-time Favorites (Top 10)
+  * Natural Language Processing: Systems & Applications
+  * Information Extraction & Text Mining
+  * Text Summarization
+  * Knowledge Base Population
+  * (Multilingual) Information Retrieval
+2. Natural Language Processing: Language Resources – Corpora & Software Tools, Annotation
+  * Language Resources – Corpora
+  * Language Resources – Software, incl. Unstructured Information Management Architecture (UIMA)
+  * Corpus Annotation
+3. Natural Language Processing: Methods
+  * Text Parsing & Semantic Interpretation
+  * Anaphora Resolution & Discourse Structure Analysis
+  * Emotion and Sentiment Analysis
+4. Biomedical NLP
+  * Term Extraction
+  * Bioinformatics Applications
 
-## Natural Language Processing: Language Resources – Corpora & Software Tools, Annotation
-### Language Resources – Corpora
-### Language Resources – Software, incl. Unstructured Information Management Architecture (UIMA)
-### Corpus Annotation
-
-## Natural Language Processing: Methods
-###  Text Parsing & Semantic Interpretation
-###  Anaphora Resolution & Discourse Structure Analysis
-###  Emotion and Sentiment Analysis
-
-## Biomedical NLP
-### Term Extraction
-### Bioinformatics Applications
-
-## Biomedical Ontology Engineering
-
-## Knowledge Representation & Spatio-Temporal Reasoning
-
-## Machine Learning
-
-## Digital Humanities
+5. Biomedical Ontology Engineering
+6. Knowledge Representation & Spatio-Temporal Reasoning
+7. Machine Learning
+8. Digital Humanities
 
 ## 1) All-time Favorites (Top 10)
 

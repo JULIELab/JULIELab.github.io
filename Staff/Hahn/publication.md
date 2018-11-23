@@ -208,9 +208,7 @@ S. Schulz & U. Hahn [2000].
 	In International Journal of Medical Informatics, 59(3):87-99.
       
 
-## 3) Natural
-      Language Processing: Language Resources – Corpora & Software Tools, Annotation
-
+## 3) Natural Language Processing: Language Resources – Corpora & Software Tools, Annotation
 
 ###    a) Language Resources – Corpora
 

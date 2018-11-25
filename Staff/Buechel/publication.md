@@ -60,6 +60,8 @@ layout: staff
 
 #### Non-Archival Contributions
 
+* From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited talk at the IMS, Universität Stuttgart, Stuttgart (Roman Klinger), Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
+
 * Emotional enterprises? Measuring affective language in companies' external communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
 
 * Quantifizierung von Emotionen in historischer Sprache. Anwendungen und methodische Grundlagen [\'Quantifying emotion in historical language. Applications and methodological foundations\']. Invited talk at the graduate seminar of the FinkA research group (Prof. Stefan Strohschneider, Dr. Eva Schlindwein), Friedrich-Schiller-Universität Jena, January 24, 2018. [[Slides](/downloads/publications/slides/slides_iwk_gastvortrag_2018.pdf)]

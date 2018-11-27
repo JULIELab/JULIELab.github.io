@@ -14,6 +14,7 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 
 1. [Einführung](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (1) Intro-sh.pdf) (aktualisiert am 13.11.2018)
 2. [Korpora](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 20.11.2018)
+3. [Suche](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (3) Suche-sh.pdf) (aktualisiert am 27.11.2018)
 
 <!---
 3. [Suche](/downloads/teaching/ss2018/dh/ASQ%20Digital%20Humanities%20(3)%20Suche-sh.pdf) (aktualisiert am 18.6.18)

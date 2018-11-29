@@ -9,14 +9,14 @@ layout: staff
 Publications
 
 #### 2018
-**Erik Faessler** and Udo Hahn: [Annotation Data Management with JeDIS](https://dl.acm.org/citation.cfm?id=3229102). In: *The 18th ACM Symposium on Document Engineering*, Halifax, Nova Scotia, Canada, August 28 - 31, 2018, DOI:10.1145/3209280.3229102
+* **Erik Faessler** and Udo Hahn: [Annotation Data Management with JeDIS](https://dl.acm.org/citation.cfm?id=3229102). In: *The 18th ACM Symposium on Document Engineering*, Halifax, Nova Scotia, Canada, August 28 - 31, 2018, DOI:10.1145/3209280.3229102
 
 #### 2017
 * **Erik Faessler** and Udo Hahn: [Semedico: A Comprehensive Semantic Search Engine for the Life Sciences](http://aclweb.org/anthology/P17-4016). In: *ACL 2017, System Demonstrations. System Demonstrations.* Vancouver, Canada, July 30 - August 4, 2017, pp. 91-96. [[Link]](http://semedico.org/)
 * Friederike Klan, Erik Faessler, Alsayed Algergawy, Birgitta König-Ries, Udo Hahn: [Integrated Semantic Search on Structured and Unstructured Data in the ADOnIS System](http://ceur-ws.org/Vol-1933/paper-9.pdf). In: *Proceedings of the 2nd International Workshop on Semantics for Biodiversity* co-located with 16th International Semantic Web Conference (ISWC 2017), Vienna, Austria, October 21 - 25, 2017.
 
 #### 2016
-* Piero Dalle Pezze, Stefanie Ruf, Annika G. Sonntag, Miriam Langelaar-Makkinje, Philip Hall, Alexander M. Heberle, Patricia Razquin Navas, Karen van Eunen, Regine C. Tölle, Jennifer J. Schwarz, Heike Wiese, Bettina Warscheid, Jana Deitersen, Björn Stork, **Erik Fäßler**, Sascha Schäuble, Udo Hahn, Peter Horvatovich, Daryl P. Shanley, Kathrin Thedieck: [A systems study reveals concurrent activation of AMPK and mTOR by amino acids](https://www.nature.com/articles/ncomms13254). In: *Nature Communications November 21, 2016; 7:13254.*, DOI:10.1038/ncomms13254
+* Piero Dalle Pezze, Stefanie Ruf, Annika G. Sonntag, Miriam Langelaar-Makkinje, Philip Hall, Alexander M. Heberle, Patricia Razquin Navas, Karen van Eunen, Regine C. Tölle, Jennifer J. Schwarz, Heike Wiese, Bettina Warscheid, Jana Deitersen, Björn Stork, **Erik Fäßler**, Sascha Schäuble, Udo Hahn, Peter Horvatovich, Daryl P. Shanley, Kathrin Thedieck: [A systems study reveals concurrent activation of AMPK and mTOR by amino acids](https://www.nature.com/articles/ncomms13254). In: *Nature Communications* November 21, 2016; 7:13254., DOI:10.1038/ncomms13254
 
 * **Erik Faessler**, Friederike Klan, Alsayed Algergawy, Birgitta König-Ries and Udo Hahn: [Selecting and Tailoring Ontologies with Joyce](https://link.springer.com/chapter/10.1007/978-3-319-58694-6_12). In: *EKAW 2016 - 20th International Conference on Knowledge Engineering and Knowledge Management, Systems Demonstrations.* Bologna, Italy, November 19 - 23, 2016.
 

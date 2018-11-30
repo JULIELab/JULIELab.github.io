@@ -29,7 +29,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 * 11.01.
 * 18.01.
-* 25.01.
+* 25.01. Christoph Rzymski: Skopus
 * 01.02.
 * 08.02
 

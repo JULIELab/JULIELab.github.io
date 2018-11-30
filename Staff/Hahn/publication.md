@@ -240,9 +240,9 @@ U. Hahn, F. Matthies, C. Lohr & M. Löffler [2018].
 	3000PA: Towards a national reference corpus of German clinical language. 
 	In MIE 2018 – Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden, 24-26 April 2018. IOS Press, pp. 26-30 (Studies in Health Technology and Informatics, Vol. 247).
 
-	J. Wermter & U. Hahn [2004]. 
-		An annotated German-language medical text corpus as language resource. 
-		In LREC 2004 – Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004.  pp.473-476.
+J. Wermter & U. Hahn [2004]. 
+	An annotated German-language medical text corpus as language resource. 
+	In LREC 2004 – Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004.  pp.473-476.
 
 J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann [2014]. 
 	Collaboratively annotating multilingual parallel corpora in the biomedical domain: Some MANTRAs. 

@@ -21,12 +21,16 @@ Die Vorlesung führt in zentrale methodische Grundlagen der Computerlinguistik e
 * Sitzung vom 29. Oktober 2018 [[Folien](/downloads/teaching/ws201819/cl1/ue/
 cl1_ue_ws18_2018-10-29.pdf)]
 
-* Sitzung vom 12. November 2018 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2018-11-12.pdf)][[Blatt1](/downloads/teaching/ws201819/cl1/ue/cl1_blatt1_aufgabe.ipynb)]
+* Sitzung vom 12. November 2018 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2018-11-12.pdf)][[Blatt 1](/downloads/teaching/ws201819/cl1/ue/cl1_blatt1_aufgabe.ipynb)]
 
 * Sitzung vom 15. November 2018
 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2018-11-15.pdf)]
-[[Blatt2](/downloads/teaching/ws201819/cl1/ue/cl1_blatt2_aufgabe.ipynb)]
+[[Blatt 2](/downloads/teaching/ws201819/cl1/ue/cl1_blatt2_aufgabe.ipynb)]
 
 * Sitzung vom 19. November 2018
 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2018-11-19.pdf)]
-[[Blatt3](/downloads/teaching/ws201819/cl1/ue/cl1_blatt3_aufgabe.ipynb)]
+[[Blatt 3](/downloads/teaching/ws201819/cl1/ue/cl1_blatt3_aufgabe.ipynb)]
+
+* Sitzung vom 03. Dezember 2018
+[[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2018-12-03.pdf)]
+[[Blatt 4](/downloads/teaching/ws201819/cl1/ue/cl1_blatt4_aufgabe.ipynb)]

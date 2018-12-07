@@ -20,20 +20,18 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 26.10. Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
 * 09.11. Udo Hahn: Konferenzbericht
 * 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
-* 30.11. Dissertations-Tag
-* 7.12. Dissertations-Tag
+* 30.11. Dissertations-Tag I
+* 7.12. Dissertations-Tag II
 * 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung
-* 21.12. Udo Hahn, Sven Buechel: Konferenzberichte (NAACL, ACL, COLING, EMNLP)
+* 21.12. Udo Hahn: Konferenzberichte (NAACL, ACL, COLING, EMNLP)
 
 *Weihnachten/Neujahr*
 
-* 11.01.
-* 18.01.
+* 11.01. Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
+* 18.01. Bernd Kampe: Statistik II
 * 25.01. Christoph Rzymski: Skopus
 * 01.02.
 * 08.02
 
 ### Themen-Pool
-* Bernd Kampe. Statistik II.
 * Speicherung und Reproduzierbarkeit von Forschungsdaten
-* Konferenzreports (COLING, ACL, EMNLP, AMIA,...)

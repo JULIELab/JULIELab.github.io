@@ -6,16 +6,20 @@ layout: staff
 
 [<< Back to Overview](../Johannes+Hellrich.html)
 
+#### 2019
+
+* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
+
+* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
+
+
 #### 2018
+
 * **Johannes Hellrich**, Bernd Kampe & Udo Hahn: Downsampling Strategies are Crucial for Word Embedding Reliability. In: *[arXiv](https://arxiv.org/abs/1808.06810)*.
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
-
-* **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
-
-* **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
 * Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: *Digital Humanities 2018*. Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
 

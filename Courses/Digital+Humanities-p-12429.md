@@ -16,7 +16,8 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 2. [Korpora](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 20.11.2018)
 3. [Suche](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (3) Suche-sh.pdf) (aktualisiert am 27.11.2018)
 4. [Metadaten](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (4) Metadaten-sh.pdf) (aktualisiert am 11.12.2018)
-5. [Semantische Technologien I](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (6) Semantische Technologien I-sh.pdf) (aktualisiert am 11.12.2018)
+5. [Semantische Technologien I](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (6) Semantische Technologien I-sh.pdf) (aktualisiert am 18.12.2018)
+6. 6. [Semantische Technologien II](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (7) Semantische Technologien II-sh.pdf) (aktualisiert am 18.12.2018)
 
 <!---
 3. [Suche](/downloads/teaching/ss2018/dh/ASQ%20Digital%20Humanities%20(3)%20Suche-sh.pdf) (aktualisiert am 18.6.18)

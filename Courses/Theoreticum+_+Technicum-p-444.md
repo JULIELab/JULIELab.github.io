@@ -23,14 +23,14 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 30.11. Dissertations-Tag I
 * 7.12. Dissertations-Tag II
 * 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung
-* 21.12. Udo Hahn: Konferenzberichte (NAACL, ACL, COLING, EMNLP)
+* 21.12. Entfällt
 
 *Weihnachten/Neujahr*
 
-* 11.01. Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
+* 11.01. Udo Hahn: Performance-Bericht + Konferenzberichte (ACL, COLING)
 * 18.01. Bernd Kampe: Statistik II
 * 25.01. Christoph Rzymski: Skopus
-* 01.02.
+* 01.02. Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
 * 08.02
 
 ### Themen-Pool

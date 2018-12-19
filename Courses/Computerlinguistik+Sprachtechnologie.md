@@ -10,7 +10,7 @@ In der Vorlesung werden einerseits methodische Grundlagen der Computerlinguistik
 ### Vorlesung
 1. [Einführung](/downloads/teaching/ws201819/clst/01_Intro.pdf) (aktualisiert am 29.11.2018)
 2. [Morphologie und PorterStemmer](/downloads/teaching/ws201819/clst/02_Morphologie-PorterStemmer.pdf) (aktualisiert am 12.12.2018)
-3. [Grammatiktheorie](/downloads/teaching/ws201819/clst/03_Grammatiktheorie.pdf) (aktualisiert am 12.12.2018)
+3. [Grammatiktheorie](/downloads/teaching/ws201819/clst/03_Grammatiktheorie.pdf) (aktualisiert am 19.12.2018)
 
 ### Seminar
 [Merkblatt Algorithmik](/downloads/teaching/ws201819/clst/algorithmen_LM.pdf)

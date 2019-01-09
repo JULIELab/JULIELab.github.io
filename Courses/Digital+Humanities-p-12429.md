@@ -28,4 +28,4 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 --->
 
 ### Übung
-
+1. [Aussagenlogik / Suche in DTA / XML](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-1.pdf) (aktualisiert am 08.01.2019) [[Übungsblatt](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-1.pdf)]

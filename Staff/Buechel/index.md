@@ -33,6 +33,8 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 ## Invited Talks
 
+* From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
+
 * Emotional Enterprises? Measuring Affective Language in Companies' External Communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
 
 * On Resources for Emotion Analysis Incorporating Multiple Representation Formats and Perspectives. Invited talk at the National Research Council, Ottawa, Canada (Saif Mohammad), August 14, 2017.

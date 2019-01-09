@@ -47,4 +47,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 12.03. ...
 
 ### Themen-Pool
+* Kontextualiserte Wortrepräsentationen
+* SB: Modernisierung der Lehrmaterialen
 * Speicherung und Reproduzierbarkeit von Forschungsdaten
+

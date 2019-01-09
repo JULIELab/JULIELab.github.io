@@ -22,7 +22,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
 * 30.11. Dissertations-Tag I
 * 7.12. Dissertations-Tag II
-* 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung, [Folien Hellrich](/downloads/teaching/ws201819/Python%20Softwareentwicklung.pdf)
+* 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung, [Folien Hellrich](/downloads/teaching/ws201819/Python%20Softwareentwicklung.pdf), [Beispiele Hellrich](/downloads/teaching/ws201819/python%20demo%20files.zip)
 * 21.12. Entfällt
 
 *Weihnachten/Neujahr*

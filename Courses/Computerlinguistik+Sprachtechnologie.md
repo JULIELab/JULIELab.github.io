@@ -22,3 +22,4 @@ In der Vorlesung werden einerseits methodische Grundlagen der Computerlinguistik
 4. [Übung](/downloads/teaching/ws201819/clst/blatt04_clst.pdf)
 5. [Übung](/downloads/teaching/ws201819/clst/blatt05_clst.pdf)
 6. [Übung](/downloads/teaching/ws201819/clst/blatt06_clst.pdf)
+6. [Übung](/downloads/teaching/ws201819/clst/blatt07_clst.pdf)

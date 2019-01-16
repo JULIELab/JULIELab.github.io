@@ -27,11 +27,10 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 *Weihnachten/Neujahr*
 
-* 11.01. Udo Hahn: Performance-Bericht + Konferenzberichte (ACL, COLING)
 * 18.01. Bernd Kampe: Statistik II
-* 25.01. —
+* 25.01. Udo Hahn: Performance-Bericht + Konferenzberichte (ACL, COLING)
 * 01.02. Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
-* 08.02. Christoph Rzymski: Skopus
+* 15.02. Christoph Rzymski: Skopus
 
 *Ende der Vorlesungszeit*
 * 15.02. ...

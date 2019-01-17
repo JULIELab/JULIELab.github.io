@@ -18,6 +18,7 @@ layout: staff_tab
 | [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
 Secretariat: Janina Oberthür and Romy Eichner: +49 3641 9-44300
+
 Fax of the group: +49 3641 9-44321
 
 # Alumni

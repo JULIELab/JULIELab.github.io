@@ -8,7 +8,7 @@ layout: staff
   <img src="hellrich-small.jpeg">
 </div>
 
-My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [SMITH](http://www.smith.care/) project on processing clinical language. I previously finished my doctoral thesis on language change in the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.
+My research is focussed on lexical semantics in diachronic and multilingual settings. I am currently involved in the [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900) and [SMITH](http://www.smith.care/) projects on processing clinical language. I previously finished my doctoral thesis on language change in the graduate school [\"The Romantic Model\"](http://www.modellromantik.uni-jena.de/?lang=en) and worked in the [MANTRA](https://sites.google.com/site/mantraeu/) project on biomedical terminologies.
 
 ## Selected Publications
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.

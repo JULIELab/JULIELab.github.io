@@ -50,4 +50,4 @@ cl1_ue_ws18_2018-10-29.pdf)]
 
 * Sitzung vom 17. Januar 2019
 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2019-01-17.pdf)]
-[[Blatt 8](/downloads/teaching/ws201819/cl1/ue/cl1_blatt8_aufgabe.zip)]
+[[Blatt 8](/downloads/teaching/ws201819/cl1/ue/cl1_blatt8_aufgabe.ipynb)]

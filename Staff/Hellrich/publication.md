@@ -21,6 +21,8 @@ layout: staff
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
 
+* Maria Moritz, **Johannes Hellrich** and Sven Buechel: [A human-interpretable method to predict paraphrasticality](http://aclweb.org/anthology/W18-4513). In [LaTeCH-CLfL 2018](https://sighum.wordpress.com/events/latech-clfl-2018/) — Proceedings of the 2nd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ COLING 2018. Santa Fe, New Mexico, USA, August 25, 2018. pp. 113-118.
+
 * Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: *Digital Humanities 2018*. Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
 
 * **Johannes Hellrich**, Alexander Stöger & Udo Hahn: [Wenn der Funke überspringt - Word Embeddings im Dienst der Wissenschaftsgeschichte](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf). In: [*DHd 2018, Kritik der digitalen Vernunft*](http://dhd2018.uni-koeln.de). Köln, Germany, Februar 26 - March 2, 2018. pp. 331-335. [[Slides]](/downloads/publications/slides/dhd2018slides.pdf)

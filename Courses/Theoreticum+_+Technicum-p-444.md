@@ -28,12 +28,11 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 *Weihnachten/Neujahr*
 
 * 18.01. Bernd Kampe: Statistik II
-* 25.01. Udo Hahn: Performance-Bericht + Konferenzberichte (ACL, COLING)
-* 01.02. Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
-* 15.02. Christoph Rzymski: Skopus
+* 25.01. Probevorträge
+* 01.02. SB: Probevortrag, UH: Probevortrag / Performance-Bericht
 
 *Ende der Vorlesungszeit*
-* 15.02. ...
+* 15.02. Christoph Rzymski: Skopus
 * 22.02. ...
 * 01.03. ...
 * 08.03. ...
@@ -46,6 +45,8 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 12.03. ...
 
 ### Themen-Pool
+* Udo Hahn: + Konferenzberichte (ACL, COLING)
+* Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
 * Kontextualiserte Wortrepräsentationen
 * SB: Modernisierung der Lehrmaterialen
 * Speicherung und Reproduzierbarkeit von Forschungsdaten

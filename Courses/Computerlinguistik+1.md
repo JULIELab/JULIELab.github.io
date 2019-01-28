@@ -55,3 +55,6 @@ cl1_ue_ws18_2018-10-29.pdf)]
 * Sitzung vom 21. Januar 2019
 [[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2019-01-21.pdf)]
 [[Blatt 9](/downloads/teaching/ws201819/cl1/ue/cl1_blatt9_aufgabe.ipynb)]
+
+* Sitzung vom 28. Januar 2019
+[[Folien](/downloads/teaching/ws201819/cl1/ue/slides_cl1_2019-01-28.pdf)]

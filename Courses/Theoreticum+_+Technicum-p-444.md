@@ -49,5 +49,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
 * Kontextualiserte Wortrepräsentationen
 * SB: Modernisierung der Lehrmaterialen
-* Speicherung und Reproduzierbarkeit von Forschungsdaten
+* JH?: Speicherung und Reproduzierbarkeit von Forschungsdaten
+* LM: Temporale Annotationen
+* JH?: Java 11
 

@@ -12,9 +12,11 @@ In der Vorlesung werden einerseits methodische Grundlagen der Computerlinguistik
 2. [Morphologie und PorterStemmer](/downloads/teaching/ws201819/clst/02_Morphologie-PorterStemmer.pdf) (aktualisiert am 12.12.2018)
 3. [Grammatiktheorie](/downloads/teaching/ws201819/clst/03_Grammatiktheorie.pdf) (aktualisiert am 16.01.2019)
 4. [Parsing](/downloads/teaching/ws201819/clst/04_Parsing-NLP.pdf) (aktualisiert am 23.01.2019)
+5. [Indexing und Klassifikation](/downloads/teaching/ws201819/clst/05_Indexing-Classification.pdf) (aktualisiert am 30.01.2019)
 
 ### Seminar
 [Merkblatt Algorithmik](/downloads/teaching/ws201819/clst/algorithmen_LM.pdf)
+[Merkblatt Parsing](/downloads/teaching/parsing.pdf)
 
 ### Übung
 1. [Übung](/downloads/teaching/ws201819/clst/blatt01_clst.pdf)

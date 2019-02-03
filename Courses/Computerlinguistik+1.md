@@ -10,7 +10,9 @@ Die Vorlesung führt in zentrale methodische Grundlagen der Computerlinguistik e
 ### Vorlesung
 * [Einführung](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part1_06.pdf) (aktualisiert am 29.11.18)
 * [Morphologie](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part2_04.pdf) (aktualisiert am 20.12.18)
-* [Grammatik](/downloads/teaching/ws201819/cl1/vl//cl1_vl_ws18_part3_03.pdf) (aktualisiert am 24.01.19)
+* [Grammatiken](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part3_03.pdf) (aktualisiert am 24.01.19)
+* [Graphentheorie](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part4_graphentheorie_01.pdf) (aktualisiert am 03.02.2019)
+* [Syntaxanalyse](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part5_syntaxanalyse_01.pdf) (aktualierisert am 03.02.2019)
 
 
 ### Seminar

@@ -19,7 +19,7 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 5. [Semantische Technologien I](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (6) Semantische Technologien I-sh.pdf) (aktualisiert am 18.12.2018)
 6. [Semantische Technologien II](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (7) Semantische Technologien II-sh.pdf) (aktualisiert am 22.01.2019)
 7. [Visualisierung](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (8) Visualisierung-sh.pdf) aktualisiert am (05.02.2019)
-8. [;ethodologische Aspekte](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (9) Methodologische Aspekte-sh.pdf) aktualisiert am (05.02.2019)
+8. [Methodologische Aspekte](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (9) Methodologische Aspekte-sh.pdf) aktualisiert am (05.02.2019)
 
 <!---
 3. [Suche](/downloads/teaching/ss2018/dh/ASQ%20Digital%20Humanities%20(3)%20Suche-sh.pdf) (aktualisiert am 18.6.18)

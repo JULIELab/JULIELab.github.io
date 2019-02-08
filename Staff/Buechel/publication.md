@@ -62,6 +62,8 @@ layout: staff
 
 #### Non-Archival Contributions
 
+* Using Artificial Neural Networks to Model Affective Word Meaning. Talk at the Jena Linguistics Workshop (JenLing), Jena, Germany, February 8, 2019. [[Slides](/downloads/publications/slides/Buechel_JenLing_2019.pdf)]
+
 * From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
 
 * Emotional enterprises? Measuring affective language in companies' external communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]

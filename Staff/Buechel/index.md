@@ -44,6 +44,7 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 * Programm commitee member for the First Workshop on Economics and Natural Language Processing (ECONLP @ ACL 2018)
 
 ## Teaching Experience
+* Quantifying Word Meaning and Emotion in Historical Language. Contribution to the lecture series *Digitising the Humanities*. Ghent, Belgium, March 6, 2019. [[Slides](/downloads/publications/slides/buechel/guest_lecture_ghent_2019-03-06.pdf)]
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
 * Computational Linguistics I, Fall 2016, Fall 2017, Fall 2018.
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.

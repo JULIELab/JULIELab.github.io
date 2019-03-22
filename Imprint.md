@@ -4,8 +4,8 @@ layout: default
 
 # Imprint
 <br/>
-![Branching](/assets/img/location_ccby_redling.JPG)
-<x-small>CC-BY Aufnahme von Benjamin Redling</x-small>
+![Branching](/assets/img/location_ccby_redling.jpg)
+<center><x-small>CC-BY Aufnahme von Benjamin Redling</x-small></center>
 
 ### Institution
 Friedrich - Schiller - Universtität Jena<br/>

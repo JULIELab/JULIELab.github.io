@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Johannes Hellrich
+# Dr. des. Johannes Hellrich
 
 <div class="portrait">
   <img src="hellrich-small.jpeg">
@@ -27,7 +27,7 @@ My research is focussed on lexical semantics in diachronic and multilingual sett
 * Tutoring Undergraduate Linguistics
 
 ## Contact
-Johannes Hellrich<br/>
+Dr. des. Johannes Hellrich<br/>
 Research Assistant
 
 | Email | [johannes.hellrich@uni-jena.de](mailto:johannes.hellrich@uni-jena.de) |

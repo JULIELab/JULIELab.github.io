@@ -4,7 +4,7 @@ layout: default
 
 # Imprint
 <br/>
-![Branching](/assets/img/location_ccby_redling.jpg)
+![Branching](/assets/img/location_ccby_redling.JPG)
 <small>CC-BY Aufnahme von Benjamin Redling</small>
 
 ### Institution

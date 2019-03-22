@@ -4,8 +4,8 @@ layout: default
 
 # Imprint
 <br/>
-![Branching](/assets/img/location_ccby_redling.jpg)
-<center><x-small>CC-BY Aufnahme von Benjamin Redling</x-small></center>
+![Aufnahme der Rosensäle](/assets/img/location_ccby_redling.jpg)
+<x-small>CC-BY Aufnahme von Benjamin Redling</x-small>
 
 ### Institution
 Friedrich - Schiller - Universtität Jena<br/>

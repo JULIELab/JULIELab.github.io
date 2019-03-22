@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Imprint
-<br/>
 ![Aufnahme der Rosensäle](/assets/img/location_ccby_redling.jpg)
 <small>CC-BY Aufnahme von Benjamin Redling</small>
 

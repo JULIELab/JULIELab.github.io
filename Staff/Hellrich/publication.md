@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Johannes Hellrich: Full Publication List
+# Dr. des. Johannes Hellrich: Full Publication List
 
 [<< Back to Overview](../Johannes+Hellrich.html)
 

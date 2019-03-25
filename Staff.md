@@ -25,7 +25,7 @@ Fax of the group: +49 3641 9-44321
 
 ## during residence in Jena (since 2006; in anti-chronological order)
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
-Dr. Elena Beisswanger ([Bundesinstitut für Risikobewertung](https://www.bfr.bund.de/de/start.html))<br/>
+Dr. Elena Beisswanger ([Munich Re](https://www.xing.com/profile/Elena_Beisswanger2/cv)<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
 Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
 Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))

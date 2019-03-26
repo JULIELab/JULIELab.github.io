@@ -32,8 +32,15 @@ All document are delivered as MMAX2 ([http://mmax2.net/](http://mmax2.net/)) ann
 
 #### Corpus statistics:
 
-| &nbsp;&nbsp;&nbsp;documents | 3309 |
+| &nbsp;&nbsp;&nbsp;documents | 3309 (3308 since v1.1) |
 | &nbsp;&nbsp;&nbsp;sentences | 36223 |
 | &nbsp;&nbsp;&nbsp;tokens | 960757 |
 
-Download the corpus [here](/downloads/resources/fsu_prge_release_v1_0.tgz) (10MB).
+#### Changelog:
+
+March 26, 2019, v1.1:
+* Fixed a range of MMAX2 projects that were broken in v1.0. Mostly added or removed broken sentence annotations, recreated Basedata for one project.
+* Deleted the project Proteins_KIR/mmax/mmax_24742, PMID 7833836, because it did not exhibit any annotations.
+* Added the JULIE Lab MMAX2 to IOB/IeXML converter program and a script to convert the whole corpus. Tested with IOB export. The project source can be found at https://github.com/JULIELab/julielab-mmax-to-iob-iexml-converter.
+
+Download the corpus: [v1.0](/downloads/resources/fsu_prge_release_v1_0.tgz) (10MB), [v1.1](/downloads/resources/fsu_prge_release_v1_0.tgz) (17MB).

@@ -4,14 +4,13 @@ layout: default
 # Lab News
 
 ## Mar '19 thesis defended, papers accepted
-* Submission by Tinghui Duan and Udo Hahn on compiling a high quality digital corpus of the historic Allgemeine Literatur-Zeitung accepted at [DATeCH 2019](http://datech.digitisation.eu).
 * Submission by Tobias Kolditz et al. on Annotating German Clinical Documents for De-Identification accepted at [MedInfo 2019](https://medinfo-lyon.org/en/).
 * We congratulate [Dr. des. Johannes Hellrich](/Staff/Hellrich/index.html) to the successful defense of his thesis.
-* Submission by Tinghui Duan and Udo Hahn on compiling a digital corpus of the historic Allgemeine Literatur-Zeitung accepted at [JCDL 2019](https://2019.jcdl.org).
+* Submission by Tinghui Duan and Udo Hahn on compiling a digital corpus of the historic Allgemeine Literatur-Zeitung (Short Paper) accepted at [JCDL 2019](https://2019.jcdl.org).
 
 
 ## Feb '19 paper accepted
-* Submission by Tinghui Duan and Udo Hahn on compiling a digital corpus of the historic Allgemeine Literatur-Zeitung accepted at [CL 2019](http://www.cl2019.org).
+* Submission by Tinghui Duan and Udo Hahn on compiling a digital corpus of the historic Allgemeine Literatur-Zeitung (Poster) accepted at [CL 2019](http://www.cl2019.org).
 
 ## Oct '18 new team member, preprint available
 * Preprint by  Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on neural emotion analysis on very small datasets [available](https://arxiv.org/abs/1810.10949).

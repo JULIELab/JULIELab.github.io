@@ -6,6 +6,10 @@ layout: staff
 
 [<< Back to Overview](../Sven+Buechel.html)
 
+#### 2019
+
+* Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. Accepted for *LaTeCH-CLfL @ NAACL 2019*.
+
 #### 2018
 
 * **Sven Buechel**, João Sedoc, H. Andrew Schwartz, and Lyle Ungar. 2018. Learning Neural Emotion Analysis from 100 Observations: The Surprising Effectiveness of Pre-Trained Word Representations. In [arXiv:1810.10949](https://arxiv.org/abs/1810.10949).

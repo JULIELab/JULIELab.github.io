@@ -4,7 +4,8 @@ layout: default
 # Lab News
 
 ## Mar '19 thesis defended, papers accepted
-* Submission by Hellrich, Buechel & Hahn on modeling historical word emotion values accepted at [LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/)@NAACL 2019.
+* Submission by Hellrich, Kampe & Hahn on increasing the influence of down-sampling on the stability of word embeddings accepted at [RepEval](https://repeval2019.github.io)@NAACL 2019.
+* Submission by Hellrich, Buechel & Hahn on modeling historical word emotion values accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2019/)@NAACL 2019.
 * Submission by Tobias Kolditz et al. on Annotating German Clinical Documents for De-Identification accepted at [MedInfo 2019](https://medinfo-lyon.org/en/).
 * We congratulate [Dr. des. Johannes Hellrich](/Staff/Hellrich/index.html) to the successful defense of his thesis.
 * Submission by Tinghui Duan and Udo Hahn on compiling a digital corpus of the historic Allgemeine Literatur-Zeitung (Short Paper) accepted at [JCDL 2019](https://2019.jcdl.org).

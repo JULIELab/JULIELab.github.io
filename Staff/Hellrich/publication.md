@@ -8,6 +8,12 @@ layout: staff
 
 #### 2019
 
+* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://arxiv.org/abs/1808.06810) In: *[LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/) In: *[RepEval 2019](https://repeval2019.github.io)* - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. [to appear]
+
+
+* **Johannes Hellrich**, Sven Buechel & Udo Hahn: [Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection](https://arxiv.org/abs/1806.08115). In: *[LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/) - Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL 2019*. Minneapolis, MN, USA, June 7, 2019. [to appear]
+
+
 * **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
 * **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
@@ -15,13 +21,9 @@ layout: staff
 
 #### 2018
 
-* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: Downsampling Strategies are Crucial for Word Embedding Reliability. In: *[arXiv](https://arxiv.org/abs/1808.06810)*.
-
-* **Johannes Hellrich**, Sven Buechel & Udo Hahn: Inducing Affective Lexical Semantics in Historical Language. In: *[arXiv](https://arxiv.org/abs/1806.08115)*.
-
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
 
-* Maria Moritz, **Johannes Hellrich** and Sven Buechel: [A human-interpretable method to predict paraphrasticality](http://aclweb.org/anthology/W18-4513). In [LaTeCH-CLfL 2018](https://sighum.wordpress.com/events/latech-clfl-2018/) — Proceedings of the 2nd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ COLING 2018. Santa Fe, New Mexico, USA, August 25, 2018. pp. 113-118.
+* Maria Moritz, **Johannes Hellrich** and Sven Buechel: [A human-interpretable method to predict paraphrasticality](http://aclweb.org/anthology/W18-4513). In *[LaTeCH-CLfL 2018](https://sighum.wordpress.com/events/latech-clfl-2018/) — Proceedings of the 2nd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ COLING 2018*. Santa Fe, New Mexico, USA, August 25, 2018. pp. 113-118.
 
 * Maria Moritz, **Johannes Hellrich** & Sven Buechel: [Towards a Metric for Paraphrastic Modification](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf). In: *Digital Humanities 2018*. Mexico City, Mexico, June 26-29, 2018. pp. 457-460.
 

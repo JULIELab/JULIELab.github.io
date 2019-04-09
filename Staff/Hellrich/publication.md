@@ -40,7 +40,7 @@ layout: staff
 
 #### 2016
 
-* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster]](/downloads/publications/posters/hellrich_coling2016.pdf)
+* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: *[COLING 2016](http://coling2016.anlp.jp/), Techical Papers*. Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster]](/downloads/publications/posters/hellrich_coling2016.pdf)
 
 * Sven Buechel, **Johannes Hellrich** & Udo Hahn: [Feelings from the Past - Adapting Affective Lexicons for Historical Emotion Analysis](https://aclweb.org/anthology/W/W16/W16-4008.pdf). In: [*Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @ COLING 2016*](https://www.clarin-d.net/en/current-issues/lt4dh). Osaka, Japan, December 11, 2016, pp. 54-61.
 

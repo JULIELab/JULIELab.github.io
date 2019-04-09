@@ -8,11 +8,9 @@ layout: staff
 
 #### 2019
 
-* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://arxiv.org/abs/1808.06810). In: *[RepEval 2019](https://repeval2019.github.io)* - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. [to appear]
-
+* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://arxiv.org/abs/1808.06810). In: *[RepEval 2019](https://repeval2019.github.io)* - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019. Minneapolis, MN, USA, June 6, 2019. [to appear]
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection](https://arxiv.org/abs/1806.08115). In: *[LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/) - Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL 2019*. Minneapolis, MN, USA, June 7, 2019. [to appear]
-
 
 * **Johannes Hellrich**, Christoph Rzymski, Vitus Vestergaard: The Trans-Medial Fight for Glory. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 

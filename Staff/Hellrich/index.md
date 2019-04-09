@@ -13,7 +13,7 @@ My research is focussed on lexical semantics in diachronic and multilingual sett
 ## Selected Publications
 * **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://arxiv.org/abs/1808.06810). In: *[RepEval 2019](https://repeval2019.github.io) - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. [to appear]
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion](http://aclweb.org/anthology/C18-2003). In: *[COLING 2018](https://coling2018.org)*, System Demonstrations. Santa Fe, NM, USA, August 20-26, 2018. pp. 10-14.
-* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster](/downloads/publications/posters/hellrich_coling2016.pdf)].
+* **Johannes Hellrich** & Udo Hahn: [Bad Company - Neighborhoods in Neural Embedding Spaces Considered Harmful](http://aclweb.org/anthology/C16-1262). In: [*COLING 2016*](http://coling2016.anlp.jp/). Osaka, Japan, December 13-16, 2016, pp. 2785-2796. [[Poster](/downloads/publications/posters/hellrich_coling2016.pdf)]
 * **Johannes Hellrich**, Stefan Schulz, Sven Buechel & Udo Hahn: [JUFIT: A Configurable Rule Engine for Filtering and Generating New Multilingual UMLS Terms](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765630/). In: *AMIA Annual Symposium Proceedings 2015*, 2015, pp. 604-610.
 
 [Full Publication List](publication.html)

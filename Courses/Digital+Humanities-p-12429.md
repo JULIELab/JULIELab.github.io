@@ -11,7 +11,7 @@ Vor dem Hintergrund dieser technologischen Entwicklungen wird dann die Informati
 Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlagenbezogene Vorlesung durch eine praxisnahe Übung bei Bedarf ergänzt wird. Die Vorlesung führt die Inhalte strukturiert ein, die Übung dient der vertiefenden Klärung und konkreten Anwendung der in der Vorlesung erworbenen Kenntnisse.
 
 ### Vorlesung
-
+<!---
 1. [Einführung](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (1) Intro-sh.pdf) (aktualisiert am 13.11.2018)
 2. [Korpora](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 20.11.2018)
 3. [Suche](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (3) Suche-sh.pdf) (aktualisiert am 27.11.2018)
@@ -21,7 +21,6 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 7. [Visualisierung](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (8) Visualisierung-sh.pdf) aktualisiert am (05.02.2019)
 8. [Methodologische Aspekte](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (9) Methodologische Aspekte-sh.pdf) aktualisiert am (05.02.2019)
 
-<!---
 3. [Suche](/downloads/teaching/ss2018/dh/ASQ%20Digital%20Humanities%20(3)%20Suche-sh.pdf) (aktualisiert am 18.6.18)
 4. [Metadaten](/downloads/teaching/ss2018/dh/ASQ%20Digital%20Humanities%20(4)%20Metadaten-sh.pdf) (aktualisiert am 20.6.18)
 5. [Semantische Technologien I](/downloads/teaching/ss2018/dh/ASQ_Digital_Humanities_6_Semantische_Technologien_I-sh.pdf)
@@ -29,6 +28,8 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 7. [Methodologische Aspekte](/downloads/teaching/ss2018/dh/ASQ+Digital+Humanities+9+Methodologische+Aspekte-sh.pdf)
 --->
 
+<!---
 ### Übung
 1. [Aussagenlogik / Suche in DTA / XML](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-1.pdf) (aktualisiert am 08.01.2019) [[Übungsblatt 1](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-1.pdf)]
 2. [Reguläre Ausdrücke](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-2.pdf) (aktualisiert am 29.01.2019) [[Übungsblatt 2](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-2.pdf)]
+--->

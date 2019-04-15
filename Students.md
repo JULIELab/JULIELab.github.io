@@ -8,12 +8,12 @@ layout: default
 
 The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).
 
-* [Digital Humanities (ASQ Vorlesung + Übung)](/Courses/Digital+Humanities.html)
-* [Empirie und Experiment als methodische Basis... (Bachelor Seminar)](/Courses/BA+_+Seminar.html)
-* [Toxische Sprache im Internet (Master Seminar)](/Courses/MA+_+Seminar.html)
-* [Computerlinguistik II / Sprachtechnologie (Master Vorlesung + Übung)](/Courses/Computerlinguistik+2.html)
-* [Software-Praktikum (Master Praktikum)](/Courses/Praktikum.html)
-* [Theoreticum & Technicum (Master Seminare)](/Courses/Theoreticum+_+Technicum.html)
+* [Digital Humanities (ASQ)](/Courses/Digital+Humanities.html)
+* [Empirie und Experiment als methodische Basis... (Bachelor)](/Courses/BA+_+Seminar.html)
+* [Toxische Sprache im Internet (Master)](/Courses/MA+_+Seminar.html)
+* [Computerlinguistik II / Sprachtechnologie (Master)](/Courses/Computerlinguistik+2.html)
+* [Software-Praktikum (Master)](/Courses/Praktikum.html)
+* [Theoreticum & Technicum (Master)](/Courses/Theoreticum+_+Technicum.html)
 
 
 ## Merkblätter

@@ -12,6 +12,7 @@ The descriptions of the courses are available in German only. For the official a
 * [Empirie und Experiment als methodische Basis der Linguistik und Computerlinguistik (Bachelor)](/Courses/BA+_+Seminar.html)
 * [Toxische Sprache im Internet – Erkennung mit Verfahren der computerlinguistischen Forensik (Master)](/Courses/MA+_+Seminar.html)
 * [Computerlinguistik II / Sprachtechnologie (Master)](/Courses/Computerlinguistik+2.html)
+* [Software-Praktikum: Softwaretechnologien für Natürlichsprachliche Systeme (Master)](/Courses/Praktikum.html)
 * [Theoreticum & Technicum (Master)](/Courses/Theoreticum+_+Technicum.html)
 
 

@@ -11,6 +11,8 @@ Vor dem Hintergrund dieser technologischen Entwicklungen wird dann die Informati
 
 Das Modul ist als 2-stündige Verbundveranstaltung konzipiert, die sich in eine 1,5-stündige grundlagenbezogene Vorlesung und eine 0,5-stündige praxisnahe Übung unter einem Dach untergliedert. Die Vorlesung führt die Inhalte strukturiert ein, die Übungspassagen dienen der vertiefenden Klärung und konkreten Anwendung der in der Vorlesung erworbenen Kenntnisse.
 
+**Erster Termin:** 16.04.2019.
+
 ### Vorlesung
 
 ### Übung

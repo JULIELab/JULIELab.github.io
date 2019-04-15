@@ -9,42 +9,23 @@ Im Seminar alternieren wöchentlich methodisch-theoretische und praktische Theme
 Im Technicum wird über Fortschritte der laufenden Projektarbeiten der Jenaer Forschungsgruppe Computerlinguistik unter einer sprachtechnologisch-softwaretechnischen, also system- und implementationsbezogenen Perspektive berichtet. Es wird einerseits komponentenbezogene Beiträge zu Prozessierungs-Pipelines geben, etwa zum Lexikon und Term-Management, zur Wissensrepräsentation sowie dem Ontology Engineering, zum Tagging, Chunking und syntaktischen Parsing, zur Semantikinterpretation via Named Entity-Erkennung oder Relationsextraktion, zur Textstrukturanalyse, Korpusannotation und zum maschinellen Lernen. Andererseits werden stärker auf Systemintegration zielende Beiträge zu den von der Gruppe abgedeckten Anwendungsgebieten (Informationsextraktion und Text Mining, Dokumenten-Retrieval, Textzusammenfassung) vorgestellt.
 Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlinguistischen Thema, teilnehmen sollen aber auch fortgeschrittene Studenten, die sich im Bereich Computerlinguistik bereits vertiefte Kenntnisse erworben haben und diese anhand aktueller Forschungsfragen sowohl methodisch-theoretisch als auch praxisbezogen weiter ausbauen möchten.
 
-**Ab 19.10. freitags 10:00 Uhr Computerkabinett Fürstengraben 27.**
-
 ### Terminplan:
 
-*Beginn der Vorlesungszeit*
-
-* 19.10. Christina Lohr: Annotation von Abschnitten in klinischen Dokumenten (Probevortrag AMIA)
-* 24.10., 15:00 (Sondertermin) Tinghui Duan: Vorstellung des Promotionsprojekt (Probevortrag Kollegskolloquium)
-* 26.10. Sven Buechel: Annotation und Modellierung Empathie (Probevortrag EMNLP)
-* 09.11. Udo Hahn: Konferenzbericht
-* 23.11. Sven Buechel: Challenges of fine-grained emotion analysis (Probe für Einladungsvortrag an der U Stuttgart)
-* 30.11. Dissertations-Tag I
-* 7.12. Dissertations-Tag II
-* 14.12. Johannes Hellrich & Tobias Kolditz: Python Entwicklung, [Folien Hellrich](/downloads/teaching/ws201819/tt/Python%20Softwareentwicklung.pdf), [Beispiele Hellrich](/downloads/teaching/ws201819/tt/python%20demo%20files.zip)
-* 21.12. Entfällt
-
-*Weihnachten/Neujahr*
-
-* 18.01. Bernd Kampe: Statistik II
-* 25.01. Probevorträge
-* 01.02. SB: Probevortrag, UH: Probevortrag / Performance-Bericht
-
-*Ende der Vorlesungszeit*
-* 15.02. Christoph Rzymski: Skopus
-* 22.02. SB/JH: Zwischenergebnisse ACL
-* 01.03. ...
-* 08.03. ...
-* 15.03. ...
-* 22.03. ...
-* 29.03. ...
-* 05.04. ...
-
-*Begin der Vorlesungszeit*
-* 12.03. ...
+* 26.4.
+* 3.5.
+* 10.5.
+* 17.5.
+* 24.5.
+* 31.5.
+* 7.6. *Entfällt?*
+* 14.6.
+* 21.6.
+* 28.6.
+* 5.7.
+* 12.7.
 
 ### Themen-Pool
+* Christoph Rzymski: Skopus
 * Udo Hahn: + Konferenzberichte (ACL, COLING)
 * Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
 * Kontextualiserte Wortrepräsentationen

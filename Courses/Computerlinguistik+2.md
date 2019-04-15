@@ -4,7 +4,7 @@ layout: course
 
 <br>
 
-# Computerlinguistik II
+# Computerlinguistik II / Sprachtechnologie
 
 In der Vorlesung werden methodische Grundlagen der Computerlinguistik mit Bezug zur formalen und algorithmischen Analyse sprachlicher Äußerungen vermittelt. Im Vordergrund stehen hierbei das empirisch-statistische Paradigma der Computerlinguistik sowie computerlinguistische Ressourcen.
 

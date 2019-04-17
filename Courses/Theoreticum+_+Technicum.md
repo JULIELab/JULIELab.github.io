@@ -14,7 +14,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 26.4. UH: Konferenzberichte ACL/COLING
 * 3.5.
 * 10.5. *Entfällt*
-* 17.5. Probevorträge Konferenzen
+* 17.5. Probevorträge Konferenzen, evtl auch Di/Mi
 * 24.5. *Entfällt*
 * 31.5. *Entfällt?*
 * 7.6. *Entfällt?*

@@ -15,7 +15,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 **Erster Termin:** 18.04.2019.
 
 ### Vorlesung
-*[Early Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
+* [Early Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
 
 ### Übung
 

@@ -18,6 +18,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 * [Early Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
 
 ### Übung
+* [Blatt 1: Graphentheorie](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)
 
 ### Seminar
 * [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf)

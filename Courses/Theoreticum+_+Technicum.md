@@ -11,8 +11,8 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 ### Terminplan:
 
-* 26.4. UH: Konferenzberichte ACL/COLING
-* 3.5.
+* 26.4. SB: Unsentimental Embeddings
+* 3.5. UH: Konferenzberichte ACL/COLING
 * 10.5. *Entfällt*
 * 17.5. Probevorträge Konferenzen, evtl auch Di/Mi
 * 24.5. *Entfällt*

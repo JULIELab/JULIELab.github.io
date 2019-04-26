@@ -16,12 +16,13 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 
 ### Vorlesung
 * [Early Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
+* [Empirical Paradigm](/downloads/teaching/ss2019/cl2_v/CL-II-10.Empirical-Paradigm+Resources-sh.pdf)
 
 ### Übung
 * [Blatt 1: Graphentheorie](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)
 
 ### Seminar
-* [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf)
+* [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf) (aktualisiert am 26.04.19)
 
 ### Vorlesungsfolien CL 1 (Wintersemester 2018/19)
 * [Einführung](/downloads/teaching/ws201819/cl1/vl/cl1_vl_ws18_part1_06.pdf) (aktualisiert am 29.11.18)

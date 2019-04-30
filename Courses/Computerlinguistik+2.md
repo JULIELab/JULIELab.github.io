@@ -15,11 +15,13 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 **Erster Termin:** 18.04.2019.
 
 ### Vorlesung
-* [Early Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
+* [Earley Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
 * [Empirical Paradigm](/downloads/teaching/ss2019/cl2_v/CL-II-10.Empirical-Paradigm+Resources-sh.pdf)
 
 ### Übung
-* [Blatt 1: Graphentheorie](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)
+* Sitzung vom 23. April: Graphentheorie [Blatt 1 ](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)
+* Sitzung vom 30. April: Earley-Parser [Folien](/downloads/teaching/ss2019/cl2_ue/Early_Parsing.pdf) [Blatt 2](/downloads/teaching/ss2019/cl2_ue/cl2_blatt2_aufgabe.ipynb)
+
 
 ### Seminar
 * [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf) (aktualisiert am 26.04.19)

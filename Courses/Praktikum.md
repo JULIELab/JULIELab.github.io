@@ -13,4 +13,8 @@ Die praktischen Arbeiten besitzen in diesem Kurs einen hohen Stellenwert. Je nac
 
 ### Folien
 
-* [Einführung in die Programmierung](/downloads/teaching/ss2019/praktikum/slides_praktikum_intro.pdf)
+* [Einführung in die Programmierung](/downloads/teaching/ss2019/praktikum/slides_praktikum_intro.pdf) (aktualisiert am 02.05.19)
+
+### Aufgabenblätter
+
+* [Blatt 1](/downloads/teaching/ss2019/praktikum/praktikum_1_aufgabe.ipynb)

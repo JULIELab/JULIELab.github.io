@@ -12,15 +12,16 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 ### Terminplan:
 
 * 26.4. SB: Unsentimental Embeddings
-* 3.5. UH: [Konferenzberichte ACL/COLING](/downloads/teaching/ss2019/theoreticum_technicum/LREC–COLING–ACL-2018-Konferenzüberblick.pdf)
-* 17.5. Probevorträge Konferenzen, evtl auch Di/Mi
-* 31.5. *Entfällt?*
-* 7.6. *Entfällt?*
-* 14.6.
-* 21.6.
-* 28.6.
-* 5.7.
-* 12.7.
+* 3.5. UH: [Konferenzberichte ACL/COLING](/downloads/teaching/ss2019/theoreticum_technicum/LREC–COLING–ACL-2018-Konferenzüberblick.pdf)
+* 14.5. TD: Probevortrag
+* 17.5. JH: Probevortrag
+* 28.5. SB: Probevortrag
+* 14.6. EF+CL: LSTM-basierte kontextualisierte Embeddings (ULMFiT, ELMo, Flair)
+* 21.6. SB+JH: Attention für kontextualisierte Embeddings (BERT) und Maschinelle Übersetzung
+* 28.6. -- frei --
+* 5.7. LM: GANs
+* 12.7. -- frei --
+
 
 ### Themen-Pool
 * Christoph Rzymski: Skopus

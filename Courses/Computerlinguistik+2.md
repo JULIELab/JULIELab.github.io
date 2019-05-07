@@ -21,7 +21,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 ### Übung
 * Sitzung vom 23. April: Graphentheorie [Blatt 1 ](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)
 * Sitzung vom 30. April: Earley-Parser [Folien](/downloads/teaching/ss2019/cl2_ue/Early_Parsing.pdf) [Blatt 2](/downloads/teaching/ss2019/cl2_ue/cl2_blatt2_aufgabe.ipynb)
-
+* Sitzung vom 7. Mai: Sprachmodelle [Blatt 3](/downloads/teaching/ss2019/cl2_ue/cl2_blatt3_aufgabe.ipynb)
 
 ### Seminar
 * [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf) (aktualisiert am 26.04.19)

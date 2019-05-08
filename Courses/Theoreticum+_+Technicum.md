@@ -12,7 +12,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 ### Terminplan:
 
 * 26.4. SB: Unsentimental Embeddings
-* 3.5. UH: [Konferenzberichte ACL/COLING](/downloads/teaching/ss2019/theoreticum_technicum/LREC–COLING–ACL-2018-Konferenzüberblick.pdf)
+* 3.5. UH: [Konferenzberichte ACL/COLING](/downloads/teaching/ss2019/theoreticum_technicum/LREC–COLING–ACL-2018-Konferenzueberblick.pdf)
 * 14.5. TD: Probevortrag
 * 17.5. JH: Probevortrag
 * 28.5. SB: Probevortrag

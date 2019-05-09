@@ -18,3 +18,4 @@ Die praktischen Arbeiten besitzen in diesem Kurs einen hohen Stellenwert. Je nac
 ### Aufgabenblätter
 
 * [Blatt 1](/downloads/teaching/ss2019/praktikum/praktikum_1_aufgabe.ipynb)
+* [Blatt 2](/downloads/teaching/ss2019/praktikum/praktikum_2_aufgabe.ipynb)

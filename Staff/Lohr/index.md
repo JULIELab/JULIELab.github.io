@@ -9,7 +9,7 @@ layout: staff
 </div>
 
 ## Curriculum Vitae
-* since 2016: Research Assistant at the JULIE Lab of Friedrich Schiller University Jena
+* since 2016: Research Assistant at the [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
 * 2015 - 2016: Research Assistant at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
 * 2012 - 2015: Studies of Computer Science at the Chemnitz University of Technology (Master of Science)

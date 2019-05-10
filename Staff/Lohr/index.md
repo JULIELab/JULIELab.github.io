@@ -10,7 +10,7 @@ layout: staff
 
 ## Curriculum Vitae
 * since 2016: Research Assistant at the JULIE Lab of Friedrich Schiller University Jena
-* 2015 - 2016: Research Assistant at the [Chemnitz University of Technology] (https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
+* 2015 - 2016: Research Assistant at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
 * 2012 - 2015: Studies of Computer Science at the Chemnitz University of Technology (Master of Science)
 * 2007 - 2012: Studies of Applied Computer Science at the Chemnitz University of Technology (Bachelor of Science)
@@ -20,8 +20,8 @@ layout: staff
 * Natural Language Processing with clinical contents
 
 ## Projects Involved
-* [STAKI<sup>2</sup>B<sup>2</sup>](http://gepris.dfg.de/gepris/projekt/315098900)
-* [SMITH](http://www.smith.care/)
+* [STAKI<sup>2</sup>B<sup>2</sup>](http://gepris.dfg.de/gepris/projekt/315098900) (DFG-Project)
+* [SMITH (Smart Medical Information Technology for Healthcare)](http://www.smith.care/) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/)
 
 ## Teaching Experience
 * Basics of Theoretical computer science
@@ -36,8 +36,7 @@ layout: staff
 ### 2018
 
 * **Christina Lohr**, Stephanie Luther, Franz Matthies, Luise Modersohn, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf, and Udo Hahn:
-[CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification.]
-(https://www.ncbi.nlm.nih.gov/pubmed/30815119) In: AMIA Annual Symposium Proceedings 2018, San Francisco, USA, Nov 3-7. [[Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf)] [[PMCID: PMC6371337](https://www.ncbi.nlm.nih.gov/pubmed/30815119)] [[PMID: 30815119](https://www.ncbi.nlm.nih.gov/pubmed/30815119)]
+[CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification.](https://www.ncbi.nlm.nih.gov/pubmed/30815119) In: AMIA Annual Symposium Proceedings 2018, San Francisco, USA, Nov 3-7. [[Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf)] [[PMCID: PMC6371337](https://www.ncbi.nlm.nih.gov/pubmed/30815119)] [[PMID: 30815119](https://www.ncbi.nlm.nih.gov/pubmed/30815119)]
 
 * **Christina Lohr**, Sven Buechel, and Udo Hahn. 2018. [Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf). In: LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7 - 12, 2018. Pages 1259 -1266. [[Code](https://github.com/julielab/jsyncc)] [[Poster](/downloads/publications/posters/Poster_LREC_JSYNCC.pdf)]
 

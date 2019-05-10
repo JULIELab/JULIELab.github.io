@@ -17,7 +17,7 @@ The JULIE Lab is member of the SMITH consortia (**S**mart **M**edical **I**nform
 
 ## STAKI<sup>2</sup>B<sup>2</sup>
 
-Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of Jena University Hospital](http://www.ikcl.uniklinikum-jena.de/IKCL.html), [Technologie- und Methodenplattform für die vernetzte medizinische Forschung (TMF)](http://www.tmf-ev.de/) and [Central service provider for information technology (IT) services to the University Hospital of Jena](http://www.gbit.uniklinikum-jena.de/GB+IT.html), the JULIE Lab is member of the DFG founded project "Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking". The goal of the project consists of the detection of entities and their information to collect compare collective for more quantitative biobanking.
+Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL) of Jena University Hospital](http://www.ikcl.uniklinikum-jena.de/IKCL.html), [Technologie- und Methodenplattform für die vernetzte medizinische Forschung (TMF)](http://www.tmf-ev.de/) and [Central service provider for information technology (IT) services to the University Hospital of Jena](http://www.gbit.uniklinikum-jena.de/GB+IT.html), the JULIE Lab is member of the DFG founded project ["Semantische Textanalyse zur qualitätskontrollierten Extraktion klinischer Phänotyp-Information im Healthcare Integrated Biobanking"](http://gepris.dfg.de/gepris/projekt/315098900). The goal of the project consists of the detection of entities and their information to collect compare collective for more quantitative biobanking.
 
 ------------------------------------------------------------------------
 

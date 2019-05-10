@@ -11,7 +11,7 @@ Current |
 
 <img style="margin-top:15px" src="/assets/img/projects_SMITH-width-250-height-158.png" />
 
-The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare), founded by German Federal Ministry of Education and Research (BMBF). The project start is January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
+The JULIE Lab is member of the SMITH consortia (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare) as a part of the part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by German Federal Ministry of Education and Research (BMBF). The project start is January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
 
 ------------------------------------------------------------------------
 

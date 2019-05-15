@@ -19,8 +19,8 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 14.6. EF+CL: LSTM-basierte kontextualisierte Embeddings (ULMFiT, ELMo, Flair)
 * 21.6. SB+JH: Attention für kontextualisierte Embeddings (BERT) und Maschinelle Übersetzung
 * 28.6. -- frei --
-* 5.7. LM: GANs
-* 12.7. -- frei --
+* 5.7. -- frei --
+* 12.7. LM: GAN 
 
 
 ### Themen-Pool

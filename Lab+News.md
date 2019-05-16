@@ -3,6 +3,10 @@ layout: default
 ---
 # Lab News
 
+## May '19 paper accepted
+* Submission by Christina Lohr, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein and Udo Hahn on the further development of Web Annotation Tool - Segment Labeling (WAT-SL), a cooperation together with the [Webis Group](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/home/) accepted at [LAW@ACL 2019](https://sigann.github.io/LAW-XIII-2019/).
+
+
 ## Mar '19 thesis defended, papers accepted
 * Submission by Hellrich, Kampe & Hahn on the influence of down-sampling on the stability of word embeddings accepted at [RepEval@NAACL 2019](https://repeval2019.github.io).
 * Submission by Hellrich, Buechel & Hahn on modeling historical word emotion values accepted at [LaTeCH-CLfL@NAACL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/).

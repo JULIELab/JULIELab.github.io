@@ -31,6 +31,8 @@ layout: staff
 
 ### 2019
 
+* **Christina Lohr**, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein, Udo Hahn: Continuous Quality Control and Advanced Text Segment Annotation with WAT-SL 2.0 (accepted at LAW@ACL 2019 Firence)
+
 * Tobias Kolditz, **Christina Lohr**, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: Annotating German Clinical Documents for De-Identification (accepted at MedInfo 2019 Lyon)
 
 ### 2018

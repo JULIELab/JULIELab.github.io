@@ -4,7 +4,7 @@ layout: default
 # Lab News
 
 ## May '19 paper accepted
-* Submission by Christina Lohr, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein and Udo Hahn on the further development of Web Annotation Tool - Segment Labeling (WAT-SL), a cooperation together with the [Webis Group](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/home/) accepted at [LAW@ACL 2019](https://sigann.github.io/LAW-XIII-2019/).
+* Submission by Christina Lohr, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein and Udo Hahn on the further development of [Web Annotation Tool - Segment Labeling (WAT-SL)](https://github.com/webis-de/wat), a cooperation together with the [Webis Group](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/home/) accepted at [LAW@ACL 2019](https://sigann.github.io/LAW-XIII-2019/).
 
 
 ## Mar '19 thesis defended, papers accepted

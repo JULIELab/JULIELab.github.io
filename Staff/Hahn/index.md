@@ -5,7 +5,7 @@ layout: staff
 # Prof. Dr. Udo Hahn
 
 <div class="portrait">
-  <img src="udo-hahn.JPG">
+  <img src="udo-hahn.JPG" width="200">
 </div>
 
 Overview | 

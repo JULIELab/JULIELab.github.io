@@ -8,6 +8,7 @@ After launching the Workshop on Economics and Natural Language Processing (ECONL
 This workshop addresses the increasing relevance of natural language processing (NLP) for regional, national and international economy, both in terms of already operational language technology products and systems, as well as newly emerging methodologies and techniques reflecting the requirements at the intersection of economics and NLP. The focus of the workshop will be on the many ways, how NLP influences business relations and procedures, economic transactions, and the roles of human and computational actors involved in commercial activities.
 
 ## Organizers
+
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|---------------------------|
 | Udo Hahn	        |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 

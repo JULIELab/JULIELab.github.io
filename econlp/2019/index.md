@@ -54,31 +54,31 @@ Papers submitted to this workshop should address (not excluding other topic area
 * Dedicated software resources for economic NLP (e.g., NER taggers, sublanguage parsers, pipelines for processing economic discourse)
 
 
-| Program Committee                     | Institution                                 | E-Mail
-|---------------------------------------|---------------------------------------------|------------------------|
-| Sven Büchel		                         | Friedrich-Schiller-Universität Jena, Jena, Germany	       | sven.buechel@uni-jena.de 
-| Erik Cambria		                        | Nanyang Technological University, Singapore          | cambria@ntu.edu.sg 
-| Hsin-Hsi Chen		                       | National Taiwan University, Taipei City, Taiwan      | hhchen@ntu.edu.tw 
-| Paulo Cortez 		                       | University of Minho, Guimarães, Portugal             | pcortez@dsi.uminho.pt 
-| Sanjiv Ranjan Das                     |	Santa Clara University, Santa Clara, CA, USA         | srdas@scu.edu 
-| Brian Davis                           |	Maynooth University, Maynooth, Ireland               | brian.davis@mu.ie 
-| Flavius Frasincar 	                   | Erasmus University, Rotterdam, Netherlands		         | frasincar@ese.eur.nl 
-| Petr Hájek		                          | University of Pardubice, Pardubice, Czech Republic	  | Petr.Hajek@upce.cz 
-| Allan Hanbury		                       | Technische Universität Wien, Wien, Austria				                  | Hanbury@ifs.tuwien.ac.at 
-| Qing Li			                            | Southwestern University of Finance and Economics (SWUFE), Sichuan, Chengdu, China | liq_t@swufe.edu.cn 
-| Pekka Malo		                          | Aalto University, Aalto , Finland				                |pekka.malo@aalto.fi 
-| Julian J. McAuley                     | University of California San Diego (UCSD), San Diego, CA, USA | jmcauley@ucsd.edu
-| Igor Mozetič		                        | Jožef Stefan Institute, Ljubljana, Slovenia |	Igor.Mozetic@ijs.si 
-| Viktor Pekar 	 	                      | Aston University, Birmingham, UK			                  | v.pekar@aston.ac.uk 
-| Paul Rayson                           |	Lancaster University, Lancaster, UK		                | p.rayson@lancaster.ac.uk 
-| Samuel Rönnqvist                      | University of Turku, Turku, Finland                  | saanro@utu.fi 
-| Sameena Shah                          | S&P Global Ratings, New York City, NY, USA 	| sameenashah@yahoo.com  
-| Kiyoaki Shirai                        | Japan Advanced Institute of Science and Technology (JAIST), Nomi, Japan | kshirai@jaist.ac.jp
-| Padmini Srinivasan 	                  | University of Iowa, Iowa City, IA, USA		             |	padmini-srinivasan@uiowa.edu 
-| Amanda Stent	                         |	Bloomberg LP, New York City, NY, USA	       |	astent@bloomberg.net 
-| Heiner Stuckenschmidt	                | University Mannheim, Mannheim, Germany	              |	heiner@informatik.uni-mannheim.de 
-| Ming-Feng Tsai		                      | National Chengchi University, Taipei City, Taiwan	   | mftsai@nccu.edu.tw 
-| Chuan-Ju Wang 	                       | Academia Sinica, Taipei City, Taiwan	       |	cjwang@citi.sinica.edu.tw 
-| Wlodek W. Zadrozny	                   | UNC Charlotte, Charlotte, NC, USA   		      | wzadrozn@uncc.edu 
-| Manel Zarrouk 		                      | National University of Ireland, Galway, Ireland		    | Manel.Zarrouk@insight-centre.org
-| Ming Zhou		                           | Microsoft Asia Research, Beijing, China		   | mingzhou@microsoft.com 
+| Program Committee                     | Institution 
+|---------------------------------------|---------------------------------------------|
+| Sven Büchel		                         | Friedrich-Schiller-Universität Jena, Jena, Germany	       
+| Erik Cambria		                        | Nanyang Technological University, Singapore          
+| Hsin-Hsi Chen		                       | National Taiwan University, Taipei City, Taiwan      
+| Paulo Cortez 		                       | University of Minho, Guimarães, Portugal            
+| Sanjiv Ranjan Das                     |	Santa Clara University, Santa Clara, CA, USA        
+| Brian Davis                           |	Maynooth University, Maynooth, Ireland             
+| Flavius Frasincar 	                   | Erasmus University, Rotterdam, Netherlands		         
+| Petr Hájek		                          | University of Pardubice, Pardubice, Czech Republic	
+| Allan Hanbury		                       | Technische Universität Wien, Wien, Austria	
+| Qing Li			                            | Southwestern University of Finance and Economics (SWUFE), Sichuan, Chengdu, China 
+| Pekka Malo		                          | Aalto University, Aalto , Finland				                
+| Julian J. McAuley                     | University of California San Diego (UCSD), San Diego, CA, USA 
+| Igor Mozetič		                        | Jožef Stefan Institute, Ljubljana, Slovenia 
+| Viktor Pekar 	 	                      | Aston University, Birmingham, UK			                  
+| Paul Rayson                           |	Lancaster University, Lancaster, UK		                
+| Samuel Rönnqvist                      | University of Turku, Turku, Finland                  
+| Sameena Shah                          | S&P Global Ratings, New York City, NY, USA 	
+| Kiyoaki Shirai                        | Japan Advanced Institute of Science and Technology (JAIST), Nomi, Japan 
+| Padmini Srinivasan 	                  | University of Iowa, Iowa City, IA, USA		             
+| Amanda Stent	                         |	Bloomberg LP, New York City, NY, USA	       
+| Heiner Stuckenschmidt	                | University Mannheim, Mannheim, Germany	      
+| Ming-Feng Tsai		                      | National Chengchi University, Taipei City, Taiwan	   
+| Chuan-Ju Wang 	                       | Academia Sinica, Taipei City, Taiwan	       
+| Wlodek W. Zadrozny	                   | UNC Charlotte, Charlotte, NC, USA   		      
+| Manel Zarrouk 		                      | National University of Ireland, Galway, Ireland		    
+| Ming Zhou		                           | Microsoft Asia Research, Beijing, China		   

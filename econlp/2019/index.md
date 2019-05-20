@@ -4,17 +4,19 @@
 [ECONLP 2019 - Workshop Description V01, PDF 390KB](/downloads/ECONLP%202019%20-%20Workshop%20Description%20V01.pdf)
 
 ## Description
-
+<div style='text-align: justify'>
 After launching the Workshop on Economics and Natural Language Processing (ECONLP) @ ACL 2018 in Melbourne, Australia [(http://aclweb.org/anthology/W18-31)](http://aclweb.org/anthology/W18-31), the 2nd edition of ECONLP will be held on November 3 or 4 in Hong Kong at EMNLP-IJCNLP 2019 [(https://www.emnlp-ijcnlp2019.org/)](https://www.emnlp-ijcnlp2019.org/).
 This workshop addresses the increasing relevance of natural language processing (NLP) for regional, national and international economy, both in terms of already operational language technology products and systems, as well as newly emerging methodologies and techniques reflecting the requirements at the intersection of economics and NLP. The focus of the workshop will be on the many ways, how NLP influences business relations and procedures, economic transactions, and the roles of human and computational actors involved in commercial activities.
+</div>
 
 ## Organizers
-
+<div style='text-align: justify'>
 | Organizer        | Institution                                  | E-Mail
 |------------------|----------------------------------------------|---------------------------|
 | Udo Hahn	        |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 
 | Véronique Hoste  |	Ghent University, Belgium	                   |	veronique.hoste@ugent.be
 | Zhu (Drew) Zhang |	Iowa State University, USA                   |	zhuzhang@iastate.edu 
+</div>
 
 ## Important Dates
 * Submission Deadline: Monday, August 19 (aoe)
@@ -23,12 +25,15 @@ This workshop addresses the increasing relevance of natural language processing 
 * Workshop day: November 3 or 4 @ EMNLP-IJCNLP 2019
 
 ## Submission information
+<div style='text-align: justify'>
 We invite two types of original and unpublished works: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. 
 Accepted apers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages or references. Final camera-ready versions will be allowed an additional page of content to address reviewers’ comments.
 (All submissions must be anonymized, in PDF format (using the EMNLP 2019 style sheets for the main conference; see [https://www.emnlp-ijcnlp2019.org/calls/papers](https://www.emnlp-ijcnlp2019.org/calls/papers)) and must be made through the Softconf website set up for this workshop (will be opened soon).
-
+</div>
 ## Double Submission Policy
+<div style='text-align: justify'>
 Papers that have been or will be submitted to other meetings or publication sites must indicate this information at submission time. Authors of a paper accepted for presentation must notify the workshop organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
+</div>
 
 ## Call for Papers
 Papers submitted to this workshop should address (not excluding other topic areas of relevance for the workshop theme):

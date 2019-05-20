@@ -23,7 +23,7 @@ This workshop addresses the increasing relevance of natural language processing 
 * Workshop day: November 3 or 4 @ EMNLP-IJCNLP 2019
 
 ## Submission information
-We invite two types of original and unpublished works: Long papers (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, short papers (4 pages) should describe work in progress where preliminary results have already been worked out. 
+We invite two types of original and unpublished works: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. 
 Accepted apers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages or references. Final camera-ready versions will be allowed an additional page of content to address reviewers’ comments.
 (All submissions must be anonymized, in PDF format (using the EMNLP 2019 style sheets for the main conference; see [https://www.emnlp-ijcnlp2019.org/calls/papers](https://www.emnlp-ijcnlp2019.org/calls/papers)) and must be made through the Softconf website set up for this workshop (will be opened soon).
 

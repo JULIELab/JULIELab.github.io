@@ -24,11 +24,13 @@ GeNo - system for gene name normalization
 
 ## Models
 
-All models that we provide are integrated in our JCoRe tool set. However, some of them might be usable outside of JCoRe.
+Most models that we provide are integrated in our JCoRe tool set. However, some of them might be usable outside of JCoRe.
 
 Please find the respective JCoRe repository on our [GitHub page](https://github.com/JULIELab/jcore-projects).
 
 The appropriate models are then stored under **src/main/resources/de/julielab/jcore/ae/.../model/** if you want to download them separately.
+
+German clinical models (trained on FraMed) for the Stanford POS Tagger are available [here](http://julielab.de/downloads/resources/framed_stanford_pos.model).
 
 ## Survey on Use of Active Learning
 

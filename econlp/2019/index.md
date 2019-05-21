@@ -1,3 +1,9 @@
+---
+layout: default
+title: ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
+custom_css: justifiedparagraphs
+---
+
 # ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
 
 @ **EMNLP-IJCNLP 2019, Hong-Kong, November 3-4, 2019**<br/>

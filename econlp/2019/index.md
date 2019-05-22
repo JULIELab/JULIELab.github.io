@@ -1,7 +1,41 @@
+---
+layout: default
+title: ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
+custom_css: justifiedparagraphs
+---
+
 # ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
 
+@ **EMNLP-IJCNLP 2019, Hong-Kong, November 3-4, 2019**<br/>
+[ECONLP 2019 - Workshop Description V01, PDF 390KB](/downloads/ECONLP%202019%20-%20Workshop%20Description%20V01.pdf)
+
 ## Description
-After the successful launch of the [Workshop on Economics and Natural Language Processing (ECONLP) @ ACL 2018](https://julielab.de/econlp/2018) in Melbourne, Australia (http://aclweb.org/anthology/W18-31), a follow-up event is proposed for 2019 at one of our major conference events. This workshop addresses the increasing relevance of natural language processing (NLP) for regional, national and international economy, both in terms of already operational language technology products and systems, as well as newly emerging methodologies and techniques reflecting the requirements at the intersection of economics and NLP. The focus of the workshop will be on the many ways, how NLP influences business relations and procedures, economic transactions, and the roles of human and computational actors involved in commercial activities. 
+After launching the Workshop on Economics and Natural Language Processing (ECONLP) @ ACL 2018 in Melbourne, Australia [(http://aclweb.org/anthology/W18-31)](http://aclweb.org/anthology/W18-31), the 2nd edition of ECONLP will be held on November 3 or 4 in Hong Kong at EMNLP-IJCNLP 2019 [(https://www.emnlp-ijcnlp2019.org/)](https://www.emnlp-ijcnlp2019.org/).
+This workshop addresses the increasing relevance of natural language processing (NLP) for regional, national and international economy, both in terms of already operational language technology products and systems, as well as newly emerging methodologies and techniques reflecting the requirements at the intersection of economics and NLP. The focus of the workshop will be on the many ways, how NLP influences business relations and procedures, economic transactions, and the roles of human and computational actors involved in commercial activities.
+
+## Organizers
+
+| Organizer        | Institution                                  | E-Mail
+|------------------|----------------------------------------------|---------------------------|
+| Udo Hahn	        |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 
+| Véronique Hoste  |	Ghent University, Belgium	                   |	veronique.hoste@ugent.be
+| Zhu (Drew) Zhang |	Iowa State University, USA                   |	zhuzhang@iastate.edu 
+
+## Important Dates
+* **Submission Deadline:** Monday, August 19 (aoe)
+* **Acceptance Notification:** Monday, September 16
+* **Camera-Ready:** Monday, September 30
+* **Workshop day:** November 3 or 4 @ EMNLP-IJCNLP 2019
+
+## Submission information
+We invite two types of original and unpublished works: **Long papers** (8 pages) should describe solid results with strong experimental, empirical or theoretical/formal backing, **short papers** (4 pages) should describe work in progress where preliminary results have already been worked out. 
+Accepted apers will appear in the workshop proceedings. All papers are allowed unlimited but sensible pages or references. Final camera-ready versions will be allowed an additional page of content to address reviewers’ comments.
+(All submissions must be anonymized, in PDF format (using the EMNLP 2019 style sheets for the main conference; see [https://www.emnlp-ijcnlp2019.org/calls/papers](https://www.emnlp-ijcnlp2019.org/calls/papers)) and must be made through the Softconf website set up for this workshop (will be opened soon).
+
+## Double Submission Policy
+Papers that have been or will be submitted to other meetings or publication sites must indicate this information at submission time. Authors of a paper accepted for presentation must notify the workshop organizers by the camera-ready deadline as to whether the paper will be presented or withdrawn.
+
+## Call for Papers
 Papers submitted to this workshop should address (not excluding other topic areas of relevance for the workshop theme):
 * NLP-based (stock) market analytics, e.g., prediction of economic performance indicators (trend prediction, performance forecasting, etc.), by analyzing verbal statements of enterprises, businesses, companies, and associated legal or administrative actors
 * NLP-based product analytics, e.g., based on social and mass media monitoring, summarizing reviews, classifying and mining complaint messages and other (non)verbal types of customer reactions to products or services
@@ -27,100 +61,31 @@ Papers submitted to this workshop should address (not excluding other topic area
 * Dedicated software resources for economic NLP (e.g., NER taggers, sublanguage parsers, pipelines for processing economic discourse)
 
 
-
-## Organizers
-
-| Organizer        | Institution                                  | E-Mail
-|------------------|----------------------------------------------|---------------------------|
-| Udo Hahn	        |	Friedrich-Schiller-Universität Jena, Germany |	udo.hahn@uni-jena.de 
-| Véronique Hoste  |	Ghent University, Belgium	                   |	veronique.hoste@ugent.be
-| Zhu (Drew) Zhang |	Iowa State University, USA                   |	zhuzhang@iastate.edu 
-
-### Organizers’ Research Interests, Areas of Expertise, and Experience in Organizing Workshops
-
-* **Udo Hahn** – Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Germany (chair)
- 
-  https://julielab.de/Staff/Hahn 
-
-  Udo Hahn is a full professor for Computational Linguistics at FSU Jena (Germany) where he heads the Jena University Language & Information Engineering (JULIE) Lab (www.julielab.de). He holds a PhD from the Information Science Department at the University of Konstanz (Germany). His research interests focus on NLP applications for the life and natural sciences, mainly information extraction and text mining, organizational emotion analysis, knowledge integration and aggregation from structured and unstructured data (incl. text summarization), annotation science (active learning), ontology and multilingual terminology engineering, as well as software engineering for NLP. He has been co-organizing 11 workshops in total. Among them four workshops for ACL (the 1st ECONLP workshop @ ACL 2018, as well as workshops on Automatic Summarization @ ANLP-NAACL 2000 and ACL 2002, and the BioNLP 2002 workshop @ ACL 2002), the KR-MED 2004 workshop @ KR 2004 (for AMIA), the SMBM 2005 and 2010 workshops on Semantic Mining in Biomedicine, the “UIMA for NLP” workshops @ LREC 2008 and LREC 2010.
-
-* **Véronique Hoste** – LT3 Language and Translation Technology Group, Ghent University, Belgium 
- 
-  https://research.flw.ugent.be/en/veronique.hoste 
-
-  Prof. Veronique Hoste is Full Professor of Computational Linguistics and director of the LT3 Language and Translation Technology Team at Ghent University (www.lt3.ugent.be). She holds a PhD in computational linguistics from the University of Antwerp on optimization issues in machine learning of coreference resolution (2005). She has a strong expertise in machine learning of natural language, and more specifically in coreference resolution, word sense disambiguation, terminology extraction, text classification, classifier optimization, readability prediction, sentiment mining, economic event extraction and (implicit) sentiment analysis, etc. Veronique co-organized different workshops, including the 1st ECONLP workshop @ ACL 2018, as well as shared tasks on coreference resolution (2010), cross-lingual word sense disambiguation (2010 and 2013), L2 writing (2014), and multilingual aspect-based sentiment analysis (2016) on which she also published several articles.
-
-* **Zhu (Drew) Zhang** – Iowa State University, USA
-
-  https://www.business.iastate.edu/directory/zhuzhang/
-
-  Zhu Zhang is currently a Kingland Faculty Fellow in Business Analytics and an associate professor of Information Systems and Computer Science at Iowa State University (USA), where he heads the ISU NLP group. He holds a Ph.D. in Information and Computer Science from the University of Michigan (USA). His research interests focus on the intersection of NLP and machine learning, as well as various business applications of AI.
-
-| Program Committee [invited: 30, accepted: 26 (87%), pending: 4 (13%)] | Institution | E-Mail
-|--------------------------------------------------------------------------------------|-------------|------------------------|
-| Sven Büchel		                          | FSU Jena, Jena, Germany	                    | sven.buechel@uni-jena.de 
-| Erik Cambria		                        | Nanyang Technological U, Singapore          | cambria@ntu.edu.sg 
-| Hsin-Hsi Chen		                        | National Taiwan U, Taipei City, Taiwan      | hhchen@ntu.edu.tw 
-| Paulo Cortez 		                        | U of Minho, Guimarães, Portugal             | pcortez@dsi.uminho.pt 
-| Sanjiv Ranjan Das                       |	Santa Clara U, Santa Clara, CA, USA         | srdas@scu.edu 
-| Brian Davis                             |	Maynooth U, Maynooth, Ireland               | brian.davis@mu.ie 
-| Xiao Ding (pending)	                    |	Harbin Institute of Technology, Harbin, Weihai, Shenzhen, China |	xding@ir.hit.edu.cn
-| Flavius Frasincar 	                    | Erasmus U, Rotterdam, Netherlands		        | frasincar@ese.eur.nl 
-| Keiichi Goshima (pending)	              | Bank of Japan, Tokyo, Japan                 | keiichi.goshima@boj.or.jp 
-| Petr Hájek		                          | U of Pardubice, Pardubice, Czech Republic	  | Petr.Hajek@upce.cz 
-| Allan Hanbury		                        | TU Wien, Wien, Austria				              | Hanbury@ifs.tuwien.ac.at 
-| Qing Li			                            | Southwestern U of Finance and Economics (SWUFE), Sichuan, Chengdu, China | liq_t@swufe.edu.cn 
-| Pekka Malo		                          | Aalto U, Aalto , Finland				            |pekka.malo@aalto.fi 
-| Julian J. McAuley                       |	U of California San Diego (UCSD), San Diego, CA, USA | jmcauley@ucsd.edu
-| Igor Mozetič		                        | Jožef Stefan Institute, Ljubljana, Slovenia |	Igor.Mozetic@ijs.si 
-| Viktor Pekar 	 	                        | Aston U, Birmingham, UK			                | v.pekar@aston.ac.uk 
-| Nicolas Pröllochs (pending)	            | U of Oxford, Oxford, UK			                | nicolas.prollochs@eng.ox.ac.uk 
-| Minghui Qiu (pending)	                  |	Alibaba Group, Hangzhou, China	            | minghui.qmh@alibaba-inc.com
-| Paul Rayson                             |	Lancaster U, Lancaster, UK		              | p.rayson@lancaster.ac.uk 
-| Samuel Rönnqvist                        | U of Turku, Turku, Finland                  | saanro@utu.fi 
-| Sameena Shah                            | S&P Global Ratings, New York City, NY, USA 	| sameenashah@yahoo.com  
-| Kiyoaki Shirai                          | Japan Advanced Institute of Science and Technology (JAIST), Nomi, Japan | kshirai@jaist.ac.jp
-| Padmini Srinivasan 	                    | U of Iowa, Iowa City, IA, USA		            |	padmini-srinivasan@uiowa.edu 
-| Amanda Stent	                          |	Bloomberg LP, New York City, NY, USA	      |	astent@bloomberg.net 
-| Heiner Stuckenschmidt	                  | U Mannheim, Mannheim, Germany	              |	heiner@informatik.uni-mannheim.de 
-| Ming-Feng Tsai		                      | National Chengchi U, Taipei City, Taiwan	  | mftsai@nccu.edu.tw 
-| Chuan-Ju Wang 	                        | Academia Sinica, Taipei City, Taiwan	      |	cjwang@citi.sinica.edu.tw 
-| Wlodek W. Zadrozny	                    | UNC Charlotte, Charlotte, NC, USA   		    | wzadrozn@uncc.edu 
-| Manel Zarrouk 		                      | National U of Ireland, Galway, Ireland		  | Manel.Zarrouk@insight-centre.org
-| Ming Zhou		                            | Microsoft Asia Research, Beijing, China		  | mingzhou@microsoft.com 
-
-
-
-
-Estimated number of submissions: 30 papers
-
-Invited speakers: dependent on funding, funding initiatives are on-going
-
-Efforts made to ensure demographic diversity of the organizers:
-* Gender variety: 1 female organizer (VH), 2 males (UH, ZZ)
-* Geographic variety: 2 organizers from Europe (UH, VH), 1 from the US (ZZ)
-* Educational variety: 2 organizers from NLP (UH, VH), 1 from economics (ZZ)
-
-Estimated audience: 30-50 attendees
-
-Shared Task: planned for ECONLP 2020 (negotiations will be made @ ECONLP 2019 with people who have already signaled interest in organizing a ST)
-
-Technical equipment needed: WLAN, projection device
-
-Preferred venue:
-
-(1) ACL 2019
-
-(2) EMNLP-IJCNLP 2019
-
-(3) NAACL-HLT 2019
-
-
-Previous ECONLP workshops:
-1st ECONLP 2018 Workshop @ ACL 2018, Melbourne, Australia (http://aclweb.org/anthology/W18-31)
-
-a. Submissions received: 	16
-
-b. Papers accepted:	8 [2 (long), 6 (short)]
-
-c. Number of attendees:	25-30
+| Program Committee                     | Institution 
+|---------------------------------------|---------------------------------------------|
+| Sven Büchel		                         | Friedrich-Schiller-Universität Jena, Jena, Germany	       
+| Erik Cambria		                        | Nanyang Technological University, Singapore          
+| Hsin-Hsi Chen		                       | National Taiwan University, Taipei City, Taiwan      
+| Paulo Cortez 		                       | University of Minho, Guimarães, Portugal            
+| Sanjiv Ranjan Das                     |	Santa Clara University, Santa Clara, CA, USA        
+| Brian Davis                           |	Maynooth University, Maynooth, Ireland             
+| Flavius Frasincar 	                   | Erasmus University, Rotterdam, Netherlands		         
+| Petr Hájek		                          | University of Pardubice, Pardubice, Czech Republic	
+| Allan Hanbury		                       | Technische Universität Wien, Wien, Austria	
+| Qing Li			                            | Southwestern University of Finance and Economics (SWUFE), Sichuan, Chengdu, China 
+| Pekka Malo		                          | Aalto University, Aalto , Finland				                
+| Julian J. McAuley                     | University of California San Diego (UCSD), San Diego, CA, USA 
+| Igor Mozetič		                        | Jožef Stefan Institute, Ljubljana, Slovenia 
+| Viktor Pekar 	 	                      | Aston University, Birmingham, UK			                  
+| Paul Rayson                           |	Lancaster University, Lancaster, UK		                
+| Samuel Rönnqvist                      | University of Turku, Turku, Finland                  
+| Sameena Shah                          | S&P Global Ratings, New York City, NY, USA 	
+| Kiyoaki Shirai                        | Japan Advanced Institute of Science and Technology (JAIST), Nomi, Japan 
+| Padmini Srinivasan 	                  | University of Iowa, Iowa City, IA, USA		             
+| Amanda Stent	                         |	Bloomberg LP, New York City, NY, USA	       
+| Heiner Stuckenschmidt	                | University Mannheim, Mannheim, Germany	      
+| Ming-Feng Tsai		                      | National Chengchi University, Taipei City, Taiwan	   
+| Chuan-Ju Wang 	                       | Academia Sinica, Taipei City, Taiwan	       
+| Wlodek W. Zadrozny	                   | UNC Charlotte, Charlotte, NC, USA   		      
+| Manel Zarrouk 		                      | National University of Ireland, Galway, Ireland		    
+| Ming Zhou		                           | Microsoft Asia Research, Beijing, China		   

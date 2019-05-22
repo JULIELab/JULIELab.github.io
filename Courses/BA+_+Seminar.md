@@ -10,4 +10,4 @@ Die moderne Linguistik und verwandte linguistische Disziplinen, wie die Psycho- 
 Der Leistungsnachweis erfolgt durch einen ca. einstündigen mündlichen Vortrag zu einem gewählten Thema sowie ein am Ende des Seminars erstelltes ca. 20-seitiges schriftliches Referat. Das Seminar ist konstitutiver Teil des Moduls B-GSW-12 und bildet zusammen mit der Vorlesung „Einführung in die Computerlinguistik und Sprachtechnologie“ wie der zugehörigen Übung eine eng aufeinander abgestimmte Gruppe von Veranstaltungen.
 
 
-* [Einführung](/downloads/teaching/ss2019/clst_s/Empirie-sh.pdf)
+* [Einführung](/downloads/teaching/ss2019/clst_s/Empirie-sh.pdf) (aktualisiert am 15.05.2019)

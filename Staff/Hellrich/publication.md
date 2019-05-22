@@ -8,6 +8,12 @@ layout: staff
 
 #### 2019
 
+
+
+* Christina Lohr, Johannes Kiesel, Stephanie Luther, **Johannes Hellrich**, Benno Stein, Udo Hahn: Continuous Quality Control and Advanced Text Segment Annotation with WAT-SL 2.0 (accepted at LAW@ACL 2019 Firence)
+
+* Tobias Kolditz, Christina Lohr, **Johannes Hellrich**, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: Annotating German Clinical Documents for De-Identification (accepted at MedInfo 2019 Lyon)
+
 * **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://arxiv.org/abs/1808.06810). In: *[RepEval 2019](https://repeval2019.github.io) - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. [to appear]
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection](https://arxiv.org/abs/1806.08115). In: *[LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/) - Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL 2019*. Minneapolis, MN, USA, June 7, 2019. [to appear]

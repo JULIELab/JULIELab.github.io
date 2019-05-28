@@ -20,7 +20,7 @@ layout: staff
 * Natural Language Processing with clinical contents
 
 ## Projects Involved
-* [STAKI<sup>2</sup>B<sup>2</sup> (Semantic Text Analytics for Quality Controlled Extraction of Clinical Phenotype Information in Healthcare Integrated Bioban­king)](http://gepris.dfg.de/gepris/projekt/315098900), founded by Deutsche Forschungsgesellschaft (DFG)
+* [STAKI<sup>2</sup>B<sup>2</sup> (Semantic Text Analytics for Quality Controlled Extraction of Clinical Phenotype Information in Healthcare Integrated Biobanking)](http://gepris.dfg.de/gepris/projekt/315098900), founded by Deutsche Forschungsgesellschaft (DFG)
 * [SMITH (Smart Medical Information Technology for Healthcare)](http://www.smith.care/) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by German Federal Ministry of Education and Research (BMBF)
 
 ## Teaching Experience
@@ -65,3 +65,4 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 | Phone	| +49 3641 9-44303 |
 | Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
 | Room	| Fürstengraben 27 E 007 |
+| Twitter | [@chlor89](https://twitter.com/chlor89) |

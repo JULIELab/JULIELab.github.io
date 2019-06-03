@@ -4,7 +4,7 @@ layout: staff
 
 # Dr. Sascha Schäuble
 
-[[Overview]](Dr_+Sascha+Schäuble.html) | 
+[[Overview]](/Staff/Schaeuble/) | 
 Research | 
 [[Publications]](publication.html)
 

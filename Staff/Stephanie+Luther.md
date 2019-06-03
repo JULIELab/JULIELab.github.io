@@ -1,3 +1,3 @@
 ---
-redirect_to: "Staff/Luther/"
+redirect_to: "Staff/"
 ---

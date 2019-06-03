@@ -1,3 +1,3 @@
 ---
-redirect_to: "Staff/Schaeuble/"
+redirect_to: "Staff/"
 ---

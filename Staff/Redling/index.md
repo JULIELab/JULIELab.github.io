@@ -25,7 +25,7 @@ Just recently I started to climb the rough edges of CUDA installations for Deep 
 ## Contact
 
 Benjamin Redling<br/>
-System administrator
+System Administrator
 
 Email: benjamin.rampe@uni-jena.de<br/>
 Phone:	+49 3641 9-44323

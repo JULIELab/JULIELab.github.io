@@ -18,7 +18,7 @@ layout: staff
 
 * **Johannes Hellrich** & Christoph Rzymski: Computational Detection of Medieval References in Metal. In: Ruth Barratt-Peacock & Ross Hagen (Eds.): *Medievalism and Metal Music Studies: Throwing Down the Gauntlet*. Emerald. [to appear]
 
-* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://www.aclweb.org/anthology/W19-2003). In: *[RepEval 2019](https://repeval2019.github.io) - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. pp. 18-26.
+* **Johannes Hellrich**, Bernd Kampe & Udo Hahn: [The Influence of Down-Sampling Strategies on SVD Word Embedding Stability](https://www.aclweb.org/anthology/W19-2003). In: *[RepEval 2019](https://repeval2019.github.io) - Proceedings of the Third Workshop on Evaluating Vector Space Representations for NLP @ NAACL 2019*. Minneapolis, MN, USA, June 6, 2019. pp. 18-26. [[Slides]](/downloads/publications/slides/Hellrich_RepEval_2019.pdf)
 
 * **Johannes Hellrich**, Sven Buechel & Udo Hahn: [Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection](https://www.aclweb.org/anthology/W19-2501). In: *[LaTeCH-CLfL 2019](https://sighum.wordpress.com/events/latech-clfl-2019/) - Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL 2019*. Minneapolis, MN, USA, June 7, 2019. pp. 1-11.
 

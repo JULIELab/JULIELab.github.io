@@ -66,6 +66,8 @@ layout: staff
 
 #### Non-Archival Contributions
 
+* Modeling Empathy and Distress in Written Language. Invited Talk at WASSA @ NAACL 2019 (Alexandra Balahur). Minneapolis, MN, USA, June 6, 2019. [[Slides](/downloads/publications/slides/buechel/slides-wassa-2019-keynote.pdf)]
+
 * Using Artificial Neural Networks to Model Affective Word Meaning. Talk at the Jena Linguistics Workshop (JenLing), Jena, Germany, February 8, 2019. [[Slides](/downloads/publications/slides/Buechel_JenLing_2019.pdf)]
 
 * From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]

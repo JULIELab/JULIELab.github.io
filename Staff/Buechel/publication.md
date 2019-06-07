@@ -8,7 +8,7 @@ layout: staff
 
 #### 2019
 
-* Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. Accepted for *LaTeCH-CLfL @ NAACL 2019*. [[Preprint](https://arxiv.org/abs/1806.08115)]
+* Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. Accepted for *LaTeCH-CLfL @ NAACL 2019*. [[Paper](https://www.aclweb.org/anthology/W19-2501)][[Bib](downloads/publications/bibs/hellrich-buechel-2019-latech.bib)][[Slides](/downloads/publications/slides/buechel/slides-latech-2019-emotion.pdf)][[Preprint](https://arxiv.org/abs/1806.08115)]
 
 #### 2018
 

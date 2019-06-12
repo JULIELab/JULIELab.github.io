@@ -16,8 +16,8 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 14.5. TD: Probevortrag
 * 17.5. JH: Probevortrag
 * 28.5. SB: Probevortrag
-* 14.6. EF+CL: LSTM-basierte kontextualisierte Embeddings (ULMFiT, ELMo, Flair)
-* 21.6. SB+JH: Attention für kontextualisierte Embeddings (BERT) und Maschinelle Übersetzung
+* 26.6. 13:00 EF+CL: LSTM-basierte kontextualisierte Embeddings (ULMFiT, ELMo, Flair)
+* 27.6. 12:00 SB+JH: Attention für kontextualisierte Embeddings (BERT) und Maschinelle Übersetzung
 * 28.6. -- frei --
 * 5.7. -- frei --
 * 12.7. LM: GAN 

@@ -25,7 +25,7 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 * Sitzung vom 23. Mai: Reguläre Ausdrücke [Folien](/downloads/teaching/ss2019/cl2_ue/cl2_ss19_regex.pdf)
 * Sitzung vom 28. Mai: Wiederholung empirisches Paradigma [Blatt 4](/downloads/teaching/ss2019/cl2_ue/cl2_blatt4_aufgabe.ipynb)
 * Sitzung vom 11. Juni: Maschinelles Lernen [Folien](/downloads/teaching/ss2019/cl2_ue/cl2_ss19_ml.pdf) [Blatt 5](/downloads/teaching/ss2019/cl2_ue/cl2_blatt5_aufgabe.ipynb)
-* Sitzung vom 18. Juni: Korpora und Annotationen [Folien folgen] [Blatt 6](/downloads/teaching/ss2019/cl2_ue/cl2_blatt6_aufgabe.ipynb)
+* Sitzung vom 18. Juni: Korpora und Annotationen [Folien](/downloads/teaching/ss2019/cl2_ue/cl2_ss19_corpora_annotationen.pdf) [Blatt 6](/downloads/teaching/ss2019/cl2_ue/cl2_blatt6_aufgabe.ipynb)
 
 ### Seminar
 * [Einführung](/downloads/teaching/ss2019/cl2_s/Toxische-Sprache-(M-GSW-09)-sh.pdf) (aktualisiert am 26.04.19)

@@ -16,6 +16,7 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 2. [Korpora](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 14.05.2019)
 3. [Suche](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (3) Suche-sh.pdf) (aktualisiert am 04.06.2019)
 4. [Metadaten](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (4) Metadaten-sh.pdf)  (aktualisiert am 04.06.2019)
+5. [Recherche in Korpora](/downloads/teaching/ss2019/dh/ASQ Digital Humanities Recherche in Korpora_Lohr.pdf) (aktualisiert am 14.06.2019)
 
 <!---
 2. [Korpora](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 20.11.2018)

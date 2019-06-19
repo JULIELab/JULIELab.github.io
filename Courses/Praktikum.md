@@ -14,6 +14,7 @@ Die praktischen Arbeiten besitzen in diesem Kurs einen hohen Stellenwert. Je nac
 ### Folien
 
 * [Einführung in die Programmierung](/downloads/teaching/ss2019/praktikum/slides_praktikum_intro.pdf) (aktualisiert am 02.05.19)
+* [NLTK & sklearn](/downloads/teaching/ss2019/praktikum/ss19_praktikum_nltk_sklearn.pdf)
 
 ### Skripte
 

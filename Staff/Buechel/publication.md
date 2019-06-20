@@ -8,7 +8,7 @@ layout: staff
 
 #### 2019
 
-* Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. Accepted for *LaTeCH-CLfL @ NAACL 2019*. [[Preprint](https://arxiv.org/abs/1806.08115)]
+* Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. Accepted for *LaTeCH-CLfL @ NAACL 2019*. [[Paper](https://www.aclweb.org/anthology/W19-2501)][[Bib](/downloads/publications/bibs/hellrich-buechel-2019-latech.bib)][[Slides](/downloads/publications/slides/buechel/slides-latech-2019-emotion.pdf)][[Preprint](https://arxiv.org/abs/1806.08115)]
 
 #### 2018
 
@@ -17,8 +17,6 @@ layout: staff
 
 * **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. In ***EMNLP 2018** — Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*. Brussels, Belgium, October 31 – November 4, 2018. Pages 4758–4765. [[Paper](http://aclweb.org/anthology/D18-1507)][[Slides](/downloads/publications/slides/buechel_emnlp_2018.pdf)][[Video](https://vimeo.com/306137544)][[Code & Data](https://github.com/wwbp/empathic_reactions)][[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
 
-
-* Johannes Hellrich\*, **Sven Buechel\*** and Udo Hahn. 2018.  Inducing affective lexical semantics in historical language. In [arXiv:1806.08115](https://arxiv.org/abs/1806.08115).
 
 * Maria Moritz, Johannes Hellrich and **Sven Buechel**. 2018. A human-interpretable method to predict paraphrasticality. In *LaTeCH-CLfL 2018 — Proceedings of the 2nd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature* @ COLING 2018. Santa Fe, New Mexico, USA, August 25, 2018. Pages 113–118.  [[Paper](http://aclweb.org/anthology/W18-4513)]
 
@@ -65,6 +63,8 @@ layout: staff
 <br>
 
 #### Non-Archival Contributions
+
+* Modeling Empathy and Distress in Written Language. Invited Talk at WASSA @ NAACL 2019 (Alexandra Balahur). Minneapolis, MN, USA, June 6, 2019. [[Slides](/downloads/publications/slides/buechel/slides-wassa-2019-keynote.pdf)]
 
 * Using Artificial Neural Networks to Model Affective Word Meaning. Talk at the Jena Linguistics Workshop (JenLing), Jena, Germany, February 8, 2019. [[Slides](/downloads/publications/slides/Buechel_JenLing_2019.pdf)]
 

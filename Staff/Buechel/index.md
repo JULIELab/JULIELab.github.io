@@ -31,13 +31,15 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 **[— Full Publication List —](publication.html)**
 
-## Invited Talks
+## Selected Talks
 
-* From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
+* Modeling Empathy and Distress in Written Language. Invited Talk at WASSA @ NAACL 2019 (Alexandra Balahur). Minneapolis, MN, USA, June 6, 2019. [[Slides](/downloads/publications/slides/buechel/slides-wassa-2019-keynote.pdf)]
 
-* Emotional Enterprises? Measuring Affective Language in Companies' External Communication. Invited talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
+* From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited Talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
 
-* On Resources for Emotion Analysis Incorporating Multiple Representation Formats and Perspectives. Invited talk at the National Research Council, Ottawa, Canada (Saif Mohammad), August 14, 2017.
+* Emotional Enterprises? Measuring Affective Language in Companies' External Communication. Invited Talk at the US Securities and Exchange Commission (Marco Enriquez), Washington, DC, USA, June 27, 2018. [[Slides](/downloads/publications/slides/buechel_invited_sec_2018.pdf)]
+
+* On Resources for Emotion Analysis Incorporating Multiple Representation Formats and Perspectives. Invited Talk at the National Research Council, Ottawa, Canada (Saif Mohammad), August 14, 2017.
 
 ## Professional Activities
 

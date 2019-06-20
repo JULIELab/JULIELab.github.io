@@ -17,7 +17,7 @@ layout: staff_tab
 | [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44305 |
 | [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 44323 |
 
-Secretariat: Janina Oberthür and Romy Eichner: +49 3641 9-44300
+Secretariat: Janina Oberthür and Romy Eichner (parental leave): +49 3641 9-44300
 
 Fax of the group: +49 3641 9-44321
 

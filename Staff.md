@@ -23,14 +23,16 @@ Fax of the group: +49 3641 9-44321
 
 # Alumni
 
-## during residence in Jena (since 2006; in anti-chronological order)
+during residence in Jena (since 2006; in anti-chronological order):
+
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
 Dr. Elena Beisswanger ([Munich Re](https://www.xing.com/profile/Elena_Beisswanger2/cv))<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
 Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
 Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))
 
-## during residence in Freiburg im Breisgau (until 2005; in alphabetical order)
+during residence in Freiburg im Breisgau (until 2005, in alphabetical order):
+
 Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
 Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))<br/>
 Prof. Dr. Katja Markert ([University of Heidelberg](http://www.cl.uni-heidelberg.de/~markert/))<br/>

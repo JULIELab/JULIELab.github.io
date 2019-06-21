@@ -39,7 +39,7 @@ Prof. Dr. Katja Markert ([University of Heidelberg](http://www.cl.uni-heidelberg
 Dr. Kornél Markó ([Averbis](http://www.averbis.de/))<br/>
 Dr. Peter Neuhaus ([General Electric (GE) Energy](http://www.ge.com/de/home/))<br/>
 Dr. Martin Romacker ([Novartis Pharma AG, NITAS, Text Mining Services, Basel](http://www.novartis.ch/))<br/>
-Dr. Susanne Schacht (-)<br/>
+Dr. Susanne Schacht <br/>
 Dr. Holger Schauer ([TF Sprachtechnologie BDNM GmbH, Mannheim](http://www.bi-media.de/))<br/>
 Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/index.php?id=schnattinger))<br/>
 Prof. Dr. Steffen Staab ([Direktor des Web Science and Technologies (WeST) Instituts, Institut für Informatik, Universität Koblenz-Landau](http://www.uni-koblenz.de/~staab/))<br/>

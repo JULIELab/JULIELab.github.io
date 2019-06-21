@@ -8,14 +8,14 @@ Professionally working in IT since 1999, I joined Prof. Hahn's group in November
 
 Over the years I maintained a small FC-SAN, met Solaris with SAM-FS, planned and administred two compute clusters which I heavily upgraded all by myself, introduced the SLURM batch scheduler and a ganeti cluster for virtualization.
 
-Currently I have to cope with the rough edges of frameworks depending on CUDA installations and the quirks of untrusted containers.
+Currently I have to cope with the rough edges of frameworks depending on CUDA installations, the quirks of untrusted containers and the pros and cons of systemd.
 
 ## Recent Working Experience
 
 * Installation and maintenance of the groups SLURM cluster
 * Setup and tuning of PostgreSQL installations
 * Basic Linux infrastructure (NFS4 file server, OpenLDAP, Btrfs, ZFS)
-* Web infrastructure (Apache httpd, reverse proxying, Jetty, Certificates,  
+* Web infrastructure (web- and application servers, reverse proxying, certificates)
 * Monitoring with Check_MK
 * Setup of ElasticSearch clusters
 * Maintenance of the groups Ganeti (KVM/DRBD) cluster

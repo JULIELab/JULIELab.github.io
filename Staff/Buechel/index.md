@@ -33,6 +33,8 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 ## Selected Talks
 
+* Emotional Enterprises? Measuring Affective Language on and by Organizations. Invited Talk at Deutsches Institut für Wirtschaftsforschung (German Institute for Economic Research, Claus Michelsen). Berlin, Germany, July 5, 2019. [[Slides]](/downloads/publications/slides/buechel/slides-invited-diw-2019.pdf)
+
 * Modeling Empathy and Distress in Written Language. Invited Talk at WASSA @ NAACL 2019 (Alexandra Balahur). Minneapolis, MN, USA, June 6, 2019. [[Slides](/downloads/publications/slides/buechel/slides-wassa-2019-keynote.pdf)]
 
 * From Sentiment to Emotion: Challenges of a More Fine-Grained Analysis of Affective Language. Invited Talk at the Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart (Roman Klinger), Stuttgart, Germany, November 26, 2018. [[Slides](/downloads/publications/slides/buechel_invited_ims_2018.pdf)]
@@ -43,12 +45,18 @@ In summer 2018, I spent three months as a visiting scholar at the University of 
 
 ## Professional Activities
 
-* Programm commitee member for the First Workshop on Economics and Natural Language Processing (ECONLP @ ACL 2018)
+* Program commitee member for ACL 2019
+* Program commitee member for WASSA @ NAACL 2019
+* Program commitee member for the Workshop on Economics and Natural Language Processing (ECONLP @ ACL 2018, EMNLP 2019)
 
-## Teaching Experience
-* Quantifying Word Meaning and Emotion in Historical Language. Contribution to the lecture series *Digitising the Humanities*. Ghent, Belgium, March 6, 2019. [[Slides](/downloads/publications/slides/buechel/guest_lecture_ghent_2019-03-06.pdf)]
+
+## Teaching Activities
+
+* Quantifying Word Meaning and Emotion in Historical Language. Guest lecture as part of the lecture series *Digitising the Humanities*. Ghent, Belgium, March 6, 2019. [[Slides](/downloads/publications/slides/buechel/guest_lecture_ghent_2019-03-06.pdf)]
 * Introduction to Computational Linguistics and Language Technology, Fall 2016, Fall 2017.
 * Computational Linguistics I, Fall 2016, Fall 2017, Fall 2018.
+* Computational Linguistcs II, Spring 2019
+* Software Technologies for Natural Language Systems (practical course), Spring 2019.
 * Introduction to the Digitial Humanties, Fall 2016, Spring 2017, Fall 2017.
 
 ## Contact

@@ -64,6 +64,8 @@ layout: staff
 
 #### Non-Archival Contributions
 
+* Emotional Enterprises? Measuring Affective Language on and by Organizations. Invited Talk at Deutsches Institut für Wirtschaftsforschung (German Institute for Economic Research, Claus Michelsen). Berlin, Germany, July 5, 2019. [[Slides]](/downloads/publications/slides/buechel/slides-invited-diw-2019.pdf)
+
 * Modeling Empathy and Distress in Written Language. Invited Talk at WASSA @ NAACL 2019 (Alexandra Balahur). Minneapolis, MN, USA, June 6, 2019. [[Slides](/downloads/publications/slides/buechel/slides-wassa-2019-keynote.pdf)]
 
 * Using Artificial Neural Networks to Model Affective Word Meaning. Talk at the Jena Linguistics Workshop (JenLing), Jena, Germany, February 8, 2019. [[Slides](/downloads/publications/slides/Buechel_JenLing_2019.pdf)]

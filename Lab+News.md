@@ -25,10 +25,10 @@ layout: default
 ## Aug '18 paper accepted
 * Submission by Sven Buechel in cooperation with the [University of Pennsylvania](http://www.wwbp.org) on modeling empathy in user generated text accepted for [EMNLP 2018](http://emnlp2018.org/).
 
-## Juli '18 alumnus
+## Jul '18 alumnus
 * We say goodbye to Dr. Sascha Schäuble and wish him good luck at his new position at the [HKI](https://www.leibniz-hki.de/de/home.html).
 
-## June '18 visiting researcher, papers accepted
+## Jun '18 visiting researcher, papers accepted
 * Submission by Maria Moritz, Johannes Hellrich and Sven Buechel on a human-interpretable method to predict paraphrasticality accepted at [LaTeCH-CLfL](https://sighum.wordpress.com/events/latech-clfl-2018/) @ COLING 2018.
 * Submission by Johannes Hellrich, Sven Buechel and Udo Hahn on the [JeSemE](http://jeseme.org) system accepted at [COLING 2018](http://coling2018.org/).
 * Submission by Christina Lohr, Stephanie Luther, Franz Matthies and Udo Hahn accepted at [AMIA 2018](https://www.amia.org/amia2018).
@@ -39,7 +39,7 @@ layout: default
 * Submission by Sven Buechel, Tinghui Duan and Udo Hahn on a blanced corpus of business and corporate social responsiblity reports accepted for [ECONLP](/econlp2018.html) @ ACL 2018.
 * Submisson by Erik Faessler and Udo Hahn on [JeDIS](https://github.com/JULIELab/jedis) accepted at [DocEng 2018](https://doceng.org/doceng2018/index).
 
-## April '18 open position
+## Apr '18 open position
 
 * We are looking for one digital humanities PhD student to [join the graduate school "The romantic model"](/downloads/jobs/Stellenausschreibung_Computerlinguistik_2018_04_15_UH_pdf.pdf).
 

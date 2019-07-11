@@ -16,7 +16,8 @@ Die Inhalte der Vorlesung werden durch die Bearbeitung von Übungsblättern und 
 
 ### Vorlesung
 * [Earley Parsing](/downloads/teaching/ss2019/cl2_v/CL-I-09.Earley_Parsing-sh.pdf)
-* [Empirical Paradigm](/downloads/teaching/ss2019/cl2_v/CL-II-10.Empirical-Paradigm+Resources-sh.pdf) (aktualisiert am 28.06.19)
+* [Empirical Paradigm](/downloads/teaching/ss2019/cl2_v/CL-II-10.Empirical-Paradigm+Resources-sh.pdf) (aktualisiert am 11.07.19)
+* [Lexikalische Ressourcen](/downloads/teaching/ss2019/cl2_v/CL-II-11.Resources-Lexicons-sh.pdf)
 
 ### Übung
 * Sitzung vom 23. April: Graphentheorie [Blatt 1 ](/downloads/teaching/ss2019/cl2_ue/cl2_blatt1_aufgabe.ipynb)

@@ -43,4 +43,4 @@ March 26, 2019, v1.1:
 * Deleted the project Proteins_KIR/mmax/mmax_24742, PMID 7833836, because it did not exhibit any annotations.
 * Added the JULIE Lab MMAX2 to IOB/IeXML converter program and a script to convert the whole corpus. Tested with IOB export. The project source can be found at https://github.com/JULIELab/julielab-mmax-to-iob-iexml-converter.
 
-Download the corpus: [v1.0](/downloads/resources/fsu_prge_release_v1_0.tgz) (10MB), [v1.1](/downloads/resources/fsu_prge_release_v1_0.tgz) (17MB).
+Download the corpus: [v1.0](/downloads/resources/fsu_prge_release_v1_0.tgz) (10MB), [v1.1](/downloads/resources/fsu_prge_release_v1_1.tgz) (17MB).

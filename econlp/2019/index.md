@@ -1,4 +1,9 @@
 ---
+redirect_to: "https://sites.google.com/view/econlp-2019"
+---
+
+<!---
+---
 layout: default
 title: ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
 custom_css: justifiedparagraphs
@@ -89,3 +94,5 @@ Papers submitted to this workshop should address (not excluding other topic area
 | Wlodek W. Zadrozny	                   | UNC Charlotte, Charlotte, NC, USA   		      
 | Manel Zarrouk 		                      | National University of Ireland, Galway, Ireland		    
 | Ming Zhou		                           | Microsoft Asia Research, Beijing, China		   
+
+--->

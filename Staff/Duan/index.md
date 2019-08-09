@@ -27,7 +27,7 @@ layout: staff
 
 * **Tinghui Duan**, Udo Hahn. 2019. Compiling Digital Fragments of Allgemeine Literatur-Zeitung, a Major Textual Resource for German Romanticism Research, into a Single Comprehensive Text Corpus. Poster presentation at the 10th International Corpus Linguistics Conference (CL2019), July 22-26, 2019, Cardiff, Wales. [[Poster](https://julielab.de/downloads/publications/posters/Poster_CL2019_Duan.pdf)]
 
-* Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Draft](/downloads/publications/papers/Hahn_Duan_2019_JCDL.pdf)] [[Slides](/downloads/publications/slides/Duan_JCDL_2019_IL.pdf)]
+* Udo Hahn, **Tinghui Duan**. 2019. Corpus Assembly as Text Data Integration from Digital Libraries and the Web. In *JCDL ’19: Proceedings of the 2019 ACM/IEEE Joint Conference on Digital Libraries*, June 02–06, 2019, Urbana-Champaign, IL, USA. [[Paper](https://doi.org/10.1109/JCDL.2019.00014)] [[Slides](/downloads/publications/slides/Duan_JCDL_2019_IL.pdf)]
 
 * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, **Tinghui Duan**, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of balanced Organizational Writing. In *ECONLP 2018 — Proceedings of the First Workshop on Economics and Natural Language Processing* @ ACL 2018. Melbourne, Australia, July 20, 2018. Pages 20–31. [[Paper](http://aclweb.org/anthology/W18-3103)]
 

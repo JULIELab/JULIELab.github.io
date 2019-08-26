@@ -26,7 +26,6 @@ layout: staff
 ## Publications
 
 ### 2019
-* 
 * Tobias Kolditz, Christina Lohr, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/))
 
 ### 2018

@@ -12,8 +12,8 @@ layout: staff
 * since 2016: Research Assistant at the [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
 * 2015 - 2016: Research Assistant at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
-* 2012 - 2015: Studies of Computer Science at the Chemnitz University of Technology (Master of Science)
-* 2007 - 2012: Studies of Applied Computer Science at the Chemnitz University of Technology (Bachelor of Science)
+* 2012 - 2015: Studies of Computer Science at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Master of Science)
+* 2007 - 2012: Studies of Applied Computer Science at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Bachelor of Science)
 
 ## Research Interests
 
@@ -58,6 +58,10 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 ### 2012
 
 * **Christina Lohr**: [Sprachmodelladaption von CMU Sphinx für den Einsatz in der Medizin](http://www.qucosa.de/fileadmin/data/qucosa/documents/9004/tagungsband_tucsis12.pdf). In: Studentensymposium Informatik Chemnitz 2012, Tagungsband zum 1. Studentensymposium Chemnitz vom 4. Juli 2012, July 04 2012, Germany, pp. 38-51.
+
+## Other Interests
+
+* [Chemnitzer Linux-Tage](www.linux-tage.de)
 
 ## Contact
 

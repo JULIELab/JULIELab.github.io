@@ -20,8 +20,8 @@ layout: staff
 * Clinical Natural Language Processing
 
 ## Projects Involved
-* [STAKI<sup>2</sup>B<sup>2</sup> (Semantic Text Analytics for Quality Controlled Extraction of Clinical Phenotype Information in Healthcare Integrated Biobanking)](http://gepris.dfg.de/gepris/projekt/315098900), founded by Deutsche Forschungsgesellschaft (DFG)
-* [SMITH (Smart Medical Information Technology for Healthcare)](http://www.smith.care/) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by German Federal Ministry of Education and Research (BMBF)
+* [STAKI<sup>2</sup>B<sup>2</sup> (Semantic Text Analytics for Quality Controlled Extraction of Clinical Phenotype Information in Healthcare Integrated Biobanking)](http://gepris.dfg.de/gepris/projekt/315098900), founded by [Deutsche Forschungsgesellschaft (DFG)](https://www.dfg.de/)
+* [SMITH (Smart Medical Information Technology for Healthcare)](http://www.smith.care/) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/)
 
 ## Teaching Experience
 * Basics of Theoretical computer science

@@ -26,7 +26,8 @@ layout: staff
 ## Publications
 
 ### 2019
-* Tobias Kolditz, Christina Lohr, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: Annotating German Clinical Documents for De-Identification (accepted at MedInfo 2019 Lyon)
+* 
+* Tobias Kolditz, Christina Lohr, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/))
 
 ### 2018
 * Gerd Fabian Volk, Rebecca Anna Schaede, Jovanna Thielker, Luise Modersohn, Oliver Mothes, Charles C. Nduka, Jodi Maron Barth, Joachim Denzler and Orlando Guntinas-Lichius.: In Reliability of Grading of Facial Palsy using a Video Tutorial with Synchronous Video Recording. In: Laryngoscope (accepted)

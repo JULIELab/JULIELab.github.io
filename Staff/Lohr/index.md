@@ -31,7 +31,7 @@ layout: staff
 
 ### 2019
 
-* Tobias Kolditz, **Christina Lohr**, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/)) [[PMID:31437914](https://www.ncbi.nlm.nih.gov/pubmed/31437914)]
+* Tobias Kolditz, **Christina Lohr**, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/)) [[Slides](/downloads/publications/slides/lohr-2019-medinfo-de-id-slides.pdf)] [[PMID:31437914](https://www.ncbi.nlm.nih.gov/pubmed/31437914)]
 
 * **Christina Lohr**, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein, Udo Hahn: [Continuous Quality Control and Advanced Text Segment Annotation with WAT-SL 2.0](https://www.aclweb.org/anthology/W19-4025) In [The 13th Linguistic Annotation Workshop](https://sigann.github.io/LAW-XIII-2019/) ACL 2019, August 1, Italy Firence [[Code on GitHub](https://github.com/webis-de/wat)] [[Poster](/downloads/publications/posters/Poster_ACL_LAW_2019_WATSL.pdf)] [[ACL Anthology](https://aclweb.org/anthology/papers/W/W19/W19-4025/)]
 

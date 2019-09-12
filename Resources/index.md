@@ -10,17 +10,19 @@ For further questions contact [julielab@listserv.uni-jena.de](mailto:julielab@li
 
 ## Corpora
 
-[GeneReg](GeneReg.html) - abstracts dealing with the regulation of gene expression in the model organism E. coli
+* [GeneReg](GeneReg.html) - abstracts dealing with the regulation of gene expression in the model organism E. coli
 
-[FSU-PRGE](FSU_PRGE.html) - The FSU PRotein GEne corpus
+* [FSU-PRGE](FSU_PRGE.html) - The FSU PRotein GEne corpus
+
+* [JSynCC](https://github.com/julielab/jsyncc) - Jena Synthetic Clinical Corpus 
 
 ## Software
 
-[JCoRe NLP tool suite](JCoRe.html) - for the application purposes of semantic search, information extraction and text mining
+* [JCoRe NLP tool suite](JCoRe.html) - for the application purposes of semantic search, information extraction and text mining
 
-[UIMA type system](https://github.com/JULIELab/jcore-projects) - a annotation type system which covers formal document structure and document meta information as well as the linguistic levels of morphology, syntax and semantics
+* [UIMA type system](https://github.com/JULIELab/jcore-projects) - a annotation type system which covers formal document structure and document meta information as well as the linguistic levels of morphology, syntax and semantics
 
-GeNo - system for gene name normalization
+* GeNo - system for gene name normalization
 
 ## Models
 

@@ -30,13 +30,13 @@ To achieve a large coverage of biological subdomains, document from multiple oth
 
 All document are delivered as MMAX2 ([http://mmax2.net/](http://mmax2.net/)) annotation projects.
 
-#### Corpus statistics:
+## Corpus statistics:
 
 | &nbsp;&nbsp;&nbsp;documents | 3309 (3308 since v1.1) |
 | &nbsp;&nbsp;&nbsp;sentences | 36223 |
 | &nbsp;&nbsp;&nbsp;tokens | 960757 |
 
-#### Changelog:
+## Changelog:
 
 March 26, 2019, v1.1:
 * Fixed a range of MMAX2 projects that were broken in v1.0. Mostly added or removed broken sentence annotations, recreated Basedata for one project.

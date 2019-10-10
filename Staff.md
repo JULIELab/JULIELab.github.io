@@ -7,7 +7,6 @@ layout: staff_tab
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Dr. des. Johannes Hellrich](/Staff/Johannes+Hellrich.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Johannes.Hellrich@uni-jena.de](mailto:Johannes.Hellrich@uni-jena.de)	| 44305 |
 | [Sven Buechel](/Staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
 | [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
@@ -24,6 +23,7 @@ Fax of the group: +49 3641 9-44321
 
 during residence in Jena (since 2006; in anti-chronological order):
 
+Dr. Johannes Hellrich (TBA) <br/>
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
 Dr. Elena Beisswanger ([Munich Re](https://www.xing.com/profile/Elena_Beisswanger2/cv))<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>

@@ -12,7 +12,7 @@ Publications
 
 Inhaltsverzeichnis:
 
-1. All-time Favorites (Top 10)
+1. All-time Favorites
   * Natural Language Processing: Systems & Applications
   * Information Extraction & Text Mining
   * Text Summarization
@@ -35,7 +35,7 @@ Inhaltsverzeichnis:
 7. Machine Learning
 8. Digital Humanities
 
-## 1) All-time Favorites (Top 10)
+## 1) All-time Favorites
 
 M. Strube & U. Hahn [1999]. 
 	Functional centering: Grounding referential coherence in information structure.

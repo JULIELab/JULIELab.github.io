@@ -11,7 +11,7 @@ Vor dem Hintergrund dieser technologischen Entwicklungen wird dann die Informati
 Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlagenbezogene Vorlesung durch eine praxisnahe Übung bei Bedarf ergänzt wird. Die Vorlesung führt die Inhalte strukturiert ein, die Übung dient der vertiefenden Klärung und konkreten Anwendung der in der Vorlesung erworbenen Kenntnisse.
 
 ### Vorlesung
-Hier werden im Laufe der Vorlesungszeit Unterrichstsmaterialien veröffentlicht.
+1. [Einführung](/downloads/teaching/ws2019/dh/ASQ Digital Humanities (1) Intro-sh.pdf) (aktualisiert am 15.10.2019)
 
 <!---
 1. [Einführung](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (1) Intro-sh.pdf) (aktualisiert am 08.05.2019)

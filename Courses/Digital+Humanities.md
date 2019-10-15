@@ -11,7 +11,9 @@ Vor dem Hintergrund dieser technologischen Entwicklungen wird dann die Informati
 Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlagenbezogene Vorlesung durch eine praxisnahe Übung bei Bedarf ergänzt wird. Die Vorlesung führt die Inhalte strukturiert ein, die Übung dient der vertiefenden Klärung und konkreten Anwendung der in der Vorlesung erworbenen Kenntnisse.
 
 ### Vorlesung
+Hier werden im Laufe der Vorlesungszeit Unterrichstsmaterialien veröffentlicht.
 
+<!---
 1. [Einführung](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (1) Intro-sh.pdf) (aktualisiert am 08.05.2019)
 2. [Korpora](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 14.05.2019)
 3. [Suche](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (3) Suche-sh.pdf) (aktualisiert am 04.06.2019)
@@ -19,6 +21,7 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 5. [Recherche in Korpora](/downloads/teaching/ss2019/dh/ASQ Digital Humanities Recherche in Korpora_Lohr.pdf) (aktualisiert am 14.06.2019)
 6. [Semantische Technologien](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (5) Semantische Technologien I-sh.pdf) (aktualisiert am 10.07.2019)
 7. [Methodologische Aspekte](/downloads/teaching/ss2019/dh/ASQ Digital Humanities (6) Methodologische Aspekte-sh.pdf) (aktualisiert am 10.07.2019)
+--->
 
 <!---
 2. [Korpora](/downloads/teaching/ws201819/dh/ASQ Digital Humanities (2) Korpora-sh.pdf) (aktualisiert am 20.11.2018)

@@ -2,42 +2,30 @@
 layout: staff
 ---
 
--   [1) All-time Favorites](#all-time-favorites)
--   [2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)
--   [a) Information Extraction & Text
-    Mining](#a-information-extraction-text-mining)
--   [b) Text Summarization](#b-text-summarization)
--   [c) Knowledge Base Population](#c-knowledge-base-population)
--   [d) (Multilingual) Information
-    Retrieval](#d-multilingual-information-retrieval)
--   [3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)
--   [a) Language Resources --
-    Corpora](#a-language-resources-corpora)
--   [b) Natural Language Processing: Language Resources --
-    Software Tools, incl. Unstructured Information Management
-    Architecture
-    (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)
--   [c) Corpus Annotation](#c-corpus-annotation)
--   [4) Natural Language Processing: Methods](#natural-language-processing-methods)
--   [a) Text Parsing & Semantic
-    Interpretation](#a-text-parsing-semantic-interpretation)
--   [b) Anaphora Resolution & Discourse Structure
-    Analysis](#b-anaphora-resolution-discourse-structure-analysis)
--   [c) Emotion and Sentiment
-    Analysis](#c-emotion-and-sentiment-analysis)
--   [5) Biomedical NLP](#biomedical-nlp)
--   [a) Biomedical NLP: Term
-    Extraction](#a-biomedical-nlp-term-extraction)
--   [b) Bioinformatics
-    Applications](#b-bioinformatics-applications)
--   [6) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)
--   [7) Biomedical Ontology Engineering](#biomedical-ontology-engineering)
--   [8) Machine Learning](#machine-learning)
--   [9) Digital Humanities](#digital-humanities)
+[1) All-time Favorites](#all-time-favorites)
+[2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)
+	[a) Information Extraction & Text Mining](#a-information-extraction-text-mining)
+	[b) Text Summarization](#b-text-summarization)
+	[c) Knowledge Base Population](#c-knowledge-base-population)
+	[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)
+[3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)
+	[a) Language Resources -- Corpora](#a-language-resources-corpora)
+	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)
+	[c) Corpus Annotation](#c-corpus-annotation)
+[4) Natural Language Processing: Methods](#natural-language-processing-methods)
+	[a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)
+	[b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)
+	[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)
+[5) Biomedical NLP](#biomedical-nlp)
+	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)
+	[b) Bioinformatics Applications](#b-bioinformatics-applications)
+[6) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)
+[7) Biomedical Ontology Engineering](#biomedical-ontology-engineering)
+[8) Machine Learning](#machine-learning)
+[9) Digital Humanities](#digital-humanities)
 
 
-Prof. Dr. Udo Hahn
-==================
+# Prof. Dr. Udo Hahn
 
 [\[Overview\]](../Prof_+Dr_+Udo+Hahn.html) \|
 [\[Research\]](research.html) \| Publications
@@ -45,8 +33,7 @@ Prof. Dr. Udo Hahn
 [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de) \| [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-1) All-time Favorites
----------------------
+## 1) All-time Favorites
 
 M. Strube & U. Hahn \[1999\]. Functional centering: Grounding
 referential coherence in information structure. In Computational
@@ -101,8 +88,7 @@ driven parsing as a key concept for realistic text understanding
 applications. In International Journal of Intelligent Systems,
 4(3):345-393.
 
-2) Natural Language Processing: Systems & Applications
-------------------------------------------------------
+## 2) Natural Language Processing: Systems & Applications
 
 ### a) Information Extraction & Text Mining
 
@@ -246,8 +232,7 @@ S. Schulz & U. Hahn \[2000\]. Morpheme-based, cross-lingual indexing for
 medical document retrieval. In International Journal of Medical
 Informatics, 59(3):87-99.
 
-3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation
-------------------------------------------------------------------------------------------
+## 3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation
 
 ### a) Language Resources -- Corpora
 
@@ -394,8 +379,7 @@ with different perspectives of text understanding in emotion annotation.
 In: LAW XI 2017 -- Proceedings of the 11th Linguistic Annotation
 Workshop @ EACL 2017. Valencia, Spain, April 3, 2017, pp. 1--12.
 
-4) Natural Language Processing: Methods
----------------------------------------
+## 4) Natural Language Processing: Methods
 
 ### a) Text Parsing & Semantic Interpretation
 
@@ -551,8 +535,7 @@ the 7th Workshop on Computational Approaches to Subjectivity, Sentiment
 & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16,
 2016, pp. 147-153.
 
-5) Biomedical NLP
------------------
+## 5) Biomedical NLP
 
 U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\]. Mining the
 pharmacogenomics literature: A survey of the state of the art. In
@@ -701,8 +684,7 @@ R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].
 Genome-wide scale-free network inference for Candida albicans. In
 Frontiers in Microbiology, 3(51).
 
-6) Knowledge Representation and Spatio-Temporal Reasoning
----------------------------------------------------------
+## Knowledge Representation and Spatio-Temporal Reasoning
 
 S. Schulz & U. Hahn \[2005\]. Part-whole representation and reasoning in
 formal biomedical ontologies. In Artificial Intelligence in Medicine,
@@ -775,8 +757,7 @@ frame data model In IJCAI '83 -- Proceedings of the 8th International
 Joint Conference on Artificial Intelligence. Vol. 1. Karlsruhe, West
 Germany, 8-12 August 1983. W. Kaufmann, pp. 337-339.
 
-7) Biomedical Ontology Engineering
-----------------------------------
+## 7) Biomedical Ontology Engineering
 
 S. Schulz & U. Hahn \[2007\]. Towards the ontological foundations of
 symbolic biological theories. In Artificial Intelligence in Medicine,
@@ -864,8 +845,7 @@ making sense of qualitative meaning structures. In B.-O. Küppers, U.
 Hahn & S. Artmann (Eds.) Evolution of Semantic Systems. Springer,
 pp.151-173.
 
-8) Machine Learning
--------------------
+## 8) Machine Learning
 
 K. Tomanek & U. Hahn \[2009\]. Semi-supervised active learning for
 sequence labeling. In ACL-IJCNLP 2009 -- Proceedings of the 47th Annual
@@ -924,8 +904,7 @@ Scheler (Eds.), Connectionist, Statistical and Symbolic Approaches to
 Learning for Natural Language Processing. Springer, pp.453-468 (Lecture
 Notes in Artificial Intelligence, 1040).
 
-9) Digital Humanities
----------------------
+## 9) Digital Humanities
 
 J. Hellrich & U. Hahn \[2017\]. Exploring diachronic lexical semantics
 with JeSemE. In ACL 2017 -- Proceedings of the 55th Annual Meeting of

@@ -11,21 +11,22 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 ### Terminplan:
 
-* 26.4. SB: Unsentimental Embeddings
-* 3.5. UH: [Konferenzberichte ACL/COLING](/downloads/teaching/ss2019/theoreticum_technicum/LREC–COLING–ACL-2018-Konferenzueberblick.pdf)
-* 14.5. TD: Probevortrag
-* 17.5. JH: Probevortrag
-* 28.5. SB: Probevortrag
-* 25.6. 13:00 EF+CL: LSTM-basierte kontextualisierte Embeddings (ULMFiT, [ELMo, Flair](downloads/teaching/ss2019/theoreticum_technicum/context-word-embeddings-elmo-flair.pdf))
-* 10.7. 12:00 SB+JH: Attention für kontextualisierte Embeddings (BERT) und Maschinelle Übersetzung(?)
-* 12.7. LM: GANs
+* 16.10.
+* 23.10. Büchel: Bericht Amazon-Praktikum
+* 28.10. (*Montag! 13 - 17 Uhr*) Lohr: Paper-Planung + Konferenzberichte ACL/MedInfo
+* 13.11. (*9 - 13 Uhr*) Büchel: Paper-Planung + Hahn: Konferenzberichte ACL/MedInfo/EMNLP
+* 19.11. (*Diestag* 14 - 16 Uhr): OFFEN
+* 20.11. N. Sai: Erste Präsentation Bachelorarbeit
+* 04.12. Platzhalter für IJCAI-Planung
+* 11.12. OFFEN
+* 18.12. Weihnachtsfeier
+* 08.01. Modersohn: Zeit-Relations-Extraktion und -Reasoning
+* 15.01. Eder: Pseudonymisierung/Vulgärsprache
+* 22.01. OFFEN
+* 29.01. OFFEN
+* 05.02. OFFEN
 
 
 ### Themen-Pool
-* Christoph Rzymski: Skopus
-* Sven Buechel & Christina Lohr: Konferenzberichte (NAACL, COLING, EMNLP, AMIA)
-* Kontextualiserte Wortrepräsentationen
 * SB: Modernisierung der Lehrmaterialen
-* JH?: Speicherung und Reproduzierbarkeit von Forschungsdaten
-* LM: Temporale Annotationen
 

@@ -15,7 +15,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 23.10. Büchel: Bericht Amazon-Praktikum
 * 28.10. (**Montag! 13 - 17 Uhr**) Lohr: Paper-Planung + Konferenzberichte ACL/MedInfo
 * 13.11. (**9 - 13 Uhr**) Büchel: Paper-Planung + Hahn: Konferenzberichte ACL/MedInfo/EMNLP
-* 19.11. (**Diestag* 14 - 16 Uhr**): OFFEN
+* 19.11. (**Diestag 14 - 16 Uhr**): OFFEN
 * 20.11. N. Sai: Erste Präsentation Bachelorarbeit
 * 04.12. Platzhalter für IJCAI-Planung
 * 11.12. OFFEN
@@ -29,4 +29,6 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 
 ### Themen-Pool
 * SB: Modernisierung der Lehrmaterialen
+* SB: Tensorflow, PyTorch, MXNet---Deep-Learning-Frameworks im Vergleich
+* TD: Tweet-Crawling
 

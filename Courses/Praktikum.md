@@ -13,16 +13,16 @@ Die praktischen Arbeiten besitzen in diesem Kurs einen hohen Stellenwert. Je nac
 
 ### Folien
 
-* [Einführung in die Programmierung](/downloads/teaching/ss2019/praktikum/slides_praktikum_intro.pdf) (aktualisiert am 02.05.19)
+<!-- * [Einführung in die Programmierung](/downloads/teaching/ss2019/praktikum/slides_praktikum_intro.pdf) (aktualisiert am 02.05.19)
 * [NLTK & sklearn](/downloads/teaching/ss2019/praktikum/ss19_praktikum_nltk_sklearn.pdf)
-
+ -->
 ### Skripte
 
-* [Datenanalyse](/downloads/teaching/ss2019/praktikum/skript_datenanalyse.ipynb)
+<!-- * [Datenanalyse](/downloads/teaching/ss2019/praktikum/skript_datenanalyse.ipynb) -->
 
 ### Aufgabenblätter
 
-* [Blatt 1](/downloads/teaching/ss2019/praktikum/praktikum_1_aufgabe.ipynb)
+<!-- * [Blatt 1](/downloads/teaching/ss2019/praktikum/praktikum_1_aufgabe.ipynb)
 * [Blatt 2](/downloads/teaching/ss2019/praktikum/praktikum_2_aufgabe.ipynb)
 * [Blatt 3](/downloads/teaching/ss2019/praktikum/praktikum_3_aufgabe.ipynb)
-* [Blatt 4](/downloads/teaching/ss2019/praktikum/praktikum_4_aufgabe.ipynb)
+* [Blatt 4](/downloads/teaching/ss2019/praktikum/praktikum_4_aufgabe.ipynb) -->

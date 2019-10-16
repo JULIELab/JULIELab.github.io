@@ -268,20 +268,16 @@ hr {
 }
 
 footer {
-  width:180px;
-  position:relative;
-  top:285px;
-  bottom:50px;
+  width: 180px;
+  position: relative;
+  top: 285px;
+  bottom: 50px;
   -webkit-font-smoothing:subpixel-antialiased;
-}
-
-footer1 {
-  display: none;
 }
 
 @media print, screen and (max-width: 960px) {
 
-  div.wrapper {
+  div.center {
     width:auto;
     margin:0;
   }

@@ -9,6 +9,7 @@ layout: staff
 
 After studying physics, sociology and German philology at Jena University, I joined Prof. [Udo Hahn](https://scholar.google.de/citations?user=pSziNSkAAAAJ&hl=de)'s Group in summer 2016. Since then my work focuses on modeling emotional reactions to language on different linguistic levels (words, sentences, and texts). A distinguishing feature of our research is the close connection to psychology in terms of data sets and, in particular, formal representations of affective states. As such, my long-term goal is to push sentiment analysis away from its narrow focus on positive vs. negative feelings only but instead introducing more expressive models of emotion from psychological theory. I am also interested in applying our resulting methodologies to questions asked within the humanities and social sciences.
 In summer 2018, I spent three months as a visiting scholar at the University of Pennsylvania working together with [Lyle Ungar](https://scholar.google.de/citations?user=KCiDjbkAAAAJ&hl=de&oi=ao).
+I spent summer 2019 as a research intern at Amazon Alexa where I was working on accelerating question answering models for production.
 
 [[Google Scholar](https://scholar.google.de/citations?user=Nwru9iwAAAAJ&hl=de)] |
 [[Researchgate](https://www.researchgate.net/profile/Sven_Buechel?ev=hdr_xprf&_sg=4upFSfeSCN9Idsn1cwroLK5_7bD0IiCpcAl3-Z25Xr164MVfOG6aYTsw0crE-OF8s0_fUCVQ96HJKwmkt65aguxZ)] |

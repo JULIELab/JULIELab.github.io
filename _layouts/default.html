@@ -56,11 +56,11 @@
 	<br>
 	<a href="/Imprint.html">Imprint</a>
 	</nav>
-      <footer>
+      <github>
         <p>Visit us on <a href="{{ site.github.owner_url }}">GitHub</a></p>
 	<a href="http://www.uni-jena.de"><img src="{{site.fsu | relative_url}}" height="45" width="135" alt="http://www.uni-jena.de" /></a>
         <p><small>© 2019 JULIE Lab</small></p>
-      </footer>
+      </github>
       </header>    
       <navi>
 	<h1><a href="{{ "/" | absolute_url }}" style="color: #b12d2d">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -71,15 +71,6 @@
 	      
       {{ content }}
       
-      <footer1>
-	<br>
-        <p>Visit us on <a href="{{ site.github.owner_url }}">GitHub</a></p>
-	<a href="http://www.uni-jena.de"><img src="{{site.fsu | relative_url}}" height="45" width="135" alt="http://www.uni-jena.de" /></a>
-        <p><small>© 2019 JULIE Lab</small></p>
-      </footer1>
-      </section>     
-    </div>
-
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

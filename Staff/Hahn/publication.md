@@ -2,48 +2,36 @@
 layout: staff
 ---
 
-[1) All-time Favorites](#all-time-favorites)
-
-[2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)
-
-[a) Information Extraction & Text Mining](#a-information-extraction-text-mining)
-
-[b) Text Summarization](#b-text-summarization)
-
-[c) Knowledge Base Population](#c-knowledge-base-population)
-
-[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)
+[1) All-time Favorites](#all-time-favorites)<br/>
+[2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)<br/>
+<pre>
+	[a) Information Extraction & Text Mining](#a-information-extraction-text-mining)
+	[b) Text Summarization](#b-text-summarization)
+	[c) Knowledge Base Population](#c-knowledge-base-population)
+	[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)
+</pre>
 
 [3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)
-
-[a) Language Resources -- Corpora](#a-language-resources-corpora)
-
-[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)
-
-[c) Corpus Annotation](#c-corpus-annotation)
-
-[4) Natural Language Processing: Methods](#natural-language-processing-methods)
-
-[a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)
-
-[b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)
-
-[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)
-
-[5) Biomedical NLP](#biomedical-nlp)
-
-[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)
-
-[b) Bioinformatics Applications](#b-bioinformatics-applications)
-
-[6) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)
-
-[7) Biomedical Ontology Engineering](#biomedical-ontology-engineering)
-
-[8) Machine Learning](#machine-learning)
-
-[9) Digital Humanities](#digital-humanities)
-
+<pre>
+	[a) Language Resources -- Corpora](#a-language-resources-corpora)
+	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)
+	[c) Corpus Annotation](#c-corpus-annotation)
+</pre>
+[4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
+<pre>
+	[a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)
+	[b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)
+	[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)
+</pre>
+[5) Biomedical NLP](#biomedical-nlp)<br/>
+<pre>
+	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)
+	[b) Bioinformatics Applications](#b-bioinformatics-applications)
+</pre>
+[6) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
+[7) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
+[8) Machine Learning](#machine-learning)<br/>
+[9) Digital Humanities](#digital-humanities)<br/>
 
 # Prof. Dr. Udo Hahn
 

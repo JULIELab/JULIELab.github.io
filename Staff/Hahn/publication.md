@@ -8,7 +8,6 @@ layout: staff
 	[b) Text Summarization](#b-text-summarization)<br/>
 	[c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
-<br/>
 [3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
 	[a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
 	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>

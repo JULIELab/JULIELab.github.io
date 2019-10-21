@@ -2,6 +2,8 @@
 layout: staff
 ---
 
+# Prof. Dr. Udo Hahn's publications
+
 [1) All-time Favorites](#all-time-favorites)<br/>
 [2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)<br/>
 	[a) Information Extraction & Text Mining](#a-information-extraction-text-mining)<br/>
@@ -24,7 +26,6 @@ layout: staff
 [8) Machine Learning](#machine-learning)<br/>
 [9) Digital Humanities](#digital-humanities)<br/>
 
-# Prof. Dr. Udo Hahn
 
 [\[Overview\]](../Prof_+Dr_+Udo+Hahn.html) \|
 [\[Research\]](research.html) \| Publications

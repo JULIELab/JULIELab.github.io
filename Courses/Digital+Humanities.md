@@ -36,7 +36,10 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 5. [Semantische Technologien I](/downloads/teaching/ss2018/dh/ASQ_Digital_Humanities_6_Semantische_Technologien_I-sh.pdf)
 6. [Semantische Technologien II](/downloads/teaching/ss2018/dh/ASQ+Digital+Humanities+7+Semantische+Technologien+II-sh.pdf) (aktualisiert am 12.7.18)
 7. [Methodologische Aspekte](/downloads/teaching/ss2018/dh/ASQ+Digital+Humanities+9+Methodologische+Aspekte-sh.pdf)
+--->
+
 ### Übung
-1. [Aussagenlogik / Suche in DTA / XML](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-1.pdf) (aktualisiert am 08.01.2019) [[Übungsblatt 1](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-1.pdf)]
+0. [Aussagenlogik](/downloads/teaching/ws201920/dh/ASQ Digital Humanities Uebung-1.pdf) (aktualisiert am 08.01.2019) [[Übungsblatt 1](/downloads/teaching/ws201819/dh/ue_aussagenlogik.pdf)]
+<!---
 2. [Reguläre Ausdrücke](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-2.pdf) (aktualisiert am 29.01.2019) [[Übungsblatt 2](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-2.pdf)]
 --->

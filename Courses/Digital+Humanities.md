@@ -40,6 +40,7 @@ Das Modul ist als 2-stündige Lehrveranstaltung konzipiert, in der die grundlage
 
 ### Übung
 0. [Aussagenlogik](/downloads/teaching/ws201920/dh/ASQ Digital Humanities Uebung-1.pdf) (aktualisiert am 08.01.2019) [[Übungsblatt 1](/downloads/teaching/ws201819/dh/ue_aussagenlogik.pdf)]
+
 <!---
 2. [Reguläre Ausdrücke](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebung-2.pdf) (aktualisiert am 29.01.2019) [[Übungsblatt 2](/downloads/teaching/ws201819/dh/ASQ Digital Humanities Uebungsblatt-2.pdf)]
 --->

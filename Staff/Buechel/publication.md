@@ -8,6 +8,8 @@ layout: staff
 
 #### 2019
 
+* João Sedoc\*, **Sven Buechel\***, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2019. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. [[arXiv](http://arxiv.org/abs/1912.01079)]
+
 * **Sven Buechel**, Simon Junker, Thore Schlaak, Claus Michelsen, and Udo Hahn. 2019. A Time Series Analysis of Emotional Loading in Central Bank Statements. In *Proceedings of the Second Workshop on Economics and Natural Language Processing* @ EMNLP 2019, Hong Kong, November 4, 2019, pages 16-21. [[Paper](https://www.aclweb.org/anthology/D19-5103.pdf)] [[arXiv](https://arxiv.org/abs/1911.11522)] [[Poster](/downloads/publications/posters/ECONLP-2019-Poster.pdf)]
 
 * Johannes Hellrich\*, **Sven Buechel\***, and Udo Hahn. 2019. Modeling Word Emotion in Historical Language: Quantity Beats Supposed Stability in Seed Word Selection. In *LaTeCH-CLfL @ NAACL 2019*. [[Paper](https://www.aclweb.org/anthology/W19-2501)][[Bib](/downloads/publications/bibs/hellrich-buechel-2019-latech.bib)][[Slides](/downloads/publications/slides/buechel/slides-latech-2019-emotion.pdf)][[Preprint](https://arxiv.org/abs/1806.08115)]

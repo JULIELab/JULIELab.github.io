@@ -16,12 +16,12 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 28.10. (**Montag! 14:30 - 18:00 Uhr**)  Paperplanung ACL, IJCAI
 * 13.11. (Mittwoch 10-12): Büchel: Bericht Amazon-Praktikum
 * 20.11. (Mittwoch 10-12) N. Sai: Erste Präsentation Bachelorarbeit
-* 04.12. Platzhalter für IJCAI-Planung
-* 11.12. Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP
+* 04.12. IJCAI-Planung
+* 11.12. (krankheitsbedingt entfallen)
 * 18.12. Weihnachtsfeier
-* 08.01. Modersohn: Zeit-Relations-Extraktion und -Reasoning
+* 08.01. Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP
 * 15.01. Eder: Pseudonymisierung/Vulgärsprache
-* 22.01. OFFEN
+* 22.01. Modersohn: Zeit-Relations-Extraktion und -Reasoning
 * 29.01. Entfällt wegen Dissertationstag (Do, Fr)
 * 05.02. OFFEN
 

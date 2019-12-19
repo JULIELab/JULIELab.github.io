@@ -3,6 +3,9 @@ layout: default
 ---
 # Lab News
 
+## Dec '19 paper accepted
+* Submission by Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz and Udo Hahn about diagnoses annotation of German discharge summaries accepted at [MIE 2020 Geneva Swiss](http://mie2020.org)
+
 ## May '19 paper accepted
 * Submission by Christina Lohr, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein and Udo Hahn on the further development of [Web Annotation Tool - Segment Labeling (WAT-SL)](https://github.com/webis-de/wat), a cooperation together with the [Webis Group](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/home/) accepted at [LAW@ACL 2019](https://sigann.github.io/LAW-XIII-2019/).
 

@@ -29,6 +29,10 @@ layout: staff
 
 ## Publications
 
+### 2020
+
+Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries accepted at [MIE 2020 Geneva Swiss](http://mie2020.org)
+
 ### 2019
 
 * Tobias Kolditz, **Christina Lohr**, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/)) [[Slides](/downloads/publications/slides/lohr-2019-medinfo-de-id-slides.pdf)] [[PMID:31437914](https://www.ncbi.nlm.nih.gov/pubmed/31437914)]

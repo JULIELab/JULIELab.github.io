@@ -4,8 +4,8 @@ layout: default
 # Lab News
 
 ## Dec '19 paper accepted
-* Submission by Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz and Udo Hahn about diagnoses annotation of German discharge summaries accepted at [MIE 2020 Geneva Switzerland](http://mie2020.org)
-* Submission by Tinghui Duan, Sven Büchel and Udo Hahn about romanticism in political discourse on twitter accepted at [DHd2020 Paderborn Germany](https://dhd2020.de/)
+* Submission by Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz and Udo Hahn about diagnoses annotation of German discharge summaries accepted at [MIE 2020 Geneva Switzerland](http://mie2020.org).
+* Submission by Tinghui Duan, Sven Büchel and Udo Hahn about romanticism in political discourse on twitter accepted at [DHd2020 Paderborn Germany](https://dhd2020.de/).
 
 
 ## May '19 paper accepted

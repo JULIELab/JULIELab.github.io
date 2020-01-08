@@ -19,11 +19,15 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 04.12. IJCAI-Planung
 * 11.12. (krankheitsbedingt entfallen)
 * 18.12. Weihnachtsfeier
+* 23.01. (Donnerstag 13-14) Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP
+
+<!---
 * 08.01. Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP
 * 15.01. Eder: Pseudonymisierung/Vulgärsprache
 * 22.01. Modersohn: Zeit-Relations-Extraktion und -Reasoning
 * 29.01. Entfällt wegen Dissertationstag (Do, Fr)
 * 05.02. OFFEN
+--->
 
 
 ### Themen-Pool

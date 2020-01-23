@@ -20,6 +20,7 @@ Teilnehmen werden alle Examenskandidaten und Doktoranden mit einem computerlingu
 * 11.12. (krankheitsbedingt entfallen)
 * 18.12. Weihnachtsfeier
 * 23.01. (Donnerstag 13-15) Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP
+* 29.01. Konferenzbericht ACL/EMLNP UH
 
 <!---
 * 08.01. Lohr: Konferenzberichte ACL/MedInfo ; Hahn: Konferenzberichte ACL/MedInfo/EMNLP

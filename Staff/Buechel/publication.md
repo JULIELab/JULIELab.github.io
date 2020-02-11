@@ -6,9 +6,11 @@ layout: staff
 
 [<< Back to Overview](../Sven+Buechel.html)
 
-#### 2019
+#### 2020
 
-* João Sedoc\*, **Sven Buechel\***, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2019. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. [[arXiv](http://arxiv.org/abs/1912.01079)]
+* João Sedoc\*, **Sven Buechel\***, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2019. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. Accepted for LREC 2020. [[arXiv](http://arxiv.org/abs/1912.01079)]
+
+#### 2019
 
 * **Sven Buechel**, Simon Junker, Thore Schlaak, Claus Michelsen, and Udo Hahn. 2019. A Time Series Analysis of Emotional Loading in Central Bank Statements. In *Proceedings of the Second Workshop on Economics and Natural Language Processing* @ EMNLP 2019, Hong Kong, November 4, 2019, pages 16-21. [[Paper](https://www.aclweb.org/anthology/D19-5103.pdf)] [[arXiv](https://arxiv.org/abs/1911.11522)] [[Poster](/downloads/publications/posters/ECONLP-2019-Poster.pdf)]
 

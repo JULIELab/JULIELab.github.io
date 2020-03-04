@@ -24,6 +24,11 @@ layout: staff
 * Einführung in die Computerlinguistik und Sprachtechnologie
 
 ## Publications
+### 2020
+* Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries; accepted at MIE 2020, Geneva (Switzerland)
+
+* Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: PROGENE–A Large-scale, High-Quality Protein-Gene Annotated Corpus forSupervised Learning; accepted at LREC 2020, Marseille (France) 
+
 
 ### 2019
 * Tobias Kolditz, Christina Lohr, Johannes Hellrich, Luise Modersohn, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977) ([MedInfo 2019 Aug 25-30 Lyon France](https://medinfo-lyon.org/))
@@ -47,5 +52,5 @@ Luise Modersohn<br/>
 Research Assistent
 
 |Email | [Luise.Modersohn[at]uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) |
-|Phone | +49 3641 9-44305 |
+|Phone | +49 3641 9-44303 |
 |Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |

@@ -66,5 +66,5 @@ Research Assistant
 
 | Email | sven.buechel@uni-jena.de |
 | Phone | +49 3641 9-44324 |
-| Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
+<!--- | Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |--->
 | Room | E 009 |

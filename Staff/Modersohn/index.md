@@ -27,7 +27,7 @@ layout: staff
 ### 2020
 * Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries; accepted at MIE 2020, Geneva (Switzerland)
 
-* Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: PROGENE–A Large-scale, High-Quality Protein-Gene Annotated Corpus forSupervised Learning; accepted at LREC 2020, Marseille (France) 
+* Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: PROGENE–A Large-scale, High-Quality Protein-Gene Annotated Corpus for Supervised Learning; accepted at LREC 2020, Marseille (France) 
 
 
 ### 2019

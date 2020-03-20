@@ -67,9 +67,8 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 
 ## Contact
 
-| Email | [christina.lohr@uni-jena.de](mailto:christina.lohr@uni-jena.de) |
-| Phone	| I am not in my office, please send me an email to get my private number. |
-| Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
-| Room	| Fürstengraben 27 E 007 |
-| Twitter | [@chlor89](https://twitter.com/chlor89) |
-
+|Email | [christina.lohr@uni-jena.de](mailto:christina.lohr@uni-jena.de) |
+|Phone | I am not in my office, please send me an email to get my private number. |
+|Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
+|Room	| Fürstengraben 27 E 007 |
+|Twitter | [@chlor89](https://twitter.com/chlor89) |

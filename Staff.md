@@ -23,7 +23,7 @@ Fax of the group: +49 3641 9-44321
 
 during residence in Jena (since 2006; in anti-chronological order):
 
-Dr. Johannes Hellrich ([Semvox](https://www.semvox.de/))<br/>
+Dr. Johannes Hellrich ([paragon semvox](https://www.semvox.de/))<br/>
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
 Dr. Elena Beisswanger ([Munich Re](https://www.xing.com/profile/Elena_Beisswanger2/cv))<br/>
 Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>

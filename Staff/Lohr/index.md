@@ -31,7 +31,7 @@ layout: staff
 
 ### 2020
 
-* **Christina Lohr**, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries accepted at [MIE 2020 Geneva Switzerland](http://mie2020.org)
+* **Christina Lohr**, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries accepted at [MIE 2020](http://mie2020.org)
 
 ### 2019
 
@@ -66,7 +66,8 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 ## Contact
 
 | Email | [christina.lohr@uni-jena.de](mailto:christina.lohr@uni-jena.de) |
-| Phone	| +49 3641 9-44303 |
+| Phone	| I am not in my office, please send me an email to get my private number. |
+<!--| Phone	| +49 3641 9-44303 |-->
 | Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
 | Room	| Fürstengraben 27 E 007 |
 | Twitter | [@chlor89](https://twitter.com/chlor89) |

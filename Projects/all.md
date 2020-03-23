@@ -11,9 +11,15 @@ All |
 
 ## Current Projects
 
+![](/assets/img/polar_rgb_200px.png)
+
+The JULIE Lab is member of the **POLAR_MI** (POLypharmacy, Drug interActions, Risks) as a part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by German Federal Ministry of Education and Research (BMBF). POLAR aims to contribute to the detection of health risks in patients with polymedication using methods and started in March 2020. For the details of the project please visit the [POLAR website](https://www.medizininformatik-initiative.de/en/POLAR).
+
+------------------------------------------------------------------------
+
 ![](/assets/img/projects_SMITH-width-250-height-158.png)
 
-The JULIE Lab is member of the project SMITH (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare), founded by German Federal Ministry of Education and Research (BMBF). The project start is January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
+The JULIE Lab is member of the **SMITH consortia** (**S**mart **M**edical **I**nformation **T**echnology for **H**ealthcare) as a part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by German Federal Ministry of Education and Research (BMBF). The project started in January 2018. For the details of the project please visit the [SMITH website](http://www.smith.care/).
 
 ------------------------------------------------------------------------
 
@@ -25,7 +31,7 @@ Together with [Institut für Klinische Chemie und Laboratoriumsdiagnostik (IKCL)
 
 ![](/assets/img/projects_AquaDiva-width-360-height-70.png)
 
-The JULIE Lab is member of the AquaDiva project INFRA1. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).
+The JULIE Lab is member of the **AquaDiva project INFRA1**. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).
 
 ------------------------------------------------------------------------
 

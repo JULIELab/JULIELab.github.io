@@ -25,7 +25,7 @@ layout: staff
 
 ## Publications
 
-* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02-06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690)] [[Poster](https://github.com/JULIELab/DeBAC/raw/master/DHd2020/Poster_dhd2020.pdf)]
+* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02-06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690)] [[Poster](https://julielab.de/downloads/publications/posters/Poster_DHd2020.pdf)]
 
 * Yuan Li, **Tinghui Duan**, Haitao Liu. 2019. Is the Distribution of Nouns an Invariant in Human Languages? — An Investigation Based on Written German Corpora. In: *The Journal of Zhejiang University (Humanities and Social Science)*, 2019 (6). Pages 39-48. [[Paper](http://www.zjujournals.com/soc/CN/10.3785/j.issn.1008-942X.CN33-6000/C.2019.06.231)].
 

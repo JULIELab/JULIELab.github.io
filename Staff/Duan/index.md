@@ -25,7 +25,7 @@ layout: staff
 
 ## Publications
 
-* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02-06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690) [Poster](https://github.com/JULIELab/DeBAC/blob/master/DHd2020/Poster_dhd2020.pdf)]
+* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02-06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690)] [[Poster](https://github.com/JULIELab/DeBAC/blob/master/DHd2020/Poster_dhd2020.pdf)]
 
 * **Tinghui Duan**, Udo Hahn. 2019. Compiling Digital Fragments of Allgemeine Literatur-Zeitung, a Major Textual Resource for German Romanticism Research, into a Single Comprehensive Text Corpus. Poster presentation at the 10th International Corpus Linguistics Conference (CL2019), July 22-26, 2019, Cardiff, Wales. [[Poster](https://julielab.de/downloads/publications/posters/Poster_CL2019_Duan.pdf)]
 

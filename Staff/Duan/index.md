@@ -27,7 +27,7 @@ layout: staff
 
 * **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02-06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690)] [[Poster](https://github.com/JULIELab/DeBAC/raw/master/DHd2020/Poster_dhd2020.pdf)]
 
-* Yuan Li, **Tinghui Duan**, Haitao Liu. 2019. Is the Distribution of Nouns an Invariant in Human Languages? — An Investigation Based on Written German Corpora. In: The Journal of Zhejiang University (Humanities and Social Science), 26. Oktober 2019, 1. [[Paper](http://www.zjujournals.com/soc/CN/10.3785/j.issn.1008-942X.CN33-6000/C.2019.06.231)].
+* Yuan Li, **Tinghui Duan**, Haitao Liu. 2019. Is the Distribution of Nouns an Invariant in Human Languages? — An Investigation Based on Written German Corpora. In: *The Journal of Zhejiang University (Humanities and Social Science)*, 2019, 6. Pages 39-48. [[Paper](http://www.zjujournals.com/soc/CN/10.3785/j.issn.1008-942X.CN33-6000/C.2019.06.231)].
 
 
 * **Tinghui Duan**, Udo Hahn. 2019. Compiling Digital Fragments of Allgemeine Literatur-Zeitung, a Major Textual Resource for German Romanticism Research, into a Single Comprehensive Text Corpus. Poster presentation at the 10th International Corpus Linguistics Conference (CL2019), July 22-26, 2019, Cardiff, Wales. [[Poster](https://julielab.de/downloads/publications/posters/Poster_CL2019_Duan.pdf)]
@@ -36,9 +36,9 @@ layout: staff
 
 * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, **Tinghui Duan**, Peter Walgenbach and Udo Hahn. 2018. A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of balanced Organizational Writing. In *ECONLP 2018 — Proceedings of the First Workshop on Economics and Natural Language Processing* @ ACL 2018. Melbourne, Australia, July 20, 2018. Pages 20–31. [[Paper](http://aclweb.org/anthology/W18-3103)]
 
-* Jessica Neumann, **Tinghui Duan**. 2018. Lesbarkeitsformeln zur Messung sprachlicher Komplexität in Schulbuchtexten. In Britta Hövelbrinks, Isabel Fuchs, Diana Maak, **Tinghui Duan**, Beate Lütke (Eds.), *Der-Die-DaZ – Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache*, Berlin, Boston 2018: De Gruyter. Pages 269-284. [[DOI]](https://doi.org/10.1515/9783110582819-279)
+* Jessica Neumann, **Tinghui Duan**. 2018. Lesbarkeitsformeln zur Messung sprachlicher Komplexität in Schulbuchtexten. In: Britta Hövelbrinks, Isabel Fuchs, Diana Maak, **Tinghui Duan**, Beate Lütke (Eds.), *Der-Die-DaZ – Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache*, Berlin, Boston 2018: De Gruyter. Pages 269-284. [[DOI]](https://doi.org/10.1515/9783110582819-279)
 
-* Review of: Meiling Jin (2013): Suprasegmentalia und Fokussierung im Deutschen und Chinesischen – Ein Vergleich im Hinblick auf ihre Fremdsprachendidaktische Relevanz. In *Informationen Deutsch als Fremdsprache 42.2* (2015). Pages 246-247. [[DOI]](https://doi.org/10.1515/infodaf-2015-2-336)
+* Review of: Meiling Jin (2013): Suprasegmentalia und Fokussierung im Deutschen und Chinesischen – Ein Vergleich im Hinblick auf ihre Fremdsprachendidaktische Relevanz. In: *Informationen Deutsch als Fremdsprache 42.2* (2015). Pages 246-247. [[DOI]](https://doi.org/10.1515/infodaf-2015-2-336)
 
 ## Contact
 

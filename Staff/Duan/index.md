@@ -27,7 +27,7 @@ layout: staff
 
 ### 2020
 
-* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts*, March 02–06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690){:target="_blank"}] [[Poster](https://julielab.de/downloads/publications/posters/Poster_DHd2020.pdf){:target="_blank"}]
+* **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020. Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts.* 7. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum, March 02–06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690){:target="_blank"}] [[Poster](https://julielab.de/downloads/publications/posters/Poster_DHd2020.pdf){:target="_blank"}]
 
 ### 2019
 

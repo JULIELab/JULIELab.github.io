@@ -31,7 +31,9 @@ layout: staff
 
 ### 2020
 
-* Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: PROGENE–A Large-scale, High-Quality Protein-Gene Annotated Corpus for Supervised Learning; accepted at [LREC 2020](https://lrec2020.lrec-conf.org/)
+* Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In [LREC 2020](https://lrec2020.lrec-conf.org/) In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)]
+
+* **Christina Lohr**, Sven Buechel, and Udo Hahn. 2018. [Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf). In: LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018. Pages 1259-1266. [[Code on GitHub](https://github.com/julielab/jsyncc)] [[Poster](/downloads/publications/posters/Poster_LREC_JSYNCC.pdf)] [[ACL Anthology](https://aclweb.org/anthology/papers/L/L18/L18-1201/)]
 
 * **Christina Lohr**, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: An Evolutionary Approach to the Annotation of Discharge Summaries; accepted at [MIE 2020](http://mie2020.org)
 

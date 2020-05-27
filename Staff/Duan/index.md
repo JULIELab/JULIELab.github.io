@@ -27,7 +27,7 @@ layout: staff
 
 ### 2020
 
-* Bernd Kampe, **Tinghui Duan**, Udo Hahn. 2020. Allgemeine Musikalische Zeitung as a Searchable Online Corpus. In: *LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation.* Marseille, France, May 11-16, 2020. Pages 969–976. [[Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)]
+* Bernd Kampe, **Tinghui Duan**, Udo Hahn. 2020. _Allgemeine Musikalische Zeitung_ as a Searchable Online Corpus. In: *LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation.* Marseille, France, May 11-16, 2020. Pages 969–976. [[Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)]
 
 * **Tinghui Duan**, Sven Buechel, Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In: *DHd 2020. Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts.* 7. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum, March 02–06, 2020, Paderborn, Germany. [[Abstract](https://doi.org/10.5281/zenodo.3666690){:target="_blank"}] [[Poster](https://julielab.de/downloads/publications/posters/Poster_DHd2020.pdf){:target="_blank"}]
 

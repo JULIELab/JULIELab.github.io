@@ -6,9 +6,11 @@ layout: staff
 
 ## Curriculum Vitae
 
+<!---
 <div class="portrait">
   <img src="duan.jpg" height="240" width="180">
 </div>
+--->
 
 * since 10.2018: PhD Student at DFG Graduate School "[Romanticism as a Model](http://modellromantik.uni-jena.de/){:target="_blank"}" under supervision of [Prof. Dr. Udo Hahn](https://julielab.de/Staff/Hahn/){:target="_blank"}
 * since 07.2018: Research Assistant at JULIE Lab of Friedrich Schiller University Jena

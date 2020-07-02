@@ -49,7 +49,7 @@ layout: staff
 * **Christina Lohr**, Sven Buechel, and Udo Hahn. 2018. [Sharing Copies of Synthetic Clinical Corpora without Physical Distribution - A Case Study to Get Around IPRs and Privacy Constraints Featuring the German JSYNCC Corpus](http://www.lrec-conf.org/proceedings/lrec2018/pdf/701.pdf). In: LREC 2018 - Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018. Pages 1259-1266. [[Code on GitHub](https://github.com/julielab/jsyncc)] [[Poster](/downloads/publications/posters/Poster_LREC_JSYNCC.pdf)] [[ACL Anthology](https://aclweb.org/anthology/papers/L/L18/L18-1201/)]
 
 * Udo Hahn, Franz Matthies, **Christina Lohr**, Markus Löffler. [3000PA-Towards a National Reference Corpus of German Clinical Language](http://ebooks.iospress.nl/volumearticle/48747). In: Studies in Health Technology and Informatics,
-Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-Created eHealth - Proceedings of MIE 2018, Gothenburg, Sweden, April 24-26 2018. [[Slides](/downloads/publications/slides/lohr2018-mie-3000PA-slides.pdf)] [[PMID: 29677916](https://www.ncbi.nlm.nih.gov/pubmed/29677916)]
+Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-Created eHealth - Proceedings of MIE 2018, Gothenburg, Sweden, April 24-26 2018. [[Slides](/downloads/publications/slides/lohr2018-mie-3000PA-slides.pdf)] [[PMID: 29677916](https://www.ncbi.nlm.nih.gov/pubmed/29677916)][[DOI:10.3233/978-1-61499-852-5-26](doi.org/10.3233/978-1-61499-852-5-26)]
 
 ### 2016
 

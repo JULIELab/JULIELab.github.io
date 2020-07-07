@@ -8,6 +8,17 @@ layout: staff
 [[Research]](research.html) | 
 Publications
 
+#### 2020
+* **Erik Faessler**, Michel Oleynik and Udo Hahn: [What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way](https://doi.org/10.1145/3397271.3401048). In: *Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’20)*, Xi'an, China, July 25 - 30, 2020, DOI:10.1145/3397271.3401048
+* Lena Reimann, Anja N. Schwäble, Anna L. Fricke, Wignand W. D. Mühlhäuser, Yvonne Leber, Keerthika Lohanadan, Martin G. Puchinger, Sascha Schäuble, **Erik Faessler**, Heike Wiese, Christa Reichenbach, Bettina Knapp, Christian D. Peikert, Friedel Drepper, Udo Hahn, Clemens Kreutz, Peter F. M. van der Ven, Gerald Radziwill, Kristina Djinović-Carugo, Dieter O. Fürst & Bettina Warscheid: [Phosphoproteomics identifies dual-site phosphorylation in an extended basophilic motif regulating FILIP1-mediated degradation of filamin-C](https://www.nature.com/articles/s42003-020-0982-5). In: *Communications Biology 3, 253 (2020)*, DOI:10.1038/s42003-020-0982-5 
+
+#### 2020
+* **Erik Faessler**, Michel Oleynik and Udo Hahn: [JULIE Lab & Med Uni Graz @ TREC 2019 Precision Medicine Track](https://trec.nist.gov/pubs/trec28/papers/julie-mug.PM.pdf). In: *Proceedings of the Twenty-Eighth Text REtrieval Conference (TREC 2019)*, Gaithersburg, Washington, USA, November 13 - 15, 2019
+
+#### 2019
+* Michel Oleynik, **Erik Faessler**, Ariane Morassi Sasso, Arpita Kappattanavar, Benjamin Bergner, Harry Freitas da Cruz, Jan-Philipp Sachs, Suparno Datta and Erwin Bottinger: [HPI-DHC at TREC 2018 Precision Medicine Track](https://trec.nist.gov/pubs/trec27/papers/hpi-dhc-PM.pdf). In: *Proceedings of the Twenty-Seventh Text REtrieval Conference (TREC 2018)*, Gaithersburg, Washington, USA, November 2018
+* **Erik Faessler**, Luise Modersohn, Christina Lohr and Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf). In: *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)*, Marseille, France, May 11 - 16, 2020, pp. 4585–4596.
+
 #### 2018
 * **Erik Faessler** and Udo Hahn: [Annotation Data Management with JeDIS](https://dl.acm.org/citation.cfm?id=3229102). In: *The 18th ACM Symposium on Document Engineering*, Halifax, Nova Scotia, Canada, August 28 - 31, 2018, DOI:10.1145/3209280.3229102
 

@@ -24,7 +24,7 @@ Publications
 
 #### 2017
 * **Erik Faessler** and Udo Hahn: [Semedico: A Comprehensive Semantic Search Engine for the Life Sciences](http://aclweb.org/anthology/P17-4016). In: *ACL 2017, System Demonstrations. System Demonstrations.* Vancouver, Canada, July 30 - August 4, 2017, pp. 91-96. [[Link]](http://semedico.org/)
-* Friederike Klan, Erik Faessler, Alsayed Algergawy, Birgitta König-Ries, Udo Hahn: [Integrated Semantic Search on Structured and Unstructured Data in the ADOnIS System](http://ceur-ws.org/Vol-1933/paper-9.pdf). In: *Proceedings of the 2nd International Workshop on Semantics for Biodiversity* co-located with 16th International Semantic Web Conference (ISWC 2017), Vienna, Austria, October 21 - 25, 2017.
+* Friederike Klan, **Erik Faessler**, Alsayed Algergawy, Birgitta König-Ries, Udo Hahn: [Integrated Semantic Search on Structured and Unstructured Data in the ADOnIS System](http://ceur-ws.org/Vol-1933/paper-9.pdf). In: *Proceedings of the 2nd International Workshop on Semantics for Biodiversity* co-located with 16th International Semantic Web Conference (ISWC 2017), Vienna, Austria, October 21 - 25, 2017.
 
 #### 2016
 * Piero Dalle Pezze, Stefanie Ruf, Annika G. Sonntag, Miriam Langelaar-Makkinje, Philip Hall, Alexander M. Heberle, Patricia Razquin Navas, Karen van Eunen, Regine C. Tölle, Jennifer J. Schwarz, Heike Wiese, Bettina Warscheid, Jana Deitersen, Björn Stork, **Erik Fäßler**, Sascha Schäuble, Udo Hahn, Peter Horvatovich, Daryl P. Shanley, Kathrin Thedieck: [A systems study reveals concurrent activation of AMPK and mTOR by amino acids](https://www.nature.com/articles/ncomms13254). In: *Nature Communications* November 21, 2016; 7:13254., DOI:10.1038/ncomms13254
@@ -54,4 +54,4 @@ Publications
 
 * **Erik Faessler**, Rico Landefeld, Katrin Tomanek and Udo Hahn. LuCas - A Lucene CAS Indexer. *Proceedings of the Biennial GSCL Conference*, 2009.
 
-* Erik Fäßler. Automatische Extraktion von Protein-Protein-Interaktionen in biomedizinischen Texten unter Verwendung von Supportvektormaschinen. *Master Thesis, Friedrich-Schiller-Universtität Jena*, 2009. [[Download](/downloads/publications/thesis/diploma_thesis_faessler.pdf) PDF, 1.3 MB]
+* **Erik Fäßler**. Automatische Extraktion von Protein-Protein-Interaktionen in biomedizinischen Texten unter Verwendung von Supportvektormaschinen. *Master Thesis, Friedrich-Schiller-Universtität Jena*, 2009. [[Download](/downloads/publications/thesis/diploma_thesis_faessler.pdf) PDF, 1.3 MB]

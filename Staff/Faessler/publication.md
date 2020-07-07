@@ -16,7 +16,7 @@ Publications
 * **Erik Faessler**, Michel Oleynik and Udo Hahn: [JULIE Lab & Med Uni Graz @ TREC 2019 Precision Medicine Track](https://trec.nist.gov/pubs/trec28/papers/julie-mug.PM.pdf). In: *Proceedings of the Twenty-Eighth Text REtrieval Conference (TREC 2019)*, Gaithersburg, Washington, USA, November 13 - 15, 2019
 
 #### 2019
-* Michel Oleynik, **Erik Faessler**, Ariane Morassi Sasso, Arpita Kappattanavar, Benjamin Bergner, Harry Freitas da Cruz, Jan-Philipp Sachs, Suparno Datta and Erwin Bottinger: [HPI-DHC at TREC 2018 Precision Medicine Track](https://trec.nist.gov/pubs/trec27/papers/hpi-dhc-PM.pdf). In: *Proceedings of the Twenty-Seventh Text REtrieval Conference (TREC 2018)*, Gaithersburg, Washington, USA, November 2018
+* Michel Oleynik, **Erik Faessler**, Ariane Morassi Sasso, Arpita Kappattanavar, Benjamin Bergner, Harry Freitas da Cruz, Jan-Philipp Sachs, Suparno Datta and Erwin Bottinger: [HPI-DHC at TREC 2018 Precision Medicine Track](https://trec.nist.gov/pubs/trec27/papers/hpi-dhc-PM.pdf). In: *Proceedings of the Twenty-Seventh Text REtrieval Conference (TREC 2018)*, Gaithersburg, Washington, USA, November 14 - 16, 2018
 * **Erik Faessler**, Luise Modersohn, Christina Lohr and Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf). In: *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)*, Marseille, France, May 11 - 16, 2020, pp. 4585–4596.
 
 #### 2018

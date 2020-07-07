@@ -9,7 +9,7 @@ layout: staff
 Publications
 
 #### 2020
-* **Erik Faessler**, Michel Oleynik and Udo Hahn: [What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way](https://doi.org/10.1145/3397271.3401048). In: *Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’20)*, Xi'an, China, July 25 - 30, 2020, DOI:10.1145/3397271.3401048
+* **Erik Faessler**, Michel Oleynik and Udo Hahn: [What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way](https://doi.org/10.1145/3397271.3401048). In: *Proceedings of the 43rd International ACM **SIGIR** Conference on Research and Development in Information Retrieval (SIGIR ’20)*, Xi'an, China, July 25 - 30, 2020, DOI:10.1145/3397271.3401048
 * Lena Reimann, Anja N. Schwäble, Anna L. Fricke, Wignand W. D. Mühlhäuser, Yvonne Leber, Keerthika Lohanadan, Martin G. Puchinger, Sascha Schäuble, **Erik Faessler**, Heike Wiese, Christa Reichenbach, Bettina Knapp, Christian D. Peikert, Friedel Drepper, Udo Hahn, Clemens Kreutz, Peter F. M. van der Ven, Gerald Radziwill, Kristina Djinović-Carugo, Dieter O. Fürst & Bettina Warscheid: [Phosphoproteomics identifies dual-site phosphorylation in an extended basophilic motif regulating FILIP1-mediated degradation of filamin-C](https://www.nature.com/articles/s42003-020-0982-5). In: *Communications Biology 3, 253 (2020)*, DOI:10.1038/s42003-020-0982-5 
 
 #### 2020

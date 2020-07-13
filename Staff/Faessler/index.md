@@ -4,7 +4,7 @@ layout: staff
 
 # Erik Fäßler
 <div class="portrait">
-  <img src="erik_faessler-width-188-height-242.jpg">
+  <img src="Erik+Faessler-width-179-height-226.jpg">
 </div>
 
 Overview | 

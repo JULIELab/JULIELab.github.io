@@ -3,6 +3,12 @@ layout: default
 ---
 # Lab News
 
+## July '20 SIGIR talk
+* The talk 'What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way' on SIGIR 2020 takes place in session 3B on Monday，July 27, 16:00 (GMT+2) - looking forward to see you there!
+
+## April '20 paper accepted
+* Submission by Erik Faessler, Michel Oleynik and Udo Hahn on feature evaluation of precision medicine search engines accepted at [SIGIR 2020](https://sigir.org/sigir2020/).
+
 ## Dec '19 paper/Poster accepted
 * Submission by Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz and Udo Hahn about diagnoses annotation of German discharge summaries accepted at [MIE 2020 Geneva Switzerland](http://mie2020.org).
 * Poster Submission by Tinghui Duan, Sven Büchel and Udo Hahn about romanticism in political discourse on twitter accepted at [DHd2020 Paderborn Germany](https://dhd2020.de/).

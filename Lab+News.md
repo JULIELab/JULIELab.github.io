@@ -3,13 +3,19 @@ layout: default
 ---
 # Lab News
 
-## July '20 talks and awards
+## July '20 talks, awards and GGPONC Corpus
 * The talk 'What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way' on SIGIR 2020 takes place in session 3B on Monday，July 27, 16:00 (GMT+2) - looking forward to see you there!
 * Sven Buechel and Udo Hahn have received outstanding reviewer awards at [ACL 2020](https://acl2020.org/).
+* *Preprint* published: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
 
-## May '20 paper accepted
+## May '20 3 LREC papers and ACL paper accepted
 
 * Submission by Sven Buechel, Susanna Rückern and Udo Han on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
+* Our LREC papers:
+    * Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)] [[ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.564/)]
+    * João Sedoc\*, Sven Buechel\*, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. In LREC 2020. [[Proceedings](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)] [[arXiv](http://arxiv.org/abs/1912.01079)] [[bib](/downloads/publications/bibs/sedoc-buechel-2020-lrec.bib)]
+    * Bernd Kampe, Tinghui Duan, Udo Hahn. 2020. _Allgemeine Musikalische Zeitung_ as a Searchable Online Corpus. In: *LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation.* Marseille, France, May 11-16, 2020. Pages 969–976. [[Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)]
+
 
 ## April '20 paper accepted
 * Submission by Erik Faessler, Michel Oleynik and Udo Hahn on feature evaluation of precision medicine search engines accepted at [SIGIR 2020](https://sigir.org/sigir2020/).

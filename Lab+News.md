@@ -8,10 +8,10 @@ layout: default
 * Sven Buechel and Udo Hahn have received outstanding reviewer awards at [ACL 2020](https://acl2020.org/).
 * *Preprint* published: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
 
-## May '20 3 LREC papers and ACL paper accepted
+## May '20 3 LREC papers published and ACL paper accepted
 
 * Submission by Sven Buechel, Susanna Rückern and Udo Han on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
-* Three LREC papers:
+* Our LREC 2020 papers:
     * Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf);
     * João Sedoc, Sven Buechel, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. [Learning Word Ratings for Empathy and Distress from Document-Level User Responses](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)
     * Bernd Kampe, Tinghui Duan, Udo Hahn: [Allgemeine Musikalische Zeitung_ as a Searchable Online Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)

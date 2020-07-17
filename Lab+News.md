@@ -10,7 +10,7 @@ layout: default
 
 ## May '20 3 LREC papers published and ACL paper accepted
 
-* Submission by Sven Buechel, Susanna Rückern and Udo Han on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
+* Submission by Sven Buechel, Susanna Rücker and Udo Hahn on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
 * Our LREC 2020 papers:
     * Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf);
     * João Sedoc, Sven Buechel, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. [Learning Word Ratings for Empathy and Distress from Document-Level User Responses](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)

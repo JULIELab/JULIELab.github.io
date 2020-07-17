@@ -11,11 +11,10 @@ layout: default
 ## May '20 3 LREC papers and ACL paper accepted
 
 * Submission by Sven Buechel, Susanna Rückern and Udo Han on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
-* Our LREC papers:
-    * Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)] [[ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.564/)]
-    * João Sedoc\*, Sven Buechel\*, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. In LREC 2020. [[Proceedings](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)] [[arXiv](http://arxiv.org/abs/1912.01079)] [[bib](/downloads/publications/bibs/sedoc-buechel-2020-lrec.bib)]
-    * Bernd Kampe, Tinghui Duan, Udo Hahn. 2020. _Allgemeine Musikalische Zeitung_ as a Searchable Online Corpus. In: *LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation.* Marseille, France, May 11-16, 2020. Pages 969–976. [[Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)]
-
+* Three LREC papers:
+    * Erik Faessler, Luise Modersohn, Christina Lohr, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf);
+    * João Sedoc, Sven Buechel, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. [Learning Word Ratings for Empathy and Distress from Document-Level User Responses](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)
+    * Bernd Kampe, Tinghui Duan, Udo Hahn: [Allgemeine Musikalische Zeitung_ as a Searchable Online Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.122.pdf)
 
 ## April '20 paper accepted
 * Submission by Erik Faessler, Michel Oleynik and Udo Hahn on feature evaluation of precision medicine search engines accepted at [SIGIR 2020](https://sigir.org/sigir2020/).

@@ -31,7 +31,7 @@ layout: staff
 
 ### 2020
 
-* *Preprint*: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [arXiv](http://arxiv.org/abs/2007.06400) [Code on GitHub](https://github.com/JULIELab/GGPOnc) [URL DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)
+* *Preprint*: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
 
 * Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)] [[ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.564/)]
 

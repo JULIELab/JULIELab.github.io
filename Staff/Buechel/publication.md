@@ -8,7 +8,7 @@ layout: staff
 
 #### 2020
 
-* **Sven Buechel**, Susanna Rücker, Udo Hahn. 2020. Learning and Evaluating Emotion Lexicons for 91 Language. To appear in **ACL 2020**. [[arxiv](https://arxiv.org/abs/2005.05672)]
+* **Sven Buechel**, Susanna Rücker, and Udo Hahn. 2020. Learning and Evaluating Emotion Lexicons for 91 Language. In ***ACL 2020*** — *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*. Virtual Conference, July 5-10, 2020. Pages 1202–1217. [[Paper](https://www.aclweb.org/anthology/2020.acl-main.112/)] [[Preprint](https://arxiv.org/abs/2005.05672)] [[Code](https://github.com/JULIELab/MEmoLon)] [Data](https://zenodo.org/record/3756607)]
 * Tinghui Duan, **Sven Buechel**, and Udo Hahn. 2020. „Romantik“ im aktuellen parteipolitischen Diskurs auf Twitter. In DHd 2020. Konferenzabstracts. Paderborn, Germany, March 2-6, 2020. [[Proceedings](https://zenodo.org/record/3666690#.XocqBZO39hG)] [[Preprint](/downloads/publications/papers/Duan-Buechel-Hahn-dhd-2020.pdf)]
 * João Sedoc\*, **Sven Buechel\***, Yehonathan Nachmany, Anneke Buffone, and Lyle Ungar. 2020. Learning Word Ratings for Empathy and Distress from Document-Level User Responses. In LREC 2020. [[Proceedings](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.205.pdf)] [[arXiv](http://arxiv.org/abs/1912.01079)] [[bib](/downloads/publications/bibs/sedoc-buechel-2020-lrec.bib)]
 

@@ -3,8 +3,13 @@ layout: default
 ---
 # Lab News
 
-## July '20 SIGIR talk
+## July '20 talks and awards
 * The talk 'What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way' on SIGIR 2020 takes place in session 3B on Monday，July 27, 16:00 (GMT+2) - looking forward to see you there!
+* Sven Buechel and Udo Hahn have received outstanding reviewer awards at [ACL 2020](https://acl2020.org/).
+
+## May '20 paper accepted
+
+* Submission by Sven Buechel, Susanna Rückern and Udo Han on learning emotion lexicons for 91 languages accepted at [ACL 2020](https://acl2020.org/).
 
 ## April '20 paper accepted
 * Submission by Erik Faessler, Michel Oleynik and Udo Hahn on feature evaluation of precision medicine search engines accepted at [SIGIR 2020](https://sigir.org/sigir2020/).

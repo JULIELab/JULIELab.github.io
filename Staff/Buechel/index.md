@@ -18,15 +18,23 @@ I spent summer 2019 as a research intern at Amazon Alexa where I was working on 
 
 ## Selected Publications
 
-* **Sven Buechel**, Susanna Rücker, Udo Hahn. 2020. Learning and Evaluating Emotion Lexicons for 91 Language. To appear in **ACL 2020**. [[arxiv](https://arxiv.org/abs/2005.05672)]
-* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. In ***EMNLP 2018** — Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*. Brussels, Belgium, October 31 – November 4, 2018. Pages 4758–4765. [[Paper](http://aclweb.org/anthology/D18-1507)][[Slides](/downloads/publications/slides/buechel_emnlp_2018.pdf)][[Video](https://vimeo.com/306137544)][[Code & Data](https://github.com/wwbp/empathic_reactions)][[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
-* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018** — Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](http://aclweb.org/anthology/C18-1245)]
-* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In ***NAACL 2018** —  Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper](http://aclweb.org/anthology/N18-1173)][[Video](https://vimeo.com/277671439)]
-* **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017** — Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
+* **Sven Buechel**, Susanna Rücker, and Udo Hahn. 2020. Learning and Evaluating Emotion Lexicons for 91 Language. In ***ACL 2020*** — *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*. Virtual Conference, July 5-10, 2020. Pages 1202–1217. [[Paper](https://www.aclweb.org/anthology/2020.acl-main.112/)] [[Preprint](https://arxiv.org/abs/2005.05672)] [[Code](https://github.com/JULIELab/MEmoLon)] [Data](https://zenodo.org/record/3756607)]
+* **Sven Buechel**, Anneke Buffone, Barry Slaff, Lyle Ungar, and João Sedoc. 2018. Modeling Empathy and Distress in Reaction to News Stories. In ***EMNLP 2018*** — *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*. Brussels, Belgium, October 31 – November 4, 2018. Pages 4758–4765. [[Paper](http://aclweb.org/anthology/D18-1507)] [[Slides](/downloads/publications/slides/buechel_emnlp_2018.pdf)] [[Video](https://vimeo.com/306137544)] [[Code & Data](https://github.com/wwbp/empathic_reactions)] [[Preprint](https://arxiv.org/pdf/1808.10399.pdf)]
+* **Sven Buechel** and Udo Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In ***COLING 2018*** — *Proceedings of the 27th International Conference on Computational Linguistics*. Santa Fe, New Mexico, USA, August 20-26, 2018. Pages 2892-2904. [[Paper](http://aclweb.org/anthology/C18-1245)]
+* **Sven Buechel** and Udo Hahn. 2018. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In ***NAACL 2018*** — *Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, volume 1, long papers, pages 1907–1918 New Orleans, Louisiana, USA, June 1–6, 2018. [[Paper](http://aclweb.org/anthology/N18-1173)] [[Video](https://vimeo.com/277671439)]
+* **Sven Buechel** and Udo Hahn. 2017. A Flexible Mapping Scheme for Discrete and Dimensional Emotion Representations: Evidence from Textual Stimuli. In ***CogSci 2017*** — *Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, July 26-29, 2017*, pages 180-185. [[Paper](https://mindmodeling.org/cogsci2017/papers/0046/paper0046.pdf)]
 * **Sven Buechel** and Udo Hahn. 2017. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In ***EACL 2017*** — *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics,* volume 2, short papers, pages 578-585, Valencia, Spain, April 3-7, 2017. [[Paper](http://aclweb.org/anthology/E17-2092)] [[Poster](/downloads/publications/posters/poster_eacl_2017_v4_final.pdf)]
 * **Sven Buechel** and Udo Hahn. 2016. Emotion analysis as a regression problem - Dimensional models and their implications on emotion representation and metrical evaluation. In ***ECAI 2016*** — *Proceedings of the 22nd European Conference on Artificial Intelligence. The Hague, The Netherlands, August 29 - September 2, 2016*, pages 1114-1122. [[Paper](/downloads/publications/papers/Buechel-2016-ecai-Emotion_analysis_as_a_regression_problem.pdf)]
 
 **[— Full Publication List —](publication.html)**
+
+
+
+## Awards 
+
+* ACL 2020 Outstanding Reviewer
+
+  
 
 ## Selected Talks
 

@@ -12,15 +12,15 @@ Currently I have to cope with the rough edges of frameworks depending on CUDA in
 
 ## Recent Working Experience
 
-* Installation and maintenance of the groups SLURM cluster
+* SLURM HPC cluster
 * Setup and tuning of PostgreSQL installations
-* Basic Linux infrastructure (NFS4 file server, OpenLDAP, Btrfs, ZFS)
-* Web infrastructure (web- and application servers, reverse proxying, certificates)
-* Monitoring with Check_MK
+* Basic Linux infrastructure (NFS file server, OpenLDAP, ZFS, DRBD)
+* Web infrastructure (Apache httpd, nginx, ...)
+* Monitoring (Check_MK)
 * Setup of ElasticSearch clusters
-* Maintenance of the groups Ganeti (KVM/DRBD) cluster
+* Virtualization (Ganeti, KVM, Proxmox VE, docker, podman, Singularity)
 * Configuration management and orchestration via Ansible and basic shell scripting
-* Basic Python knowledge
+* Basic Python and Bash/Shell knowledge
 
 ## Contact
 

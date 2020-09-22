@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-# Dr. des. Johannes Hellrich
+# Dr. Johannes Hellrich
 
 <div class="portrait">
   <img src="hellrich-small.jpeg">
@@ -31,6 +31,3 @@ Dr. des. Johannes Hellrich<br/>
 Research Assistant
 
 | Email | [johannes.hellrich@uni-jena.de](mailto:johannes.hellrich@uni-jena.de) |
-| Phone | +49 3641 9-44305 |
-| Postal Address | Fürstengraben 27<br/> 07743 Jena<br/> Germany |
-| Room | E 008 |

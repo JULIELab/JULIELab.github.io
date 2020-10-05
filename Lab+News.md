@@ -3,10 +3,14 @@ layout: default
 ---
 # Lab News
 
+## October '20 LOUHI@EMNLP paper accepted
+
+* published: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] accepted at [[LOUHI@EMNLP'20](https://louhi2020.fbk.eu/))
+
 ## July '20 talks, awards and GGPONC Corpus
+
 * The talk 'What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way' on SIGIR 2020 takes place in session 3B on Monday，July 27, 16:00 (GMT+2) - looking forward to see you there!
 * Sven Buechel and Udo Hahn have received outstanding reviewer awards at [ACL 2020](https://acl2020.org/).
-* *Preprint* published: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
 
 ## May '20 3 LREC papers published and ACL paper accepted
 

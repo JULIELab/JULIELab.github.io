@@ -3,7 +3,7 @@ layout: default
 ---
 # Lab News
 
-## October '20 LOUHI@EMNLP paper accepted
+## Oct '20 LOUHI@EMNLP paper accepted
 
 * published: Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] accepted at [[LOUHI@EMNLP'20](https://louhi2020.fbk.eu/))
 

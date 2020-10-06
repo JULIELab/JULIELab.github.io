@@ -73,6 +73,6 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 |Phone | Currently, I am not so often in my JULIE Lab office, please send me an email to get my number. |
 |Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
 |Room	| Fürstengraben 27 E 007 |
-|ORCID | [0000-0001-9889-162X] (https://orcid.org/0000-0001-9889-162X) |
+|ORCID | [0000-0001-9889-162X](https://orcid.org/0000-0001-9889-162X) |
 |GitHub | [chlor](https://github.com/chlor)|
 |Twitter | [@chlor89](https://twitter.com/chlor89) |

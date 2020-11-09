@@ -4,7 +4,7 @@ layout: default
 # Lab News
 
 ## Nov '20 Workshop ECONLP 2021 @ EMNLP
-* Our proposal for "ECONLP 2021 &mdash; Third Workshop on Economics and Natural Language Processing" has been accepted and will be part of EMNLP (https://2021.emnlp.org/workshops)
+* Our proposal for "ECONLP 2021 &mdash; Third Workshop on Economics and Natural Language Processing" has been accepted and will be part of [EMNLP](https://2021.emnlp.org/workshops)
 
 ## Oct '20 LOUHI@EMNLP paper accepted
 

@@ -3,6 +3,9 @@ layout: default
 ---
 # Lab News
 
+## Nov '20 Workshop ECONLP 2021 @ EMNLP
+* Our proposal for "ECONLP 2021 &mdash; Third Workshop on Economics and Natural Language Processing" has been accepted and will be part of EMNLP (https://2021.emnlp.org/workshops)
+
 ## Oct '20 LOUHI@EMNLP paper accepted
 
 * Submission by Florian Borchert, Christina Lohr, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow. [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] accepted at [[LOUHI@EMNLP'20](https://louhi2020.fbk.eu/))
@@ -27,6 +30,8 @@ layout: default
 * Submission by Christina Lohr, Luise Modersohn, Johannes Hellrich, Tobias Kolditz and Udo Hahn about diagnoses annotation of German discharge summaries accepted at [MIE 2020 Geneva Switzerland](http://mie2020.org).
 * Poster Submission by Tinghui Duan, Sven Büchel and Udo Hahn about romanticism in political discourse on twitter accepted at [DHd2020 Paderborn Germany](https://dhd2020.de/).
 
+## Nov '19 workshop ECONLP 2019 @ EMNLP-IJCNLP
+* The "ECONLP 2019 &mdash; Second Workshop on Economics and Natural Language Processing" will be collocated with EMNLP-IJCNLP, November 4th
 
 ## May '19 paper accepted
 * Submission by Christina Lohr, Johannes Kiesel, Stephanie Luther, Johannes Hellrich, Benno Stein and Udo Hahn on the further development of [Web Annotation Tool - Segment Labeling (WAT-SL)](https://github.com/webis-de/wat), a cooperation together with the [Webis Group](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/home/) accepted at [LAW@ACL 2019](https://sigann.github.io/LAW-XIII-2019/).

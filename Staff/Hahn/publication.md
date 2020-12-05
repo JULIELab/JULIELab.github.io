@@ -2,7 +2,7 @@
 layout: staff
 ---
 
-Based on the Guide2Research ranking of German computer scientists (http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with (at that time) 9,450 citations. This is the best ranking of all computer scientists from Friedrich-Schiller-Universität Jena (https://www.uni-jena.de/en).
+Based on the [Guide2Research ranking of German computer scientists](http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with (at that time) 9,450 citations. This is the best ranking of all computer scientists from [Friedrich Schiller University Jena](https://www.uni-jena.de/en).
 
 # Prof. Dr. Udo Hahn's publications
 

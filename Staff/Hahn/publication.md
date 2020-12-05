@@ -2,6 +2,8 @@
 layout: staff
 ---
 
+Based on the Guide2Research ranking of German computer scientists (http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with (at that time) 9,450 citations. This is the best ranking of all computer scientists from Friedrich-Schiller-Universität Jena (https://www.uni-jena.de/en).
+
 # Prof. Dr. Udo Hahn's publications
 
 [1) All-time Favorites](#all-time-favorites)<br/>
@@ -30,7 +32,7 @@ layout: staff
 [\[Overview\]](../Prof_+Dr_+Udo+Hahn.html) \|
 [\[Research\]](research.html) \| Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de) \| [Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
+[Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de) \| [Researchgate](https://www.researchgate.net/profile/Udo_Hahn) \| [Semantic Scholar](https://www.semanticscholar.org/author/Udo-Hahn/1744669) \| [ACL Anthology](https://www.aclweb.org/anthology/people/u/udo-hahn/) \| [DBPL](https://dblp.org/pid/h/UdoHahn.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1) All-time Favorites

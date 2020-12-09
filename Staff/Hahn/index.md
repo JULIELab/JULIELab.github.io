@@ -10,7 +10,8 @@ layout: staff
 
 Overview | 
 [[Research]](research.html) |
-[[Publication]](publication.html)
+[[Publications]](publication.html)
+
 
 ## Publications
 
@@ -21,7 +22,10 @@ Overview |
 [Semantic Scholar](https://www.semanticscholar.org/author/Udo-Hahn/1744669)<br/>
 [ACL Anthology](https://www.aclweb.org/anthology/people/u/udo-hahn/)
 
-Based on the [Guide2Research ranking of German computer scientists](http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with (at that time) 9,450 citations. This is the best ranking of all computer scientists from [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/en).
+Based on the [Guide2Research ranking of German computer scientists](http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with 9,450 citations (May 2020). This is the best ranking of all computer scientists from [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/en).
+
+
+
 
 ## Contact details
 Prof. Dr. Udo Hahn<br/>

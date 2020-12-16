@@ -12,15 +12,18 @@ Currently I have to cope with the rough edges of frameworks depending on CUDA in
 
 ## Recent Working Experience
 
+* Proxmox
+* GlusterFS (2+arbiter)
+* ArangoDB cluster
+* Setup of ElasticSearch clusters
 * SLURM HPC cluster
 * Setup and tuning of PostgreSQL installations
 * Basic Linux infrastructure (NFS file server, OpenLDAP, ZFS, DRBD)
 * Web infrastructure (Apache httpd, nginx, ...)
 * Monitoring (Check_MK)
-* Setup of ElasticSearch clusters
 * Virtualization (Ganeti, KVM, Proxmox VE, docker, podman, Singularity)
 * Configuration management and orchestration via Ansible and basic shell scripting
-* Basic Python and Bash/Shell knowledge
+* Intermediate Python and Bash/Shell knowledge
 
 ## Contact
 
@@ -28,7 +31,7 @@ Benjamin Redling<br/>
 System Administrator
 
 Email: benjamin.rampe@uni-jena.de<br/>
-Phone:	+49 3641 9-44323
+Phone: (due to "flexible home office" only available on request)
 
 ### Postal Address
 

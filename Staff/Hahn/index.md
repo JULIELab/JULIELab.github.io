@@ -10,13 +10,22 @@ layout: staff
 
 Overview | 
 [[Research]](research.html) |
-[[Publication]](publication.html)
+[[Publications]](publication.html)
+
 
 ## Publications
 
 [Full Publication List](publication.html)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=pSziNSkAAAAJ&hl=de)<br/>
-[Researchgate](https://www.researchgate.net/profile/Udo_Hahn)
+[Researchgate](https://www.researchgate.net/profile/Udo_Hahn)<br/>
+[DBPL](https://dblp.org/pid/h/UdoHahn.html)<br/>
+[Semantic Scholar](https://www.semanticscholar.org/author/Udo-Hahn/1744669)<br/>
+[ACL Anthology](https://www.aclweb.org/anthology/people/u/udo-hahn/)
+
+Based on the [Guide2Research ranking of German computer scientists](http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with 9,450 citations (May 2020). This is the best ranking of all computer scientists from [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/en).
+
+
+
 
 ## Contact details
 Prof. Dr. Udo Hahn<br/>
@@ -29,4 +38,4 @@ Full Professor of Computational Linguistics - Head of the Jena University Langua
 | Room | R004
 
 ### Office hours
-Wed 12:00 - 13:00 (upon email consultation only)
+Upon email request only

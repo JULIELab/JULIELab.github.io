@@ -9,10 +9,12 @@ Research |
 [[Publications]](publication.html)
 
 ## Principal Investigator
-* [Sonderforschungsbereich AquaDiva](http://www.aquadiva.uni-jena.de/) (SFB 1076/2)
-* [Nationaler Förderverbund Medizininformatik](http://www.smith.care/)
-* [DFG-Graduiertenkolleg \"Modell Romantik\"](http://www.modellromantik.uni-jena.de/) (GRK2041/1)
+* [CRC AquaDiva - Understanding the Links between Surface and Subsurface Biogeosphere (Sonderforschungsbereich AquaDiva, SFB 1076)](http://www.aquadiva.uni-jena.de/)
+* [SMITH - Smart Medical Information Technology for Healthcare](https://www.smith.care/) (see also [Medizin-Informatik-Initiative (MII)](https://www.medizininformatik-initiative.de/en))
+* [Use Case POLAR@MII (Polymedication)](https://www.medizininformatik-initiative.de/de/POLAR)
+* [DFG Graduate School \"Modell Romantik\"](http://www.modellromantik.uni-jena.de/) (GRK2041/1)
 * STAKI2B2 (DFG): **S**emantische **T**ext**a**nalyse zur qualitätskontrollierten Extraktion **k**linischer Phänotyp-**I**nformation im Healthcare Integrated Biobanking
+
 
 ## Research Interests
 

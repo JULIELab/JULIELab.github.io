@@ -278,16 +278,17 @@ in-domain and out-of-domain interoperability. In LREC 2010 --
 Proceedings of the 7th International Conference on Language Resources
 and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2662-2666.
 
-U. Hahn, F. Matthies, C. Lohr & M. Löffler \[2018\]. 3000PA: Towards a
-national reference corpus of German clinical language. In MIE 2018 --
-Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden,
-24-26 April 2018. IOS Press, pp. 26-30 (Studies in Health Technology and
-Informatics, Vol. 247).
+U. Hahn, F. Matthies, C. Lohr & M. Löffler \[2018\]. 
+3000PA : towards a national reference corpus of German clinical language. 
+In MIE 2018 -- Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden, 24-26 April 2018. IOS Press, pp. 26-30 
+(Studies in Health Technology and Informatics, Vol. 247).
 
-J. Wermter & U. Hahn \[2004\]. An annotated German-language medical text
-corpus as language resource. In LREC 2004 -- Proceedings of the 4th
-International Conference on Language Resources and Evaluation. Vol. 2,
-Lisbon, Portugal, 26-28 May 2004. pp.473-476.
+F. Borchert, C. Lohr, L. Modersohn, Th. Langer, M. Follmann, J.P. Sachs, U. Hahn, & M.-P. Schapranow, M.-P. \[2020\].  
+GGPONC : a corpus of German medical text with rich metadata based on clinical practice guidelines. 
+In LOUHI 2020 -– Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis @ EMNLP 2020. November 20, 2020 (Virtual Event) pp. 38–48.
+
+J. Wermter & U. Hahn \[2004\]. An annotated German-language medical text corpus as language resource. 
+In LREC 2004 -- Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004. pp.473-476.
 
 J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann \[2014\].
 Collaboratively annotating multilingual parallel corpora in the

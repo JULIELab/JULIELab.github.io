@@ -505,12 +505,14 @@ Dublin, Ireland, March 27-31, 1995, pp. 237-244.
 
 ### c) Emotion and Sentiment Analysis
 
-S. Buechel & U. Hahn, Udo \[2018\]. Word emotion induction for multiple
-languages as a deep multi-task learning problem. In NAACL-HLT 2018 --
-Proceedings of the 2018 Conference of the North American Chapter of the
-Association for Computational Linguistics: Human Language Technologies.
-Volume 1: Long Papers. New Orleans, LA, USA, June 1-6, 2018,
-pp. 1907--1918.
+S. Buechel, S. Rücker, & U. Hahn, Udo \[2020\]. 
+Learning and evaluating emotion lexicons for 91 languages. 
+In ACL 2020 – Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. July 5-10, 2020 (Virtual Event), pp. 1202-1217.
+
+S. Buechel & U. Hahn, Udo \[2018\]. 
+Word emotion induction for multiple languages as a deep multi-task learning problem. 
+In NAACL-HLT 2018 -- Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+Volume 1: Long Papers. New Orleans, LA, USA, June 1-6, 2018, pp. 1907--1918.
 
 S. Buechel & U. Hahn \[2016\]. Emotion analysis as a regression problem:
 Dimensional models and their implications on emotion representation and
@@ -680,7 +682,7 @@ and Informatics, 205).
 
 ##### b) Bioinformatics Applications
 
-A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2016\]. 
+A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\]. 
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
 
 P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall,

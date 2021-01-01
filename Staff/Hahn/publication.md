@@ -27,7 +27,7 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
 [5) Biomedical NLP](#biomedical-nlp)<br/>
 	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
-	[b) Bioinformatics Applications](#b-bioinformatics-applications)<br/>
+	[b) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
 [6) Economics & NLP](#econlp)<br/>
 [7) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
 [8) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
@@ -94,58 +94,41 @@ applications. In International Journal of Intelligent Systems,
 
 ### a) Information Extraction & Text Mining
 
-E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\]. Syntactic
-simplification and semantic enrichment: Trimming dependency graphs for
-event extraction. In Computational Intelligence, 27(4):610-644.
+E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\].\ 
+Syntactic simplification and semantic enrichment: trimming dependency graphs for event extraction. In Computational Intelligence, 27(4):610-644.
 
-J. Wermter, K. Tomanek & U. Hahn \[2009\]. 
-High-performance gene name normalization with GeNo.\
-In Bioinformatics, 25(6):815-821.
+J. Wermter, K. Tomanek & U. Hahn \[2009\].\
+High-performance gene name normalization with GeNo. In Bioinformatics, 25(6):815-821.
 
-U. Hahn, & M. Oleynik \[2020\]. 
+U. Hahn, & M. Oleynik \[2020\].\ 
 Medical information extraction in the age of deep learning.
 In Yearbook of Medical Informatics 2020 – Ethics in Health Informatics. IMIA & Georg Thieme Verlag KG, pp. 208-20
 
 Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, U. Hahn, K.B. Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S. van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M. Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre, H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii \[2011\].\
 U-Compare bio-event meta-service: compatible BioNLP event extraction services. In BMC Bioinformatics, 12(481).
 
-E. Buyko & U. Hahn \[2010\]. Evaluating the impact of alternative
-dependency graph encodings on solving event extraction tasks. In EMNLP
-2010 -- Proceedings of the 2010 Conference on Empirical Methods in
-Natural Language Processing. M.I.T., Boston, MA, USA, October 9-11,
-2010, pp. 982-992.
+E. Buyko & U. Hahn \[2010\].\
+Evaluating the impact of alternative dependency graph encodings on solving event extraction tasks. In EMNLP 2010 – Proceedings of the 2010 Conference on Empirical Methods in
+Natural Language Processing. M.I.T., Boston, MA, USA, October 9-11, 2010, pp. 982-992.
 
-U. Hahn & K. Schnattinger \[1997\]. Deep knowledge discovery from
-natural language texts. In KDD'97 -- Proceedings of the 3rd
-International Conference on Knowledge Discovery and Data Mining. Newport
+U. Hahn & K. Schnattinger \[1997\].\
+Deep knowledge discovery from natural language texts. In KDD'97 – Proceedings of the 3rd International Conference on Knowledge Discovery and Data Mining. Newport
 Beach, CA, August 14-17, 1997. AAAI Press, pp. 175-178.
 
-E. Buyko, E. Beisswanger & U. Hahn \[2012\]. Extraction of
-pharmacogenetic and pharmacogenomic relations: A case study using
-PharmGKB. In PSB 2012 -- Proceedings of the Pacific Symposium on
-Biocomputing 2012. Big Island, HI, USA, January 3-7, 2012, pp. 376-387.
+E. Buyko, E. Beisswanger & U. Hahn \[2012\].\
+Extraction of pharmacogenetic and pharmacogenomic relations: a case study using PharmGKB. In PSB 2012 – Proceedings of the Pacific Symposium on Biocomputing 2012. Big Island, HI, USA, January 3-7, 2012, pp. 376-387.
 
-E. Buyko & U. Hahn \[2011\]. Generating semantics for the life sciences
-via text analytics. In ICSC 2011 -- Proceedings of the 5th IEEE
-International Conference on Semantic Computing. Stanford University, CA,
-USA, September 18-21, 2011. IEEE Computer Society Press, pp. 193-196
+E. Buyko & U. Hahn \[2011\].\
+Generating semantics for the life sciences via text analytics. In ICSC 2011 – Proceedings of the 5th IEEE International Conference on Semantic Computing. Stanford, CA, USA, September 18-21, 2011. IEEE Computer Society Press, pp. 193-196
 
-D. Rebholz-Schuhmann, S. Clematide, F. Rinaldi, S. Kafkas, E.M. van
-Mulligen, C. Bui, J. Hell-rich, I. Lewin, D. Milward, M. Poprat, A.
-Jimeno-Yepes, U. Hahn & J. A. Kors. \[2013\]. Entity recognition in
-parallel multi-lingual biomedical corpora: The CLEF-ER laboratory
-overview. In Information Access Evaluation: Multilinguality,
-Multimodality, and Visualization. CLEF 2013 -- Proceedings of the 4th
-International Conference of the CLEF Initiative. Valencia, Spain,
-September 23-26, 2013. Springer, pp.353-367 (Lecture Notes in Computer
-Science, 8138).
+D. Rebholz-Schuhmann, S. Clematide, F. Rinaldi, S. Kafkas, E.M. van Mulligen, C. Bui, J. Hell-rich, I. Lewin, D. Milward, M. Poprat, A. Jimeno-Yepes, U. Hahn & J. A. Kors. \[2013\].\
+Entity recognition in parallel multi-lingual biomedical corpora: The CLEF-ER laboratory overview. In Information Access Evaluation: Multilinguality, Multimodality, and Visualization. CLEF 2013 – Proceedings of the 4th International Conference of the CLEF Initiative. Valencia, Spain, September 23-26, 2013. Springer, pp.353-367 
+(Lecture Notes in Computer Science, 8138).
 
-E. Buyko, J. Linde, S. Priebe & U. Hahn \[2011\]. Towards automatic
-pathway generation from biological full-text publications. In Advances
-in Intelligent Data Analysis X. IDA 2011 -- Proceedings of the 10th
-International Conference on Intelligent Data Analysis. Porto, Portugal,
-October 29-31, 2011. Springer, pp. 67-79 (Lecture Notes in Computer
-Science, 7014)
+E. Buyko, J. Linde, S. Priebe & U. Hahn \[2011\].\ 
+Towards automatic pathway generation from biological full-text publications. In Advances in Intelligent Data Analysis X. IDA 2011 -- Proceedings of the 10th
+International Conference on Intelligent Data Analysis. Porto, Portugal, October 29-31, 2011. Springer, pp. 67-79 
+(Lecture Notes in Computer Science, 7014)
 
 ### b) Text Summarization
 
@@ -233,7 +216,7 @@ S. Schulz & U. Hahn \[2000\]. Morpheme-based, cross-lingual indexing for
 medical document retrieval. In International Journal of Medical
 Informatics, 59(3):87-99.
 
-## 3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation
+## 3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation
 
 ### a) Language Resources -- Corpora
 
@@ -669,21 +652,19 @@ Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 -
 September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology
 and Informatics, 205).
 
-### b) Bioinformatics Applications
+### b) Bioinformatics and Clinical Applications
 
-A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\]. 
+A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\].\
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
 
-P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall,
-A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J.
-Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S.
-Schäuble, U. Hahn, P. Horvatovich, D. P. Shanley & K. Thedieck \[2016\].
-A systems study reveals concurrent activation of AMPK and mTOR by amino
-acids. In Nature Communications, 7(13254).
+P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J.J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, U. Hahn, P. Horvatovich, D. P. Shanley & K. Thedieck \[2016\].\
+A systems study reveals concurrent activation of AMPK and mTOR by amino acids. In Nature Communications, 7(13254).
 
-R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].
-Genome-wide scale-free network inference for Candida albicans. In
-Frontiers in Microbiology, 3(51).
+C. Weber, L. Röschke, L. Modersohn, C. Lohr, T. Kolditz, U. Hahn, D. Ammon, B. Betz, & M. Kiehntopf, Michael \[2020\].\ 
+Optimized identification of advanced chronic kidney disease and absence of kidney disease by combining different electronic health data resources and by applying machine learning strategies. In Journal of Clinical Medicine, 9, #2955.
+
+R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].\
+Genome-wide scale-free network inference for Candida albicans. In Frontiers in Microbiology, 3(51).
 
 
 ## 6) Economics & NLP (EcoNLP)

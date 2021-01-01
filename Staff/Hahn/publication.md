@@ -283,7 +283,7 @@ U. Hahn, F. Matthies, C. Lohr & M. Löffler \[2018\].
 In MIE 2018 -- Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden, 24-26 April 2018. IOS Press, pp. 26-30 
 (Studies in Health Technology and Informatics, Vol. 247).
 
-F. Borchert, C. Lohr, L. Modersohn, Th. Langer, M. Follmann, J.P. Sachs, U. Hahn, & M.-P. Schapranow, M.-P. \[2020\].  
+F. Borchert, C. Lohr, L. Modersohn, Th. Langer, M. Follmann, J.P. Sachs, U. Hahn, & M.-P. Schapranow \[2020\].  
 GGPONC : a corpus of German medical text with rich metadata based on clinical practice guidelines. 
 In LOUHI 2020 -– Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis @ EMNLP 2020. November 20, 2020 (Virtual Event) pp. 38–48.
 
@@ -678,7 +678,10 @@ Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 -
 September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology
 and Informatics, 205).
 
-### b) Bioinformatics Applications
+##### b) Bioinformatics Applications
+
+A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2016\]. 
+IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
 
 P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall,
 A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J. J.

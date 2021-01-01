@@ -17,7 +17,7 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[b) Text Summarization](#b-text-summarization)<br/>
 	[c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
-[3) Natural Language Processing: Language Resources -- Corpora & Software Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
+[3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
 	[a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
 	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
 	[c) Corpus Annotation](#c-corpus-annotation)<br/>
@@ -190,31 +190,27 @@ USA, January 3-7, 2002, pp.338-349.
 
 ### d) (Multilingual) Information Retrieval
 
-K. Markó, S. Schulz & U. Hahn \[2005\]. MorphoSaurus: Design and
-evaluation of an interlingua-based, cross-language document retrieval
-engine for the medical domain. In Methods of Information in Medicine,
-44(4):537-545.
+E. Faessler, M. Oleynik, & U. Hahn \[2017\].\
+What makes a top-performing precision medicine search engine? Tracing main system features in a systematic way. 
+In SIGIR '20 – Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. July 25–30, 2020 (Virtual Event), pp. 459-468.
 
-E. Faessler & U. Hahn \[2017\]. SeMedico: A comprehensive semantic
-search engine for the life sciences. In ACL 2017 -- Proceedings of the
-55th Annual Meeting of the Association for Computational Linguistics:
-System Demonstrations. Vancouver, B.C., Canada, August 1, 2017,
-pp. 91--96.
+E. Faessler & U. Hahn \[2017\].\
+SeMedico: A comprehensive semantic search engine for the life sciences. In ACL 2017 – Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics:
+System Demonstrations. Vancouver, B.C., Canada, August 1, 2017, pp. 91-96.
 
-K. Markó, S. Schulz, A. Medelyan & U. Hahn \[2005\]. Boostrapping
-dictionaries for cross-language information retrieval. In SIGIR 2005 --
-Proceedings of the 28th Annual International ACM SIGIR Conference on
-Research and Development in Information Retrieval. Salvador, Brazil,
-August 15-19, 2005. ACM Press, pp.528-535.
+K. Markó, S. Schulz, A. Medelyan & U. Hahn \[2005\].\
+Boostrapping dictionaries for cross-language information retrieval. In SIGIR 2005 – Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. Salvador, Brazil, August 15-19, 2005. ACM Press, pp. 528-535.
 
-U. Hahn, K. Markó & S. Schulz \[2004\]. Learning indexing patterns from
-one language for the benefit of others. In: AAAI '04 -- Proceedings of
-the 19th National Conference on Artificial Intelligence. San José, CA,
+U. Hahn, K. Markó & S. Schulz \[2004\].\
+Learning indexing patterns from one language for the benefit of others. In AAAI '04 – Proceedings of the 19th National Conference on Artificial Intelligence. San José, CA,
 July 25-29, 2004. AAAI Press - MIT Press, pp. 406-411.
 
-S. Schulz & U. Hahn \[2000\]. Morpheme-based, cross-lingual indexing for
-medical document retrieval. In International Journal of Medical
-Informatics, 59(3):87-99.
+K. Markó, S. Schulz & U. Hahn \[2005\].\
+MorphoSaurus: design and evaluation of an interlingua-based, cross-language document retrieval engine for the medical domain. In Methods of Information in Medicine, 44(4):537-545.
+
+S. Schulz & U. Hahn \[2000\].\
+Morpheme-based, cross-lingual indexing for medical document retrieval. In International Journal of Medical Informatics, 59(3):87-99.
+
 
 ## 3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation
 
@@ -870,32 +866,22 @@ Notes in Artificial Intelligence, 1040).
 
 ## 10) Digital Humanities
 
-J. Hellrich & U. Hahn \[2017\]. Exploring diachronic lexical semantics
-with JeSemE. In ACL 2017 -- Proceedings of the 55th Annual Meeting of
-the Association for Computational Linguistics: System Demonstrations.
-Vancouver, B.C., Canada, August 1, 2017, pp. 31--36.
+J. Hellrich & U. Hahn \[2017\].\
+Exploring diachronic lexical semantics with JeSemE. In ACL 2017 – Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. Vancouver, B.C., Canada, August 1, 2017, pp. 31-36.
 
-S. Buechel, J. Hellrich & U. Hahn \[2017\]. The course of emotion in
-three centuries of German text: A methodological framework \[long
-paper\]. In Digital Humanities 2017 -- Conference Abstracts of the 2017
-Conference of the Alliance of Digital Humanities Organizations (ADHO).
-Montréal, Québec, Canada, August 8-11, 2017.
-
-J. Hellrich & U. Hahn \[2016\]. Measuring the dynamics of
-lexico-semantic change since the German Romantic period. In Digital
-Humanities 2016 -- Conference Abstracts of the 2016 Conference of the
-Alliance of Digital Humanities Organizations (ADHO). Kraków, Poland,
-11-16 July 2016, pp. 545-547.
+S. Buechel, J. Hellrich & U. Hahn \[2017\].\
+The course of emotion in three centuries of German text: a methodological framework. In Digital Humanities 2017 – Conference Abstracts of the 2017 Conference of the Alliance of Digital Humanities Organizations (ADHO). Montréal, Québec, Canada, August 8-11, 2017.
 
 J. Hellrich & U. Hahn \[2016\].\
-An assessment of experimental protocols for tracing changes in word
-semantics relative to accuracy and reliability. In LaTeCH 2016 --
-Proceedings of the 10th SIGHUM Workshop on Language Technology for
-Cultural Heritage, Social Sciences, and Humanities @ ACL 2016. Berlin,
-Germany, August 11, 2016, pp. 111--117.
+Measuring the dynamics of lexico-semantic change since the German Romantic period. In Digital Humanities 2016 – Conference Abstracts of the 2016 Conference of the
+Alliance of Digital Humanities Organizations (ADHO). Kraków, Poland, 11-16 July 2016, pp. 545-547.
 
-S. Buechel, J. Hellrich & U. Hahn \[2016\]. Feelings from the past:
-Adapting affective lexicons for historical emotion analysis. In LT4DH
-2016 -- Proceedings of the Workshop on Language Technology Resources and
-Tools for Digital Humanities @ COLING 2016. Osaka, Japan, 11 December
-2016, pp. 54-61.
+B. Kampe, T. Duan,  & U. Hahn, Udo \[2020\].\
+'Allgemeine Musikalische Zeitung' as a searchable online corpus. In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, 969-976.
+
+J. Hellrich & U. Hahn \[2016\].\
+An assessment of experimental protocols for tracing changes in word semantics relative to accuracy and reliability. In LaTeCH 2016 – Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016. Berlin, Germany, August 11, 2016, pp. 111--117.
+
+S. Buechel, J. Hellrich & U. Hahn \[2016\].\
+Feelings from the past: adapting affective lexicons for historical emotion analysis. In LT4DH 2016 – Proceedings of the Workshop on Language Technology Resources and
+Tools for Digital Humanities @ COLING 2016. Osaka, Japan, 11 December 2016, pp. 54-61.

@@ -660,7 +660,10 @@ IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor
 P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J.J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, U. Hahn, P. Horvatovich, D. P. Shanley & K. Thedieck \[2016\].\
 A systems study reveals concurrent activation of AMPK and mTOR by amino acids. In Nature Communications, 7(13254).
 
-C. Weber, L. Röschke, L. Modersohn, C. Lohr, T. Kolditz, U. Hahn, D. Ammon, B. Betz, & M. Kiehntopf, Michael \[2020\].\ 
+L. Reimann, A.N. Schwäble, A.L. Fricke, W.W.D. Mühlhäuser, Y. Leber, K. Lohanadan, M.G. Puchinger, S.Schäuble, E. Faessler, H. Wiese, Chr. Reichenbach, B. Knapp, C.D. Peikert, F. Drepper, U. Hahn, C. Kreutz, P.F.M. van der Ven, G. Radziwill, K. Djinović-Carugo, D.O. Fürst, & B. Warscheid \[2020\].\  
+Phosphoproteomics identifies dual-site phosphorylation in an extended basophilic motif regulating FILIP1-mediated degradation of filamin-C. In Communications Biology \[Nature\], 3, #253.
+
+C. Weber, L. Röschke, L. Modersohn, C. Lohr, T. Kolditz, U. Hahn, D. Ammon, B. Betz, & M. Kiehntopf \[2020\].\ 
 Optimized identification of advanced chronic kidney disease and absence of kidney disease by combining different electronic health data resources and by applying machine learning strategies. In Journal of Clinical Medicine, 9, #2955.
 
 R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].\
@@ -669,7 +672,7 @@ Genome-wide scale-free network inference for Candida albicans. In Frontiers in M
 
 ## 6) Economics & NLP (EcoNLP)
 
-S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach \[2016\]. 
+S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach \[2016\].\
 Do enterprises have emotions? In WASSA 2016 -- Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16, 2016, pp. 147-153.
 
 

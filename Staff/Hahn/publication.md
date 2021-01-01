@@ -28,10 +28,11 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 [5) Biomedical NLP](#biomedical-nlp)<br/>
 	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
 	[b) Bioinformatics Applications](#b-bioinformatics-applications)<br/>
-[6) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
-[7) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
-[8) Machine Learning](#machine-learning)<br/>
-[9) Digital Humanities](#digital-humanities)<br/>
+[6) Economics & NLP](#econlp)<br/>
+[7) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
+[8) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
+[9) Machine Learning](#machine-learning)<br/>
+[10) Digital Humanities](#digital-humanities)<br/>
 
 
 ## 1) All-time Favorites
@@ -505,38 +506,27 @@ Dublin, Ireland, March 27-31, 1995, pp. 237-244.
 
 ### c) Emotion and Sentiment Analysis
 
-S. Buechel, S. Rücker, & U. Hahn, Udo \[2020\]. 
+S. Buechel, S. Rücker, & U. Hahn \[2020\]. 
 Learning and evaluating emotion lexicons for 91 languages. 
 In ACL 2020 – Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. July 5-10, 2020 (Virtual Event), pp. 1202-1217.
 
 S. Buechel & U. Hahn, Udo \[2018\]. 
 Word emotion induction for multiple languages as a deep multi-task learning problem. 
-In NAACL-HLT 2018 -- Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+In NAACL-HLT 2018 – Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
 Volume 1: Long Papers. New Orleans, LA, USA, June 1-6, 2018, pp. 1907--1918.
 
-S. Buechel & U. Hahn \[2016\]. Emotion analysis as a regression problem:
-Dimensional models and their implications on emotion representation and
-metrical evaluation. In ECAI 2016 -- Proceedings of the 22nd European
-Conference on Artificial Intelligence. Part 2: ECAI Long Papers. The
-Hague, Netherlands, August 29 - September 2, 2016. IOS Press,
-pp. 1114-1122 (Frontiers in Artificial Intelligence and Applications,
-285)
+S. Buechel & U. Hahn \[2016\]. 
+Emotion analysis as a regression problem: Dimensional models and their implications on emotion representation and metrical evaluation. 
+In ECAI 2016 – Proceedings of the 22nd European Conference on Artificial Intelligence. Part 2: ECAI Long Papers. The Hague, Netherlands, August 29 - September 2, 2016. IOS Press, pp. 1114-1122 (Frontiers in Artificial Intelligence and Applications, 285)
 
-S. Buechel & U. Hahn \[2017\]. EmoBank: Studying the impact of
-annotation perspective and representation format on dimensional emotion
-analysis. In EACL 2017 -- Proceedings of the 15th Conference of the
-European Chapter of the Association for Computational Linguistics. Vol.
-2: Short Papers. Valencia, Spain, April 3-7, 2017, pp. 578--585.
+S. Buechel & U. Hahn \[2017\]. 
+EmoBank : studying the impact of annotation perspective and representation format on dimensional emotion analysis. 
+In EACL 2017 – Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Vol. 2: Short Papers. Valencia, Spain, April 3-7, 2017, pp. 578--585.
 
-S. Buechel & U. Hahn \[2017\]. A flexible mapping scheme for discrete
-and dimensional emotion representations. In CogSci 2017 -- Proceedings
-of the 39th Annual Meeting of the Cognitive Science Society. London, UK,
-26-29 July 2017, pp. 180-185.
+S. Buechel & U. Hahn \[2017\]. 
+A flexible mapping scheme for discrete and dimensional emotion representations. In CogSci 2017 – Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, 26-29 July 2017, pp. 180-185.
 
-S. Buechel & U. Hahn \[2018\]. Representation mapping: A novel approach
-to generate high-quality multi-lingual emotion lexicons. In LREC 2018 --
-Proceedings of the 11th International Conference on Language Resources
-and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
+S. Buechel & U. Hahn \[2018\]. Representation mapping: a novel approach to generate high-quality multi-lingual emotion lexicons. In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
 
 S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach
 \[2016\]. Do enterprises have emotions? In WASSA 2016 -- Proceedings of
@@ -680,7 +670,7 @@ Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 -
 September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology
 and Informatics, 205).
 
-##### b) Bioinformatics Applications
+### b) Bioinformatics Applications
 
 A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\]. 
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
@@ -696,7 +686,14 @@ R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].
 Genome-wide scale-free network inference for Candida albicans. In
 Frontiers in Microbiology, 3(51).
 
-## Knowledge Representation and Spatio-Temporal Reasoning
+
+## 6) Economics & NLP (EcoNLP)
+
+S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach \[2016\]. 
+Do enterprises have emotions? In WASSA 2016 -- Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16, 2016, pp. 147-153.
+
+
+## 7) Knowledge Representation and Spatio-Temporal Reasoning
 
 S. Schulz & U. Hahn \[2005\]. Part-whole representation and reasoning in
 formal biomedical ontologies. In Artificial Intelligence in Medicine,
@@ -769,7 +766,7 @@ frame data model In IJCAI '83 -- Proceedings of the 8th International
 Joint Conference on Artificial Intelligence. Vol. 1. Karlsruhe, West
 Germany, 8-12 August 1983. W. Kaufmann, pp. 337-339.
 
-## 7) Biomedical Ontology Engineering
+## 8) Biomedical Ontology Engineering
 
 S. Schulz & U. Hahn \[2007\]. Towards the ontological foundations of
 symbolic biological theories. In Artificial Intelligence in Medicine,
@@ -857,7 +854,7 @@ making sense of qualitative meaning structures. In B.-O. Küppers, U.
 Hahn & S. Artmann (Eds.) Evolution of Semantic Systems. Springer,
 pp.151-173.
 
-## 8) Machine Learning
+## 9) Machine Learning
 
 K. Tomanek & U. Hahn \[2009\]. Semi-supervised active learning for
 sequence labeling. In ACL-IJCNLP 2009 -- Proceedings of the 47th Annual
@@ -916,7 +913,7 @@ Scheler (Eds.), Connectionist, Statistical and Symbolic Approaches to
 Learning for Natural Language Processing. Springer, pp.453-468 (Lecture
 Notes in Artificial Intelligence, 1040).
 
-## 9) Digital Humanities
+## 10) Digital Humanities
 
 J. Hellrich & U. Hahn \[2017\]. Exploring diachronic lexical semantics
 with JeSemE. In ACL 2017 -- Proceedings of the 55th Annual Meeting of

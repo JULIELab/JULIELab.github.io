@@ -876,11 +876,11 @@ J. Hellrich & U. Hahn \[2016\].\
 Measuring the dynamics of lexico-semantic change since the German Romantic period. In Digital Humanities 2016 – Conference Abstracts of the 2016 Conference of the
 Alliance of Digital Humanities Organizations (ADHO). Kraków, Poland, 11-16 July 2016, pp. 545-547.
 
-B. Kampe, T. Duan,  & U. Hahn, Udo \[2020\].\
+B. Kampe, T. Duan,  & U. Hahn \[2020\].\
 'Allgemeine Musikalische Zeitung' as a searchable online corpus. In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, 969-976.
 
 J. Hellrich & U. Hahn \[2016\].\
-An assessment of experimental protocols for tracing changes in word semantics relative to accuracy and reliability. In LaTeCH 2016 – Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016. Berlin, Germany, August 11, 2016, pp. 111--117.
+An assessment of experimental protocols for tracing changes in word semantics relative to accuracy and reliability. In LaTeCH 2016 – Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016. Berlin, Germany, August 11, 2016, pp. 111-117.
 
 S. Buechel, J. Hellrich & U. Hahn \[2016\].\
 Feelings from the past: adapting affective lexicons for historical emotion analysis. In LT4DH 2016 – Proceedings of the Workshop on Language Technology Resources and

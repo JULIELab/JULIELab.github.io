@@ -190,7 +190,7 @@ USA, January 3-7, 2002, pp.338-349.
 
 ### d) (Multilingual) Information Retrieval
 
-E. Faessler, M. Oleynik, & U. Hahn \[2017\].\
+E. Faessler, M. Oleynik, & U. Hahn \[2020\].\
 What makes a top-performing precision medicine search engine? Tracing main system features in a systematic way. 
 In SIGIR '20 – Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. July 25–30, 2020 (Virtual Event), pp. 459-468.
 

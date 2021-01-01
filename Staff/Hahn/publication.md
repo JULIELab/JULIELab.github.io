@@ -98,17 +98,16 @@ E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\]. Syntactic
 simplification and semantic enrichment: Trimming dependency graphs for
 event extraction. In Computational Intelligence, 27(4):610-644.
 
-J. Wermter, K. Tomanek & U. Hahn \[2009\]. High-performance gene name
-normalization with GeNo.\
+J. Wermter, K. Tomanek & U. Hahn \[2009\]. 
+High-performance gene name normalization with GeNo.\
 In Bioinformatics, 25(6):815-821.
 
-Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, U. Hahn, K.B.
-Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S.
-van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M.
-Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre,
-H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii \[2011\].\
-U-Compare bio-event meta-service: Compatible BioNLP event extraction
-services. In BMC Bioinformatics, 12(481).
+U. Hahn, & M. Oleynik \[2020\]. 
+Medical information extraction in the age of deep learning.
+In Yearbook of Medical Informatics 2020 – Ethics in Health Informatics. IMIA & Georg Thieme Verlag KG, pp. 208-20
+
+Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, U. Hahn, K.B. Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S. van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M. Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre, H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii \[2011\].\
+U-Compare bio-event meta-service: compatible BioNLP event extraction services. In BMC Bioinformatics, 12(481).
 
 E. Buyko & U. Hahn \[2010\]. Evaluating the impact of alternative
 dependency graph encodings on solving event extraction tasks. In EMNLP

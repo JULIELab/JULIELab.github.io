@@ -220,95 +220,67 @@ Informatics, 59(3):87-99.
 
 ### a) Language Resources -- Corpora
 
-D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors,
-D. Milward, P. Corbett, E. Buyko, E. Beisswanger & U. Hahn \[2010\]. The
-CALBC silver standard corpus: Harmonizing multiple semantic annotations
-in a large biomedical corpus. In Journal of Bioinformatics and
-Computational Biology, 8(1):163-179
+D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & U. Hahn \[2010\].\
+The CALBC silver standard corpus: Harmonizing multiple semantic annotations in a large biomedical corpus. In Journal of Bioinformatics and Computational Biology, 8(1):163-179
 
-C. Lohr, S. Buechel & U. Hahn \[2018\]. Sharing copies of synthetic
-clinical corpora without physical distribution: A case study to get
-around IPRs and privacy constraints featuring the German JSynCC corpus.
-In LREC 2018 -- Proceedings of the 11th International Conference on
-Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018,
-pp. 1259-1266.
+C. Lohr, S. Buechel & U. Hahn \[2018\].\
+Sharing copies of synthetic clinical corpora without physical distribution: a case study to get around IPRs and privacy constraints featuring the German JSynCC corpus.
+In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 1259-1266.
 
-U. Hahn, E. Beisswanger, E. Buyko, E. Faessler \[2012\]. Active
-learning-based corpus annotation: The PathoJen experience. In AMIA 2012
--- Proceedings of the 36th Annual Symposium of the American Medical
-Informatics Association. Informatics. Chicago, IL, USA, November 3-7,
-2012, pp. 301-310.
+E. Faessler, L. Modersohn, C. Lohr, & U. Hahn \[2018\].\
+ProGene : a large-scale, high-quality protein-gene annotated benchmark corpus. 
+In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4585-4596.
 
-U. Hahn, K. Tomanek, E. Beisswanger, & E. Faessler \[2010\]. A proposal
-for a configurable silver standard. In LAW IV -- Proceedings of the 4th
-Linguistic Annotation Workshop @ ACL 2010. Uppsala, Sweden, July 15-16,
-2010, pp. 235-242.
+U. Hahn, E. Beisswanger, E. Buyko, & E. Faessler \[2012\].\
+Active learning-based corpus annotation: the PathoJen experience.
+In AMIA 2012 – Proceedings of the 36th Annual Symposium of the American Medical Informatics Association. Informatics. Chicago, IL, USA, November 3-7, 2012, pp. 301-310.
 
-E. Eder, U. Krieg-Holz, & U. Hahn \[2020\]. 
- CodE Alltag 2.0 : a pseudonymized German-language email corpus. In LREC 2020
--- Proceedings of the 12th International Conference on Language Resources and 
-Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
+U. Hahn, K. Tomanek, E. Beisswanger, & E. Faessler \[2010\].\
+A proposal for a configurable silver standard. In LAW IV – Proceedings of the 4th Linguistic Annotation Workshop @ ACL 2010. Uppsala, Sweden, July 15-16, 2010, pp. 235-242.
 
-U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn
-\[2016\]. CodE Alltag : a German-language e-mail corpus. In LREC 2016
--- Proceedings of the 10th International Conference on Language
-Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016,
-pp. 2543-2550.
+E. Eder, U. Krieg-Holz, & U. Hahn \[2020\].\
+ CodE Alltag 2.0 : a pseudonymized German-language email corpus. 
+ In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
 
-E. Buyko, E. Beisswanger & U. Hahn \[2010\]. The GeneReg corpus for gene
-expression regulation events: An overview of the corpus and its
-in-domain and out-of-domain interoperability. In LREC 2010 --
-Proceedings of the 7th International Conference on Language Resources
-and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2662-2666.
+U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn\[2016\].\
+CodE Alltag : a German-language e-mail corpus. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2543-2550.
 
-U. Hahn, F. Matthies, C. Lohr & M. Löffler \[2018\]. 
+E. Buyko, E. Beisswanger, & U. Hahn \[2010\].\
+The GeneReg corpus for gene expression regulation events: an overview of the corpus and its in-domain and out-of-domain interoperability. 
+In LREC 2010 – Proceedings of the 7th International Conference on Language Resources and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2662-2666.
+
+U. Hahn, F. Matthies, C. Lohr, & M. Löffler \[2018\].\
 3000PA : towards a national reference corpus of German clinical language. 
-In MIE 2018 -- Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden, 24-26 April 2018. IOS Press, pp. 26-30 
+In MIE 2018 – Proceedings of Medical Informatics Europe 2018. Gothenburg, Sweden, 24-26 April 2018. IOS Press, pp. 26-30 
 (Studies in Health Technology and Informatics, Vol. 247).
 
-F. Borchert, C. Lohr, L. Modersohn, Th. Langer, M. Follmann, J.P. Sachs, U. Hahn, & M.-P. Schapranow \[2020\].  
+F. Borchert, C. Lohr, L. Modersohn, Th. Langer, M. Follmann, J.P. Sachs, U. Hahn, & M.-P. Schapranow \[2020\].\
 GGPONC : a corpus of German medical text with rich metadata based on clinical practice guidelines. 
-In LOUHI 2020 -– Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis @ EMNLP 2020. November 20, 2020 (Virtual Event) pp. 38–48.
+In LOUHI 2020 – Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis @ EMNLP 2020. November 20, 2020 (Virtual Event) pp. 38–48.
 
-J. Wermter & U. Hahn \[2004\]. An annotated German-language medical text corpus as language resource. 
-In LREC 2004 -- Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004. pp.473-476.
+J. Wermter & U. Hahn \[2004\].\
+An annotated German-language medical text corpus as language resource. 
+In LREC 2004 – Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004. pp. 473-476.
 
-J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann \[2014\].
-Collaboratively annotating multilingual parallel corpora in the
-biomedical domain: Some MANTRAs. In LREC 2014 -- Proceedings of the 9th
-Language Resources and Evaluation Conference. Reykjavik, Iceland, 26-31
-May, 2014, pp. 4033-4040.
+J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann \[2014\].\
+Collaboratively annotating multilingual parallel corpora in the biomedical domain: some MANTRAs. 
+In LREC 2014 – Proceedings of the 9th Language Resources and Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014, pp. 4033-4040.
 
-Ş. Kafka, I. Lewin, D. Milward, E. van Mulligen, J. Kors, U. Hahn & D.
-Rebholz-Schuhmann \[2012\]. CALBC: Releasing the final corpora. In LREC
-2012 -- Proceedings of the 8th International Conference on Language
-Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012,
-pp. 2923-2926.
+Ş. Kafka, I. Lewin, D. Milward, E. van Mulligen, J. Kors, U. Hahn & D. Rebholz-Schuhmann \[2012\].\
+CALBC: Releasing the final corpora. 
+In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 2923-2926.
 
-U. Hahn, E. Beisswanger, E. Buyko, E. Faessler, J. Traumüller, S.
-Schröder & K. Hornbostel \[2012\]. Iterative refinement and quality
-checking of annotation guidelines: How to deal effectively with
-semantically sloppy named entity types, such as pathological phenomena.
-In LREC 2012 -- Proceedings of the 8th International Conference on
-Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012,
-pp. 3881-3885.
+U. Hahn, E. Beisswanger, E. Buyko, E. Faessler, J. Traumüller, S. Schröder & K. Hornbostel \[2012\].\
+Iterative refinement and quality checking of annotation guidelines: how to deal effectively with semantically sloppy named entity types, such as pathological phenomena.
+In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 3881-3885.
 
-U. Hahn, E. Beisswanger, E. Buyko, M. Poprat & J. Wermter \[2008\].
-Semantic annotations for biology: A corpus development initiative at the
-Jena University Language & Information Engineering (JULIE) Lab. In LREC
-2008 -- Proceedings of the 6th International Conference on Language
-Resources and Evaluation. Marrakech, Morocco, 26-31 May 2008,
-pp. 2257-2261.
+U. Hahn, E. Beisswanger, E. Buyko, M. Poprat & J. Wermter \[2008\].\
+Semantic annotations for biology: A corpus development initiative at the Jena University Language & Information Engineering (JULIE) Lab. 
+In LREC 2008 – Proceedings of the 6th International Conference on Language Resources and Evaluation. Marrakech, Morocco, 26-31 May 2008, pp. 2257-2261.
 
-D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P.
-Corbett, D. Milward, E. Buyko, E. Beisswanger, K. Hornbostel, A.
-Kouznetsov, R. Witte, J. B. Laurila, C .J. O. Baker, C.-J. Kuo, S.
-Clematide, F. Rinaldi, R. Farkas, G. Móra, K. Hara, L. I. Furlong, M.
-Rautschka, M. L. Neves, A. Pascual-Montano, Q. Wei, N. Collier, F. M.
-Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W.
-Daelemans, J. L. Marina, E. van Mulligen, J. Kors & U. Hahn \[2011\].
-Assessment of NER Solutions against the First and Second CALBC Silver
-Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
+D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett, D. Milward, E. Buyko, E. Beisswanger, K. Hornbostel, A. Kouznetsov, R. Witte, J. B. Laurila, C .J. O. Baker, C.-J. Kuo, S. Clematide, F. Rinaldi, R. Farkas, G. Móra, K. Hara, L. I. Furlong, M. Rautschka, M. L. Neves, A. Pascual-Montano, Q. Wei, N. Collier, F. M.
+Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
+Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
 
 ### b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)
 
@@ -660,10 +632,10 @@ IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor
 P. Dalle Pezze, S. Ruf, A. G. Sonntag, M. Langelaar-Makkinje, P. Hall, A. M. Heberle, P. Razquin Navas, K. van Eunen, R. C. Tölle, J.J. Schwarz, H. Wiese, B. Warscheid, J. Deitersen, B Stork, E. Fäßler, S. Schäuble, U. Hahn, P. Horvatovich, D. P. Shanley & K. Thedieck \[2016\].\
 A systems study reveals concurrent activation of AMPK and mTOR by amino acids. In Nature Communications, 7(13254).
 
-L. Reimann, A.N. Schwäble, A.L. Fricke, W.W.D. Mühlhäuser, Y. Leber, K. Lohanadan, M.G. Puchinger, S.Schäuble, E. Faessler, H. Wiese, Chr. Reichenbach, B. Knapp, C.D. Peikert, F. Drepper, U. Hahn, C. Kreutz, P.F.M. van der Ven, G. Radziwill, K. Djinović-Carugo, D.O. Fürst, & B. Warscheid \[2020\].\  
+L. Reimann, A.N. Schwäble, A.L. Fricke, W.W.D. Mühlhäuser, Y. Leber, K. Lohanadan, M.G. Puchinger, S.Schäuble, E. Faessler, H. Wiese, Chr. Reichenbach, B. Knapp, C.D. Peikert, F. Drepper, U. Hahn, C. Kreutz, P.F.M. van der Ven, G. Radziwill, K. Djinović-Carugo, D.O. Fürst, & B. Warscheid \[2020\].\
 Phosphoproteomics identifies dual-site phosphorylation in an extended basophilic motif regulating FILIP1-mediated degradation of filamin-C. In Communications Biology \[Nature\], 3, #253.
 
-C. Weber, L. Röschke, L. Modersohn, C. Lohr, T. Kolditz, U. Hahn, D. Ammon, B. Betz, & M. Kiehntopf \[2020\].\ 
+C. Weber, L. Röschke, L. Modersohn, C. Lohr, T. Kolditz, U. Hahn, D. Ammon, B. Betz, & M. Kiehntopf \[2020\].\
 Optimized identification of advanced chronic kidney disease and absence of kidney disease by combining different electronic health data resources and by applying machine learning strategies. In Journal of Clinical Medicine, 9, #2955.
 
 R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].\

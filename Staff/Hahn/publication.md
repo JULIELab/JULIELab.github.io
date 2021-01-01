@@ -256,13 +256,18 @@ learning-based corpus annotation: The PathoJen experience. In AMIA 2012
 Informatics Association. Informatics. Chicago, IL, USA, November 3-7,
 2012, pp. 301-310.
 
-U. Hahn, K. Tomanek, E. Beisswanger & E. Faessler \[2010\]. A proposal
+U. Hahn, K. Tomanek, E. Beisswanger, & E. Faessler \[2010\]. A proposal
 for a configurable silver standard. In LAW IV -- Proceedings of the 4th
 Linguistic Annotation Workshop @ ACL 2010. Uppsala, Sweden, July 15-16,
 2010, pp. 235-242.
 
+E. Eder, U. Krieg-Holz, & U. Hahn \[2020\]. 
+ CodE Alltag 2.0 : a pseudonymized German-language email corpus. In LREC 2020
+-- Proceedings of the 12th International Conference on Language Resources and 
+Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
+
 U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn
-\[2016\]. CodE Alltag --- A German-language e-mail corpus. In: LREC 2016
+\[2016\]. CodE Alltag : a German-language e-mail corpus. In LREC 2016
 -- Proceedings of the 10th International Conference on Language
 Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016,
 pp. 2543-2550.

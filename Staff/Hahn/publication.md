@@ -13,10 +13,10 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 
 [1) All-time Favorites](#all-time-favorites)<br/>
 [2) Natural Language Processing: Systems & Applications](#natural-language-processing-systems-applications)<br/>
-	[a) Information Extraction & Text Mining](#a-information-extraction-text-mining)<br/>
-	[b) Text Summarization](#b-text-summarization)<br/>
-	[c) Knowledge Base Population](#c-knowledge-base-population)<br/>
-	[d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
+	[2a) Information Extraction & Text Mining](#a-information-extraction-text-mining)<br/>
+	[2b) Text Summarization](#b-text-summarization)<br/>
+	[2c) Knowledge Base Population](#c-knowledge-base-population)<br/>
+	[2d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
 [3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
 	[a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
 	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
@@ -27,7 +27,8 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
 [5) Biomedical NLP](#biomedical-nlp)<br/>
 	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
-	[b) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
+	[b) Clinical NLP](#clinical-nlp)<br/>
+	[c) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
 [6) Economics & NLP](#econlp)<br/>
 [7) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
 [8) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
@@ -620,7 +621,13 @@ Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 -
 September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology
 and Informatics, 205).
 
-### b) Bioinformatics and Clinical Applications
+### b) Clinical NLP
+
+T. Kolditz, C. Lohr, J. Hellrich, L. Modersohn, B. Betz, M. Kiehntopf, & U. Hahn \[2019\].
+Annotating German clinical documents for de-identification. In MEDINFO 2019 – Proceedings of the 17th World Congress on Medical and Health Informatics: Health and Wellbeing e-Networks for All. Lyon, France, 25-30 August 2019, pp. 203-207.
+
+
+### c) Bioinformatics and Clinical Applications
 
 A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\].\
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
@@ -641,7 +648,10 @@ Genome-wide scale-free network inference for Candida albicans. In Frontiers in M
 ## 6) Economics & NLP (EcoNLP)
 
 S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach \[2016\].\
-Do enterprises have emotions? In WASSA 2016 -- Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16, 2016, pp. 147-153.
+Do enterprises have emotions? In WASSA 2016  – Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16, 2016, pp. 147-153.
+
+S. Buechel, S. Junker, T. Schlaak, C. Michelsen, & U. Hahn \[2019\].\
+A time series analysis of emotional loading in Central Bank statements. In ECONLP 2019 – Proceedings of the 2nd Workshop on Economics and Natural Language Processing @ EMNLP-IJCNLP 2019. Hong Kong, China, November 4, 2019, pp. 16–21.
 
 
 ## 7) Knowledge Representation and Spatio-Temporal Reasoning

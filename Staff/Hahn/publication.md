@@ -18,18 +18,18 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[2c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[2d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
 [3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
-	[a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
-	[b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
-	[c) Corpus Annotation](#c-corpus-annotation)<br/>
+	[3a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
+	[3b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
+	[3c) Corpus Annotation](#c-corpus-annotation)<br/>
 [4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
-	[a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
-	[b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)<br/>
-	[c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
+	[4a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
+	[4b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)<br/>
+	[4c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
 [5) Biomedical NLP](#biomedical-nlp)<br/>
-	[a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
-	[b) Clinical NLP](#clinical-nlp)<br/>
-	[c) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
-[6) Economics & NLP](#econlp)<br/>
+	[5a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
+	[5b) Clinical NLP](#clinical-nlp)<br/>
+	[5c) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
+[6) Economics & NLP](#economics-&-nlp)<br/>
 [7) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
 [8) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
 [9) Machine Learning](#machine-learning)<br/>
@@ -38,70 +38,60 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 
 ## 1) All-time Favorites
 
-M. Strube & U. Hahn \[1999\]. Functional centering: Grounding
-referential coherence in information structure. In Computational
-Linguistics, 25(3):309-344.
+M. Strube & U. Hahn \[1999\].\
+Functional centering: grounding referential coherence in information structure. In Computational Linguistics, 25(3):309-344.
 
-K. Markert & U. Hahn \[2002\]. Understanding metonymies in discourse. In
-Artificial Intelligence, 135(1-2):145-198.
+K. Markert & U. Hahn \[2002\].\
+Understanding metonymies in discourse. In Artificial Intelligence, 135(1-2):145-198.
 
-U. Hahn & I. Mani \[2000\]. The challenges of automatic summarization.
-In IEEE Computer, 33(11):29-36.
+U. Hahn & I. Mani \[2000\].\
+The challenges of automatic summarization. In IEEE Computer, 33(11):29-36.
 
-U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\]. Mining the
-pharmacogenomics literature: A survey of the state of the art. In
-Briefings in Bioinformatics, 13(4):460-494.
+U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\].\
+Mining the pharmacogenomics literature: a survey of the state of the art. In Briefings in Bioinformatics, 13(4):460-494.
 
-S. Schulz & U. Hahn \[2005\]. Part-whole representation and reasoning in
-formal biomedical ontologies. In Artificial Intelligence in Medicine,
-34(3):179-200.
+S. Schulz & U. Hahn \[2005\].\
+Part-whole representation and reasoning in formal biomedical ontologies. In Artificial Intelligence in Medicine, 34(3):179-200.
 
-J. Wermter, K. Tomanek & U. Hahn \[2009\]. High-performance gene name
-normalization with GeNo. In Bioinformatics, 25(6):815-821.
+J. Wermter, K. Tomanek & U. Hahn \[2009\].\
+High-performance gene name normalization with GeNo. In Bioinformatics, 25(6):815-821.
 
-U. Hahn, S.Schulz & M. Romacker \[1999\]. Part-whole reasoning: A case
-study in medical ontology engineering. In IEEE Intelligent Systems,
-14(5):59-67.
+U. Hahn, S.Schulz & M. Romacker \[1999\].\
+Part-whole reasoning: a case study in medical ontology engineering. In IEEE Intelligent Systems, 14(5):59-67.
 
-E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\]. Syntactic
-simplification and semantic enrichment: Trimming dependency graphs for
-event extraction. In Computational Intelligence, 27(4):610-644.
+E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\].\
+Syntactic simplification and semantic enrichment: trimming dependency graphs for event extraction. In Computational Intelligence, 27(4):610-644.
 
-U. Hahn, J. Wermter, R. Blasczyk & P. Horn \[2007\]. Text mining:
-Powering the database revolution. In Nature, 448(7150):130.
+U. Hahn, J. Wermter, R. Blasczyk & P. Horn \[2007\].\
+Text mining: powering the database revolution. In Nature, 448(7150):130.
 
-C. Fellbaum, U. Hahn & B. Smith \[2006\]. Towards new information
-resources for public health -- From WordNet to Medical WordNet. In
-Journal of Biomedical Informatics, 39(3):321-332.
+C. Fellbaum, U. Hahn & B. Smith \[2006\].\
+Towards new information resources for public health: from WordNet to Medical WordNet. In Journal of Biomedical Informatics, 39(3):321-332.
 
-U. Hahn, M. Jarke & Th. Rose \[1991\]. Teamwork support in a
-knowledge-based information systems environment. In IEEE Transactions on
-Software Engineering, SE-17(5):467-482.
+U. Hahn, M. Jarke & Th. Rose \[1991\].\
+Teamwork support in a knowledge-based information systems environment. In IEEE Transactions on Software Engineering, SE-17(5):467-482.
 
-U. Hahn \[1990\]. Topic parsing: Accounting for text macro structures in
-full-text analysis.\
-In Information Processing & Management, 26(1):135-170.
+U. Hahn \[1990\].\
+Topic parsing: accounting for text macro structures in full-text analysis. In Information Processing & Management, 26(1):135-170.
 
-U. Hahn, S. Schacht & N. Bröker \[1994\]. Concurrent, object-oriented
-natural language parsing: The ParseTalk model. In International Journal
-of Human-Computer Studies, 41(1-2):179-222.
+U. Hahn, S. Schacht & N. Bröker \[1994\].\
+Concurrent, object-oriented natural language parsing: the ParseTalk model. In International Journal of Human-Computer Studies, 41(1-2):179-222.
 
-U. Hahn \[1989\]. Making understanders out of parsers: Semantically
-driven parsing as a key concept for realistic text understanding
-applications. In International Journal of Intelligent Systems,
+U. Hahn \[1989\].\
+Making understanders out of parsers: semantically driven parsing as a key concept for realistic text understanding applications. In International Journal of Intelligent Systems,
 4(3):345-393.
 
 ## 2) Natural Language Processing: Systems & Applications
 
-### a) Information Extraction & Text Mining
+### 2a) Information Extraction & Text Mining
 
-E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\].\ 
+E. Buyko, E. Faessler, J. Wermter & U. Hahn \[2011\].\
 Syntactic simplification and semantic enrichment: trimming dependency graphs for event extraction. In Computational Intelligence, 27(4):610-644.
 
 J. Wermter, K. Tomanek & U. Hahn \[2009\].\
 High-performance gene name normalization with GeNo. In Bioinformatics, 25(6):815-821.
 
-U. Hahn, & M. Oleynik \[2020\].\ 
+U. Hahn, & M. Oleynik \[2020\].\
 Medical information extraction in the age of deep learning.
 In Yearbook of Medical Informatics 2020 – Ethics in Health Informatics. IMIA & Georg Thieme Verlag KG, pp. 208-20
 
@@ -131,7 +121,7 @@ Towards automatic pathway generation from biological full-text publications. In 
 International Conference on Intelligent Data Analysis. Porto, Portugal, October 29-31, 2011. Springer, pp. 67-79 
 (Lecture Notes in Computer Science, 7014)
 
-### b) Text Summarization
+### 2b) Text Summarization
 
 U. Hahn & I. Mani \[2000\]. The challenges of automatic summarization.
 In IEEE Computer, 33(11):29-36.
@@ -162,7 +152,7 @@ Development in Information Retrieval. SIGIR '84 -- Proceedings of the
 3rd Joint BCS and ACM Symposium. Cambridge, England, 2-6 July 1984.
 Cambridge University Press, pp. 343-368.
 
-### c) Knowledge Base Population
+### 2c) Knowledge Base Population
 
 U. Hahn, M. Romacker & S. Schulz \[2000\]. Content management in the
 SynDiKATe system: How technical documents are automatically transformed
@@ -189,7 +179,7 @@ repositories from biomedical reports: The medSynDiKATe text mining
 system. In PSB 2002 -- Pacific Symposium on Biocomputing. Kauai, Hawaii,
 USA, January 3-7, 2002, pp.338-349.
 
-### d) (Multilingual) Information Retrieval
+### 2d) (Multilingual) Information Retrieval
 
 E. Faessler, M. Oleynik, & U. Hahn \[2020\].\
 What makes a top-performing precision medicine search engine? Tracing main system features in a systematic way. 
@@ -215,7 +205,7 @@ Morpheme-based, cross-lingual indexing for medical document retrieval. In Intern
 
 ## 3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation
 
-### a) Language Resources -- Corpora
+### 3a) Language Resources -- Corpora
 
 D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & U. Hahn \[2010\].\
 The CALBC silver standard corpus: Harmonizing multiple semantic annotations in a large biomedical corpus. In Journal of Bioinformatics and Computational Biology, 8(1):163-179
@@ -279,7 +269,7 @@ D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett
 Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
 Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
 
-### b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)
+### 3b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)
 
 U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\]. UIMA-based
 JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software
@@ -314,7 +304,7 @@ From Form to Meaning: Processing Texts Automatically.\
 Proceedings of the Biennial GSCL Conference 2009. Potsdam, Deutschland,
 October 1, 2009. Gunter Narr, pp. 217-224.
 
-### c) Corpus Annotation
+### 3c) Corpus Annotation
 
 K. Tomanek, U. Hahn, S. Lohmann & J. Ziegler \[2010\]. A cognitive cost
 model of annotations based on eye-tracking data. In ACL 2010 --
@@ -340,7 +330,7 @@ Workshop @ EACL 2017. Valencia, Spain, April 3, 2017, pp. 1--12.
 
 ## 4) Natural Language Processing: Methods
 
-### a) Text Parsing & Semantic Interpretation
+### 4a) Text Parsing & Semantic Interpretation
 
 M. Romacker, K. Markert & U. Hahn \[1999\]. Lean semantic
 interpretation. In IJCAI '99 -- Proceedings of the 16th International
@@ -416,7 +406,7 @@ driven parsing as a key concept for realistic text understanding
 applications. In International Journal of Intelligent Systems,
 4(3):345-393
 
-### b) Anaphora Resolution & Discourse Structure Analysis
+### 4b) Anaphora Resolution & Discourse Structure Analysis
 
 M. Strube & U. Hahn \[1999\]. Functional centering: Grounding
 referential coherence in information structure. In Computational
@@ -455,179 +445,124 @@ anaphora. In EACL ´95 -- Proceedings of the 7th Conference of the
 European Chapter of the Association for Computational Linguistics.
 Dublin, Ireland, March 27-31, 1995, pp. 237-244.
 
-### c) Emotion and Sentiment Analysis
+### 4c) Emotion and Sentiment Analysis
 
-S. Buechel, S. Rücker, & U. Hahn \[2020\]. 
+S. Buechel, S. Rücker, & U. Hahn \[2020\].\
 Learning and evaluating emotion lexicons for 91 languages. 
 In ACL 2020 – Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. July 5-10, 2020 (Virtual Event), pp. 1202-1217.
 
-S. Buechel & U. Hahn, Udo \[2018\]. 
+S. Buechel & U. Hahn, Udo \[2018\].\
 Word emotion induction for multiple languages as a deep multi-task learning problem. 
 In NAACL-HLT 2018 – Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
 Volume 1: Long Papers. New Orleans, LA, USA, June 1-6, 2018, pp. 1907--1918.
 
-S. Buechel & U. Hahn \[2016\]. 
+S. Buechel & U. Hahn \[2016\].\
 Emotion analysis as a regression problem: Dimensional models and their implications on emotion representation and metrical evaluation. 
 In ECAI 2016 – Proceedings of the 22nd European Conference on Artificial Intelligence. Part 2: ECAI Long Papers. The Hague, Netherlands, August 29 - September 2, 2016. IOS Press, pp. 1114-1122 (Frontiers in Artificial Intelligence and Applications, 285)
 
-S. Buechel & U. Hahn \[2017\]. 
+S. Buechel & U. Hahn \[2017\].\
 EmoBank : studying the impact of annotation perspective and representation format on dimensional emotion analysis. 
 In EACL 2017 – Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Vol. 2: Short Papers. Valencia, Spain, April 3-7, 2017, pp. 578--585.
 
-S. Buechel & U. Hahn \[2017\]. 
+S. Buechel & U. Hahn \[2017\].\
 A flexible mapping scheme for discrete and dimensional emotion representations. In CogSci 2017 – Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, 26-29 July 2017, pp. 180-185.
 
-S. Buechel & U. Hahn \[2018\]. Representation mapping: a novel approach to generate high-quality multi-lingual emotion lexicons. In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
+S. Buechel & U. Hahn \[2018\].\
+Representation mapping: a novel approach to generate high-quality multi-lingual emotion lexicons. In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
 
-S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach
-\[2016\]. Do enterprises have emotions? In WASSA 2016 -- Proceedings of
-the 7th Workshop on Computational Approaches to Subjectivity, Sentiment
-& Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16,
-2016, pp. 147-153.
 
 ## 5) Biomedical NLP
 
-U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\]. Mining the
-pharmacogenomics literature: A survey of the state of the art. In
-Briefings in Bioinformatics, 13(4):460-494.
+U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\].\
+Mining the pharmacogenomics literature: a survey of the state of the art. In Briefings in Bioinformatics, 13(4):460-494.
 
-J. Wermter, K. Tomanek & U. Hahn \[2009\]. High-performance gene name
-normalization with GeNo. In Bioinformatics, 25(6):815-821
+J. Wermter, K. Tomanek & U. Hahn \[2009\].\
+High-performance gene name normalization with GeNo. In Bioinformatics, 25(6):815-821
 
-Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, U. Hahn, K.B.
-Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S.
-van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M.
-Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre,
-H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii 2011 \[2011\].
-U-Compare bio-event meta-service: Compatible BioNLP event extraction
-services. In BMC Bioinformatics, 12(481).
+Y. Kano, J. Bjorne, F. Ginter, T. Salakoski, E. Buyko, U. Hahn, K.B. Cohen, K. Verspoor, C. Roeder, L.E. Hunter, H. Kilicoglu, S. Bergler, S. van Landeghem, T. van Parys, Y. van de Peer, M. Miwa, S. Ananiadou, M. Neves, A. Pascual-Montano, A. Ozgur, D.R. Radev, S. Riedel, R. Saetre, H.W. Chun, J.D. Kim, S. Pyysalo, T. Ohta, & J'i. Tsujii 2011 \[2011\].\
+U-Compare bio-event meta-service: Compatible BioNLP event extraction services. In BMC Bioinformatics, 12(481).
 
-U. Hahn, J. Wermter, R. Blasczyk & P. Horn \[2007\]. Text mining:
-Powering the database revolution. In Nature, 448(7150):130
+U. Hahn, J. Wermter, R. Blasczyk & P. Horn \[2007\].\
+Text mining: powering the database revolution. In Nature, 448(7150):130
 
-U. Hahn, M. Romacker & S. Schulz \[2002\]. medSynDiKATe: A natural
-language system for the extraction of medical information from findings
-reports. In International Journal of Medical Informatics, 67(1-3):63-74.
-
-F. Matthies & U. Hahn \[2017\]. Scholarly information extraction is
-going to make a quantum leap with PubMed Central (PMC)® --- But moving
-from abstracts to full texts seems harder than expected. In MedInfo 2017
--- Proceedings of the 16th World Congress on Medical and Health
-Informatics. Hangzhou, China, 21-25 August 2017. IOS Press, pp. 521-525
+F. Matthies & U. Hahn \[2017\].\
+Scholarly information extraction is going to make a quantum leap with PubMed Central (PMC)® – but moving from abstracts to full texts seems harder than expected. In MedInfo 2017
+– Proceedings of the 16th World Congress on Medical and Health Informatics. Hangzhou, China, 21-25 August 2017. IOS Press, pp. 521-525
 (Studies in Health Technology and Informatics, 245)
 
-J. Hellrich, F. Matthies, E. Faessler & U. Hahn \[2015\]. Sharing models
-and tools for processing German clinical texts. In MIE 2015 --
-Proceedings of the 26th Medical Informatics in Europe Conference.
-Madrid, Spain, May 27-29, 2015. IOS Press, pp. 734-738 (Studies in
-Health Technology and Informatics, 210).
+J. Wermter & U. Hahn \[2004\].\
+Really, is medical sublanguage that different? Experimental counter-evidence from tagging medical and newspaper corpora. In MedInfo 2004 – Proceedings of the 11th World
+Congress on Medical Informatics. Vol. 1. San Francisco, CA, USA, September 7-11, 2004. IOS Press, pp. 560-564 (Studies in Health Technology and Informatics, 107).
 
-J. Wermter & U. Hahn \[2004\]. Really, is medical sublanguage that
-different? Experimental counter-evidence from tagging medical and
-newspaper corpora. In MedInfo 2004 -- Proceedings of the 11th World
-Congress on Medical Informatics. Vol. 1. San Francisco, CA, USA,
-September 7-11, 2004. IOS Press, pp. 560-564 (Studies in Health
-Technology and Informatics, 107).
-
-U. Hahn, M. Romacker & S. Schulz \[1999\]. Discourse structures in
-medical reports: Watch out! The generation of referentially coherent and
-valid text knowledge bases in the medSynDiKATe system. In International
+U. Hahn, M. Romacker & S. Schulz \[1999\].\
+Discourse structures in medical reports: Watch out! The generation of referentially coherent and valid text knowledge bases in the medSynDiKATe system. In International
 Journal of Medical Informatics, 53(1):1-28.
 
-U. Hahn & J. Wermter \[2004\]. High-performance tagging on medical
-texts. In COLING 2004 -- Proceedings of the 20th International
-Conference on Computational Linguistics. Vol.2. Geneva, Switzerland,
+U. Hahn & J. Wermter \[2004\].\
+High-performance tagging on medical texts. In COLING 2004 -- Proceedings of the 20th International Conference on Computational Linguistics. Vol.2. Geneva, Switzerland,
 August 23-27, 2004, pp.973-979.
 
-U. Hahn, P. Daumke, S. Schulz & K. Markó \[2005\]. Cross-language mining
-for acronyms and their completions from the Web. In DS 2005 --
-Proceedings of the 8th International Conference on Discovery Science.
-Singapore, 8-11 October 2005. Springer, pp. 113-123 (Lecture Notes in
-Artificial Intelligence, 3735).
+U. Hahn, P. Daumke, S. Schulz & K. Markó \[2005\].\
+Cross-language mining for acronyms and their completions from the Web. In DS 2005 – Proceedings of the 8th International Conference on Discovery Science. Singapore, 8-11 October 2005. Springer, pp. 113-123 (Lecture Notes in Artificial Intelligence, 3735).
 
-K. Tomanek, J. Wermter & U. Hahn \[2007\]. A reappraisal of sentence and
-token splitting for life sciences documents. In MedInfo 2007 --
-Proceedings of the 12th World Congress on Health (Medical) Informatics.
-Brisbane, Australia, August 20-24, 2007. IOS Press, pp. 524-528 (Studies
-in Health Technology and Informatics, 129)
+K. Tomanek, J. Wermter & U. Hahn \[2007\].\
+A reappraisal of sentence and token splitting for life sciences documents. In MedInfo 2007 – Proceedings of the 12th World Congress on Health (Medical) Informatics. Brisbane, Australia, August 20-24, 2007. IOS Press, pp. 524-528 (Studies in Health Technology and Informatics, 129)
 
-E. Buyko, K. Tomanek & U. Hahn \[2007\]. Resolution of coordination
-ellipses in biological named entities using Conditional Random Fields.
-In PACLING 2007 -- Proceedings of the 10th Conference of the Pacific
-Association for Computational Linguistics. Melbourne, Australia,
-September 19-21, 2007, pp. 163-171.
+E. Buyko, K. Tomanek & U. Hahn \[2007\].\
+Resolution of coordination ellipses in biological named entities using conditional random fields. In PACLING 2007 – Proceedings of the 10th Conference of the Pacific
+Association for Computational Linguistics. Melbourne, Australia, September 19-21, 2007, pp. 163-171.
 
-M. Poprat, K. Markó & U. Hahn \[2006\]. A language classifier that
-automatically divides medical documents for experts and health care
-consumers. In MIE 2006 -- Proceedings of the 20th International Congress
-of the European Federation for Medical Informatics. Maastricht,
-Netherlands, 27-30 August 2006. IOS Press, pp. 503-508 (Studies in
-Health Technology and Informatics, 124).
+M. Poprat, K. Markó & U. Hahn \[2006\].\
+A language classifier that automatically divides medical documents for experts and health care consumers. In MIE 2006 – Proceedings of the 20th International Congress
+of the European Federation for Medical Informatics. Maastricht, Netherlands, 27-30 August 2006. IOS Press, pp. 503-508 (Studies in Health Technology and Informatics, 124).
 
-### a) Biomedical NLP: Term Extraction
+### 5a) Biomedical NLP: Term Extraction
 
-J. Wermter & U. Hahn \[2006\]. You can't beat frequency (unless you use
-linguistic knowledge): A qualitative evaluation of association measures
-for collocation and term extraction. In COLING--ACL 2006. Proceedings of
-the Joint 21st International Conference on Computational Linguistics and
-44th Annual Meeting of the Association for Computational Linguistics.
+J. Wermter & U. Hahn \[2006\].\
+You can't beat frequency (unless you use linguistic knowledge): A qualitative evaluation of association measures for collocation and term extraction. In COLING-ACL 2006 – Proceedings of the Joint 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics.
 Vol. 2. Sydney, Australia, July 17-21, 2006, pp. 785-792.
 
-J. Wermter & U. Hahn \[2005\]. Paradigmatic modifiability statistics for
-the extraction of complex multi-word terms. In HLT-EMNLP 2005 --
-Proceedings of the Human Language Technology Conference and the
-Conference on Empirical Methods in Natural Language Processing.
-Vancouver, B. C., Canada, 6-8 October 2005, pp. 843-850.
+J. Wermter & U. Hahn \[2005\].\
+Paradigmatic modifiability statistics for the extraction of complex multi-word terms. In HLT-EMNLP 2005 – Proceedings of the Human Language Technology Conference and the
+Conference on Empirical Methods in Natural Language Processing. Vancouver, B. C., Canada, 6-8 October 2005, pp. 843-850.
 
-J. Wermter & U. Hahn \[2004\]. Collocation extraction based on
-modifiability statistics. In COLING 2004 -- Proceedings of the 20th
-International Conference on Computational Linguistics. Vol.2. Geneva,
+J. Wermter & U. Hahn \[2004\].\
+Collocation extraction based on modifiability statistics. In COLING 2004 – Proceedings of the 20th International Conference on Computational Linguistics. Vol.2. Geneva,
 Switzerland, August 23-27, 2004, pp. 980-986.
 
-J. Hellrich & U. Hahn \[2014\]. Fostering multilinguality in the UMLS: A
-computational approach to terminology expansion for multiple languages.
-In AMIA 2014 -- Proceedings of the Annual Symposium of the American
-Medical Informatics Association. Washington, D.C., USA, November 15-19,
-2014, pp.655-660; 660a-660d.
+J. Hellrich & U. Hahn \[2014\].\
+Fostering multilinguality in the UMLS: a computational approach to terminology expansion for multiple languages. In AMIA 2014 – Proceedings of the Annual Symposium of the American Medical Informatics Association. Washington, D.C., USA, November 15-19, 2014, pp.655-660; 660a-660d.
 
-J. Wermter & U. Hahn \[2005\]. Finding new terminology in very large
-corpora. In K-CAP '05 -- Proceedings of the 3rd International Conference
-on Knowledge Capture. Banff, Canada, October 2-5, 2005. ACM Press,
+J. Wermter & U. Hahn \[2005\].\
+Finding new terminology in very large corpora. In K-CAP '05 – Proceedings of the 3rd International Conference on Knowledge Capture. Banff, Canada, October 2-5, 2005. ACM Press,
 pp. 137-144.
 
-J. Hellrich, S. Schulz, S. Buechel & U. Hahn \[2015\]. JUFIT: A
-configurable rule engine for filtering and generating new multilingual
-UMLS terms. In AMIA 2015 -- Proceedings of the 2015 Annual Symposium of
-the American Medical Informatics Association. San Francisco, CA, USA,
-Nov 14-18, 2015, pp. 604-610.
+J. Hellrich, S. Schulz, S. Buechel & U. Hahn \[2015\].\
+JUFIT: a configurable rule engine for filtering and generating new multilingual UMLS terms. In AMIA 2015 – Proceedings of the 2015 Annual Symposium of the American Medical Informatics Association. San Francisco, CA, USA, Nov 14-18, 2015, pp. 604-610.
 
-J. Wermter & U. Hahn \[2005\]. Massive biomedical term discovery. In DS
-2005 -- Proceedings of the 8 \>th International Conference on Discovery
-Science. Singapore, 8-11 October 2005. Springer, pp. 281-293 (Lecture
-Notes in Artificial Intelligence, 3735).
+J. Wermter & U. Hahn \[2005\].\
+Massive biomedical term discovery. In DS 2005 – Proceedings of the 8 \>th International Conference on Discovery Science. Singapore, 8-11 October 2005. Springer, pp. 281-293 (Lecture Notes in Artificial Intelligence, 3735).
 
-J. Hellrich, S. Schulz, S. Buechel & U. Hahn \[2015\]. Adding
-multilingual terminological resources to parallel corpora for
-statistical machine translation deteriorates system performance: A
-negative result from experiments in the biomedical domain. In Text,
-Speech, and Dialogue. TSD 2015 -- Proceedings of the 18th International
-Conference on Text, Speech, and Dialogue. Pilsen, Czech Republic,
-September 14-17, 2015. Springer, pp. 506-514 (Lecture Notes in
-Artificial Intelligence, 9302).
+J. Hellrich, S. Schulz, S. Buechel & U. Hahn \[2015\].\
+Adding multilingual terminological resources to parallel corpora for statistical machine translation deteriorates system performance: a negative result from experiments in the biomedical domain. In Text, Speech, and Dialogue. TSD 2015 – Proceedings of the 18th International Conference on Text, Speech, and Dialogue. Pilsen, Czech Republic, September 14-17, 2015. Springer, pp. 506-514 (Lecture Notes in Artificial Intelligence, 9302).
 
-J. Hellrich & U. Hahn \[2014\]. Exploiting parallel corpora to scale
-multilingual biomedical terminologies. In MIE 2014 -- Proceedings of the
-Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 -
-September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology
-and Informatics, 205).
+J. Hellrich & U. Hahn \[2014\].\
+Exploiting parallel corpora to scale multilingual biomedical terminologies. In MIE 2014 – Proceedings of the Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 - September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology and Informatics, 205).
 
-### b) Clinical NLP
+### 5b) Clinical NLP
 
-T. Kolditz, C. Lohr, J. Hellrich, L. Modersohn, B. Betz, M. Kiehntopf, & U. Hahn \[2019\].
+U. Hahn, M. Romacker & S. Schulz \[2002\].\
+medSynDiKATe: a natural language system for the extraction of medical information from findings reports. In International Journal of Medical Informatics, 67(1-3):63-74.
+
+T. Kolditz, C. Lohr, J. Hellrich, L. Modersohn, B. Betz, M. Kiehntopf, & U. Hahn \[2019\].\
 Annotating German clinical documents for de-identification. In MEDINFO 2019 – Proceedings of the 17th World Congress on Medical and Health Informatics: Health and Wellbeing e-Networks for All. Lyon, France, 25-30 August 2019, pp. 203-207.
 
+J. Hellrich, F. Matthies, E. Faessler & U. Hahn \[2015\].\
+Sharing models and tools for processing German clinical texts. In MIE 2015 – Proceedings of the 26th Medical Informatics in Europe Conference. Madrid, Spain, May 27-29, 2015. IOS Press, pp. 734-738 (Studies in Health Technology and Informatics, 210).
 
-### c) Bioinformatics and Clinical Applications
+
+
+### 5c) Bioinformatics and Clinical Applications
 
 A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\].\
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.

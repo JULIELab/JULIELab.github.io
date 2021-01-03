@@ -25,12 +25,13 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[4a) Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
 	[4b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)<br/>
 	[4c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
-[5) Biomedical NLP](#biomedical-nlp)<br/>
-	[5a) Biomedical NLP: Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
+[5) NLP for the Life Sciences](#biomedical-nlp)<br/>
+	[5a) Biomedical NLP](#a-biomedical-nlp-term-extraction)<br/>
 	[5b) Clinical NLP](#clinical-nlp)<br/>
-	[5c) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
-[6) Economics & NLP](#economics-&-nlp)<br/>
-[7) Knowledge Representation and Spatio-Temporal Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
+	[5c) Term Extraction](#a-biomedical-nlp-term-extraction)<br/>
+	[5d) Bioinformatics & Clinical Applications](#b-bioinformatics-applications)<br/>
+[6) NLP for Economics](#economics-&-nlp)<br/>
+[7) Knowledge Representation and Reasoning](#knowledge-representation-and-spatio-temporal-reasoning)<br/>
 [8) Biomedical Ontology Engineering](#biomedical-ontology-engineering)<br/>
 [9) Machine Learning](#machine-learning)<br/>
 [10) Digital Humanities](#digital-humanities)<br/>
@@ -466,7 +467,9 @@ E. Eder, U. Krieg-Holz, & U. Hahn \[2019\].\
 At the lower end of language: exploring the vulgar and obscene side of German. In ALW 3 – Proceedings of the 3rd Workshop on Abusive Language Online @ ACL 2019. Florence, Italy, August, 1, 2019, pp. 119–128
 
 
-## 5) Biomedical NLP
+## 5) NLP for the Life Sciences
+
+### 5a) Biomedical NLP
 
 U. Hahn, K.B. Cohen, Y. Garten & N. Shah \[2012\].\
 Mining the pharmacogenomics literature: a survey of the state of the art. In Briefings in Bioinformatics, 13(4):460-494.
@@ -511,7 +514,18 @@ M. Poprat, K. Markó & U. Hahn \[2006\].\
 A language classifier that automatically divides medical documents for experts and health care consumers. In MIE 2006 – Proceedings of the 20th International Congress
 of the European Federation for Medical Informatics. Maastricht, Netherlands, 27-30 August 2006. IOS Press, pp. 503-508 (Studies in Health Technology and Informatics, 124).
 
-### 5a) Biomedical NLP: Term Extraction
+### 5b) Clinical NLP
+
+U. Hahn, M. Romacker & S. Schulz \[2002\].\
+medSynDiKATe: a natural language system for the extraction of medical information from findings reports. In International Journal of Medical Informatics, 67(1-3):63-74.
+
+T. Kolditz, C. Lohr, J. Hellrich, L. Modersohn, B. Betz, M. Kiehntopf, & U. Hahn \[2019\].\
+Annotating German clinical documents for de-identification. In MEDINFO 2019 – Proceedings of the 17th World Congress on Medical and Health Informatics: Health and Wellbeing e-Networks for All. Lyon, France, 25-30 August 2019, pp. 203-207.
+
+J. Hellrich, F. Matthies, E. Faessler & U. Hahn \[2015\].\
+Sharing models and tools for processing German clinical texts. In MIE 2015 – Proceedings of the 26th Medical Informatics in Europe Conference. Madrid, Spain, May 27-29, 2015. IOS Press, pp. 734-738 (Studies in Health Technology and Informatics, 210).
+
+### 5c) Term Extraction
 
 J. Wermter & U. Hahn \[2006\].\
 You can't beat frequency (unless you use linguistic knowledge): A qualitative evaluation of association measures for collocation and term extraction. In COLING-ACL 2006 – Proceedings of the Joint 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics.
@@ -544,20 +558,9 @@ Adding multilingual terminological resources to parallel corpora for statistical
 J. Hellrich & U. Hahn \[2014\].\
 Exploiting parallel corpora to scale multilingual biomedical terminologies. In MIE 2014 – Proceedings of the Medical Informatics in Europe Conference. Istanbul, Turkey, August 31 - September 3, 2014. IOS Press, pp. 575-578 (Studies in Health Technology and Informatics, 205).
 
-### 5b) Clinical NLP
-
-U. Hahn, M. Romacker & S. Schulz \[2002\].\
-medSynDiKATe: a natural language system for the extraction of medical information from findings reports. In International Journal of Medical Informatics, 67(1-3):63-74.
-
-T. Kolditz, C. Lohr, J. Hellrich, L. Modersohn, B. Betz, M. Kiehntopf, & U. Hahn \[2019\].\
-Annotating German clinical documents for de-identification. In MEDINFO 2019 – Proceedings of the 17th World Congress on Medical and Health Informatics: Health and Wellbeing e-Networks for All. Lyon, France, 25-30 August 2019, pp. 203-207.
-
-J. Hellrich, F. Matthies, E. Faessler & U. Hahn \[2015\].\
-Sharing models and tools for processing German clinical texts. In MIE 2015 – Proceedings of the 26th Medical Informatics in Europe Conference. Madrid, Spain, May 27-29, 2015. IOS Press, pp. 734-738 (Studies in Health Technology and Informatics, 210).
 
 
-
-### 5c) Bioinformatics and Clinical Applications
+### 5d) Bioinformatics and Clinical Applications
 
 A. Sadik, L.F. Somarribas Patterson, S. Öztürk, S.R. Mohapatra, V. Panitz, P.F. Secker, P. Pfänder, S. Loth, H. Salem, M.T. Prentzell, B. Berdel, M. Iskar, E. Faessler, F. Reuter, I. Kirst, V. Kalter, K.I. Foerster, E. Jäger, C. Ramallo Guevara, M. Sobeh, Th. Hielscher, G. Poschet, A. Reinhardt, J.C. Hassel, M. Zapatka, U. Hahn, A. von Deimling, C. Hopf, R. Schlichting, B.I. Escher, J. Burhenne, W. Haefeli, N. Ishaque, A. Böhme, S. Schäuble, K. Thedieck, S. Trump, M. Seiffert, & C.A. Opitz \[2020\].\
 IL4|1 is a metabolic immune checkpoint that activates the AHR and promotes tumor progression. In Cell, 182, 1252-1270.e34.
@@ -575,7 +578,7 @@ R. Altwasser, J. Linde, E. Buyko, U. Hahn, R. Guthke \[2012\].\
 Genome-wide scale-free network inference for Candida albicans. In Frontiers in Microbiology, 3(51).
 
 
-## 6) Economics & NLP (EcoNLP)
+## 6) NLP for Economics
 
 S. Buechel, U. Hahn, J. Goldenstein, S. G. M. Händschke & P. Walgenbach \[2016\].\
 Do enterprises have emotions? In WASSA 2016  – Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis @ NAACL-HLT 2016. San Diego, CA, USA, June 16, 2016, pp. 147-153.
@@ -584,7 +587,7 @@ S. Buechel, S. Junker, T. Schlaak, C. Michelsen, & U. Hahn \[2019\].\
 A time series analysis of emotional loading in Central Bank statements. In ECONLP 2019 – Proceedings of the 2nd Workshop on Economics and Natural Language Processing @ EMNLP-IJCNLP 2019. Hong Kong, China, November 4, 2019, pp. 16–21.
 
 
-## 7) Knowledge Representation and Spatio-Temporal Reasoning
+## 7) Knowledge Representation and Reasoning
 
 S. Schulz & U. Hahn \[2005\]. Part-whole representation and reasoning in
 formal biomedical ontologies. In Artificial Intelligence in Medicine,

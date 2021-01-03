@@ -23,7 +23,7 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[3c) Language Resources: Email Corpora](#a-language-resources-corpora)<br/>
 	[3d) Language Resources: Other Corpora](#a-language-resources-corpora)<br/>
 	[3e) Language Resources: Software, Tools & Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
-	[3c) Corpus Annotation](#c-corpus-annotation)<br/>
+	[3f) Corpus Annotation](#c-corpus-annotation)<br/>
 [4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
 	[4a) Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
 	[4b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)<br/>
@@ -183,7 +183,7 @@ repositories from biomedical reports: The medSynDiKATe text mining
 system. In PSB 2002 -- Pacific Symposium on Biocomputing. Kauai, Hawaii,
 USA, January 3-7, 2002, pp.338-349.
 
-### 2d) (Multilingual) Information Retrieval
+### 2d) (Multilingual) Information Retrieval (SeMedico, MorphoSaurus)
 
 E. Faessler, M. Oleynik, & U. Hahn \[2020\].\
 What makes a top-performing precision medicine search engine? Tracing main system features in a systematic way. 
@@ -296,8 +296,14 @@ A corpus of corporate annual and social responsibility reports: 280 million toke
 
 ### 3e) Language Resources: Software, Tools & Frameworks (including UIMA)
 
+A. Winter, S. Stäubert, D. Ammon, S. Aiche, O. Beyan, V. Bischoff, Ph. Daumke, St. Decker, G. Funkat, J.E. Gewehr, A. de Greiff, S. Haferkamp, U. Hahn, A. Henkel, T. Kirsten, Th. Klöss, J. Lippert, M. Löbe, V. Lowitsch, O. Maassen, J. Maschmann, S. Meister, R. Mikolajczyk, M. Nüchter, M.W. Pletz, E. Rahm, M. Riedel, K. Saleh, A. Schuppert, St. Smers, A. Stollenwerk, St. Uhlig, Th. Wendt, S. Zenker, W. Fleig, G. Marx, A. Scherag, & M. Löffler \[2018\].\
+Smart Medical Information Technology for Healthcare (SMITH). Data integration based on interoperability standards. In Methods of Information in Medicine, 57, e92-e105.
+
 U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\].\
 UIMA-based JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software resource engineering and distribution of NLP pipelines. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2502-2509.
+
+J. Hellrich, S. Buechel, & U. Hahn  \[2018\].\
+JeSemE : a website for exploring diachronic changes in word meaning and emotion. In COLING 2018 – Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations. Santa Fe, New Mexico, USA, August 21 & 23, 2018, pp. 10–14.
 
 C. Lohr, J. Kiesel, St. Luther, J. Hellrich, B. Stein, & U. Hahn  \[2019\].\
 Continuous annotation quality control, support for hierarchically structured label sets and long-segment annotation with WAT-SL 2.0. In LAW XIII 2019 – Proceedings of the 13th Linguistic Annotation Workshop @ ACL 2019. Florence, Italy, August 1, 2019, pp. 215–219.
@@ -321,7 +327,7 @@ pp. 15-19.
 E. Faessler, R. Landefeld, K. Tomanek & U. Hahn \[2009\].\
 LuCas: a Lucene CAS indexer. In C. Chiarcos, R. E. de Castilho & M. Stede (Eds.). From Form to Meaning: Processing Texts Automatically. Proceedings of the Biennial GSCL Conference 2009. Potsdam, Deutschland, October 1, 2009. Gunter Narr, pp. 217-224.
 
-### 3c) Corpus Annotation
+### 3f) Corpus Annotation
 
 K. Tomanek, U. Hahn, S. Lohmann & J. Ziegler \[2010\].\
 A cognitive cost model of annotations based on eye-tracking data. In ACL 2010 – Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics. Uppsala, Sweden, July 11-16, 2010, pp. 1158-1167.
@@ -476,6 +482,9 @@ In ECAI 2016 – Proceedings of the 22nd European Conference on Artificial Intel
 S. Buechel & U. Hahn \[2017\].\
 EmoBank : studying the impact of annotation perspective and representation format on dimensional emotion analysis. 
 In EACL 2017 – Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. Vol. 2: Short Papers. Valencia, Spain, April 3-7, 2017, pp. 578--585.
+
+S. Buechel, & U. Hahn \[2018\].\
+Emotion representation mapping for automatic lexicon construction (mostly) performs on human level. In COLING 2018 – Proceedings of the 27th International Conference on Computational Linguistics: Main Conference. Santa Fe, New Mexico, USA, August 20-26, 2018, pp. 2892–2904.
 
 S. Buechel & U. Hahn \[2017\].\
 A flexible mapping scheme for discrete and dimensional emotion representations. In CogSci 2017 – Proceedings of the 39th Annual Meeting of the Cognitive Science Society. London, UK, 26-29 July 2017, pp. 180-185.
@@ -813,7 +822,7 @@ K. Schnattinger & U. Hahn \[1998\]. Quality-based learning. In ECAI '98
 Intelligence. Brighton, U.K., August 23-28, 1998. J. Wiley, pp. 160-164.
 
 M. Klenner & U. Hahn \[1994\]. Concept versioning: A methodology for
-tracking evolutionary concept drift in dynamic concept systems.\
+tracking evolutionary concept drift in dynamic concept systems.
 In ECAI '94 -- Proceedings of the 11 \>th European Conference on
 Artificial Intelligence. Amsterdam, The Netherlands, August 8-12 1994.
 J. Wiley, pp. 473-477.
@@ -842,6 +851,9 @@ Modeling word emotion in historical language: quantity beats supposed stability 
 
 J. Hellrich & U. Hahn \[2017\].\
 Exploring diachronic lexical semantics with JeSemE. In ACL 2017 – Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. Vancouver, B.C., Canada, August 1, 2017, pp. 31-36.
+
+J. Hellrich, S. Buechel, & U. Hahn  \[2018\].\
+JeSemE : a website for exploring diachronic changes in word meaning and emotion. In COLING 2018 – Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations. Santa Fe, New Mexico, USA, August 21 & 23, 2018, pp. 10–14.
 
 S. Buechel, J. Hellrich & U. Hahn \[2017\].\
 The course of emotion in three centuries of German text: a methodological framework. In Digital Humanities 2017 – Conference Abstracts of the 2017 Conference of the Alliance of Digital Humanities Organizations (ADHO). Montréal, Québec, Canada, August 8-11, 2017.

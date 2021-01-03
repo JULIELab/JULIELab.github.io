@@ -17,12 +17,12 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[2b) Text Summarization](#b-text-summarization)<br/>
 	[2c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[2d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
-[3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
+[3) Natural Language Processing Infrastructure](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
 	[3a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
-	[3b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
+	[3b) Language Resources -- Software Tools and Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
 	[3c) Corpus Annotation](#c-corpus-annotation)<br/>
 [4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
-	[4a) Text Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
+	[4a) Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
 	[4b) Anaphora Resolution & Discourse Structure Analysis](#b-anaphora-resolution-discourse-structure-analysis)<br/>
 	[4c) Emotion and Sentiment Analysis](#c-emotion-and-sentiment-analysis)<br/>
 [5) Biomedical NLP](#biomedical-nlp)<br/>
@@ -203,7 +203,7 @@ S. Schulz & U. Hahn \[2000\].\
 Morpheme-based, cross-lingual indexing for medical document retrieval. In International Journal of Medical Informatics, 59(3):87-99.
 
 
-## 3) Natural Language Processing: Language Resources -- Corpora & Tools, Annotation
+## 3) Natural Language Processing Infrastructure
 
 ### 3a) Language Resources -- Corpora
 
@@ -269,40 +269,32 @@ D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett
 Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
 Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
 
-### 3b) Natural Language Processing: Language Resources -- Software Tools, incl. Unstructured Information Management Architecture (UIMA)
+### 3b) Language Resources -- Software Tools & Frameworks (including UIMA)
 
-U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\]. UIMA-based
-JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software
-resource engineering and distribution of NLP pipelines. In LREC 2016 --
-Proceedings of the 10th International Conference on Language Resources
-and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2502-2509.
+U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\].\
+UIMA-based JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software resource engineering and distribution of NLP pipelines. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2502-2509.
 
-K. Tomanek, J. Wermter & U. Hahn \[2007\]. Sentence and token splitting
-based on Conditional Random Fields. In PACLING 2007 -- Proceedings of
-the 10th Conference of the Pacific Association for Computational
+C. Lohr, J. Kiesel, St. Luther, J. Hellrich, B. Stein, & U. Hahn  \[2019\].\
+Continuous annotation quality control, support for hierarchically structured label sets and long-segment annotation with WAT-SL 2.0. In LAW XIII 2019 – Proceedings of the 13th Linguistic Annotation Workshop @ ACL 2019. Florence, Italy, August 1, 2019, pp. 215–219.
+
+K. Tomanek, J. Wermter & U. Hahn \[2007\].\
+Sentence and token splitting based on conditional random fields. In PACLING 2007 – Proceedings of the 10th Conference of the Pacific Association for Computational
 Linguistics. Melbourne, Australia, September 19-21, 2007, pp. 49-57.
 
-E. Buyko, K. Tomanek & U. Hahn \[2007\]. Resolution of coordination
-ellipses in biological named entities using conditional random fields.
-In PACLING 2007 -- Proceedings of the 10th Conference of the Pacific
-Association for Computational Linguistics. Melbourne, Australia,
-September 19-21, 2007, pp. 163-171.
+E. Buyko, K. Tomanek & U. Hahn \[2007\].\
+Resolution of coordination ellipses in biological named entities using conditional random fields. In PACLING 2007 – Proceedings of the 10th Conference of the Pacific
+Association for Computational Linguistics. Melbourne, Australia, September 19-21, 2007, pp. 163-171.
 
-E. Buyko & U. Hahn \[2008\]. Fully embedded type systems for the
-semantic annotation layer. In ICGL 2008 -- Proceedings of the 1st
-International Conference on Global Interoperability for Language
+E. Buyko & U. Hahn \[2008\].\
+Fully embedded type systems for the semantic annotation layer. In ICGL 2008 – Proceedings of the 1st International Conference on Global Interoperability for Language
 Resources. Hong Kong, SAR, January 9-11, 2008, pp. 26-33.
 
-E. Beisswanger & U. Hahn \[2010\]. JULIE Lab's UIMA Collection Reader
-for Wikipedia. In Proceedings of the LREC 2010 Workshop on New
-Challenges for NLP Frameworks. La Valletta, Malta, May 22, 2010,
+E. Beisswanger & U. Hahn \[2010\].\
+JULIE Lab's UIMA Collection Reader for Wikipedia. In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks. La Valletta, Malta, May 22, 2010,
 pp. 15-19.
 
-E. Faessler, R. Landefeld, K. Tomanek & U. Hahn \[2009\]. LuCas: A
-Lucene CAS indexer. In C. Chiarcos, R. E. de Castilho & M. Stede (Eds.).
-From Form to Meaning: Processing Texts Automatically.\
-Proceedings of the Biennial GSCL Conference 2009. Potsdam, Deutschland,
-October 1, 2009. Gunter Narr, pp. 217-224.
+E. Faessler, R. Landefeld, K. Tomanek & U. Hahn \[2009\].\
+LuCas: a Lucene CAS indexer. In C. Chiarcos, R. E. de Castilho & M. Stede (Eds.). From Form to Meaning: Processing Texts Automatically. Proceedings of the Biennial GSCL Conference 2009. Potsdam, Deutschland, October 1, 2009. Gunter Narr, pp. 217-224.
 
 ### 3c) Corpus Annotation
 
@@ -330,7 +322,7 @@ Workshop @ EACL 2017. Valencia, Spain, April 3, 2017, pp. 1--12.
 
 ## 4) Natural Language Processing: Methods
 
-### 4a) Text Parsing & Semantic Interpretation
+### 4a) Parsing & Semantic Interpretation
 
 M. Romacker, K. Markert & U. Hahn \[1999\]. Lean semantic
 interpretation. In IJCAI '99 -- Proceedings of the 16th International
@@ -469,6 +461,9 @@ A flexible mapping scheme for discrete and dimensional emotion representations. 
 
 S. Buechel & U. Hahn \[2018\].\
 Representation mapping: a novel approach to generate high-quality multi-lingual emotion lexicons. In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
+
+E. Eder, U. Krieg-Holz, & U. Hahn \[2019\].\
+At the lower end of language: exploring the vulgar and obscene side of German. In ALW 3 – Proceedings of the 3rd Workshop on Abusive Language Online @ ACL 2019. Florence, Italy, August, 1, 2019, pp. 119–128
 
 
 ## 5) Biomedical NLP

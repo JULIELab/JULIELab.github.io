@@ -16,7 +16,6 @@ layout: staff
 * 2007 - 2012: Studies of Applied Computer Science at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Bachelor of Science)
 
 ## Research Interests
-
 * Clinical Natural Language Processing
 
 ## Projects Involved
@@ -31,7 +30,7 @@ layout: staff
 
 ### 2020
 
-* Florian Borchert, **Christina Lohr**, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](https://www.aclweb.org/anthology/2020.louhi-1.5.pdf). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] in [LOUHI@EMNLP'20](https://louhi2020.fbk.eu/) [[ACL Anthology](https://www.aclweb.org/anthology/2020.louhi-1.5/)] [[DOI:10.18653/v1/2020.louhi-1.5](https://doi.org/10.18653/v1/2020.louhi-1.5)] [[Zenodo](https://zenodo.org/record/4067994)]
+* Florian Borchert, **Christina Lohr**, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](https://www.aclweb.org/anthology/2020.louhi-1.5.pdf). [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] in [Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/) EMNLP 2020, Nov 20 [[ACL Anthology](https://www.aclweb.org/anthology/2020.louhi-1.5/)] [[DOI:10.18653/v1/2020.louhi-1.5](https://doi.org/10.18653/v1/2020.louhi-1.5)] [[Zenodo](https://zenodo.org/record/4067994)]
 
 * Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)] [[ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.564/)]
 

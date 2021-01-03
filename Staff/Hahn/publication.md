@@ -18,8 +18,8 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[2c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[2d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
 [3) Natural Language Processing Infrastructure](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
-	[3a) Language Resources -- Corpora](#a-language-resources-corpora)<br/>
-	[3b) Language Resources -- Software Tools and Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
+	[3a) Language Resources: Corpora](#a-language-resources-corpora)<br/>
+	[3b) Language Resources: Software, Tools & Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
 	[3c) Corpus Annotation](#c-corpus-annotation)<br/>
 [4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
 	[4a) Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
@@ -186,6 +186,9 @@ E. Faessler, M. Oleynik, & U. Hahn \[2020\].\
 What makes a top-performing precision medicine search engine? Tracing main system features in a systematic way. 
 In SIGIR '20 – Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. July 25–30, 2020 (Virtual Event), pp. 459-468.
 
+E. Faessler, M. Oleynik, & U. Hahn, Udo \[2019\].\
+JULIE Lab & Med Uni Graz @ TREC 2019 Precision Medicine Track. In TREC 2019 – Proceedings of the 28th Text REtrieval Conference. Gaithersburg, Maryland, USA, November 13-15, 2019  \[top-ranked system: best system in 5/6 tasks/measurements & 2nd best system in 1/6 tasks/measurements\]
+
 E. Faessler & U. Hahn \[2017\].\
 SeMedico: A comprehensive semantic search engine for the life sciences. In ACL 2017 – Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics:
 System Demonstrations. Vancouver, B.C., Canada, August 1, 2017, pp. 91-96.
@@ -206,7 +209,7 @@ Morpheme-based, cross-lingual indexing for medical document retrieval. In Intern
 
 ## 3) Natural Language Processing Infrastructure
 
-### 3a) Language Resources -- Corpora
+### 3a) Language Resources: Corpora
 
 D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & U. Hahn \[2010\].\
 The CALBC silver standard corpus: Harmonizing multiple semantic annotations in a large biomedical corpus. In Journal of Bioinformatics and Computational Biology, 8(1):163-179
@@ -219,6 +222,9 @@ E. Faessler, L. Modersohn, C. Lohr, & U. Hahn \[2018\].\
 ProGene : a large-scale, high-quality protein-gene annotated benchmark corpus. 
 In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4585-4596.
 
+U. Hahn, & T. Duan  \[2019\].\
+Corpus assembly as text data integration from digital libraries and the Web. In JCDL '19 – Proceedings of the 19th ACM/IEEE-CS Joint Conference on Digital Libraries. Urbana-Champaign, Illinois, USA, June 2-6, 2019, pp. 25-28.
+
 U. Hahn, E. Beisswanger, E. Buyko, & E. Faessler \[2012\].\
 Active learning-based corpus annotation: the PathoJen experience.
 In AMIA 2012 – Proceedings of the 36th Annual Symposium of the American Medical Informatics Association. Informatics. Chicago, IL, USA, November 3-7, 2012, pp. 301-310.
@@ -230,8 +236,11 @@ E. Eder, U. Krieg-Holz, & U. Hahn \[2020\].\
  CodE Alltag 2.0 : a pseudonymized German-language email corpus. 
  In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
 
-U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn\[2016\].\
+U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn \[2016\].\
 CodE Alltag : a German-language e-mail corpus. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2543-2550.
+
+E. Eder, U. Krieg-Holz, & U. Hahn, Udo \[2019\].\
+De-identification of emails: pseudonymizing privacy-sensitive data in a German email corpus. In RANLP 2019 – Proceedings of the 12th International Conference on “Recent Advances in Natural Language Processing:” Natural Language Processing in a Deep Learning World. Varna, Bulgaria, 2–4 September, 2019, pp. 259–269.
 
 E. Buyko, E. Beisswanger, & U. Hahn \[2010\].\
 The GeneReg corpus for gene expression regulation events: an overview of the corpus and its in-domain and out-of-domain interoperability. 
@@ -255,7 +264,7 @@ Collaboratively annotating multilingual parallel corpora in the biomedical domai
 In LREC 2014 – Proceedings of the 9th Language Resources and Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014, pp. 4033-4040.
 
 Ş. Kafka, I. Lewin, D. Milward, E. van Mulligen, J. Kors, U. Hahn & D. Rebholz-Schuhmann \[2012\].\
-CALBC: Releasing the final corpora. 
+CALBC: releasing the final corpora. 
 In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 2923-2926.
 
 U. Hahn, E. Beisswanger, E. Buyko, E. Faessler, J. Traumüller, S. Schröder & K. Hornbostel \[2012\].\
@@ -270,7 +279,7 @@ D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett
 Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
 Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
 
-### 3b) Language Resources -- Software Tools & Frameworks (including UIMA)
+### 3b) Language Resources: Software, Tools & Frameworks (including UIMA)
 
 U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\].\
 UIMA-based JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software resource engineering and distribution of NLP pipelines. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2502-2509.

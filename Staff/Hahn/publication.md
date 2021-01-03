@@ -18,8 +18,11 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 	[2c) Knowledge Base Population](#c-knowledge-base-population)<br/>
 	[2d) (Multilingual) Information Retrieval](#d-multilingual-information-retrieval)<br/>
 [3) Natural Language Processing Infrastructure](#natural-language-processing-language-resources-corpora-software-tools-annotation)<br/>
-	[3a) Language Resources: Corpora](#a-language-resources-corpora)<br/>
-	[3b) Language Resources: Software, Tools & Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
+	[3a) Language Resources: Gene/Protein & Biomedical Corpora](#a-language-resources-corpora)<br/>
+	[3b) Language Resources: Medical & Clinical Corpora](#a-language-resources-corpora)<br/>
+	[3c) Language Resources: Email Corpora](#a-language-resources-corpora)<br/>
+	[3d) Language Resources: Other Corpora](#a-language-resources-corpora)<br/>
+	[3e) Language Resources: Software, Tools & Frameworks (including UIMA)](#b-natural-language-processing-language-resources-software-tools-incl.-unstructured-information-management-architecture-uima)<br/>
 	[3c) Corpus Annotation](#c-corpus-annotation)<br/>
 [4) Natural Language Processing: Methods](#natural-language-processing-methods)<br/>
 	[4a) Parsing & Semantic Interpretation](#a-text-parsing-semantic-interpretation)<br/>
@@ -209,42 +212,47 @@ Morpheme-based, cross-lingual indexing for medical document retrieval. In Intern
 
 ## 3) Natural Language Processing Infrastructure
 
-### 3a) Language Resources: Corpora
+### 3a) Language Resources: Gene/Protein & Biomedical Corpora
 
 D. Rebholz-Schuhmann, A.J.J. Yepes, E.M. van Mulligen, N. Kang, J. Kors, D. Milward, P. Corbett, E. Buyko, E. Beisswanger & U. Hahn \[2010\].\
 The CALBC silver standard corpus: Harmonizing multiple semantic annotations in a large biomedical corpus. In Journal of Bioinformatics and Computational Biology, 8(1):163-179
+
+E. Faessler, L. Modersohn, C. Lohr, & U. Hahn \[2020\].\
+ProGene : a large-scale, high-quality protein-gene annotated benchmark corpus. 
+In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4585-4596.
+
+E. Buyko, E. Beisswanger, & U. Hahn \[2010\].\
+The GeneReg corpus for gene expression regulation events: an overview of the corpus and its in-domain and out-of-domain interoperability. 
+In LREC 2010 – Proceedings of the 7th International Conference on Language Resources and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2662-2666.
+
+U. Hahn, K. Tomanek, E. Beisswanger, & E. Faessler \[2010\].\
+A proposal for a configurable silver standard. In LAW IV – Proceedings of the 4th Linguistic Annotation Workshop @ ACL 2010. Uppsala, Sweden, July 15-16, 2010, pp. 235-242.
+
+J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann \[2014\].\
+Collaboratively annotating multilingual parallel corpora in the biomedical domain: some MANTRAs. 
+In LREC 2014 – Proceedings of the 9th Language Resources and Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014, pp. 4033-4040.
+
+Ş. Kafka, I. Lewin, D. Milward, E. van Mulligen, J. Kors, U. Hahn & D. Rebholz-Schuhmann \[2012\].\
+CALBC: releasing the final corpora. 
+In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 2923-2926.
+
+U. Hahn, E. Beisswanger, E. Buyko, M. Poprat & J. Wermter \[2008\].\
+Semantic annotations for biology: A corpus development initiative at the Jena University Language & Information Engineering (JULIE) Lab. 
+In LREC 2008 – Proceedings of the 6th International Conference on Language Resources and Evaluation. Marrakech, Morocco, 26-31 May 2008, pp. 2257-2261.
+
+D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett, D. Milward, E. Buyko, E. Beisswanger, K. Hornbostel, A. Kouznetsov, R. Witte, J. B. Laurila, C .J. O. Baker, C.-J. Kuo, S. Clematide, F. Rinaldi, R. Farkas, G. Móra, K. Hara, L. I. Furlong, M. Rautschka, M. L. Neves, A. Pascual-Montano, Q. Wei, N. Collier, F. M.
+Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
+Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
+
+### 3b) Language Resources: Medical & Clinical Corpora
 
 C. Lohr, S. Buechel & U. Hahn \[2018\].\
 Sharing copies of synthetic clinical corpora without physical distribution: a case study to get around IPRs and privacy constraints featuring the German JSynCC corpus.
 In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 1259-1266.
 
-E. Faessler, L. Modersohn, C. Lohr, & U. Hahn \[2018\].\
-ProGene : a large-scale, high-quality protein-gene annotated benchmark corpus. 
-In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4585-4596.
-
-U. Hahn, & T. Duan  \[2019\].\
-Corpus assembly as text data integration from digital libraries and the Web. In JCDL '19 – Proceedings of the 19th ACM/IEEE-CS Joint Conference on Digital Libraries. Urbana-Champaign, Illinois, USA, June 2-6, 2019, pp. 25-28.
-
 U. Hahn, E. Beisswanger, E. Buyko, & E. Faessler \[2012\].\
 Active learning-based corpus annotation: the PathoJen experience.
 In AMIA 2012 – Proceedings of the 36th Annual Symposium of the American Medical Informatics Association. Informatics. Chicago, IL, USA, November 3-7, 2012, pp. 301-310.
-
-U. Hahn, K. Tomanek, E. Beisswanger, & E. Faessler \[2010\].\
-A proposal for a configurable silver standard. In LAW IV – Proceedings of the 4th Linguistic Annotation Workshop @ ACL 2010. Uppsala, Sweden, July 15-16, 2010, pp. 235-242.
-
-E. Eder, U. Krieg-Holz, & U. Hahn \[2020\].\
- CodE Alltag 2.0 : a pseudonymized German-language email corpus. 
- In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
-
-U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn \[2016\].\
-CodE Alltag : a German-language e-mail corpus. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2543-2550.
-
-E. Eder, U. Krieg-Holz, & U. Hahn, Udo \[2019\].\
-De-identification of emails: pseudonymizing privacy-sensitive data in a German email corpus. In RANLP 2019 – Proceedings of the 12th International Conference on “Recent Advances in Natural Language Processing:” Natural Language Processing in a Deep Learning World. Varna, Bulgaria, 2–4 September, 2019, pp. 259–269.
-
-E. Buyko, E. Beisswanger, & U. Hahn \[2010\].\
-The GeneReg corpus for gene expression regulation events: an overview of the corpus and its in-domain and out-of-domain interoperability. 
-In LREC 2010 – Proceedings of the 7th International Conference on Language Resources and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2662-2666.
 
 U. Hahn, F. Matthies, C. Lohr, & M. Löffler \[2018\].\
 3000PA : towards a national reference corpus of German clinical language. 
@@ -259,27 +267,34 @@ J. Wermter & U. Hahn \[2004\].\
 An annotated German-language medical text corpus as language resource. 
 In LREC 2004 – Proceedings of the 4th International Conference on Language Resources and Evaluation. Vol. 2, Lisbon, Portugal, 26-28 May 2004. pp. 473-476.
 
-J. Hellrich, S. Clematide, U. Hahn & D. Rebholz-Schuhmann \[2014\].\
-Collaboratively annotating multilingual parallel corpora in the biomedical domain: some MANTRAs. 
-In LREC 2014 – Proceedings of the 9th Language Resources and Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014, pp. 4033-4040.
-
-Ş. Kafka, I. Lewin, D. Milward, E. van Mulligen, J. Kors, U. Hahn & D. Rebholz-Schuhmann \[2012\].\
-CALBC: releasing the final corpora. 
-In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 2923-2926.
-
 U. Hahn, E. Beisswanger, E. Buyko, E. Faessler, J. Traumüller, S. Schröder & K. Hornbostel \[2012\].\
 Iterative refinement and quality checking of annotation guidelines: how to deal effectively with semantically sloppy named entity types, such as pathological phenomena.
 In LREC 2012 – Proceedings of the 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey, May 21-27, 2012, pp. 3881-3885.
 
-U. Hahn, E. Beisswanger, E. Buyko, M. Poprat & J. Wermter \[2008\].\
-Semantic annotations for biology: A corpus development initiative at the Jena University Language & Information Engineering (JULIE) Lab. 
-In LREC 2008 – Proceedings of the 6th International Conference on Language Resources and Evaluation. Marrakech, Morocco, 26-31 May 2008, pp. 2257-2261.
+C. Lohr, St. Luther, F. Matthies, L. Modersohn, D. Ammon, K. Saleh, A. Henkel, M. & Kiehntopf, & U. Hahn, Udo \[2018\].\
+CDA-compliant section annotation of German-language discharge summaries: guideline development, annotation campaign, section classification. In AMIA 2018 – Proceedings of the 2018 Annual Symposium of the American Medical Informatics Association. Data, Technology, and Innovation for Better Health. San Francisco, California, USA, November 3-7, 2018, pp. 770–779.
 
-D. Rebholz-Schuhmann, A. Jimeno, C. Li, S. Kafkas, I. Lewin, N. Kang, P. Corbett, D. Milward, E. Buyko, E. Beisswanger, K. Hornbostel, A. Kouznetsov, R. Witte, J. B. Laurila, C .J. O. Baker, C.-J. Kuo, S. Clematide, F. Rinaldi, R. Farkas, G. Móra, K. Hara, L. I. Furlong, M. Rautschka, M. L. Neves, A. Pascual-Montano, Q. Wei, N. Collier, F. M.
-Chowdhury, A. Lavelli, R. Berlanga, R. Morante, V. van Asch, W. Daelemans, J. L. Marina, E. van Mulligen, J. Kors, & U. Hahn \[2011\].\
-Assessment of NER Solutions against the First and Second CALBC Silver Standard Corpus. In Journal of Biomedical Semantics, Vol. 2(Suppl 5):S11
+### 3c) Language Resources: Email Corpora
 
-### 3b) Language Resources: Software, Tools & Frameworks (including UIMA)
+E. Eder, U. Krieg-Holz, & U. Hahn \[2020\].\
+CodE Alltag 2.0 : a pseudonymized German-language email corpus.  In LREC 2020 – Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020, pp. 4466-4477.
+
+U. Krieg-Holz, C. Schuschnig, F. Matthies, B. Redling & U. Hahn \[2016\].\
+CodE Alltag : a German-language e-mail corpus. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2543-2550.
+
+E. Eder, U. Krieg-Holz, & U. Hahn, Udo \[2019\].\
+De-identification of emails: pseudonymizing privacy-sensitive data in a German email corpus. In RANLP 2019 – Proceedings of the 12th International Conference on “Recent Advances in Natural Language Processing:” Natural Language Processing in a Deep Learning World. Varna, Bulgaria, 2–4 September, 2019, pp. 259–269.
+
+### 3d) Language Resources: Other Corpora
+
+U. Hahn, & T. Duan  \[2019\].\
+Corpus assembly as text data integration from digital libraries and the Web. In JCDL '19 – Proceedings of the 19th ACM/IEEE-CS Joint Conference on Digital Libraries. Urbana-Champaign, Illinois, USA, June 2-6, 2019, pp. 25-28.
+
+S.G.M. Händschke, S. Buechel, J. Goldenstein, Ph. Poschmann , T. Duan, P. Walgenbach, & U. Hahn \[2018\].\
+A corpus of corporate annual and social responsibility reports: 280 million tokens of balanced organizational writing. In ECONLP 2018 – Proceedings of the 1st Workshop on Economics and Natural Language Processing @ ACL 2018. Melbourne, Victoria, Australia, July 20, 2018, pp. 20-31.
+
+
+### 3e) Language Resources: Software, Tools & Frameworks (including UIMA)
 
 U. Hahn, F. Matthies, E. Faessler & J. Hellrich \[2016\].\
 UIMA-based JCoRe 2.0 goes GitHub and Maven Central: State-of-the-art software resource engineering and distribution of NLP pipelines. In LREC 2016 – Proceedings of the 10th International Conference on Language Resources and Evaluation. Portorož, Slovenia, 23-28 May 2016, pp. 2502-2509.
@@ -308,27 +323,23 @@ LuCas: a Lucene CAS indexer. In C. Chiarcos, R. E. de Castilho & M. Stede (Eds.)
 
 ### 3c) Corpus Annotation
 
-K. Tomanek, U. Hahn, S. Lohmann & J. Ziegler \[2010\]. A cognitive cost
-model of annotations based on eye-tracking data. In ACL 2010 --
-Proceedings of the 48th Annual Meeting of the Association for
-Computational Linguistics. Uppsala, Sweden, July 11-16, 2010,
-pp. 1158-1167.
+K. Tomanek, U. Hahn, S. Lohmann & J. Ziegler \[2010\].\
+A cognitive cost model of annotations based on eye-tracking data. In ACL 2010 – Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics. Uppsala, Sweden, July 11-16, 2010, pp. 1158-1167.
 
-E. Faessler, J. Hellrich & U. Hahn \[2014\]. Disclose models, hide the
-data: How to make use of confidential corpora without seeing sensitive
-raw data. In LREC 2014 -- Proceedings of the 9th Language Resources and
-Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014,
-pp. 4230-4237.
+E. Faessler, & U. Hahn, Udo \[2018\].\
+Annotation data management with JeDIS. In DocEng '18 – Proceedings of the 18th ACM Symposium on Document Engineering 2018. Halifax, Nova Scotia, Canada, August 28-31, 2018, #42.
 
-K. Tomanek & U. Hahn \[2010\]. Annotation time stamps: Temporal metadata
-from the linguistic annotation process. In LREC 2010 -- Proceedings of
-the 7th International Conference on Language Resources and Evaluation.
-La Valletta, Malta, May 17-23, 2010, pp. 2516-2521.
+E. Faessler, J. Hellrich & U. Hahn \[2014\].\
+Disclose models, hide the data: how to make use of confidential corpora without seeing sensitive raw data. In LREC 2014 – Proceedings of the 9th Language Resources and
+Evaluation Conference. Reykjavik, Iceland, 26-31 May, 2014, pp. 4230-4237.
 
-S. Buechel & U. Hahn \[2017\]. Readers vs. writers vs. texts: Coping
-with different perspectives of text understanding in emotion annotation.
-In: LAW XI 2017 -- Proceedings of the 11th Linguistic Annotation
-Workshop @ EACL 2017. Valencia, Spain, April 3, 2017, pp. 1--12.
+K. Tomanek & U. Hahn \[2010\].\
+Annotation time stamps: temporal metadata from the linguistic annotation process. In LREC 2010 – Proceedings of the 7th International Conference on Language Resources and Evaluation. La Valletta, Malta, May 17-23, 2010, pp. 2516-2521.
+
+S. Buechel & U. Hahn \[2017\].\
+Readers vs. writers vs. texts: coping with different perspectives of text understanding in emotion annotation. In: LAW XI 2017 – Proceedings of the 11th Linguistic Annotation
+Workshop @ EACL 2017. Valencia, Spain, April 3, 2017, pp. 1-12.
+
 
 ## 4) Natural Language Processing: Methods
 
@@ -471,6 +482,9 @@ A flexible mapping scheme for discrete and dimensional emotion representations. 
 
 S. Buechel & U. Hahn \[2018\].\
 Representation mapping: a novel approach to generate high-quality multi-lingual emotion lexicons. In LREC 2018 – Proceedings of the 11th International Conference on Language Resources and Evaluation. Miyazaki, Japan, May 7-12, 2018, pp. 184-191.
+
+J. Hellrich, S. Buechel, & U. Hahn \[2019\].\
+Modeling word emotion in historical language: quantity beats supposed stability in seed word selection. In LaTeCH-CLfL 2019 – Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL-HLT 2019. Minneapolis, Minnesota, USA, June 7, 2019, pp. 1–11.
 
 E. Eder, U. Krieg-Holz, & U. Hahn \[2019\].\
 At the lower end of language: exploring the vulgar and obscene side of German. In ALW 3 – Proceedings of the 3rd Workshop on Abusive Language Online @ ACL 2019. Florence, Italy, August, 1, 2019, pp. 119–128
@@ -816,6 +830,14 @@ Scheler (Eds.), Connectionist, Statistical and Symbolic Approaches to
 Learning for Natural Language Processing. Springer, pp.453-468 (Lecture
 Notes in Artificial Intelligence, 1040).
 
+J. Hellrich, B. Kampe, & U. Hahn \[2019\].\
+The influence of down-sampling strategies on SVD word embedding stability. In RepEval 2019 – Proceedings of the 3rd Workshop on Evaluating Vector Space Representations for NLP @ NAACL-HLT 2019. Minneapolis, Minnesota, USA, June 6, 2019, pp. 18–26.
+
+J. Hellrich, S. Buechel, & U. Hahn \[2019\].\
+Modeling word emotion in historical language: quantity beats supposed stability in seed word selection. In LaTeCH-CLfL 2019 – Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL-HLT 2019. Minneapolis, Minnesota, USA, June 7, 2019, pp. 1–11.
+
+
+
 ## 10) Digital Humanities
 
 J. Hellrich & U. Hahn \[2017\].\
@@ -823,6 +845,9 @@ Exploring diachronic lexical semantics with JeSemE. In ACL 2017 – Proceedings 
 
 S. Buechel, J. Hellrich & U. Hahn \[2017\].\
 The course of emotion in three centuries of German text: a methodological framework. In Digital Humanities 2017 – Conference Abstracts of the 2017 Conference of the Alliance of Digital Humanities Organizations (ADHO). Montréal, Québec, Canada, August 8-11, 2017.
+
+J. Hellrich, S. Buechel, & U. Hahn \[2019\].\
+Modeling word emotion in historical language: quantity beats supposed stability in seed word selection. In LaTeCH-CLfL 2019 – Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL-HLT 2019. Minneapolis, Minnesota, USA, June 7, 2019, pp. 1–11.
 
 J. Hellrich & U. Hahn \[2016\].\
 Measuring the dynamics of lexico-semantic change since the German Romantic period. In Digital Humanities 2016 – Conference Abstracts of the 2016 Conference of the

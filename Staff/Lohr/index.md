@@ -37,7 +37,7 @@ layout: staff
 
 * Erik Faessler, Luise Modersohn, **Christina Lohr**, Udo Hahn: [ProGene - A Large-scale, High-Quality Protein-Gene Annotated Benchmark Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.564.pdf); In: LREC 2020 - Proceedings of the 12th International Conference on Language Resources and Evaluation. Marseille, France, May 11-16, 2020. Pages 4587--4598. [[Data on Zenodo](https://zenodo.org/record/3698568)] [[ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.564/)]
 
-* **Christina Lohr**, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: [An Evolutionary Approach to the Annotation of Discharge Summaries](http://ebooks.iospress.nl/publication/54118). In: Studies in Health Technology and Informatics, Vol. 270: Digital Personalized Health and Medicine - Proceedings of [MIE 2020](http://mie2020.org) [[PMID: 32570340](https://pubmed.ncbi.nlm.nih.gov/32570340/)][[DOI:10.3233/SHTI200116](https://doi.org/10.3233/shti200116)] 
+* **Christina Lohr**, Luise Modersohn, Johannes Hellrich, Tobias Kolditz, Udo Hahn: [An Evolutionary Approach to the Annotation of Discharge Summaries](http://ebooks.iospress.nl/publication/54118). In: Studies in Health Technology and Informatics, Vol. 270: Digital Personalized Health and Medicine - Proceedings of [MIE 2020](https://efmi.org/2020/06/11/mie2020-conference-proceedings-and-materials/) [[PMID: 32570340](https://pubmed.ncbi.nlm.nih.gov/32570340/)][[DOI:10.3233/SHTI200116](https://doi.org/10.3233/shti200116)] 
 
 ### 2019
 

@@ -1,3 +1,3 @@
 ---
-redirect_to: "./ECONLP-2021-Proposal.pdf"
+redirect_to: "econlp/2021/ECONLP-2021-Proposal.pdf"
 ---

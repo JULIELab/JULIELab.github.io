@@ -33,10 +33,13 @@ Benjamin Redling<br/>
 System Administrator
 
 Email: benjamin.rampe@uni-jena.de<br/>
-Phone: (due to "flexible home office" only available on request)
+Phone: only available on request
 
 ### Postal Address
+(s. https://www.ksz.uni-jena.de/kontakt+ksz)
 
-Fürstengraben 27<br/>
+Kompetenz- und Service-Zentrum
+
+Ernst-Abbe-Platz 2<br/>
 07743 Jena<br/>
 Germany

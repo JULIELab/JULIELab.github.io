@@ -28,6 +28,10 @@ layout: staff
 
 ## Publications
 
+### 2021
+
+* **Christina Lohr**, Elisabeth Eder, Udo Hahn: [Pseudonymization of PHI Items in German Clinical Reports](https://ebooks.iospress.nl/doi/10.3233/SHTI210163). In: Studies in Health Technology and Informatics, Vol. 281: Public Health and Informatics - Proceedings of [MIE 2021](https://ebooks.iospress.nl/volume/public-health-and-informatics-proceedings-of-mie-2021) [[PMID: 34042748](https://pubmed.ncbi.nlm.nih.gov/34042748/)][[10.3233/SHTI210163](https://doi.org/10.3233/shti210163)] 
+
 ### 2020
 
 * Florian Borchert, **Christina Lohr**, Luise Modersohn, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow: [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](https://www.aclweb.org/anthology/2020.louhi-1.5.pdf). In [Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/) EMNLP 2020, Nov 20 [[ACL Anthology](https://www.aclweb.org/anthology/2020.louhi-1.5/)] [[DOI:10.18653/v1/2020.louhi-1.5](https://doi.org/10.18653/v1/2020.louhi-1.5)] [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[Code on Zenodo](https://zenodo.org/record/4067994)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]

@@ -30,7 +30,7 @@ layout: staff
 
 ### 2021
 
-* **Christina Lohr**, Elisabeth Eder, Udo Hahn: [Pseudonymization of PHI Items in German Clinical Reports](https://ebooks.iospress.nl/doi/10.3233/SHTI210163). In: Studies in Health Technology and Informatics, Vol. 281: Public Health and Informatics - Proceedings of [MIE 2021](https://ebooks.iospress.nl/volume/public-health-and-informatics-proceedings-of-mie-2021) [[PMID: 34042748](https://pubmed.ncbi.nlm.nih.gov/34042748/)][[DOI:10.3233/SHTI210163](https://doi.org/10.3233/shti210163)] [[Code on GitHub](https://github.com/JULIELab/ClinicalSurrogateGeneration)] [[Slides](/downloads/publications/slides/lohr-2021-mie-pseudonymization.pdf)] [[Code on Zenodo](https://zenodo.org/record/4883613)]
+* **Christina Lohr**, Elisabeth Eder, Udo Hahn: [Pseudonymization of PHI Items in German Clinical Reports](https://ebooks.iospress.nl/doi/10.3233/SHTI210163). In: Studies in Health Technology and Informatics, Vol. 281: Public Health and Informatics - Proceedings of [MIE 2021](https://ebooks.iospress.nl/volume/public-health-and-informatics-proceedings-of-mie-2021) [[PMID: 34042748](https://pubmed.ncbi.nlm.nih.gov/34042748/)][[DOI:10.3233/SHTI210163](https://doi.org/10.3233/shti210163)] [[Code on GitHub](https://github.com/JULIELab/ClinicalSurrogateGeneration)] [[Slides](/downloads/publications/slides/lohr-2021-mie-pseudonymization.pdf)] [[Code on Zenodo](https://zenodo.org/record/4884304)]
 
 ### 2020
 

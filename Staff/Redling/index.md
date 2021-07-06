@@ -9,17 +9,16 @@ I've moved: I'm working for the Kompetenz- und Service-Zentrum / competence  and
 
 ## Recent Working Experience
 
-* ArangoDB cluster
 * Setup of ElasticSearch clusters
 * SLURM HPC cluster
-* Setup and tuning of PostgreSQL installations
+* Setup and tuning of PostgreSQL installations 
 * Basic Linux infrastructure (NFS file server, OpenLDAP, ZFS, DRBD)
 * Web infrastructure (Apache httpd, nginx, ...)
 * Monitoring (Check_MK)
 * Virtualization (Ganeti, KVM, Proxmox VE, docker, podman, Singularity)
-* Configuration management and orchestration via Ansible and basic shell scripting
+* Configuration management and orchestration via git, Ansible, puppet and basic shell scripting
 * Intermediate Python and Bash/Shell knowledge
-
+* Setup of jitsi/prosody
 
 ## Contact
 
@@ -31,7 +30,7 @@ Phone: only available on request
 
 
 ### Postal Address
-(s. https://www.ksz.uni-jena.de/kontakt+ksz)
+(s. https://www.ksz.uni-jena.de/mitarbeiter)
 
 Kompetenz- und Service-Zentrum
 

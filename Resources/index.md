@@ -32,7 +32,7 @@ Please find the respective JCoRe repository on our [GitHub page](https://github.
 
 The appropriate models are then stored under **src/main/resources/de/julielab/jcore/ae/.../model/** if you want to download them separately.
 
-German clinical models trained on FraMed for the LREC2014 paper titled [**Disclose Models, Hide the Data - How to Make Use of Confidential Corpora without Seeing Sensitive Raw Data**](http://www.lrec-conf.org/proceedings/lrec2014/pdf/936_Paper.pdf):
+German clinical models trained on FraMed for the LREC2014 paper titled [*Disclose Models, Hide the Data - How to Make Use of Confidential Corpora without Seeing Sensitive Raw Data*](http://www.lrec-conf.org/proceedings/lrec2014/pdf/936_Paper.pdf):
 * [for the Stanford POS Tagger](/downloads/resources/framed_stanford_pos.model).
 * [for NLTK sentence splitter and PoS tagger](/downloads/resources/NLTK-Sentence-Pos-Models.zip).
 

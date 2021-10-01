@@ -14,8 +14,8 @@ layout: staff
 
 ## Research Interests
 
-* Natural Language Processing with clinical contents
-* Automatic generatiion of timelines from texts
+* Natural Language Processing with clinical context
+* Automatic generation of timelines from texts
 * Hypergraphs and graph theory
 * Bioinformatics and computational biology
 * Computervision and machine learning
@@ -29,6 +29,9 @@ layout: staff
 * Korpusanalyse mit Python (Corpus analysis using Python)
 
 ## Publications
+### 2021
+* Sven Buechel, **Luise Modersohn** and Udo Hahn. Towards Label-Agnostic Emotion Embeddings; [accepted at [EMNLP'21](https://2021.emnlp.org/) 
+
 ### 2020
 * *Preprint*: Florian Borchert, Christina Lohr, **Luise Modersohn**, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] [accepted at [LOUHI@EMNLP'20](https://louhi2020.fbk.eu/)
 
@@ -38,12 +41,15 @@ layout: staff
 
 
 ### 2019
-* Tobias Kolditz, Christina Lohr, Johannes Hellrich, **Luise Modersohn**, Boris Betz, Michael Kiehntopf, Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977); In: MedInfo 2019 Aug 25-30, Lyon France)(https://medinfo-lyon.org/))
+* Tobias Kolditz, Christina Lohr, Johannes Hellrich, **Luise Modersohn**, Boris Betz, Michael Kiehntopf and Udo Hahn: [Annotating German Clinical Documents for De-Identification](http://ebooks.iospress.nl/volumearticle/51977); In: MedInfo 2019 Aug 25-30, Lyon France)(https://medinfo-lyon.org/))
+
+* Oliver Mothes, **Luise Modersohn**, Gerd Fabian Volk, Carsten Klingner, Otto W. Witte, Peter Schlattmann, Joachim Denzler and Orlando Guntinas-Lichius: Automated objective and marker-free facial grading using photographs of patients with facial palsy; In: European Archives of Oto-Rhino-Laryngology 
+
+* Gerd Fabian Volk, Rebecca Anna Schaede, Jovanna Thielker, **Luise Modersohn**, Oliver Mothes, Charles C. Nduka, Jodi Maron Barth, Joachim Denzler and Orlando Guntinas-Lichius.: Reliability of Grading of Facial Palsy using a Video Tutorial with Synchronous Video Recording. In: Laryngoscope
+
 
 ### 2018
-* Gerd Fabian Volk, Rebecca Anna Schaede, Jovanna Thielker, **Luise Modersohn**, Oliver Mothes, Charles C. Nduka, Jodi Maron Barth, Joachim Denzler and Orlando Guntinas-Lichius.: In Reliability of Grading of Facial Palsy using a Video Tutorial with Synchronous Video Recording. In: Laryngoscope (accepted)
-
-* Christina Lohr, Stephanie Luther, Franz Matthies, **Luise Modersohn**, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf, and Udo Hahn: CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification. In: AMIA Annual Symposium Proceedings 2018. ([pdf](/downloads/publications/papers/lohr-2018-amia-sections.pdf), [Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf))
+* Christina Lohr, Stephanie Luther, Franz Matthies, **Luise Modersohn**, Danny Ammon, Kutaiba Saleh, Andreas G. Henkel, Michael Kiehntopf and Udo Hahn: CDA-Compliant Section Annotation of German-Language Discharge Summaries: Guideline Development, Annotation Campaign, Section Classification. In: AMIA Annual Symposium Proceedings 2018. ([pdf](/downloads/publications/papers/lohr-2018-amia-sections.pdf), [Slides](/downloads/publications/slides/lohr-2018-amia-sections-slides.pdf))
 
 * Gerd Fabian Volk, Anika Steinerstauch, Annegret Lorenz, **Luise Modersohn**, Oliver Mothes, Joachim Denzler, Carsten M. Klingner, Farsin Hamzei and Orlando Guntinas-Lichius: Facial motor and non-motor disabilities in patients with central facial paresis: a prospective cohort study. In: Journal of Neurology (accepted)
 

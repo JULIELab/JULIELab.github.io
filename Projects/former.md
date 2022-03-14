@@ -9,6 +9,12 @@ layout: default
 Former | 
 [[UIMA]](UIMA.html)
 
+![](/assets/img/projects_AquaDiva-width-360-height-70.png)
+
+The JULIE Lab is member of the **AquaDiva project INFRA1**. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).
+
+------------------------------------------------------------------------
+
 ![](/assets/img/projects_MANTRA_Logo-width-354-height-57.png)
 
 The [European Commision](http://ec.europa.eu/) is funding project for [Multilingual Annotation of Named Entities and Terminology Resources Acquisition](https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research](http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research endeavour of researchers from several academic institutions across Europe.

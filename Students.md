@@ -6,11 +6,10 @@ layout: default
 
 ## Courses
 
-The descriptions of the courses are available in German only. For the official announcements and enrollment you should use the university's registration system [Friedolin](https://friedolin.uni-jena.de/qisserver/rds?state=user&type=0).
+The chair stopped to offer any teaching (Seniorprofessur) and there are only theses and research to be finished until end of 2022.
 
+The most recent teaching material is from 2020:
 * [Digital Humanities (ASQ)](/Courses/Digital+Humanities.html)
-* [Software-Praktikum (Master)](/Courses/Praktikum.html)
-* [Theoreticum & Technicum (Master)](/Courses/Theoreticum+_+Technicum.html)
 
 
 ## Merkblätter

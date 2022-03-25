@@ -27,7 +27,7 @@ Fürstengraben 27<br/>
 Germany
 
 ### E-mail
-[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)
+[erik.faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)
 
 ### Telephone
 +49 3641 9-44324

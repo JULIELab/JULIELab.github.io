@@ -50,9 +50,7 @@ A specific CALBC challenge run which consisted of building a large, diversely an
 
 ![](/assets/img/projects_BOOTStrep-width-160-height-55.png)
   
-The JULIE Lab was the coordinator of [BOOTStrep](http://www.bootstrep.eu) (Bootstrapping Of Ontologies and Terminologies STrategic REsearch Project), which was funded in the EC´s 6th Framework Programme. The project pulled together already existing biological fact databases as well as various terminological repositories and implemented a text analysis system which continuously increases their coverage by analysing biological documents. The project started on April 1, 2006 and ended on March 31, 2009. The overall budget was 3.6 million euro. Six partners from four European countries (Germany, U.K., Italy, France) and one Asian partner from Singapore were involved in the project.
-
-[Link to the BOOTStrep project](http://www.bootstrep.eu)
+The JULIE Lab was the coordinator of [BOOTStrep] (Bootstrapping Of Ontologies and Terminologies STrategic REsearch Project), which was funded in the EC´s 6th Framework Programme. The project pulled together already existing biological fact databases as well as various terminological repositories and implemented a text analysis system which continuously increases their coverage by analysing biological documents. The project started on April 1, 2006 and ended on March 31, 2009. The overall budget was 3.6 million euro. Six partners from four European countries (Germany, U.K., Italy, France) and one Asian partner from Singapore were involved in the project.
 
 ------------------------------------------------------------------------
 

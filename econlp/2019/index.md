@@ -12,7 +12,7 @@ custom_css: justifiedparagraphs
 # ECONLP 2019 – 2nd Workshop on Economics and Natural Language Processing
 
 @ **EMNLP-IJCNLP 2019, Hong-Kong, November 3-4, 2019**<br/>
-[ECONLP 2019 - Workshop Description V01, PDF 390KB](/downloads/ECONLP%202019%20-%20Workshop%20Description%20V01.pdf)
+[ECONLP 2019 - Workshop Description V01, PDF 390KB](./ECONLP%202019%20-%20Workshop%20Description%20V01.pdf)
 
 ## Description
 After launching the Workshop on Economics and Natural Language Processing (ECONLP) @ ACL 2018 in Melbourne, Australia [(http://aclweb.org/anthology/W18-31)](http://aclweb.org/anthology/W18-31), the 2nd edition of ECONLP will be held on November 3 or 4 in Hong Kong at EMNLP-IJCNLP 2019 [(https://www.emnlp-ijcnlp2019.org/)](https://www.emnlp-ijcnlp2019.org/).

@@ -36,7 +36,7 @@ layout: staff
 * Florian Borchert, Christina Lohr, **Luise Modersohn**, Jonas Witt, Thomas Langer, Markus Follmann, Matthias Gietzelt, Bert Arnrich, Udo Hahn and Matthieu-P. Schapranow. GGPONC 2.0 - The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers; [accepted at [LREC'22](https://lrec2022.lrec-conf.org/en/conference-programme/accepted-papers/)]
 
 ### 2021
-* Sven Buechel, **Luise Modersohn** and Udo Hahn. Towards Label-Agnostic Emotion Embeddings; [accepted at [EMNLP'21](https://2021.emnlp.org/) 
+* Sven Buechel, **Luise Modersohn** and Udo Hahn. Towards Label-Agnostic Emotion Embeddings; [accepted at [EMNLP'21](https://2021.emnlp.org/)] 
 
 ### 2020
 * *Preprint*: Florian Borchert, Christina Lohr, **Luise Modersohn**, Thomas Langer, Markus Follmann, Jan Philipp Sachs, Udo Hahn, Matthieu-P. Schapranow (2020). [GGPONC: A Corpus of German Medical Text with Rich Metadata Based on Clinical Practice Guidelines](http://arxiv.org/abs/2007.06400). ArXiv:2007.06400 [Cs]. [[arXiv](http://arxiv.org/abs/2007.06400)] [[Code on GitHub](https://github.com/JULIELab/GGPOnc)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] [accepted at [LOUHI@EMNLP'20](https://louhi2020.fbk.eu/)

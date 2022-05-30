@@ -5,6 +5,7 @@ layout: staff
 # Luise Modersohn
 
 ## Curriculum Vitae
+* since 2022: Leader of the Junior Research Group De.xt at MRI/TU Munich
 * since 2018: Research Assistant at the [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
 * 2014 - 2018: Research Assistant at the Computer Vision Group of Friedrich Schiller University Jena
 * 2014: Master Thesis "Parallelisierung und Erweiterung einer Bibliothek für die Untersuchung optimaler Regulationsvorgänge in Stoffwechselwegen"

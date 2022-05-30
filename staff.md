@@ -7,7 +7,7 @@ layout: staff_tab
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Sven Buechel](/Staff/Sven+Buechel.html)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
+| [Sven Buechel](https://svenbuechel.github.io)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
 | [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
 | [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |

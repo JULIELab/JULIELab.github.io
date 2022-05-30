@@ -9,6 +9,12 @@ layout: default
 Former | 
 [[UIMA]](UIMA.html)
 
+![](/assets/img/projects_AquaDiva-width-360-height-70.png)
+
+The JULIE Lab is member of the **AquaDiva project INFRA1**. For the details of the project please visit the [AquaDiva INFRA1 website](http://www.aquadiva.uni-jena.de/).
+
+------------------------------------------------------------------------
+
 ![](/assets/img/projects_MANTRA_Logo-width-354-height-57.png)
 
 The [European Commision](http://ec.europa.eu/) is funding project for [Multilingual Annotation of Named Entities and Terminology Resources Acquisition](https://sites.google.com/site/mantraeu/) under the [EU\'s Seventh Framework Programme for Research](http://ec.europa.eu/research/fp7/index_en.cfm) from July 2012 to June 2014. The MANTRA project is a research endeavour of researchers from several academic institutions across Europe.
@@ -19,7 +25,7 @@ For the details of the project please visit the [MANTRA website](https://sites.g
 
 ![](/assets/img/projects_JenAge_Logo-width-110-height-82.png)
 
-The [German Ministry of Education and Research](http://www.bmbf.de/) is funding the new [Jena Centre of Systems Biology of Ageing](http://www.jenage.de) from October 2009 to September 2014. JenAge is a research endeavour of researchers from several academic institutions in the [city of Jena](http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
+The [German Ministry of Education and Research](http://www.bmbf.de/) was funding the [Jena Centre of Systems Biology of Ageing](http://www.jenage.de) from October 2009 to September 2014. JenAge was a research endeavour of researchers from several academic institutions in the [city of Jena](http://www.jena.de/sixcms/detail.php?id=97320&_lang=en).
 
 **JULIE Lab\'s contributions to the project:**
 
@@ -44,9 +50,7 @@ A specific CALBC challenge run which consisted of building a large, diversely an
 
 ![](/assets/img/projects_BOOTStrep-width-160-height-55.png)
   
-The JULIE Lab was the coordinator of [BOOTStrep](http://www.bootstrep.eu) (Bootstrapping Of Ontologies and Terminologies STrategic REsearch Project), which was funded in the EC´s 6th Framework Programme. The project pulled together already existing biological fact databases as well as various terminological repositories and implemented a text analysis system which continuously increases their coverage by analysing biological documents. The project started on April 1, 2006 and ended on March 31, 2009. The overall budget was 3.6 million euro. Six partners from four European countries (Germany, U.K., Italy, France) and one Asian partner from Singapore were involved in the project.
-
-[Link to the BOOTStrep project](http://www.bootstrep.eu)
+The JULIE Lab was the coordinator of BOOTStrep (Bootstrapping Of Ontologies and Terminologies STrategic REsearch Project), which was funded in the EC´s 6th Framework Programme. The project pulled together already existing biological fact databases as well as various terminological repositories and implemented a text analysis system which continuously increases their coverage by analysing biological documents. The project started on April 1, 2006 and ended on March 31, 2009. The overall budget was 3.6 million euro. Six partners from four European countries (Germany, U.K., Italy, France) and one Asian partner from Singapore were involved in the project.
 
 ------------------------------------------------------------------------
 

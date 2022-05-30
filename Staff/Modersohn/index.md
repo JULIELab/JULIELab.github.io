@@ -29,6 +29,11 @@ layout: staff
 * Korpusanalyse mit Python (Corpus analysis using Python)
 
 ## Publications
+### 2022
+* **Luise Modersohn**, Stefan Schulz, Christina Lohr and Udo Hahn. GraSCCO — The First Publicly Shareable, Multiply-Alienated German Clinical Text Corpus; [accepted at [GMDS'22](https://gmds-tmf-2022.de/)] 
+
+* Florian Borchert, Christina Lohr, **Luise Modersohn**, Jonas Witt, Thomas Langer, Markus Follmann, Matthias Gietzelt, Bert Arnrich, Udo Hahn and Matthieu-P. Schapranow. GGPONC 2.0 - The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers; [accepted at [LREC'22](https://lrec2022.lrec-conf.org/en/conference-programme/accepted-papers/)]
+
 ### 2021
 * Sven Buechel, **Luise Modersohn** and Udo Hahn. Towards Label-Agnostic Emotion Embeddings; [accepted at [EMNLP'21](https://2021.emnlp.org/) 
 

@@ -28,6 +28,11 @@ layout: staff
 
 ## Publications
 
+### 2022
+* Luise Modersohn, Stefan Schulz, **Christina Lohr** and Udo Hahn. GraSCCO — The First Publicly Shareable, Multiply-Alienated German Clinical Text Corpus; [accepted at [GMDS 2022](https://gmds-tmf-2022.de/)] 
+
+* Florian Borchert, **Christina Lohr**, Luise Modersohn, Jonas Witt, Thomas Langer, Markus Follmann, Matthias Gietzelt, Bert Arnrich, Udo Hahn and Matthieu-P. Schapranow. GGPONC 2.0 - [The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.389.pdf) In: LREC 2022 - Proceedings of the 13th International Conference on Language Resources and Evaluation. Marseille, France, June 22-24, 2022. Pages 3650--3660. [[Code on GitHub](https://github.com/hpi-dhc/ggponc_annotation)] [[Code on zenodo](https://zenodo.org/record/6472446#.YrQ9KuzP1EZ)]        [[Poster](https://www.leitlinienprogramm-onkologie.de/fileadmin/user_upload/Downloads/GGPONC/Poster_GGPONC_LREC.pdf)] [[ACL Anthology](https://aclanthology.org/2022.lrec-1.389)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
+
 ### 2021
 
 * **Christina Lohr**, Elisabeth Eder, Udo Hahn: [Pseudonymization of PHI Items in German Clinical Reports](https://ebooks.iospress.nl/doi/10.3233/SHTI210163). In: Studies in Health Technology and Informatics, Vol. 281: Public Health and Informatics - Proceedings of [MIE 2021](https://ebooks.iospress.nl/volume/public-health-and-informatics-proceedings-of-mie-2021) [[PMID: 34042748](https://pubmed.ncbi.nlm.nih.gov/34042748/)][[DOI:10.3233/SHTI210163](https://doi.org/10.3233/shti210163)] [[Code on GitHub](https://github.com/JULIELab/ClinicalSurrogateGeneration)] [[Slides](/downloads/publications/slides/lohr-2021-mie-pseudonymization.pdf)] [[Code on Zenodo](https://zenodo.org/record/4884304)]

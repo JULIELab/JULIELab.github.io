@@ -9,6 +9,7 @@ layout: staff
 </div>
 
 ## Curriculum Vitae
+* since 2022: Research Assistant at the [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)](https://www.klinikumchemnitz.de)
 * since 2016: Research Assistant at the [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
 * 2015 - 2016: Research Assistant at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
@@ -21,6 +22,7 @@ layout: staff
 ## Projects Involved
 * [STAKI<sup>2</sup>B<sup>2</sup> (Semantic Text Analytics for Quality Controlled Extraction of Clinical Phenotype Information in Healthcare Integrated Biobanking)](http://gepris.dfg.de/gepris/projekt/315098900), founded by [Deutsche Forschungsgesellschaft (DFG)](https://www.dfg.de/)
 * [SMITH (Smart Medical Information Technology for Healthcare)](http://www.smith.care/) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/)
+* [POLAR_MI (POLypharmazie, Arzneimittelwechselwirkungen und Risiken)](https://www.medizininformatik-initiative.de/de/POLAR) as part of the [Medical Informatics Initiative Germany](https://www.medizininformatik-initiative.de/), founded by [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/)
 
 ## Teaching Experience
 * Basics of Theoretical computer science

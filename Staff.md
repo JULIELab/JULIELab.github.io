@@ -7,20 +7,20 @@ layout: staff_tab
 | Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Sven Buechel](https://svenbuechel.github.io)	| Research Assistant	| |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
+| [Sven Buechel](https://svenbuechel.github.io)	| Research Assistant	| [POLAR_MI](https://www.medizininformatik-initiative.de/en/POLAR) |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
 | [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
 | [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
-| [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
-| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [STAKI2B2](http://gepris.dfg.de/gepris/projekt/315098900), [SMITH](http://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44303 |
-| [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| phone no. only available on request |
+| [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
+| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44303 |
+| [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | [KSZ](https://ksz.uni-jena.de/mitarbeiter) |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 46041 |
 
-Secretariat: Janina Oberthür (+49 3641 9-44300)
+Secretary: Janina Oberthür (+49 3641 9-44300)
 
 Fax of the group: +49 3641 9-44321
 
 # Alumni
 
-during residence in Jena (since 2006; in anti-chronological order):
+during lab's residency in Jena (since 2006; in anti-chronological order):
 
 Dr. Johannes Hellrich ([paragon semvox](https://www.semvox.de/))<br/>
 Dr. Sascha Schäuble ([HKI](https://www.leibniz-hki.de/de/home.html))<br/>
@@ -29,7 +29,7 @@ Dr. Ekaterina Buyko ([Nuance Communications](http://www.nuance.de/))<br/>
 Dr. Katrin Tomanek (Google, formerly: OpenTable, VigLink, Averbis)<br/>
 Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))
 
-during residence in Freiburg im Breisgau (until 2005, in alphabetical order):
+during lab's residency in Freiburg im Breisgau (until 2005, in alphabetical order):
 
 Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
 Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))<br/>

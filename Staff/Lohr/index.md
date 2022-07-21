@@ -88,6 +88,6 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 |Room	| Fürstengraben 27 E 007 |
 |ORCID | [0000-0001-9889-162X](https://orcid.org/0000-0001-9889-162X) |
 |ResearcheGate|| [https://www.researchgate.net/profile/Christina-Lohr-2](https://www.researchgate.net/profile/Christina-Lohr-2) |
-|Google Scholar| [https://scholar.google.com/citations?user=NEyGC4AAAAAJ&hl=de](https://scholar.google.com/citations?user=NEyGC4AAAAAJ&hl=de)
+|Google Scholar| [https://scholar.google.com/citations?user=NEyGC4AAAAAJ](https://scholar.google.com/citations?user=NEyGC4AAAAAJ)
 |GitHub | [chlor](https://github.com/chlor)|
 |Twitter | [@chlor89](https://twitter.com/chlor89) |

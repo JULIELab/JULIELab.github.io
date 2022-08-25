@@ -14,7 +14,8 @@ layout: staff_tab
 | [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44303 |
 | [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | [KSZ](https://ksz.uni-jena.de/mitarbeiter) |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 46041 |
 
-Secretary: Janina Oberthür (+49 3641 9-44300)
+~~Secretary: Janina Oberthür (+49 3641 9-44300)~~
+Temporarily represented by the secretary for the "Institut f&uuml;r Germanistische Sprachwissenschaften", Stephanie Hanemann (+49 3641 9-44310)
 
 Fax of the group: +49 3641 9-44321
 

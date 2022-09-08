@@ -9,12 +9,12 @@ layout: staff
 </div>
 
 ## Curriculum Vitae
-* 2007 - 2012: Studies of Applied Computer Science at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Bachelor of Science)
-* 2012 - 2015: Studies of Computer Science at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Master of Science)
+* 2007 - 2012: Studies of Applied Computer Science at [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Bachelor of Science)
+* 2012 - 2015: Studies of Computer Science at [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Master of Science)
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
-* 2015 - 2016: Research Assistant at the [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
-* since 2016: Research Assistant at the [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
-* since 2022: Research Assistant at the [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)](https://www.klinikumchemnitz.de) (part time)
+* 2015 - 2016: Research Assistant at [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
+* since 2016: Research Assistant at [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
+* since 2022: Research Assistant at [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)](https://www.klinikumchemnitz.de) (part time)
 
 ## Research Interests
 * Clinical Natural Language Processing
@@ -31,8 +31,8 @@ layout: staff
 ## Publications
 
 ### 2022
-* Luise Modersohn, Stefan Schulz, **Christina Lohr** and Udo Hahn. [GraSCCO — The First Publicly Shareable, Multiply-Alienated German Clinical Text Corpus](https://ebooks.iospress.nl/doi/10.3233/SHTI220805); [GMDS 2022](https://gmds-tmf-2022.de/) [DOI:
-10.3233/SHTI220805](https://doi.org/10.3233/SHTI220805) [Corpus on Zenodo](https://zenodo.org/record/6539131#.Yxmq5mzP1kg)
+* Luise Modersohn, Stefan Schulz, **Christina Lohr** and Udo Hahn. [GraSCCO — The First Publicly Shareable, Multiply-Alienated German Clinical Text Corpus](https://ebooks.iospress.nl/doi/10.3233/SHTI220805); [[GMDS 2022](https://gmds-tmf-2022.de/)] [[DOI:
+10.3233/SHTI220805](https://doi.org/10.3233/SHTI220805)] [[Corpus on Zenodo](https://zenodo.org/record/6539131#.Yxmq5mzP1kg)]
 
 * Florian Borchert, **Christina Lohr**, Luise Modersohn, Jonas Witt, Thomas Langer, Markus Follmann, Matthias Gietzelt, Bert Arnrich, Udo Hahn and Matthieu-P. Schapranow. GGPONC 2.0 - [The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.389.pdf) In: LREC 2022 - Proceedings of the 13th International Conference on Language Resources and Evaluation. Marseille, France, June 22-24, 2022. Pages 3650--3660. [[Code on GitHub](https://github.com/hpi-dhc/ggponc_annotation)] [[Code on Zenodo](https://zenodo.org/record/6472446#.YrQ9KuzP1EZ)]        [[Poster](https://www.leitlinienprogramm-onkologie.de/fileadmin/user_upload/Downloads/GGPONC/Poster_GGPONC_LREC.pdf)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)]
 

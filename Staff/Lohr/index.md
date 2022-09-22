@@ -14,7 +14,7 @@ layout: staff
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
 * 2015 - 2016: Research Assistant at [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * since 2016: Research Assistant at [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
-* since 2022: Research Assistant at [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)](https://www.klinikumchemnitz.de) (part time)
+* since 2022: Research Assistant at [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)]([https://www.klinikumchemnitz.de](https://www.klinikumchemnitz.de/aktuelles/pressemitteilungen/detail/klinikum-baut-ein-datenintegrationszentrum-auf)) (part time)
 
 ## Research Interests
 * Clinical Natural Language Processing

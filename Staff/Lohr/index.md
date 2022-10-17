@@ -14,7 +14,6 @@ layout: staff
 * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
 * 2015 - 2016: Research Assistant at [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
 * since 2016: Research Assistant at [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
-* since 2022: Research Assistant at [Klinikum Chemnitz (Abteilung Informatik / Datenintegrationszentrum)]([https://www.klinikumchemnitz.de](https://www.klinikumchemnitz.de/aktuelles/pressemitteilungen/detail/klinikum-baut-ein-datenintegrationszentrum-auf)) (part time)
 
 ## Research Interests
 * Clinical Natural Language Processing
@@ -88,7 +87,7 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 |Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
 |Room	| Fürstengraben 27 E 007 |
 |ORCID | [0000-0001-9889-162X](https://orcid.org/0000-0001-9889-162X) |
-|ResearcheGate|| [https://www.researchgate.net/profile/Christina-Lohr-2](https://www.researchgate.net/profile/Christina-Lohr-2) |
+|ResearcheGate| [https://www.researchgate.net/profile/Christina-Lohr-2](https://www.researchgate.net/profile/Christina-Lohr-2) |
 |Google Scholar| [https://scholar.google.com/citations?user=NEyGC4AAAAAJ](https://scholar.google.com/citations?user=NEyGC4AAAAAJ)|
 |GitHub | [chlor](https://github.com/chlor)|
 |Twitter | [@chlor89](https://twitter.com/chlor89) |

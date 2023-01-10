@@ -4,15 +4,15 @@ layout: staff_tab
 
 # Staff
 
-| Name        | Position           | Associated Projects | E-mail | Telephone<br/>(prefix +49 3641 9) |
-| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 44320 |
-| [Sven Buechel](https://svenbuechel.github.io)	| Research Assistant	| [POLAR_MI](https://www.medizininformatik-initiative.de/en/POLAR) |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 44324 |
-| [Tinghui Duan](/Staff/Duan/index.html)	| Research Assistant	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) | 44305 |
-| [Erik Fäßler](/Staff/Erik+Fäßler.html)	| Research Assistant	| |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 44324 |
-| [Christina Lohr](/Staff/Christina+Lohr.html)	| Research Assistant	| [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 44303 |
-| [Luise Modersohn](/Staff/Modersohn/) | Research Assistant |  [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 44303 |
-| [Benjamin Redling](/Staff/Benjamin+Redling.html)	| System Administrator | [KSZ](https://ksz.uni-jena.de/mitarbeiter) |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 46041 |
+| Name        | Associated Projects | E-mail |
+| ---------------- | ---------------- | ---------------- | 
+| [Prof. Dr. Udo Hahn](/Staff/Prof_+Dr_+Udo+Hahn.html)	| Head of the Department	| [all](/Projects/all.md)	| [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)	| 
+| [Sven Buechel](https://svenbuechel.github.io)	| [POLAR_MI](https://www.medizininformatik-initiative.de/en/POLAR) |	[Sven.Buechel@uni-jena.de](mailto:Sven.Buechel@uni-jena.de) | 
+| [Tinghui Duan](/Staff/Duan/index.html)	|  [Graduate School<br/>\"The Romantic Model\"](http://modellromantik.uni-jena.de/) |	[tinghui.duan@uni-jena.de](mailto:tinghui.duan@uni-jena.de) |
+| [Erik Fäßler](/Staff/Erik+Fäßler.html)	| [POLAR_MI](https://www.medizininformatik-initiative.de/en/POLAR)  |	[Erik.Faessler@uni-jena.de](mailto:Erik.Faessler@uni-jena.de)	| 
+| [Christina Lohr](/Staff/Christina+Lohr.html)	| | [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Christina.Lohr@uni-jena.de](mailto:Christina.Lohr@uni-jena.de)	| 
+| [Luise Modersohn](/Staff/Modersohn/) | [POLAR_MI](https://www.medizininformatik-initiative.de/de/POLAR), [SMITH](https://www.smith.care/)	| [Luise.Modersohn@uni-jena.de](mailto:Luise.Modersohn@uni-jena.de) | 
+| [Benjamin Redling](/Staff/Benjamin+Redling.html)	| [KSZ](https://ksz.uni-jena.de/mitarbeiter) |	[Benjamin.Rampe@uni-jena.de](mailto:Benjamin.Rampe@uni-jena.de)	| 
 
 Secretary: Janina Oberthür (+49 3641 9-44300)
 

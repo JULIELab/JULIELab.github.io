@@ -26,17 +26,10 @@ Overview |
 Based on the [Guide2Research ranking of German computer scientists](http://guide2research.com/scientists/DE), I am ranked on position 132 (world ranking: 2884), with 9,450 citations (May 2020). This is the best ranking of all computer scientists from [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/en).
 
 
-
-
 ## Contact details
 Prof. Dr. Udo Hahn<br/>
 Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
 
 | E-mail | [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)
-| Phone | +49 3641 9-44320 |
-| Fax | +49 3641 9-44321 |
 | Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |
-| Room | R004
 
-### Office hours
-Upon email request only

@@ -28,7 +28,7 @@ Based on the [Guide2Research ranking of German computer scientists](http://guide
 
 ## Contact details
 Prof. Dr. Udo Hahn<br/>
-Full Professor of Computational Linguistics - Head of the Jena University Language & Information Engineering (JULIE) Lab
+Retired Professor of Computational Linguistics 
 
 | E-mail | [Udo.Hahn@uni-jena.de](mailto:Udo.Hahn@uni-jena.de)
 | Postal Address | Fürstengraben 30<br/> 07743 Jena<br/> Germany |

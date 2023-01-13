@@ -1,3 +1,3 @@
 ---
-redirect_to: "Lab+News.html"
+redirect_to: "About.html"
 ---

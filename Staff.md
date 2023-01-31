@@ -28,13 +28,13 @@ Dr. Joachim Wermter ([Siemens AG](http://www.siemens.com/entry/cc/en/))
 during lab's residency in Freiburg im Breisgau (until 2005, in alphabetical order):
 
 Dr. Norbert Bröker ([SAP Deutschland](http://www.sap.com/germany/index.epx))<br/>
-Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/people/team/klenner.html))<br/>
+Dr. Manfred Klenner ([Institut für Computerlinguistik, Universität Zürich](http://www.cl.uzh.ch/de/people/team/compling/klenner.html))<br/>
 Prof. Dr. Katja Markert ([University of Heidelberg](http://www.cl.uni-heidelberg.de/~markert/))<br/>
 Dr. Kornél Markó ([Averbis](http://www.averbis.de/))<br/>
-Dr. Peter Neuhaus ([General Electric (GE) Energy](http://www.ge.com/de/home/))<br/>
+Dr. Peter Neuhaus ([General Electric (GE) Energy]())<br/>
 Dr. Martin Romacker ([Novartis Pharma AG, NITAS, Text Mining Services, Basel](http://www.novartis.ch/))<br/>
 Dr. Susanne Schacht <br/>
 Dr. Holger Schauer ([TF Sprachtechnologie BDNM GmbH, Mannheim](http://www.bi-media.de/))<br/>
-Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/index.php?id=schnattinger))<br/>
-Prof. Dr. Steffen Staab ([Direktor des Web Science and Technologies (WeST) Instituts, Institut für Informatik, Universität Koblenz-Landau](http://www.uni-koblenz.de/~staab/))<br/>
-Prof. Dr. Michael Strube ([Heidelberg Institute for Theoretical Studies [HITS]](https://www.h-its.org/nlp-mitglieder/michael-strube/))<br/>
+Prof. Dr. Klemens Schnattinger ([Wirtschaftsinformatik, Duale Hochschule Baden-Württemberg (DHBW), Lörrach](http://www.dhbw-loerrach.de/expertise/schnattinger))<br/>
+Prof. Dr. Steffen Staab ([IPVS, Analytic Computing, Universit&auml;t Stuttgart](https://de.wikipedia.org/wiki/Steffen_Staab))<br/>
+Prof. Dr. Michael Strube ([Heidelberg Institute for Theoretical Studies [HITS]](https://www.h-its.org/people/prof-dr-michael-strube/))<br/>

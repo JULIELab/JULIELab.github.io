@@ -48,7 +48,7 @@ Zentrum für Informatik, 2023.
 ### 2022
 
 * Luise Modersohn, Stefan Schulz, **Christina Lohr** and Udo Hahn. [GraSCCo — The First Publicly Shareable, Multiply-Alienated German Clinical Text Corpus](https://ebooks.iospress.nl/doi/10.3233/SHTI220805); [[GMDS 2022](https://gmds-tmf-2022.de/)] [[DOI:
-10.3233/SHTI220805](https://doi.org/10.3233/SHTI220805)] [[Corpus @ Zenodo](https://zenodo.org/record/6539131#.Yxmq5mzP1kg)]
+10.3233/SHTI220805](https://doi.org/10.3233/SHTI220805)] [[Slides](/downloads/publications/slides/modersohn-2022-GraSCCo-slides.pdf)] [[Corpus @ Zenodo](https://zenodo.org/record/6539131)]
 
 * Florian Borchert, **Christina Lohr**, Luise Modersohn, Jonas Witt, Thomas Langer, Markus Follmann, Matthias Gietzelt, Bert Arnrich, Udo Hahn and Matthieu-P. Schapranow. GGPONC 2.0 - [The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.389.pdf) In: LREC 2022 - Proceedings of the 13th International Conference on Language Resources and Evaluation. Marseille, France, June 22-24, 2022. Pages 3650--3660. [[Poster](https://www.leitlinienprogramm-onkologie.de/fileadmin/user_upload/Downloads/GGPONC/Poster_GGPONC_LREC.pdf)] [[data-request@DKG](https://www.leitlinienprogramm-onkologie.de/projekte/ggponc-english/)] [[Code on GitHub](https://github.com/hpi-dhc/ggponc_annotation)] [[Code @ Zenodo](https://zenodo.org/record/6472446)] [[Annotation guideline @ Zenodo](https://zenodo.org/record/6472446/preview/hpi-dhc/ggponc_annotation-ggponc_v2.0_lrec.zip#tree_item5)]        
 

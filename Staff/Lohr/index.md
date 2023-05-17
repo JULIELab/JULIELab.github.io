@@ -11,8 +11,8 @@ layout: staff
 ## Curriculum Vitae
 * Work
   * since 2023: Reserach Assistant at [Institute for Medical Informatics, Statistics and Epidemiology](https://www.imise.uni-leipzig.de/Mitarbeiter/Christina_Lohr) of [University Leipzig](https://www.uni-leipzig.de/)
-  * 2015 - 2016: Research Assistant at [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
   * 2016 - 2023: Reserach Assistant at [JULIE Lab](https://julielab.de) of [Friedrich Schiller University Jena](https://www.uni-jena.de/)
+  * 2015 - 2016: Research Assistant at [Chemnitz University of Technology](https://www.tu-chemnitz.de/), [Chair Media Informatics](https://www.tu-chemnitz.de/informatik/HomePages/Medieninformatik/) and [Chair Practical Computer Science](https://www.tu-chemnitz.de/informatik/PI/)
   * 2007 - 2015: Student Assistant at [Klinikum Chemnitz (Klinik für Allgemein- und Viszeralchirurgie)](https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/allgemein-und-viszeralchirurgie/)
 
 * Education

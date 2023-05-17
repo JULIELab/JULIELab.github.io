@@ -35,15 +35,11 @@ layout: staff
 * Zinaida Benenson, Abdullah Elbi, Zekeriya Erkin, Natasha Fernandes, Simone Fischer-
 Hübner, Ivan Habernal, Els Kindt, Anna Leschanowsky, Pierre Lison, **Christina Lohr**, Emily
 Mower Provost, Jo Pierson, David Stevens, Francisco Teixeira and Shomir Wilson: [Case
-studies and user interaction](https://drops.dagstuhl.de/opus/volltexte/2023/17715/pdf/dagrep_v012_i008_p060_22342.pdf), Chapter in Fischer-Hübner, Simone, et al. [Privacy in Speech
-and Language Technology (Dagstuhl Seminar 22342).][(https://drops.dagstuhl.de/opus/volltexte/2023/17715](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22342)/pdf/dagrep_v012_i008_p060_22342.pdf) Dagstuhl Reports. Vol. 12. No. 8.
-Schloss Dagstuhl-Leibniz-Zentrum für Informatik, 2023.
-
-* Lydia Belkadi, Martine De Cock, Natasha Fernandes, Katherine Lee, **Christina Lohr**, Olga
-Ohrimenko, Andreas Nautsch, Laurens Sion, Natalia Tomashenko, Marc Tommasi, Peggy
-Valcke and Emmanuel Vincent: [Metrics for anonymization of unstructured datasets](https://drops.dagstuhl.de/opus/volltexte/2023/17715/pdf/dagrep_v012_i008_p060_22342.pdf),
-Chapter in Fischer-Hübner, Simone, et al. [Privacy in Speech and Language Technology
+studies and user interaction](https://drops.dagstuhl.de/opus/volltexte/2023/17715/pdf/dagrep_v012_i008_p060_22342.pdf), Chapter in Fischer-Hübner, Simone, et al. [Privacy in Speech and Language Technology
 (Dagstuhl Seminar 22342).](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22342) Dagstuhl Reports. Vol. 12. No. 8. Schloss Dagstuhl-Leibniz-
+Zentrum für Informatik, 2023.
+
+* Lydia Belkadi, Martine De Cock, Natasha Fernandes, Katherine Lee, **Christina Lohr**, Olga Ohrimenko, Andreas Nautsch, Laurens Sion, Natalia Tomashenko, Marc Tommasi, Peggy Valcke and Emmanuel Vincent: [Metrics for anonymization of unstructured datasets](https://drops.dagstuhl.de/opus/volltexte/2023/17715/pdf/dagrep_v012_i008_p060_22342.pdf), Chapter in Fischer-Hübner, Simone, et al. [Privacy in Speech and Language Technology (Dagstuhl Seminar 22342).](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22342) Dagstuhl Reports. Vol. 12. No. 8. Schloss Dagstuhl-Leibniz-
 Zentrum für Informatik, 2023.
 
 ### 2022

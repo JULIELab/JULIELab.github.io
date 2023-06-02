@@ -1,7 +1,7 @@
 # ECONLP 2018 – 1st Workshop on Economics and Natural Language Processing
 
 @ **ACL 2018, Melbourne, Australia, July 20, 2018**<br/>
-[ECONLP 2018 - Workshop Description V07, PDF 395KB, Update: 2018-07-05](/downloads/ECONLP%202018%20-%20Workshop%20Description%20V07.pdf)
+[ECONLP 2018 - Workshop Description V07, PDF 395KB, Update: 2018-07-05](/econlp/2018/ECONLP%202018%20-%20Workshop%20Description%20V07.pdf)
 
 
 ## Workshop Programme

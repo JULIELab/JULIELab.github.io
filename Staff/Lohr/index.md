@@ -36,7 +36,7 @@ layout: staff
 
 ### 2024
 
-Udo Hahn, Luise Modersohn, Jakob Faller and **Christina Lohr**: [Final Report on the German Clinical Reference Corpus 3000PA](https://ebooks.iospress.nl/doi/10.3233/SHTI231035). In [Studies in Health Technology and Informatics](https://ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics) - [Proceedings of the 19th World Congress on Medical and Health Informatics](https://ebooks.iospress.nl/volume/medinfo-2023-the-future-is-accessible-proceedings-of-the-19th-world-congress-on-medical-and-health-informatics) (MedInfo, 2023 July 8-12, Sydney, Australia). 2024 Jan 25. [[PMID:38269879](https://www.ncbi.nlm.nih.gov/pubmed/38269879)] [[DOI:10.3233/SHTI231035](https://doi.org/10.3233/SHTI231035)]
+* Udo Hahn, Luise Modersohn, Jakob Faller and **Christina Lohr**: [Final Report on the German Clinical Reference Corpus 3000PA](https://ebooks.iospress.nl/doi/10.3233/SHTI231035). In [Studies in Health Technology and Informatics](https://ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics) - [Proceedings of the 19th World Congress on Medical and Health Informatics](https://ebooks.iospress.nl/volume/medinfo-2023-the-future-is-accessible-proceedings-of-the-19th-world-congress-on-medical-and-health-informatics) (MedInfo, 2023 July 8-12, Sydney, Australia). 2024 Jan 25. [[PMID:38269879](https://www.ncbi.nlm.nih.gov/pubmed/38269879)] [[DOI:10.3233/SHTI231035](https://doi.org/10.3233/SHTI231035)]
 
 ### 2023
 

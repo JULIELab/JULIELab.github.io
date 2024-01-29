@@ -34,7 +34,13 @@ layout: staff
 
 ## Publications
 
+### 2024
+
+Udo Hahn, Luise Modersohn, Jakob Faller and **Christina Lohr**: [Final Report on the German Clinical Reference Corpus 3000PA](https://ebooks.iospress.nl/doi/10.3233/SHTI231035). In [Studies in Health Technology and Informatics](https://ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics) - [Proceedings of the 19th World Congress on Medical and Health Informatics](https://ebooks.iospress.nl/volume/medinfo-2023-the-future-is-accessible-proceedings-of-the-19th-world-congress-on-medical-and-health-informatics) (MedInfo, 2023 July 8-12, Sydney, Australia). 2024 Jan 25. [[PMID:38269879](https://www.ncbi.nlm.nih.gov/pubmed/38269879)] [[DOI:10.3233/SHTI231035](https://doi.org/10.3233/SHTI231035)]
+
 ### 2023
+
+* **Christina Lohr** and Udo Hahn. 2018. [DOPA METER – A Tool Suite for Metrical Document Profiling and Aggregation](https://aclanthology.org/2023.emnlp-demo.18.pdf). In: [EMNLP Demo 2023 - Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations](https://aclanthology.org/volumes/2023.emnlp-demo/), December 6-10. Pages 218–228, Singapore. [[Code on GitHub](https://github.com/dopameter/dopameter)] [[Poster](https://github.com/dopameter/dopameter/blob/main/documentation/poster_DOPA_METER_EMNLP23.png)] [[ACL Anthology](https://aclanthology.org/2023.emnlp-demo.18/)]
 
 * Zinaida Benenson, Abdullah Elbi, Zekeriya Erkin, Natasha Fernandes, Simone Fischer-
 Hübner, Ivan Habernal, Els Kindt, Anna Leschanowsky, Pierre Lison, **Christina Lohr**, Emily
